@@ -10,7 +10,7 @@ ALIASES = {
     "time": ["event_ts_utc","datetime_utc","fecha_hora_utc","timestamp_utc","time","datetime","fecha_hora"],
     "date": ["event_date_utc","fecha_utc","date","fecha"],
     "clock": ["event_time_utc","hora_utc","hour","hora"],
-    "depth": ["depth_km","depth","profundidad","profundidad_km"],
+    "depth": ["prof","depth_km","depth","profundidad_km"],
     "mag": ["magnitude","mag","magnitud"],
     "lat": ["latitude","lat","latitud"],
     "lon": ["longitude","lon","long","longitud"],
