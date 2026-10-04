@@ -27,6 +27,40 @@ jobs:
       - name: Combinar IGP EMSC USGS
         run: python convert.py
 
+      - name: Registrar historial de actualizaciones
+        run: |
+          python - <<'PY'
+          import csv, json
+          from pathlib import Path
+
+          estado = json.loads(Path("docs/estado_fuentes.json").read_text(encoding="utf-8"))
+          destino = Path("docs/historial_actualizaciones.csv")
+          campos = [
+              "actualizado_utc", "estado", "eventos_publicados",
+              "igp_historico", "emsc", "usgs", "duplicados_eliminados",
+              "ultimo_igp_id", "ultimo_emsc_id", "ultimo_usgs_id"
+          ]
+          ultimos = estado.get("ultimo_evento", {})
+          fila = {
+              "actualizado_utc": estado.get("actualizado_utc", ""),
+              "estado": estado.get("estado", ""),
+              "eventos_publicados": estado.get("eventos_publicados", ""),
+              "igp_historico": estado.get("igp_historico", estado.get("igp", "")),
+              "emsc": estado.get("emsc", ""),
+              "usgs": estado.get("usgs", ""),
+              "duplicados_eliminados": estado.get("duplicados_eliminados", ""),
+              "ultimo_igp_id": (ultimos.get("igp") or {}).get("id", ""),
+              "ultimo_emsc_id": (ultimos.get("emsc") or {}).get("id", ""),
+              "ultimo_usgs_id": (ultimos.get("usgs") or {}).get("id", ""),
+          }
+          existe = destino.exists() and destino.stat().st_size > 0
+          with destino.open("a", encoding="utf-8", newline="") as f:
+              writer = csv.DictWriter(f, fieldnames=campos)
+              if not existe:
+                  writer.writeheader()
+              writer.writerow(fila)
+          PY
+
       - name: Crear respaldos del ultimo conjunto valido
         run: |
           cp docs/igp_7dias_eq3d.csv docs/igp_7dias_eq3d_backup.csv
@@ -42,6 +76,6 @@ jobs:
             echo "No hay cambios para guardar"
             exit 0
           fi
-          git commit -m "Actualizar feed sismico combinado y respaldos"
+          git commit -m "Actualizar feed sismico, historial y respaldos"
           git pull --rebase origin main
           git push origin main
