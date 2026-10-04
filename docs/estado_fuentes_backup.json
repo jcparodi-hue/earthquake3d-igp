@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-04T22:47:34.519119+00:00",
+  "actualizado_utc": "2026-10-04T22:50:14.453882+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 24,
   "actualizacion_minutos": 5,
   "igp": 24,
-  "emsc": 2102,
+  "emsc": 2104,
   "usgs": 469,
   "duplicados_eliminados": 436,
-  "eventos_publicados": 2159,
-  "evento_mas_reciente_utc": "2026-10-04T22:28:30+00:00",
+  "eventos_publicados": 2161,
+  "evento_mas_reciente_utc": "2026-10-04T22:42:29+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 24,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-04T21:08:00+00:00",
-      "antiguedad_evento_mas_reciente_min": 99.6
+      "antiguedad_evento_mas_reciente_min": 102.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2102,
-      "eventos_recibidos": 2105,
+      "eventos_validos": 2104,
+      "eventos_recibidos": 2107,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-04T22:28:30+00:00",
-      "antiguedad_evento_mas_reciente_min": 19.1
+      "evento_mas_reciente_utc": "2026-10-04T22:42:29+00:00",
+      "antiguedad_evento_mas_reciente_min": 7.8
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 473,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-10-04T20:27:25.597000+00:00",
-      "antiguedad_evento_mas_reciente_min": 140.1
+      "antiguedad_evento_mas_reciente_min": 142.8
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-714"
     },
     "emsc": {
-      "id": "20261004_0000344",
-      "fecha_hora_utc": "2026-10-04T22:28:30+00:00",
-      "magnitud": 3.0,
+      "id": "20261004_0000353",
+      "fecha_hora_utc": "2026-10-04T22:42:29+00:00",
+      "magnitud": 3.3,
       "profundidad_km": 10.0,
-      "latitud": 34.2,
-      "longitud": 133.8,
+      "latitud": -1.18,
+      "longitud": 120.21,
       "pais": "",
-      "ciudad_referencia": "NEAR S. COAST OF WESTERN HONSHU",
+      "ciudad_referencia": "SULAWESI, INDONESIA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261004_0000344"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261004_0000353"
     },
     "usgs": {
       "id": "us6000tzkn",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-04T22:47:34.519119+00:00"
+    "hora_consulta_utc": "2026-10-04T22:50:14.453882+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-04T22:47:34.519119+00:00",
-  "combined_after_dedup": 2159
+  "updated_utc": "2026-10-04T22:50:14.453882+00:00",
+  "combined_after_dedup": 2161
 }
