@@ -88,51 +88,53 @@ def load_cenvul():
 
 def load_noaa_vaac():
     html = fetch_text(NOAA_VAAC_MESSAGES)
-    parser = TextLinkParser()
-    parser.feed(html)
+    first_section = re.split(
+        r'Advisories from the past 15 days|Advisories%20from%20the%20past%2015%20days',
+        html, maxsplit=1, flags=re.IGNORECASE
+    )[0]
+    code_map = {
+        'REVE': ('Reventador', 'Ecuador'),
+        'PURA': ('Puracé', 'Colombia'),
+        'SANGAY3': ('Sangay', 'Ecuador'),
+        'SANG': ('Sangay', 'Ecuador'),
+        'FUEG': ('Fuego', 'Guatemala'),
+        'SANTAMA': ('Santa María', 'Guatemala'),
+        'TELI': ('Telica', 'Nicaragua'),
+        'MASA': ('Masaya', 'Nicaragua'),
+        'POPO': ('Popocatépetl', 'México'),
+        'SHEV': ('Sheveluch', 'Rusia'),
+    }
+    pattern = re.compile(
+        r'href=["\']([^"\']*/VAAC/ARCH\d+/([A-Z0-9_-]+)/([0-9A-Z]+)\.html)["\'][^>]*>\s*([^<]+)',
+        re.IGNORECASE
+    )
     records = []
-    pending = []
-    cutoff = False
-    volcano_re = re.compile(r'/volcanoes/([A-Z0-9_-]+)\.html', re.I)
-    advisory_re = re.compile(r'/VAAC/ARCH\d+/.+/([0-9A-Z]+)\.html', re.I)
-    xml_re = re.compile(r'/xml_files/.+\.xml', re.I)
-    for label, href in parser.parts:
-        if 'Advisories from the past 15 days' in label:
-            cutoff = True
-        if cutoff or not href:
-            continue
-        vm = volcano_re.search(href)
-        if vm:
-            cleaned = ' '.join(label.split())
-            if cleaned:
-                bits = cleaned.rsplit(' ', 1)
-                pending.append({
-                    'volcan': bits[0].title(),
-                    'pais': bits[1].title() if len(bits) > 1 else '',
-                    'url_volcan': normalize_noaa_url(href),
-                })
-            continue
-        am = advisory_re.search(href)
-        if am and pending:
-            item = pending.pop(0)
-            item.update({
-                'fecha_hora_utc_texto': label,
-                'url_aviso': normalize_noaa_url(href),
-                'url_xml': '',
-                'vaac': 'Washington',
-                'tipo': 'VAA',
-                'fuente': 'NOAA Washington VAAC',
-            })
-            records.append(item)
-            continue
-        if xml_re.search(href) and records and not records[-1]['url_xml']:
-            records[-1]['url_xml'] = normalize_noaa_url(href)
+    for match in pattern.finditer(first_section):
+        url, code, archive_id, label = match.groups()
+        code = code.upper()
+        name, country = code_map.get(code, (code.title(), ''))
+        tail = first_section[match.end():match.end()+1800]
+        xml_match = re.search(r'href=["\']([^"\']*/xml_files/[^"\']+\.xml)', tail, re.IGNORECASE)
+        jpg_match = re.search(r'href=["\']([^"\']*\.(?:jpg|jpeg))', tail, re.IGNORECASE)
+        kml_match = re.search(r'href=["\']([^"\']*/kml_files/[^"\']+\.kml)', tail, re.IGNORECASE)
+        records.append({
+            'volcan': name,
+            'pais': country,
+            'codigo_vaac': code,
+            'fecha_hora_utc_texto': ' '.join(re.sub(r'<[^>]+>', ' ', label).split()),
+            'id_archivo': archive_id,
+            'url_aviso': normalize_noaa_url(url),
+            'url_xml': normalize_noaa_url(xml_match.group(1)) if xml_match else '',
+            'url_grafico': normalize_noaa_url(jpg_match.group(1)) if jpg_match else '',
+            'url_kml': normalize_noaa_url(kml_match.group(1)) if kml_match else '',
+            'vaac': 'Washington',
+            'tipo': 'VAA',
+            'fuente': 'NOAA Washington VAAC',
+        })
     unique = {}
     for row in records:
-        key = (row['volcan'].upper(), row['fecha_hora_utc_texto'], row['url_aviso'])
-        unique[key] = row
+        unique[(row['codigo_vaac'], row['id_archivo'])] = row
     return list(unique.values())
-
 
 def normalize_noaa_url(url):
     if not url:
