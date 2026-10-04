@@ -11,7 +11,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-713",
     "fecha_primera_recepcion": "2026-10-04T14:20:17.441401+00:00",
-    "fecha_ultima_observacion": "2026-10-04T20:40:14.706136+00:00"
+    "fecha_ultima_observacion": "2026-10-04T20:45:49.684063+00:00"
   },
   "EMSC:20261004_0000216": {
     "id": "20261004_0000216",
@@ -547,16 +547,30 @@
   },
   "EMSC:20261004_0000312": {
     "id": "20261004_0000312",
-    "fecha_hora_utc": "2026-10-04T20:27:14.320000+00:00",
-    "magnitud": 4.9,
-    "profundidad_km": 125.0,
-    "latitud": 36.645,
-    "longitud": 71.1464,
+    "fecha_hora_utc": "2026-10-04T20:27:25.597000+00:00",
+    "magnitud": 4.8,
+    "profundidad_km": 248.9,
+    "latitud": 36.611,
+    "longitud": 71.0216,
     "pais": "",
     "ciudad_referencia": "HINDU KUSH REGION, AFGHANISTAN",
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261004_0000312",
     "fecha_primera_recepcion": "2026-10-04T20:35:13.337457+00:00",
-    "fecha_ultima_observacion": "2026-10-04T20:40:14.706136+00:00"
+    "fecha_ultima_observacion": "2026-10-04T20:45:49.684063+00:00"
+  },
+  "USGS:us6000tzkn": {
+    "id": "us6000tzkn",
+    "fecha_hora_utc": "2026-10-04T20:27:25.597000+00:00",
+    "magnitud": 4.8,
+    "profundidad_km": 248.906,
+    "latitud": 36.611,
+    "longitud": 71.0216,
+    "pais": "",
+    "ciudad_referencia": "32 km SSE of Jurm, Afghanistan",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzkn",
+    "fecha_primera_recepcion": "2026-10-04T20:45:49.684063+00:00",
+    "fecha_ultima_observacion": "2026-10-04T20:45:49.684063+00:00"
   }
 }
