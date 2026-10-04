@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-04T08:10:13.627997+00:00",
+  "actualizado_utc": "2026-10-04T08:15:14.453338+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 20,
   "actualizacion_minutos": 5,
   "igp": 20,
-  "emsc": 2102,
+  "emsc": 2105,
   "usgs": 464,
   "duplicados_eliminados": 430,
-  "eventos_publicados": 2156,
-  "evento_mas_reciente_utc": "2026-10-04T07:58:39+00:00",
+  "eventos_publicados": 2159,
+  "evento_mas_reciente_utc": "2026-10-04T08:10:21+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 20,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-02T23:05:53+00:00",
-      "antiguedad_evento_mas_reciente_min": 1984.3
+      "antiguedad_evento_mas_reciente_min": 1989.4
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2102,
-      "eventos_recibidos": 2105,
+      "eventos_validos": 2105,
+      "eventos_recibidos": 2108,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-04T07:58:39+00:00",
-      "antiguedad_evento_mas_reciente_min": 11.6
+      "evento_mas_reciente_utc": "2026-10-04T08:10:21+00:00",
+      "antiguedad_evento_mas_reciente_min": 4.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 468,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-10-04T05:55:06.861000+00:00",
-      "antiguedad_evento_mas_reciente_min": 135.1
+      "antiguedad_evento_mas_reciente_min": 140.1
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-710"
     },
     "emsc": {
-      "id": "20261004_0000098",
-      "fecha_hora_utc": "2026-10-04T07:58:39+00:00",
-      "magnitud": 3.7,
+      "id": "20261004_0000104",
+      "fecha_hora_utc": "2026-10-04T08:10:21+00:00",
+      "magnitud": 4.0,
       "profundidad_km": 10.0,
-      "latitud": 18.958,
-      "longitud": -62.941,
+      "latitud": -8.23,
+      "longitud": 120.47,
       "pais": "",
-      "ciudad_referencia": "ANGUILLA REGION, LEEWARD ISLANDS",
+      "ciudad_referencia": "FLORES REGION, INDONESIA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261004_0000098"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261004_0000104"
     },
     "usgs": {
       "id": "us6000tzh0",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-04T08:10:13.627997+00:00"
+    "hora_consulta_utc": "2026-10-04T08:15:14.453338+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-04T08:10:13.627997+00:00",
-  "combined_after_dedup": 2156
+  "updated_utc": "2026-10-04T08:15:14.453338+00:00",
+  "combined_after_dedup": 2159
 }
