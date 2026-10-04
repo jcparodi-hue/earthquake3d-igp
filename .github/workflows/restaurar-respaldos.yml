@@ -1,0 +1,51 @@
+name: Restaurar respaldos GEOPOWER PULSE
+
+on:
+  workflow_dispatch:
+    inputs:
+      confirmacion:
+        description: 'Escribe RESTAURAR para confirmar'
+        required: true
+        type: string
+
+concurrency:
+  group: earthquake3d-restore
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  restore:
+    if: ${{ inputs.confirmacion == 'RESTAURAR' }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Verificar respaldos
+        run: |
+          test -s docs/igp_7dias_eq3d_backup.csv
+          test -s docs/igp_historico_backup.csv
+          test -s docs/estado_fuentes_backup.json
+
+      - name: Restaurar archivos operativos
+        run: |
+          cp docs/igp_7dias_eq3d_backup.csv docs/igp_7dias_eq3d.csv
+          cp docs/igp_historico_backup.csv docs/igp_historico.csv
+          cp docs/igp_historico_backup.csv docs/igp_solo_10dias_eq3d.csv
+          cp docs/estado_fuentes_backup.json docs/estado_fuentes.json
+
+      - name: Guardar restauracion
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/igp_7dias_eq3d.csv docs/igp_historico.csv docs/igp_solo_10dias_eq3d.csv docs/estado_fuentes.json
+          if git diff --cached --quiet; then
+            echo "Los archivos operativos ya coinciden con los respaldos"
+            exit 0
+          fi
+          git commit -m "Restaurar ultimo conjunto valido"
+          git pull --rebase origin main
+          git push origin main
