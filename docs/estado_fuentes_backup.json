@@ -1,24 +1,24 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-04T21:55:14.325867+00:00",
+  "actualizado_utc": "2026-10-04T22:00:23.496369+00:00",
   "periodo_mundial_dias": 10,
-  "igp_historico": 23,
+  "igp_historico": 24,
   "actualizacion_minutos": 5,
-  "igp": 23,
+  "igp": 24,
   "emsc": 2098,
   "usgs": 468,
-  "duplicados_eliminados": 434,
+  "duplicados_eliminados": 435,
   "eventos_publicados": 2155,
   "evento_mas_reciente_utc": "2026-10-04T21:50:15.900000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 23,
-      "eventos_recibidos": 23,
+      "eventos_validos": 24,
+      "eventos_recibidos": 24,
       "invalidos_rechazados": 0,
-      "evento_mas_reciente_utc": "2026-10-04T08:57:19+00:00",
-      "antiguedad_evento_mas_reciente_min": 777.9
+      "evento_mas_reciente_utc": "2026-10-04T21:08:00+00:00",
+      "antiguedad_evento_mas_reciente_min": 52.4
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -27,7 +27,7 @@
       "eventos_recibidos": 2101,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-10-04T21:50:15.900000+00:00",
-      "antiguedad_evento_mas_reciente_min": 5.0
+      "antiguedad_evento_mas_reciente_min": 10.1
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,21 +36,21 @@
       "eventos_recibidos": 472,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-10-04T20:27:25.597000+00:00",
-      "antiguedad_evento_mas_reciente_min": 87.8
+      "antiguedad_evento_mas_reciente_min": 93.0
     }
   },
   "ultimo_evento": {
     "igp": {
-      "id": "2026-713",
-      "fecha_hora_utc": "2026-10-04T08:57:19+00:00",
-      "magnitud": 4.5,
-      "profundidad_km": 39.0,
-      "latitud": -3.05,
-      "longitud": -80.3,
+      "id": "2026-714",
+      "fecha_hora_utc": "2026-10-04T21:08:00+00:00",
+      "magnitud": 3.5,
+      "profundidad_km": 14.0,
+      "latitud": -9.49,
+      "longitud": -75.89,
       "pais": "Perú",
-      "ciudad_referencia": "50 km al N de Zarumilla, Zarumilla - Tumbes",
+      "ciudad_referencia": "26 km al SE de Tingo María, Leoncio Prado - Huánuco",
       "fuente": "IGP",
-      "url": "https://ultimosismo.igp.gob.pe/evento/2026-713"
+      "url": "https://ultimosismo.igp.gob.pe/evento/2026-714"
     },
     "emsc": {
       "id": "20261004_0000333",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-04T21:55:14.325867+00:00"
+    "hora_consulta_utc": "2026-10-04T22:00:23.496369+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-04T21:55:14.325867+00:00",
+  "updated_utc": "2026-10-04T22:00:23.496369+00:00",
   "combined_after_dedup": 2155
 }
