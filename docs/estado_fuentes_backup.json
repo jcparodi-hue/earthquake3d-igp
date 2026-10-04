@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-04T21:50:16.380398+00:00",
+  "actualizado_utc": "2026-10-04T21:53:34.324701+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 23,
   "actualizacion_minutos": 5,
   "igp": 23,
-  "emsc": 2097,
+  "emsc": 2098,
   "usgs": 468,
   "duplicados_eliminados": 434,
-  "eventos_publicados": 2154,
-  "evento_mas_reciente_utc": "2026-10-04T21:28:04.590000+00:00",
+  "eventos_publicados": 2155,
+  "evento_mas_reciente_utc": "2026-10-04T21:50:15.900000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 23,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-04T08:57:19+00:00",
-      "antiguedad_evento_mas_reciente_min": 773.0
+      "antiguedad_evento_mas_reciente_min": 776.3
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2097,
-      "eventos_recibidos": 2100,
+      "eventos_validos": 2098,
+      "eventos_recibidos": 2101,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-04T21:28:04.590000+00:00",
-      "antiguedad_evento_mas_reciente_min": 22.2
+      "evento_mas_reciente_utc": "2026-10-04T21:50:15.900000+00:00",
+      "antiguedad_evento_mas_reciente_min": 3.3
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 472,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-10-04T20:27:25.597000+00:00",
-      "antiguedad_evento_mas_reciente_min": 82.8
+      "antiguedad_evento_mas_reciente_min": 86.1
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-713"
     },
     "emsc": {
-      "id": "20261004_0000328",
-      "fecha_hora_utc": "2026-10-04T21:28:04.590000+00:00",
+      "id": "20261004_0000333",
+      "fecha_hora_utc": "2026-10-04T21:50:15.900000+00:00",
       "magnitud": 2.5,
-      "profundidad_km": 7.0,
-      "latitud": 37.7367,
-      "longitud": 36.0962,
+      "profundidad_km": 8.0,
+      "latitud": 36.5508,
+      "longitud": -121.0915,
       "pais": "",
-      "ciudad_referencia": "CENTRAL TURKEY",
+      "ciudad_referencia": "CENTRAL CALIFORNIA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261004_0000328"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261004_0000333"
     },
     "usgs": {
       "id": "us6000tzkn",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-04T21:50:16.380398+00:00"
+    "hora_consulta_utc": "2026-10-04T21:53:34.324701+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-04T21:50:16.380398+00:00",
-  "combined_after_dedup": 2154
+  "updated_utc": "2026-10-04T21:53:34.324701+00:00",
+  "combined_after_dedup": 2155
 }
