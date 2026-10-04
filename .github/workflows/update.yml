@@ -27,6 +27,12 @@ jobs:
       - name: Combinar IGP EMSC USGS
         run: python convert.py
 
+      - name: Crear respaldos del ultimo conjunto valido
+        run: |
+          cp docs/igp_7dias_eq3d.csv docs/igp_7dias_eq3d_backup.csv
+          cp docs/igp_historico.csv docs/igp_historico_backup.csv
+          cp docs/estado_fuentes.json docs/estado_fuentes_backup.json
+
       - name: Guardar archivos actualizados
         run: |
           git config user.name "github-actions[bot]"
@@ -36,6 +42,6 @@ jobs:
             echo "No hay cambios para guardar"
             exit 0
           fi
-          git commit -m "Actualizar feed sismico combinado"
+          git commit -m "Actualizar feed sismico combinado y respaldos"
           git pull --rebase origin main
           git push origin main
