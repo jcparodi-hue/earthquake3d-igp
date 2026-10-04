@@ -10,7 +10,8 @@ OUT.mkdir(exist_ok=True)
 USGS_GEOJSON = 'https://volcanoes.usgs.gov/vsc/api/volcanoApi/geojson'
 USGS_WORLD = 'https://volcanoes.usgs.gov/vsc/api/volcanoApi/volcanoesGVP'
 CENVUL_BULLETINS = 'https://cenvul.igp.gob.pe/productos/boletines-vulcanologicos'
-HEADERS = {'User-Agent': 'GEOPOWER-PULSE-VOLCANO/1.1'}
+NOAA_VAAC_MESSAGES = 'https://www.ospo.noaa.gov/products/atmosphere/vaac/messages.html'
+HEADERS = {'User-Agent': 'GEOPOWER-PULSE-VOLCANO/1.2'}
 
 
 def fetch_json(url):
@@ -84,6 +85,62 @@ def load_cenvul():
         })
     return results
 
+
+def load_noaa_vaac():
+    html = fetch_text(NOAA_VAAC_MESSAGES)
+    parser = TextLinkParser()
+    parser.feed(html)
+    records = []
+    pending = []
+    cutoff = False
+    volcano_re = re.compile(r'/volcanoes/([A-Z0-9_-]+)\.html', re.I)
+    advisory_re = re.compile(r'/VAAC/ARCH\d+/.+/([0-9A-Z]+)\.html', re.I)
+    xml_re = re.compile(r'/xml_files/.+\.xml', re.I)
+    for label, href in parser.parts:
+        if 'Advisories from the past 15 days' in label:
+            cutoff = True
+        if cutoff or not href:
+            continue
+        vm = volcano_re.search(href)
+        if vm:
+            cleaned = ' '.join(label.split())
+            if cleaned:
+                bits = cleaned.rsplit(' ', 1)
+                pending.append({
+                    'volcan': bits[0].title(),
+                    'pais': bits[1].title() if len(bits) > 1 else '',
+                    'url_volcan': normalize_noaa_url(href),
+                })
+            continue
+        am = advisory_re.search(href)
+        if am and pending:
+            item = pending.pop(0)
+            item.update({
+                'fecha_hora_utc_texto': label,
+                'url_aviso': normalize_noaa_url(href),
+                'url_xml': '',
+                'vaac': 'Washington',
+                'tipo': 'VAA',
+                'fuente': 'NOAA Washington VAAC',
+            })
+            records.append(item)
+            continue
+        if xml_re.search(href) and records and not records[-1]['url_xml']:
+            records[-1]['url_xml'] = normalize_noaa_url(href)
+    unique = {}
+    for row in records:
+        key = (row['volcan'].upper(), row['fecha_hora_utc_texto'], row['url_aviso'])
+        unique[key] = row
+    return list(unique.values())
+
+
+def normalize_noaa_url(url):
+    if not url:
+        return ''
+    if url.startswith('http'):
+        return url
+    return 'https://www.ospo.noaa.gov/' + url.lstrip('/')
+
 def normalize_world(data):
     if isinstance(data, list):
         rows = data
@@ -155,6 +212,11 @@ def main():
         cenvul = []
         errors.append(f'CENVUL/IGP: {exc}')
     try:
+        noaa = load_noaa_vaac()
+    except Exception as exc:
+        noaa = []
+        errors.append(f'NOAA/VAAC: {exc}')
+    try:
         usgs = normalize_usgs(fetch_json(USGS_GEOJSON))
     except Exception as exc:
         usgs = []
@@ -169,15 +231,18 @@ def main():
         'volcanes_usgs_elevados': len(elevated),
         'boletines_cenvul': len(cenvul),
         'alertas_cenvul_elevadas': len([v for v in cenvul if v['nivel_alerta'] != 'Verde']),
+        'avisos_ceniza_noaa_24h': len(noaa),
+        'volcanes_con_avisos_noaa_24h': len({v['volcan'] for v in noaa}),
         'fuentes': {
             'inventario': 'USGS volcanoesGVP, basado en identificadores GVP',
             'alertas_usgs': 'USGS Volcano Hazards Program',
             'peru': 'IGP/CENVUL - boletines vulcanológicos oficiales',
-            'ceniza': 'NOAA/VAAC pendiente de integración estructurada',
+            'ceniza': 'NOAA Washington VAAC - avisos de ceniza de las últimas 24 horas',
         },
         'errores': errors,
     }
     (OUT / 'volcanes_mundiales.json').write_text(json.dumps(world, ensure_ascii=False, indent=2), encoding='utf-8')
+    (OUT / 'avisos_ceniza_noaa.json').write_text(json.dumps(noaa, ensure_ascii=False, indent=2), encoding='utf-8')
     (OUT / 'boletines_volcanes_peru.json').write_text(json.dumps(cenvul, ensure_ascii=False, indent=2), encoding='utf-8')
     (OUT / 'alertas_volcanes_usgs.json').write_text(json.dumps(usgs, ensure_ascii=False, indent=2), encoding='utf-8')
     (OUT / 'alertas_volcanes_usgs_elevadas.json').write_text(json.dumps(elevated, ensure_ascii=False, indent=2), encoding='utf-8')
