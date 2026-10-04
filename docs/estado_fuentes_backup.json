@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-04T21:05:12.220022+00:00",
+  "actualizado_utc": "2026-10-04T21:10:13.648494+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 23,
   "actualizacion_minutos": 5,
   "igp": 23,
   "emsc": 2101,
-  "usgs": 470,
-  "duplicados_eliminados": 437,
+  "usgs": 471,
+  "duplicados_eliminados": 438,
   "eventos_publicados": 2157,
-  "evento_mas_reciente_utc": "2026-10-04T20:54:29+00:00",
+  "evento_mas_reciente_utc": "2026-10-04T21:07:24.460000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 23,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-04T08:57:19+00:00",
-      "antiguedad_evento_mas_reciente_min": 727.9
+      "antiguedad_evento_mas_reciente_min": 732.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2101,
       "eventos_recibidos": 2104,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-04T20:54:29+00:00",
-      "antiguedad_evento_mas_reciente_min": 10.7
+      "evento_mas_reciente_utc": "2026-10-04T21:07:24.460000+00:00",
+      "antiguedad_evento_mas_reciente_min": 2.8
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 470,
-      "eventos_recibidos": 474,
+      "eventos_validos": 471,
+      "eventos_recibidos": 475,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-04T20:27:25.597000+00:00",
-      "antiguedad_evento_mas_reciente_min": 37.8
+      "evento_mas_reciente_utc": "2026-10-04T21:07:24.460000+00:00",
+      "antiguedad_evento_mas_reciente_min": 2.8
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-713"
     },
     "emsc": {
-      "id": "20261004_0000320",
-      "fecha_hora_utc": "2026-10-04T20:54:29+00:00",
-      "magnitud": 4.1,
-      "profundidad_km": 10.0,
-      "latitud": -6.14,
-      "longitud": 130.61,
+      "id": "20261004_0000323",
+      "fecha_hora_utc": "2026-10-04T21:07:24.460000+00:00",
+      "magnitud": 2.7,
+      "profundidad_km": 22.0,
+      "latitud": 36.0665,
+      "longitud": -119.6437,
       "pais": "",
-      "ciudad_referencia": "BANDA SEA",
+      "ciudad_referencia": "CENTRAL CALIFORNIA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261004_0000320"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261004_0000323"
     },
     "usgs": {
-      "id": "us6000tzkn",
-      "fecha_hora_utc": "2026-10-04T20:27:25.597000+00:00",
-      "magnitud": 4.8,
-      "profundidad_km": 248.906,
-      "latitud": 36.611,
-      "longitud": 71.0216,
+      "id": "nc75444416",
+      "fecha_hora_utc": "2026-10-04T21:07:24.460000+00:00",
+      "magnitud": 2.72,
+      "profundidad_km": 22.0200004577637,
+      "latitud": 36.0665016174316,
+      "longitud": -119.643669128418,
       "pais": "",
-      "ciudad_referencia": "32 km SSE of Jurm, Afghanistan",
+      "ciudad_referencia": "8 km WSW of Corcoran, CA",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzkn"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75444416"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-04T21:05:12.220022+00:00"
+    "hora_consulta_utc": "2026-10-04T21:10:13.648494+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-04T21:05:12.220022+00:00",
+  "updated_utc": "2026-10-04T21:10:13.648494+00:00",
   "combined_after_dedup": 2157
 }

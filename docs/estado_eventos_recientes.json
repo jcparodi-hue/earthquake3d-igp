@@ -11,7 +11,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-713",
     "fecha_primera_recepcion": "2026-10-04T14:20:17.441401+00:00",
-    "fecha_ultima_observacion": "2026-10-04T21:05:12.220022+00:00"
+    "fecha_ultima_observacion": "2026-10-04T21:10:13.648494+00:00"
   },
   "EMSC:20261004_0000216": {
     "id": "20261004_0000216",
@@ -586,5 +586,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261004_0000320",
     "fecha_primera_recepcion": "2026-10-04T21:05:12.220022+00:00",
     "fecha_ultima_observacion": "2026-10-04T21:05:12.220022+00:00"
+  },
+  "EMSC:20261004_0000323": {
+    "id": "20261004_0000323",
+    "fecha_hora_utc": "2026-10-04T21:07:24.460000+00:00",
+    "magnitud": 2.7,
+    "profundidad_km": 22.0,
+    "latitud": 36.0665,
+    "longitud": -119.6437,
+    "pais": "",
+    "ciudad_referencia": "CENTRAL CALIFORNIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261004_0000323",
+    "fecha_primera_recepcion": "2026-10-04T21:10:13.648494+00:00",
+    "fecha_ultima_observacion": "2026-10-04T21:10:13.648494+00:00"
+  },
+  "USGS:nc75444416": {
+    "id": "nc75444416",
+    "fecha_hora_utc": "2026-10-04T21:07:24.460000+00:00",
+    "magnitud": 2.72,
+    "profundidad_km": 22.0200004577637,
+    "latitud": 36.0665016174316,
+    "longitud": -119.643669128418,
+    "pais": "",
+    "ciudad_referencia": "8 km WSW of Corcoran, CA",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75444416",
+    "fecha_primera_recepcion": "2026-10-04T21:10:13.648494+00:00",
+    "fecha_ultima_observacion": "2026-10-04T21:10:13.648494+00:00"
   }
 }
