@@ -11,7 +11,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-713",
     "fecha_primera_recepcion": "2026-10-04T14:20:17.441401+00:00",
-    "fecha_ultima_observacion": "2026-10-04T15:10:14.163919+00:00"
+    "fecha_ultima_observacion": "2026-10-04T15:15:14.007267+00:00"
   },
   "EMSC:20261004_0000216": {
     "id": "20261004_0000216",
@@ -123,7 +123,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tqyehr",
     "fecha_primera_recepcion": "2026-10-04T15:05:12.152803+00:00",
-    "fecha_ultima_observacion": "2026-10-04T15:10:14.163919+00:00"
+    "fecha_ultima_observacion": "2026-10-04T15:15:14.007267+00:00"
   },
   "EMSC:20261004_0000233": {
     "id": "20261004_0000233",
@@ -138,5 +138,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261004_0000233",
     "fecha_primera_recepcion": "2026-10-04T15:10:14.163919+00:00",
     "fecha_ultima_observacion": "2026-10-04T15:10:14.163919+00:00"
+  },
+  "EMSC:20261004_0000236": {
+    "id": "20261004_0000236",
+    "fecha_hora_utc": "2026-10-04T15:02:21.190000+00:00",
+    "magnitud": 2.8,
+    "profundidad_km": 7.1,
+    "latitud": 37.7193,
+    "longitud": 36.0907,
+    "pais": "",
+    "ciudad_referencia": "CENTRAL TURKEY",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261004_0000236",
+    "fecha_primera_recepcion": "2026-10-04T15:15:14.007267+00:00",
+    "fecha_ultima_observacion": "2026-10-04T15:15:14.007267+00:00"
   }
 }
