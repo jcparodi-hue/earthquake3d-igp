@@ -1,13 +1,15 @@
 {
-  "actualizado_utc": "2026-10-04T15:17:19.375378+00:00",
+  "actualizado_utc": "2026-10-04T15:35:14.825235+00:00",
   "estado": "OK",
   "volcanes_mundiales": 1470,
   "volcanes_usgs": 161,
   "volcanes_usgs_elevados": 5,
+  "boletines_cenvul": 10,
+  "alertas_cenvul_elevadas": 0,
   "fuentes": {
     "inventario": "USGS volcanoesGVP, basado en identificadores GVP",
     "alertas_usgs": "USGS Volcano Hazards Program",
-    "peru": "CENVUL/IGP pendiente de integración estructurada",
+    "peru": "IGP/CENVUL - boletines vulcanológicos oficiales",
     "ceniza": "NOAA/VAAC pendiente de integración estructurada"
   },
   "errores": []
