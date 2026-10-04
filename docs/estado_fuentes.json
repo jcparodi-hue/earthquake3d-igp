@@ -1,20 +1,20 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-04T03:23:39.444398+00:00",
+  "actualizado_utc": "2026-10-04T03:57:19.938743+00:00",
   "periodo_dias": 10,
   "actualizacion_minutos": 5,
   "igp": 20,
-  "emsc": 2124,
+  "emsc": 2125,
   "usgs": 466,
   "duplicados_eliminados": 432,
-  "eventos_publicados": 2178,
-  "evento_mas_reciente_utc": "2026-10-04T03:05:17.620000+00:00",
+  "eventos_publicados": 2179,
+  "evento_mas_reciente_utc": "2026-10-04T03:52:26+00:00",
   "invalidos_rechazados": {
     "igp": 0,
     "emsc": 3,
     "usgs": 4
   },
   "status": "OK",
-  "updated_utc": "2026-10-04T03:23:39.444398+00:00",
-  "combined_after_dedup": 2178
+  "updated_utc": "2026-10-04T03:57:19.938743+00:00",
+  "combined_after_dedup": 2179
 }
