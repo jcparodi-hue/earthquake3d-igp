@@ -1,0 +1,10 @@
+{
+  "estado": "EN CONFIGURACION",
+  "periodo_dias": 10,
+  "actualizacion_minutos": 5,
+  "fuentes": [
+    "IGP",
+    "EMSC",
+    "USGS"
+  ]
+}
