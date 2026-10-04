@@ -30,14 +30,14 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Actualizar inventario USGS y boletines CENVUL
+      - name: Actualizar USGS, CENVUL y NOAA VAAC
         run: python volcanes.py
 
       - name: Guardar datos volcanicos
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/volcanes_mundiales.json docs/alertas_volcanes_usgs.json docs/alertas_volcanes_usgs_elevadas.json docs/boletines_volcanes_peru.json docs/estado_volcanes.json
+          git add docs/volcanes_mundiales.json docs/alertas_volcanes_usgs.json docs/alertas_volcanes_usgs_elevadas.json docs/boletines_volcanes_peru.json docs/avisos_ceniza_noaa.json docs/estado_volcanes.json
           if git diff --cached --quiet; then
             echo "No hay cambios volcanicos para guardar"
             exit 0
