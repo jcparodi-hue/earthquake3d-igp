@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-04T23:05:14.130062+00:00",
+  "actualizado_utc": "2026-10-04T23:08:53.347421+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 24,
   "actualizacion_minutos": 5,
   "igp": 24,
-  "emsc": 2101,
+  "emsc": 2103,
   "usgs": 470,
   "duplicados_eliminados": 436,
-  "eventos_publicados": 2159,
-  "evento_mas_reciente_utc": "2026-10-04T22:51:29.100000+00:00",
+  "eventos_publicados": 2161,
+  "evento_mas_reciente_utc": "2026-10-04T23:03:40+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 24,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-04T21:08:00+00:00",
-      "antiguedad_evento_mas_reciente_min": 117.2
+      "antiguedad_evento_mas_reciente_min": 120.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2101,
-      "eventos_recibidos": 2104,
+      "eventos_validos": 2103,
+      "eventos_recibidos": 2106,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-04T22:51:29.100000+00:00",
-      "antiguedad_evento_mas_reciente_min": 13.8
+      "evento_mas_reciente_utc": "2026-10-04T23:03:40+00:00",
+      "antiguedad_evento_mas_reciente_min": 5.2
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 474,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-10-04T22:13:27.981000+00:00",
-      "antiguedad_evento_mas_reciente_min": 51.8
+      "antiguedad_evento_mas_reciente_min": 55.4
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-714"
     },
     "emsc": {
-      "id": "20261004_0000355",
-      "fecha_hora_utc": "2026-10-04T22:51:29.100000+00:00",
-      "magnitud": 4.1,
-      "profundidad_km": 5.0,
-      "latitud": 37.769,
-      "longitud": 36.0837,
+      "id": "20261004_0000362",
+      "fecha_hora_utc": "2026-10-04T23:03:40+00:00",
+      "magnitud": 3.6,
+      "profundidad_km": 18.0,
+      "latitud": -9.74,
+      "longitud": 118.92,
       "pais": "",
-      "ciudad_referencia": "CENTRAL TURKEY",
+      "ciudad_referencia": "SUMBAWA REGION, INDONESIA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261004_0000355"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261004_0000362"
     },
     "usgs": {
       "id": "us6000tzl0",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-04T23:05:14.130062+00:00"
+    "hora_consulta_utc": "2026-10-04T23:08:53.347421+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-04T23:05:14.130062+00:00",
-  "combined_after_dedup": 2159
+  "updated_utc": "2026-10-04T23:08:53.347421+00:00",
+  "combined_after_dedup": 2161
 }
