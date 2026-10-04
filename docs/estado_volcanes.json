@@ -1,0 +1,14 @@
+{
+  "actualizado_utc": "2026-10-04T15:17:19.375378+00:00",
+  "estado": "OK",
+  "volcanes_mundiales": 1470,
+  "volcanes_usgs": 161,
+  "volcanes_usgs_elevados": 5,
+  "fuentes": {
+    "inventario": "USGS volcanoesGVP, basado en identificadores GVP",
+    "alertas_usgs": "USGS Volcano Hazards Program",
+    "peru": "CENVUL/IGP pendiente de integración estructurada",
+    "ceniza": "NOAA/VAAC pendiente de integración estructurada"
+  },
+  "errores": []
+}
