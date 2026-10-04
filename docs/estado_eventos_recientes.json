@@ -11,7 +11,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-713",
     "fecha_primera_recepcion": "2026-10-04T14:20:17.441401+00:00",
-    "fecha_ultima_observacion": "2026-10-04T20:30:16.784378+00:00"
+    "fecha_ultima_observacion": "2026-10-04T20:35:13.337457+00:00"
   },
   "EMSC:20261004_0000216": {
     "id": "20261004_0000216",
@@ -487,7 +487,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzka",
     "fecha_primera_recepcion": "2026-10-04T19:40:16.837249+00:00",
-    "fecha_ultima_observacion": "2026-10-04T20:30:16.784378+00:00"
+    "fecha_ultima_observacion": "2026-10-04T20:35:13.337457+00:00"
   },
   "EMSC:20261004_0000302": {
     "id": "20261004_0000302",
@@ -544,5 +544,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261004_0000309",
     "fecha_primera_recepcion": "2026-10-04T20:15:15.245068+00:00",
     "fecha_ultima_observacion": "2026-10-04T20:30:16.784378+00:00"
+  },
+  "EMSC:20261004_0000312": {
+    "id": "20261004_0000312",
+    "fecha_hora_utc": "2026-10-04T20:27:22.010000+00:00",
+    "magnitud": 5.0,
+    "profundidad_km": 190.0,
+    "latitud": 36.621,
+    "longitud": 70.9997,
+    "pais": "",
+    "ciudad_referencia": "HINDU KUSH REGION, AFGHANISTAN",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261004_0000312",
+    "fecha_primera_recepcion": "2026-10-04T20:35:13.337457+00:00",
+    "fecha_ultima_observacion": "2026-10-04T20:35:13.337457+00:00"
   }
 }
