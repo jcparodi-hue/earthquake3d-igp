@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-04T13:20:14.266666+00:00",
+  "actualizado_utc": "2026-10-04T13:25:15.662457+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 23,
   "actualizacion_minutos": 5,
@@ -9,7 +9,7 @@
   "usgs": 473,
   "duplicados_eliminados": 442,
   "eventos_publicados": 2151,
-  "evento_mas_reciente_utc": "2026-10-04T13:11:08+00:00",
+  "evento_mas_reciente_utc": "2026-10-04T13:13:06+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 23,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-04T08:57:19+00:00",
-      "antiguedad_evento_mas_reciente_min": 262.9
+      "antiguedad_evento_mas_reciente_min": 267.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,8 +26,8 @@
       "eventos_validos": 2097,
       "eventos_recibidos": 2100,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-04T13:11:08+00:00",
-      "antiguedad_evento_mas_reciente_min": 9.1
+      "evento_mas_reciente_utc": "2026-10-04T13:13:06+00:00",
+      "antiguedad_evento_mas_reciente_min": 12.2
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 477,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-10-04T12:46:30.522000+00:00",
-      "antiguedad_evento_mas_reciente_min": 33.7
+      "antiguedad_evento_mas_reciente_min": 38.8
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-713"
     },
     "emsc": {
-      "id": "20261004_0000184",
-      "fecha_hora_utc": "2026-10-04T13:11:08+00:00",
-      "magnitud": 2.5,
-      "profundidad_km": 93.4,
-      "latitud": -22.0,
-      "longitud": -68.75,
+      "id": "20261004_0000186",
+      "fecha_hora_utc": "2026-10-04T13:13:06+00:00",
+      "magnitud": 2.8,
+      "profundidad_km": 0.0,
+      "latitud": 66.462,
+      "longitud": -18.292,
       "pais": "",
-      "ciudad_referencia": "ANTOFAGASTA, CHILE",
+      "ciudad_referencia": "ICELAND REGION",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261004_0000184"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261004_0000186"
     },
     "usgs": {
       "id": "aka2026tqtplt",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-04T13:20:14.266666+00:00"
+    "hora_consulta_utc": "2026-10-04T13:25:15.662457+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-04T13:20:14.266666+00:00",
+  "updated_utc": "2026-10-04T13:25:15.662457+00:00",
   "combined_after_dedup": 2151
 }
