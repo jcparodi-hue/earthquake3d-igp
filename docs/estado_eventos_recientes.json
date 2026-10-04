@@ -11,7 +11,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-713",
     "fecha_primera_recepcion": "2026-10-04T14:20:17.441401+00:00",
-    "fecha_ultima_observacion": "2026-10-04T19:35:12.365964+00:00"
+    "fecha_ultima_observacion": "2026-10-04T19:40:16.837249+00:00"
   },
   "EMSC:20261004_0000216": {
     "id": "20261004_0000216",
@@ -473,6 +473,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261004_0000299",
     "fecha_primera_recepcion": "2026-10-04T19:30:19.114478+00:00",
-    "fecha_ultima_observacion": "2026-10-04T19:35:12.365964+00:00"
+    "fecha_ultima_observacion": "2026-10-04T19:40:16.837249+00:00"
+  },
+  "USGS:us6000tzka": {
+    "id": "us6000tzka",
+    "fecha_hora_utc": "2026-10-04T18:56:14.005000+00:00",
+    "magnitud": 3.2,
+    "profundidad_km": 10.0,
+    "latitud": 44.2452,
+    "longitud": -129.1453,
+    "pais": "",
+    "ciudad_referencia": "off the coast of Oregon",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzka",
+    "fecha_primera_recepcion": "2026-10-04T19:40:16.837249+00:00",
+    "fecha_ultima_observacion": "2026-10-04T19:40:16.837249+00:00"
   }
 }
