@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-04T13:45:14.798320+00:00",
+  "actualizado_utc": "2026-10-04T13:50:18.702029+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 23,
   "actualizacion_minutos": 5,
   "igp": 23,
-  "emsc": 2096,
+  "emsc": 2097,
   "usgs": 475,
   "duplicados_eliminados": 443,
-  "eventos_publicados": 2151,
-  "evento_mas_reciente_utc": "2026-10-04T13:38:07.224639+00:00",
+  "eventos_publicados": 2152,
+  "evento_mas_reciente_utc": "2026-10-04T13:38:07.206775+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 23,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-04T08:57:19+00:00",
-      "antiguedad_evento_mas_reciente_min": 287.9
+      "antiguedad_evento_mas_reciente_min": 293.0
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2096,
-      "eventos_recibidos": 2099,
+      "eventos_validos": 2097,
+      "eventos_recibidos": 2100,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-04T13:38:07.224639+00:00",
-      "antiguedad_evento_mas_reciente_min": 7.1
+      "evento_mas_reciente_utc": "2026-10-04T13:38:07.206775+00:00",
+      "antiguedad_evento_mas_reciente_min": 12.2
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -35,8 +35,8 @@
       "eventos_validos": 475,
       "eventos_recibidos": 479,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-04T13:38:07.224000+00:00",
-      "antiguedad_evento_mas_reciente_min": 7.1
+      "evento_mas_reciente_utc": "2026-10-04T13:38:07.206000+00:00",
+      "antiguedad_evento_mas_reciente_min": 12.2
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261004_0000191",
-      "fecha_hora_utc": "2026-10-04T13:38:07.224639+00:00",
+      "fecha_hora_utc": "2026-10-04T13:38:07.206775+00:00",
       "magnitud": 3.4,
-      "profundidad_km": 72.6,
-      "latitud": 57.055,
-      "longitud": -155.124,
+      "profundidad_km": 65.3,
+      "latitud": 57.033,
+      "longitud": -155.084,
       "pais": "",
       "ciudad_referencia": "ALASKA PENINSULA",
       "fuente": "EMSC",
@@ -66,13 +66,13 @@
     },
     "usgs": {
       "id": "aka2026tqvifo",
-      "fecha_hora_utc": "2026-10-04T13:38:07.224000+00:00",
+      "fecha_hora_utc": "2026-10-04T13:38:07.206000+00:00",
       "magnitud": 3.4,
-      "profundidad_km": 72.6,
-      "latitud": 57.055,
-      "longitud": -155.124,
+      "profundidad_km": 65.3,
+      "latitud": 57.033,
+      "longitud": -155.084,
       "pais": "",
-      "ciudad_referencia": "59 km WNW of Akhiok, Alaska",
+      "ciudad_referencia": "56 km W of Akhiok, Alaska",
       "fuente": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tqvifo"
     }
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-04T13:45:14.798320+00:00"
+    "hora_consulta_utc": "2026-10-04T13:50:18.702029+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-04T13:45:14.798320+00:00",
-  "combined_after_dedup": 2151
+  "updated_utc": "2026-10-04T13:50:18.702029+00:00",
+  "combined_after_dedup": 2152
 }
