@@ -11,7 +11,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-713",
     "fecha_primera_recepcion": "2026-10-04T14:20:17.441401+00:00",
-    "fecha_ultima_observacion": "2026-10-04T20:10:15.481483+00:00"
+    "fecha_ultima_observacion": "2026-10-04T20:15:15.245068+00:00"
   },
   "EMSC:20261004_0000216": {
     "id": "20261004_0000216",
@@ -487,7 +487,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzka",
     "fecha_primera_recepcion": "2026-10-04T19:40:16.837249+00:00",
-    "fecha_ultima_observacion": "2026-10-04T20:10:15.481483+00:00"
+    "fecha_ultima_observacion": "2026-10-04T20:15:15.245068+00:00"
   },
   "EMSC:20261004_0000302": {
     "id": "20261004_0000302",
@@ -530,5 +530,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261004_0000308",
     "fecha_primera_recepcion": "2026-10-04T20:10:15.481483+00:00",
     "fecha_ultima_observacion": "2026-10-04T20:10:15.481483+00:00"
+  },
+  "EMSC:20261004_0000309": {
+    "id": "20261004_0000309",
+    "fecha_hora_utc": "2026-10-04T20:06:37+00:00",
+    "magnitud": 2.7,
+    "profundidad_km": 41.0,
+    "latitud": -7.42,
+    "longitud": 106.75,
+    "pais": "",
+    "ciudad_referencia": "JAVA, INDONESIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261004_0000309",
+    "fecha_primera_recepcion": "2026-10-04T20:15:15.245068+00:00",
+    "fecha_ultima_observacion": "2026-10-04T20:15:15.245068+00:00"
   }
 }
