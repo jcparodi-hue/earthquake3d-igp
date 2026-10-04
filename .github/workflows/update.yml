@@ -8,6 +8,7 @@ on:
 concurrency:
   group: earthquake3d-feed-update
   cancel-in-progress: false
+  queue: max
 
 permissions:
   contents: write
@@ -19,6 +20,11 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+
+      - name: Sincronizar con la rama main
+        run: |
+          git fetch origin main
+          git reset --hard origin/main
 
       - uses: actions/setup-python@v5
         with:
