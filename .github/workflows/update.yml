@@ -27,6 +27,87 @@ jobs:
       - name: Combinar IGP EMSC USGS
         run: python convert.py
 
+      - name: Registrar revisiones de los ultimos eventos
+        run: |
+          python - <<'PY'
+          import csv
+          import json
+          from pathlib import Path
+
+          estado_path = Path("docs/estado_fuentes.json")
+          snapshot_path = Path("docs/estado_eventos_recientes.json")
+          revisions_path = Path("docs/revisiones_eventos.csv")
+
+          estado = json.loads(estado_path.read_text(encoding="utf-8"))
+          consulta_utc = estado.get("actualizado_utc", "")
+          actuales = estado.get("ultimo_evento", {})
+
+          if snapshot_path.exists():
+              anteriores = json.loads(snapshot_path.read_text(encoding="utf-8"))
+          else:
+              anteriores = {}
+
+          campos_comparables = [
+              "fecha_hora_utc", "magnitud", "profundidad_km",
+              "latitud", "longitud", "pais", "ciudad_referencia", "url"
+          ]
+          revision_fields = [
+              "fecha_revision_utc", "fuente", "id_evento",
+              "campo_modificado", "valor_anterior", "valor_nuevo",
+              "fecha_primera_recepcion", "fecha_ultima_revision"
+          ]
+          nuevas_revisiones = []
+          nuevo_snapshot = dict(anteriores)
+
+          for fuente in ("igp", "emsc", "usgs"):
+              evento = actuales.get(fuente) or {}
+              event_id = str(evento.get("id", "")).strip()
+              if not event_id:
+                  continue
+
+              clave = fuente.upper() + ":" + event_id
+              anterior = anteriores.get(clave)
+              primera_recepcion = (
+                  anterior.get("fecha_primera_recepcion", consulta_utc)
+                  if anterior else consulta_utc
+              )
+
+              if anterior:
+                  for campo in campos_comparables:
+                      valor_anterior = anterior.get(campo)
+                      valor_nuevo = evento.get(campo)
+                      if valor_anterior != valor_nuevo:
+                          nuevas_revisiones.append({
+                              "fecha_revision_utc": consulta_utc,
+                              "fuente": fuente.upper(),
+                              "id_evento": event_id,
+                              "campo_modificado": campo,
+                              "valor_anterior": "" if valor_anterior is None else valor_anterior,
+                              "valor_nuevo": "" if valor_nuevo is None else valor_nuevo,
+                              "fecha_primera_recepcion": primera_recepcion,
+                              "fecha_ultima_revision": consulta_utc,
+                          })
+
+              registro = dict(evento)
+              registro["fecha_primera_recepcion"] = primera_recepcion
+              registro["fecha_ultima_observacion"] = consulta_utc
+              nuevo_snapshot[clave] = registro
+
+          snapshot_path.write_text(
+              json.dumps(nuevo_snapshot, ensure_ascii=False, indent=2),
+              encoding="utf-8"
+          )
+
+          existe = revisions_path.exists() and revisions_path.stat().st_size > 0
+          with revisions_path.open("a", encoding="utf-8", newline="") as f:
+              writer = csv.DictWriter(f, fieldnames=revision_fields)
+              if not existe:
+                  writer.writeheader()
+              writer.writerows(nuevas_revisiones)
+
+          print(f"Revisiones detectadas: {len(nuevas_revisiones)}")
+          PY
+
       - name: Registrar historial de actualizaciones
         run: |
           python - <<'PY'
@@ -76,6 +157,6 @@ jobs:
             echo "No hay cambios para guardar"
             exit 0
           fi
-          git commit -m "Actualizar feed sismico, historial y respaldos"
+          git commit -m "Actualizar feed, revisiones, historial y respaldos"
           git pull --rebase origin main
           git push origin main
