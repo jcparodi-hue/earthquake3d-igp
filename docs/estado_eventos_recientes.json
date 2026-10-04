@@ -571,7 +571,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzkn",
     "fecha_primera_recepcion": "2026-10-04T20:45:49.684063+00:00",
-    "fecha_ultima_observacion": "2026-10-04T22:15:13.636999+00:00"
+    "fecha_ultima_observacion": "2026-10-04T22:20:17.154921+00:00"
   },
   "EMSC:20261004_0000320": {
     "id": "20261004_0000320",
@@ -669,6 +669,20 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-714",
     "fecha_primera_recepcion": "2026-10-04T22:00:23.496369+00:00",
-    "fecha_ultima_observacion": "2026-10-04T22:15:13.636999+00:00"
+    "fecha_ultima_observacion": "2026-10-04T22:20:17.154921+00:00"
+  },
+  "EMSC:20261004_0000342": {
+    "id": "20261004_0000342",
+    "fecha_hora_utc": "2026-10-04T22:17:07.785172+00:00",
+    "magnitud": 3.2,
+    "profundidad_km": 5.0,
+    "latitud": 38.6992,
+    "longitud": 23.4258,
+    "pais": "",
+    "ciudad_referencia": "GREECE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261004_0000342",
+    "fecha_primera_recepcion": "2026-10-04T22:20:17.154921+00:00",
+    "fecha_ultima_observacion": "2026-10-04T22:20:17.154921+00:00"
   }
 }
