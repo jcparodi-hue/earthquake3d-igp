@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-04T06:30:18.003270+00:00",
+  "actualizado_utc": "2026-10-04T06:35:12.446192+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 20,
   "actualizacion_minutos": 5,
@@ -10,11 +10,6 @@
   "duplicados_eliminados": 434,
   "eventos_publicados": 2168,
   "evento_mas_reciente_utc": "2026-10-04T05:55:06.861000+00:00",
-  "invalidos_rechazados": {
-    "igp": 0,
-    "emsc": 3,
-    "usgs": 4
-  },
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -23,7 +18,7 @@
       "eventos_recibidos": 20,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-02T23:05:53+00:00",
-      "antiguedad_evento_mas_reciente_min": 1884.4
+      "antiguedad_evento_mas_reciente_min": 1889.3
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -32,7 +27,7 @@
       "eventos_recibidos": 2117,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-10-04T05:55:06.861000+00:00",
-      "antiguedad_evento_mas_reciente_min": 35.2
+      "antiguedad_evento_mas_reciente_min": 40.1
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -41,7 +36,7 @@
       "eventos_recibidos": 472,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-10-04T05:55:06.861000+00:00",
-      "antiguedad_evento_mas_reciente_min": 35.2
+      "antiguedad_evento_mas_reciente_min": 40.1
     }
   },
   "ultimo_evento": {
@@ -82,7 +77,12 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzh0"
     }
   },
+  "auditoria": {
+    "catalogo_emsc": "EMSC-RTS",
+    "eventos_rechazados_registrados": 0,
+    "hora_consulta_utc": "2026-10-04T06:35:12.446192+00:00"
+  },
   "status": "OK",
-  "updated_utc": "2026-10-04T06:30:18.003270+00:00",
+  "updated_utc": "2026-10-04T06:35:12.446192+00:00",
   "combined_after_dedup": 2168
 }
