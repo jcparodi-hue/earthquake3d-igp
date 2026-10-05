@@ -1411,7 +1411,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-716",
     "fecha_primera_recepcion": "2026-10-05T06:20:15.360709+00:00",
-    "fecha_ultima_observacion": "2026-10-05T11:45:15.360387+00:00"
+    "fecha_ultima_observacion": "2026-10-05T11:50:16.769586+00:00"
   },
   "EMSC:20261005_0000096": {
     "id": "20261005_0000096",
@@ -1859,7 +1859,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tsmher",
     "fecha_primera_recepcion": "2026-10-05T11:10:16.857182+00:00",
-    "fecha_ultima_observacion": "2026-10-05T11:45:15.360387+00:00"
+    "fecha_ultima_observacion": "2026-10-05T11:50:16.769586+00:00"
   },
   "EMSC:20261005_0000188": {
     "id": "20261005_0000188",
@@ -1874,5 +1874,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261005_0000188",
     "fecha_primera_recepcion": "2026-10-05T11:30:18.312834+00:00",
     "fecha_ultima_observacion": "2026-10-05T11:45:15.360387+00:00"
+  },
+  "EMSC:20261005_0000189": {
+    "id": "20261005_0000189",
+    "fecha_hora_utc": "2026-10-05T11:34:47+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 7.0,
+    "latitud": 21.51,
+    "longitud": 101.551,
+    "pais": "",
+    "ciudad_referencia": "CHINA-LAOS BORDER REGION",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261005_0000189",
+    "fecha_primera_recepcion": "2026-10-05T11:50:16.769586+00:00",
+    "fecha_ultima_observacion": "2026-10-05T11:50:16.769586+00:00"
   }
 }

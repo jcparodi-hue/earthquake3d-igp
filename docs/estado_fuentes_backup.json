@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-05T11:45:15.360387+00:00",
+  "actualizado_utc": "2026-10-05T11:50:16.769586+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 26,
   "actualizacion_minutos": 5,
   "igp": 26,
-  "emsc": 2138,
+  "emsc": 2139,
   "usgs": 471,
   "duplicados_eliminados": 442,
-  "eventos_publicados": 2193,
-  "evento_mas_reciente_utc": "2026-10-05T11:16:07+00:00",
+  "eventos_publicados": 2194,
+  "evento_mas_reciente_utc": "2026-10-05T11:34:47+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 24,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-05T00:50:19+00:00",
-      "antiguedad_evento_mas_reciente_min": 654.9
+      "antiguedad_evento_mas_reciente_min": 660.0
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2138,
-      "eventos_recibidos": 2140,
+      "eventos_validos": 2139,
+      "eventos_recibidos": 2141,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-10-05T11:16:07+00:00",
-      "antiguedad_evento_mas_reciente_min": 29.1
+      "evento_mas_reciente_utc": "2026-10-05T11:34:47+00:00",
+      "antiguedad_evento_mas_reciente_min": 15.5
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 474,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-10-05T11:06:22.798000+00:00",
-      "antiguedad_evento_mas_reciente_min": 38.9
+      "antiguedad_evento_mas_reciente_min": 43.9
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-716"
     },
     "emsc": {
-      "id": "20261005_0000188",
-      "fecha_hora_utc": "2026-10-05T11:16:07+00:00",
-      "magnitud": 3.1,
-      "profundidad_km": 10.0,
-      "latitud": 51.23,
-      "longitud": 122.73,
+      "id": "20261005_0000189",
+      "fecha_hora_utc": "2026-10-05T11:34:47+00:00",
+      "magnitud": 3.0,
+      "profundidad_km": 7.0,
+      "latitud": 21.51,
+      "longitud": 101.551,
       "pais": "",
-      "ciudad_referencia": "NORTHEASTERN NEI MONGOL, CHINA",
+      "ciudad_referencia": "CHINA-LAOS BORDER REGION",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261005_0000188"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261005_0000189"
     },
     "usgs": {
       "id": "aka2026tsmher",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-05T11:45:15.360387+00:00"
+    "hora_consulta_utc": "2026-10-05T11:50:16.769586+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-05T11:45:15.360387+00:00",
-  "combined_after_dedup": 2193
+  "updated_utc": "2026-10-05T11:50:16.769586+00:00",
+  "combined_after_dedup": 2194
 }
