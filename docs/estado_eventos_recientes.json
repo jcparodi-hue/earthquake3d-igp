@@ -879,7 +879,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-715",
     "fecha_primera_recepcion": "2026-10-05T00:45:17.224081+00:00",
-    "fecha_ultima_observacion": "2026-10-05T04:16:34.993757+00:00"
+    "fecha_ultima_observacion": "2026-10-05T04:20:15.411439+00:00"
   },
   "EMSC:20261005_0000013": {
     "id": "20261005_0000013",
@@ -1191,17 +1191,17 @@
   },
   "EMSC:20261005_0000060": {
     "id": "20261005_0000060",
-    "fecha_hora_utc": "2026-10-05T03:56:40.680000+00:00",
-    "magnitud": 3.0,
-    "profundidad_km": 10.0,
-    "latitud": 38.0517,
-    "longitud": -5.7399,
+    "fecha_hora_utc": "2026-10-05T03:56:38.520000+00:00",
+    "magnitud": 2.9,
+    "profundidad_km": 9.8,
+    "latitud": 38.0471,
+    "longitud": -5.7669,
     "pais": "",
     "ciudad_referencia": "SPAIN",
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261005_0000060",
     "fecha_primera_recepcion": "2026-10-05T04:00:19.307114+00:00",
-    "fecha_ultima_observacion": "2026-10-05T04:16:34.993757+00:00"
+    "fecha_ultima_observacion": "2026-10-05T04:20:15.411439+00:00"
   },
   "USGS:pr71535753": {
     "id": "pr71535753",
@@ -1229,6 +1229,6 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71535773",
     "fecha_primera_recepcion": "2026-10-05T04:15:14.402650+00:00",
-    "fecha_ultima_observacion": "2026-10-05T04:16:34.993757+00:00"
+    "fecha_ultima_observacion": "2026-10-05T04:20:15.411439+00:00"
   }
 }
