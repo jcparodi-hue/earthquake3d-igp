@@ -2097,7 +2097,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-717",
     "fecha_primera_recepcion": "2026-10-05T15:00:23.228508+00:00",
-    "fecha_ultima_observacion": "2026-10-05T17:30:17.968515+00:00"
+    "fecha_ultima_observacion": "2026-10-05T17:35:14.241397+00:00"
   },
   "EMSC:20261005_0000255": {
     "id": "20261005_0000255",
@@ -2322,5 +2322,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261005_0000288",
     "fecha_primera_recepcion": "2026-10-05T17:30:17.968515+00:00",
     "fecha_ultima_observacion": "2026-10-05T17:30:17.968515+00:00"
+  },
+  "EMSC:20261005_0000290": {
+    "id": "20261005_0000290",
+    "fecha_hora_utc": "2026-10-05T17:28:21.100000+00:00",
+    "magnitud": 5.0,
+    "profundidad_km": 1.1,
+    "latitud": 64.626,
+    "longitud": -17.384,
+    "pais": "",
+    "ciudad_referencia": "ICELAND",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261005_0000290",
+    "fecha_primera_recepcion": "2026-10-05T17:35:14.241397+00:00",
+    "fecha_ultima_observacion": "2026-10-05T17:35:14.241397+00:00"
+  },
+  "USGS:tx2026tputog": {
+    "id": "tx2026tputog",
+    "fecha_hora_utc": "2026-10-05T17:24:06.398000+00:00",
+    "magnitud": 2.6,
+    "profundidad_km": 8.8955,
+    "latitud": 28.863,
+    "longitud": -98.977,
+    "pais": "",
+    "ciudad_referencia": "11 km ESE of Pearsall, Texas",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tputog",
+    "fecha_primera_recepcion": "2026-10-05T17:35:14.241397+00:00",
+    "fecha_ultima_observacion": "2026-10-05T17:35:14.241397+00:00"
   }
 }

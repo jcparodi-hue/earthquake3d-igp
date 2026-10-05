@@ -1,42 +1,42 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-05T17:30:17.968515+00:00",
+  "actualizado_utc": "2026-10-05T17:35:14.241397+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 27,
   "actualizacion_minutos": 5,
   "igp": 27,
-  "emsc": 2156,
-  "usgs": 473,
+  "emsc": 2157,
+  "usgs": 474,
   "duplicados_eliminados": 447,
-  "eventos_publicados": 2209,
-  "evento_mas_reciente_utc": "2026-10-05T17:24:12+00:00",
+  "eventos_publicados": 2211,
+  "evento_mas_reciente_utc": "2026-10-05T17:28:21.100000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
       "eventos_validos": 27,
-      "eventos_recibidos": 25,
+      "eventos_recibidos": 24,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-05T10:32:49+00:00",
-      "antiguedad_evento_mas_reciente_min": 417.5
+      "antiguedad_evento_mas_reciente_min": 422.4
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2156,
-      "eventos_recibidos": 2158,
+      "eventos_validos": 2157,
+      "eventos_recibidos": 2159,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-10-05T17:24:12+00:00",
-      "antiguedad_evento_mas_reciente_min": 6.1
+      "evento_mas_reciente_utc": "2026-10-05T17:28:21.100000+00:00",
+      "antiguedad_evento_mas_reciente_min": 6.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 473,
-      "eventos_recibidos": 476,
+      "eventos_validos": 474,
+      "eventos_recibidos": 477,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-05T16:55:19.142000+00:00",
-      "antiguedad_evento_mas_reciente_min": 35.0
+      "evento_mas_reciente_utc": "2026-10-05T17:24:06.398000+00:00",
+      "antiguedad_evento_mas_reciente_min": 11.1
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-717"
     },
     "emsc": {
-      "id": "20261005_0000288",
-      "fecha_hora_utc": "2026-10-05T17:24:12+00:00",
-      "magnitud": 2.8,
-      "profundidad_km": 10.0,
-      "latitud": -8.33,
-      "longitud": 121.27,
+      "id": "20261005_0000290",
+      "fecha_hora_utc": "2026-10-05T17:28:21.100000+00:00",
+      "magnitud": 5.0,
+      "profundidad_km": 1.1,
+      "latitud": 64.626,
+      "longitud": -17.384,
       "pais": "",
-      "ciudad_referencia": "FLORES REGION, INDONESIA",
+      "ciudad_referencia": "ICELAND",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261005_0000288"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261005_0000290"
     },
     "usgs": {
-      "id": "aka2026tsxxtn",
-      "fecha_hora_utc": "2026-10-05T16:55:19.142000+00:00",
-      "magnitud": 3.4,
-      "profundidad_km": 5.0,
-      "latitud": 57.65,
-      "longitud": -155.849,
+      "id": "tx2026tputog",
+      "fecha_hora_utc": "2026-10-05T17:24:06.398000+00:00",
+      "magnitud": 2.6,
+      "profundidad_km": 8.8955,
+      "latitud": 28.863,
+      "longitud": -98.977,
       "pais": "",
-      "ciudad_referencia": "83 km W of Karluk, Alaska",
+      "ciudad_referencia": "11 km ESE of Pearsall, Texas",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tsxxtn"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tputog"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-05T17:30:17.968515+00:00"
+    "hora_consulta_utc": "2026-10-05T17:35:14.241397+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-05T17:30:17.968515+00:00",
-  "combined_after_dedup": 2209
+  "updated_utc": "2026-10-05T17:35:14.241397+00:00",
+  "combined_after_dedup": 2211
 }
