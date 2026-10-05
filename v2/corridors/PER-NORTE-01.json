@@ -1,0 +1,68 @@
+{
+  "project": "EARTHQUAKE 3D",
+  "model_version": "2.0.0",
+  "classification": "experimental",
+  "corridor": {
+    "corridor_code": "PER-NORTE-01",
+    "corridor_name": "Corredor norte del Peru",
+    "country_code": "PE",
+    "direction_type": "TO_BE_DIGITIZED",
+    "geological_class": "TO_BE_VALIDATED",
+    "map_version_code": "TRANSFER_PRESSURE_MAP_ORIGINAL",
+    "start_node_code": null,
+    "end_node_code": null,
+    "geometry_geojson": null,
+    "length_km": null,
+    "digitization_confidence": null,
+    "status": "PENDING_DIGITIZATION",
+    "notes": "Corredor piloto. No contiene coordenadas inventadas. La geometria debe obtenerse mediante digitalizacion versionada del Transfer Pressure Map."
+  },
+  "administrative_regions": [
+    {
+      "order": 1,
+      "region": "Tumbes",
+      "reference_city": "Tumbes",
+      "segment_code": "PER-NORTE-01-S01",
+      "geometry_geojson": null
+    },
+    {
+      "order": 2,
+      "region": "Piura",
+      "reference_city": "Piura",
+      "segment_code": "PER-NORTE-01-S02",
+      "geometry_geojson": null
+    },
+    {
+      "order": 3,
+      "region": "Lambayeque",
+      "reference_city": "Chiclayo",
+      "segment_code": "PER-NORTE-01-S03",
+      "geometry_geojson": null
+    },
+    {
+      "order": 4,
+      "region": "La Libertad",
+      "reference_city": "Trujillo",
+      "segment_code": "PER-NORTE-01-S04",
+      "geometry_geojson": null
+    }
+  ],
+  "forecast_rules": {
+    "formation_window_hours": 48,
+    "forecast_window_hours": 168,
+    "exact_epicenter_prediction": false,
+    "regional_surveillance_only": true,
+    "automatic_restart_on_any_event": false,
+    "public_warning_required": true
+  },
+  "enabled_for_forecast": false,
+  "activation_requirements": [
+    "Digitize and version the corridor geometry",
+    "Validate direction against the original map",
+    "Associate D, X, branch and volcano nodes",
+    "Define corridor distance tolerance before testing",
+    "Define forecast region width before testing",
+    "Complete historical replay and validation"
+  ],
+  "warning_text": "Modelo experimental. No constituye una alerta oficial, una prediccion determinista ni sustituye la informacion del IGP/CENSIS y otras autoridades competentes."
+}
