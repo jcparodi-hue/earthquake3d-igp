@@ -1,5 +1,13 @@
 [
   {
+    "volcan": "Sabancaya",
+    "codigo_boletin": "IGP/CENVUL-SAB/BV 2026-0040",
+    "fecha_publicacion": "lunes, 5 de octubre de 2026",
+    "nivel_alerta": "Naranja",
+    "url_boletin": "https://cenvul.igp.gob.pe/productos/boletines-vulcanologicos",
+    "fuente": "IGP/CENVUL"
+  },
+  {
     "volcan": "Ubinas",
     "codigo_boletin": "IGP/CENVUL-UBI/BV 2026-0010",
     "fecha_publicacion": "jueves, 1 de octubre de 2026",
@@ -66,14 +74,6 @@
   {
     "volcan": "Casiri",
     "codigo_boletin": "IGP/CENVUL-CAS/BV 2026-0010",
-    "fecha_publicacion": "jueves, 1 de octubre de 2026",
-    "nivel_alerta": "Verde",
-    "url_boletin": "https://cenvul.igp.gob.pe/productos/boletines-vulcanologicos",
-    "fuente": "IGP/CENVUL"
-  },
-  {
-    "volcan": "Purupuruni",
-    "codigo_boletin": "IGP/CENVUL-PUR/BV 2026-0010",
     "fecha_publicacion": "jueves, 1 de octubre de 2026",
     "nivel_alerta": "Verde",
     "url_boletin": "https://cenvul.igp.gob.pe/productos/boletines-vulcanologicos",
