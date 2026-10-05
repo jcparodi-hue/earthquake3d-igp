@@ -1,0 +1,37 @@
+{
+  "project": "EARTHQUAKE 3D",
+  "model_version": "2.0.0",
+  "classification": "experimental",
+  "timezone_display": "America/Lima",
+  "formation_window_hours": 48,
+  "forecast_window_hours": 168,
+  "deep_event_threshold_km": 200,
+  "rebella_divisor": 500,
+  "minimum_magnitude": null,
+  "maximum_corridor_distance_km": null,
+  "forecast_region_width_km": null,
+  "aftershock_exclusion_rule": null,
+  "public_warning_required": true,
+  "public_warning_text": "Modelo experimental. No constituye una alerta oficial, una prediccion determinista ni sustituye la informacion del IGP/CENSIS y otras autoridades competentes.",
+  "enabled_models": {
+    "corridor_projection": true,
+    "deep_event_detection": true,
+    "rebella_conversion": false,
+    "corridor_midpoint": false,
+    "ring_intersection": false,
+    "silent_zone_detection": false,
+    "volcanic_observations": false,
+    "antipodal_analysis": false,
+    "slow_slip_observations": false,
+    "tremor_observations": false,
+    "combined_forecast": false
+  },
+  "evidence_levels": {
+    "E1": "Dato oficial observado",
+    "E2": "Representacion visual",
+    "E3": "Calculo reproducible",
+    "E4": "Regla experimental del metodo",
+    "E5": "Hipotesis fisica pendiente de validacion",
+    "E6": "Resultado posterior"
+  }
+}
