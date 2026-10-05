@@ -1,0 +1,88 @@
+{
+  "project": "EARTHQUAKE 3D",
+  "model_version": "2.0.0",
+  "classification": "experimental",
+  "map": {
+    "map_version_code": "TRANSFER_PRESSURE_MAP_ORIGINAL",
+    "title": "Transfer Pressure Map",
+    "source_file_name": "TRANSFER PRESSURE MAP.pdf",
+    "source_sha256": null,
+    "source_page_count": 1,
+    "status": "ORIGINAL_PRESERVED",
+    "is_original": true,
+    "digitization_status": "NOT_STARTED",
+    "original_must_not_be_modified": true,
+    "notes": "Matriz conceptual original. Toda geometria derivada debe almacenarse en archivos separados y versionados."
+  },
+  "symbol_legend": [
+    {
+      "symbol_code": "D",
+      "symbol_name": "Deep earthquake area",
+      "project_interpretation": "Zona profunda propuesta por el mapa",
+      "evidence_level": "E2_E4",
+      "digitization_status": "PENDING"
+    },
+    {
+      "symbol_code": "X",
+      "symbol_name": "Earthquake termination point",
+      "project_interpretation": "Punto de terminacion propuesto",
+      "evidence_level": "E2_E4",
+      "digitization_status": "PENDING"
+    },
+    {
+      "symbol_code": "V",
+      "symbol_name": "Volcano",
+      "project_interpretation": "Volcan asociado visualmente al corredor",
+      "evidence_level": "E2",
+      "digitization_status": "PENDING"
+    },
+    {
+      "symbol_code": "ARROW",
+      "symbol_name": "Direction of progression",
+      "project_interpretation": "Direccion propuesta de progresion",
+      "evidence_level": "E2_E4",
+      "digitization_status": "PENDING"
+    },
+    {
+      "symbol_code": "REFLECTION",
+      "symbol_name": "Large earthquake reflection",
+      "project_interpretation": "Simbolo de reflexion propuesto por el mapa",
+      "evidence_level": "E2_E4",
+      "digitization_status": "PENDING"
+    },
+    {
+      "symbol_code": "BRANCH",
+      "symbol_name": "Corridor branch",
+      "project_interpretation": "Bifurcacion visual inferida durante la digitalizacion",
+      "evidence_level": "E3_E4",
+      "digitization_status": "PENDING"
+    }
+  ],
+  "digitization_rules": {
+    "coordinate_reference_system": "EPSG:4326",
+    "geometry_types_allowed": [
+      "Point",
+      "LineString",
+      "MultiLineString"
+    ],
+    "invented_coordinates_forbidden": true,
+    "independent_original_layer_required": true,
+    "version_each_geometry_change": true,
+    "record_operator_and_date": true,
+    "record_visual_uncertainty": true,
+    "forecast_activation_before_validation": false
+  },
+  "derived_assets": {
+    "nodes_file": "nodes.geojson",
+    "corridors_file": "corridors.geojson",
+    "branches_file": "branches.geojson",
+    "volcano_links_file": "volcano_links.geojson"
+  },
+  "pilot_corridor": {
+    "corridor_code": "PER-NORTE-01",
+    "definition_file": "../corridors/PER-NORTE-01.json",
+    "geometry_status": "PENDING_DIGITIZATION",
+    "enabled_for_forecast": false
+  },
+  "warning_text": "Modelo experimental. No constituye una alerta oficial, una prediccion determinista ni sustituye la informacion del IGP/CENSIS y otras autoridades competentes."
+}
