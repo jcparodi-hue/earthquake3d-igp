@@ -1411,7 +1411,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-716",
     "fecha_primera_recepcion": "2026-10-05T06:20:15.360709+00:00",
-    "fecha_ultima_observacion": "2026-10-05T07:40:16.935431+00:00"
+    "fecha_ultima_observacion": "2026-10-05T07:45:16.095534+00:00"
   },
   "EMSC:20261005_0000096": {
     "id": "20261005_0000096",
@@ -1565,6 +1565,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261005_0000122",
     "fecha_primera_recepcion": "2026-10-05T07:38:19.017945+00:00",
-    "fecha_ultima_observacion": "2026-10-05T07:40:16.935431+00:00"
+    "fecha_ultima_observacion": "2026-10-05T07:45:16.095534+00:00"
+  },
+  "USGS:us6000tzmt": {
+    "id": "us6000tzmt",
+    "fecha_hora_utc": "2026-10-05T07:13:38.006000+00:00",
+    "magnitud": 4.9,
+    "profundidad_km": 35.0,
+    "latitud": 22.8488,
+    "longitud": 144.0442,
+    "pais": "",
+    "ciudad_referencia": "Volcano Islands, Japan region",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzmt",
+    "fecha_primera_recepcion": "2026-10-05T07:45:16.095534+00:00",
+    "fecha_ultima_observacion": "2026-10-05T07:45:16.095534+00:00"
   }
 }
