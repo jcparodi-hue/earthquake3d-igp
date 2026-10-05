@@ -1,13 +1,13 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-05T01:50:04.832988+00:00",
+  "actualizado_utc": "2026-10-05T01:50:22.683979+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 25,
   "actualizacion_minutos": 5,
   "igp": 25,
-  "emsc": 2115,
+  "emsc": 2114,
   "usgs": 472,
-  "duplicados_eliminados": 438,
+  "duplicados_eliminados": 437,
   "eventos_publicados": 2174,
   "evento_mas_reciente_utc": "2026-10-05T01:44:17+00:00",
   "salud_fuentes": {
@@ -15,19 +15,19 @@
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
       "eventos_validos": 25,
-      "eventos_recibidos": 25,
+      "eventos_recibidos": 24,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-04T23:03:06+00:00",
-      "antiguedad_evento_mas_reciente_min": 167.0
+      "antiguedad_evento_mas_reciente_min": 167.3
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2115,
-      "eventos_recibidos": 2118,
+      "eventos_validos": 2114,
+      "eventos_recibidos": 2117,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-10-05T01:44:17+00:00",
-      "antiguedad_evento_mas_reciente_min": 5.8
+      "antiguedad_evento_mas_reciente_min": 6.1
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 476,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-10-05T01:18:50.392000+00:00",
-      "antiguedad_evento_mas_reciente_min": 31.2
+      "antiguedad_evento_mas_reciente_min": 31.5
     }
   },
   "ultimo_evento": {
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-05T01:50:04.832988+00:00"
+    "hora_consulta_utc": "2026-10-05T01:50:22.683979+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-05T01:50:04.832988+00:00",
+  "updated_utc": "2026-10-05T01:50:22.683979+00:00",
   "combined_after_dedup": 2174
 }
