@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-05T05:55:12.417289+00:00",
+  "actualizado_utc": "2026-10-05T06:00:20.435556+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 25,
   "actualizacion_minutos": 5,
   "igp": 25,
   "emsc": 2130,
-  "usgs": 471,
+  "usgs": 470,
   "duplicados_eliminados": 435,
-  "eventos_publicados": 2191,
-  "evento_mas_reciente_utc": "2026-10-05T05:36:27.670000+00:00",
+  "eventos_publicados": 2190,
+  "evento_mas_reciente_utc": "2026-10-05T05:36:28.080000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 23,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-04T23:03:06+00:00",
-      "antiguedad_evento_mas_reciente_min": 412.1
+      "antiguedad_evento_mas_reciente_min": 417.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2130,
       "eventos_recibidos": 2132,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-10-05T05:36:27.670000+00:00",
-      "antiguedad_evento_mas_reciente_min": 18.7
+      "evento_mas_reciente_utc": "2026-10-05T05:36:28.080000+00:00",
+      "antiguedad_evento_mas_reciente_min": 23.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 471,
-      "eventos_recibidos": 474,
+      "eventos_validos": 470,
+      "eventos_recibidos": 473,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-10-05T05:26:44.808000+00:00",
-      "antiguedad_evento_mas_reciente_min": 28.5
+      "antiguedad_evento_mas_reciente_min": 33.6
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261005_0000086",
-      "fecha_hora_utc": "2026-10-05T05:36:27.670000+00:00",
+      "fecha_hora_utc": "2026-10-05T05:36:28.080000+00:00",
       "magnitud": 3.8,
-      "profundidad_km": 140.0,
-      "latitud": 45.6752,
-      "longitud": 26.5491,
+      "profundidad_km": 133.5,
+      "latitud": 45.6574,
+      "longitud": 26.5982,
       "pais": "",
       "ciudad_referencia": "ROMANIA",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-05T05:55:12.417289+00:00"
+    "hora_consulta_utc": "2026-10-05T06:00:20.435556+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-05T05:55:12.417289+00:00",
-  "combined_after_dedup": 2191
+  "updated_utc": "2026-10-05T06:00:20.435556+00:00",
+  "combined_after_dedup": 2190
 }
