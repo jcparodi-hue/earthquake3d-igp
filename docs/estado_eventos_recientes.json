@@ -1411,7 +1411,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-716",
     "fecha_primera_recepcion": "2026-10-05T06:20:15.360709+00:00",
-    "fecha_ultima_observacion": "2026-10-05T06:40:18.006967+00:00"
+    "fecha_ultima_observacion": "2026-10-05T06:45:14.907774+00:00"
   },
   "EMSC:20261005_0000096": {
     "id": "20261005_0000096",
@@ -1468,5 +1468,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261005_0000106",
     "fecha_primera_recepcion": "2026-10-05T06:40:18.006967+00:00",
     "fecha_ultima_observacion": "2026-10-05T06:40:18.006967+00:00"
+  },
+  "EMSC:20261005_0000107": {
+    "id": "20261005_0000107",
+    "fecha_hora_utc": "2026-10-05T06:39:10+00:00",
+    "magnitud": 2.6,
+    "profundidad_km": 11.0,
+    "latitud": -8.18,
+    "longitud": 121.15,
+    "pais": "",
+    "ciudad_referencia": "FLORES REGION, INDONESIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261005_0000107",
+    "fecha_primera_recepcion": "2026-10-05T06:45:14.907774+00:00",
+    "fecha_ultima_observacion": "2026-10-05T06:45:14.907774+00:00"
+  },
+  "USGS:us6000tzmk": {
+    "id": "us6000tzmk",
+    "fecha_hora_utc": "2026-10-05T06:14:15.888000+00:00",
+    "magnitud": 4.8,
+    "profundidad_km": 51.291,
+    "latitud": 4.4975,
+    "longitud": 126.9394,
+    "pais": "",
+    "ciudad_referencia": "191 km ESE of Sarangani, Philippines",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzmk",
+    "fecha_primera_recepcion": "2026-10-05T06:45:14.907774+00:00",
+    "fecha_ultima_observacion": "2026-10-05T06:45:14.907774+00:00"
   }
 }
