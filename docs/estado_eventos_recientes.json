@@ -669,7 +669,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-714",
     "fecha_primera_recepcion": "2026-10-04T22:00:23.496369+00:00",
-    "fecha_ultima_observacion": "2026-10-05T00:35:11.946968+00:00"
+    "fecha_ultima_observacion": "2026-10-05T00:40:15.407448+00:00"
   },
   "EMSC:20261004_0000342": {
     "id": "20261004_0000342",
@@ -729,17 +729,17 @@
   },
   "USGS:us6000tzl0": {
     "id": "us6000tzl0",
-    "fecha_hora_utc": "2026-10-04T22:13:27.981000+00:00",
-    "magnitud": 3.5,
+    "fecha_hora_utc": "2026-10-04T22:13:26.165000+00:00",
+    "magnitud": 4.2,
     "profundidad_km": 10.0,
-    "latitud": 44.6508,
-    "longitud": -128.7898,
+    "latitud": 44.6317,
+    "longitud": -128.9457,
     "pais": "",
     "ciudad_referencia": "off the coast of Oregon",
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzl0",
     "fecha_primera_recepcion": "2026-10-04T23:00:20.384513+00:00",
-    "fecha_ultima_observacion": "2026-10-05T00:35:11.946968+00:00"
+    "fecha_ultima_observacion": "2026-10-05T00:40:15.407448+00:00"
   },
   "EMSC:20261004_0000362": {
     "id": "20261004_0000362",
@@ -852,5 +852,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261005_0000004",
     "fecha_primera_recepcion": "2026-10-05T00:30:18.684257+00:00",
     "fecha_ultima_observacion": "2026-10-05T00:35:11.946968+00:00"
+  },
+  "EMSC:20261005_0000006": {
+    "id": "20261005_0000006",
+    "fecha_hora_utc": "2026-10-05T00:34:20+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 18.3,
+    "latitud": -33.82,
+    "longitud": -72.06,
+    "pais": "",
+    "ciudad_referencia": "OFFSHORE VALPARAISO, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261005_0000006",
+    "fecha_primera_recepcion": "2026-10-05T00:40:15.407448+00:00",
+    "fecha_ultima_observacion": "2026-10-05T00:40:15.407448+00:00"
   }
 }
