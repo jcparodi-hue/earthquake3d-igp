@@ -1411,7 +1411,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-716",
     "fecha_primera_recepcion": "2026-10-05T06:20:15.360709+00:00",
-    "fecha_ultima_observacion": "2026-10-05T08:40:18.629540+00:00"
+    "fecha_ultima_observacion": "2026-10-05T08:45:16.329248+00:00"
   },
   "EMSC:20261005_0000096": {
     "id": "20261005_0000096",
@@ -1663,7 +1663,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71535823",
     "fecha_primera_recepcion": "2026-10-05T08:28:43.506020+00:00",
-    "fecha_ultima_observacion": "2026-10-05T08:40:18.629540+00:00"
+    "fecha_ultima_observacion": "2026-10-05T08:45:16.329248+00:00"
   },
   "EMSC:20261005_0000139": {
     "id": "20261005_0000139",
@@ -1678,5 +1678,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261005_0000139",
     "fecha_primera_recepcion": "2026-10-05T08:35:13.389025+00:00",
     "fecha_ultima_observacion": "2026-10-05T08:40:18.629540+00:00"
+  },
+  "EMSC:20261005_0000142": {
+    "id": "20261005_0000142",
+    "fecha_hora_utc": "2026-10-05T08:37:13+00:00",
+    "magnitud": 3.3,
+    "profundidad_km": 5.0,
+    "latitud": 11.922,
+    "longitud": -85.685,
+    "pais": "",
+    "ciudad_referencia": "NICARAGUA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261005_0000142",
+    "fecha_primera_recepcion": "2026-10-05T08:45:16.329248+00:00",
+    "fecha_ultima_observacion": "2026-10-05T08:45:16.329248+00:00"
   }
 }
