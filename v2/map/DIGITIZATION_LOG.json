@@ -1,0 +1,46 @@
+{
+  "project": "EARTHQUAKE 3D",
+  "model_version": "2.0.0",
+  "classification": "experimental",
+  "map_version_code": "TRANSFER_PRESSURE_MAP_ORIGINAL",
+  "digitization_protocol": "PROTOCOLO_DIGITALIZACION_V2.md",
+  "status": "NOT_STARTED",
+  "sessions": [],
+  "reviews": [],
+  "version_history": [],
+  "pilot_corridor": {
+    "corridor_code": "PER-NORTE-01",
+    "status": "PENDING_DIGITIZATION",
+    "geometry_version": null,
+    "visual_review": "NOT_STARTED",
+    "technical_review": "NOT_STARTED",
+    "historical_validation": "NOT_STARTED",
+    "enabled_for_forecast": false
+  },
+  "required_session_fields": [
+    "session_id",
+    "operator",
+    "started_at_utc",
+    "completed_at_utc",
+    "tool_name",
+    "source_file_name",
+    "map_version_code",
+    "corridor_code",
+    "zoom_or_scale",
+    "elements_created",
+    "elements_modified",
+    "visual_uncertainties",
+    "notes"
+  ],
+  "required_review_fields": [
+    "review_id",
+    "review_type",
+    "reviewer",
+    "reviewed_at_utc",
+    "geometry_version",
+    "result",
+    "findings",
+    "required_changes"
+  ],
+  "warning_text": "Modelo experimental. No constituye una alerta oficial, una prediccion determinista ni sustituye la informacion del IGP/CENSIS y otras autoridades competentes."
+}
