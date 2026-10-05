@@ -4,43 +4,76 @@
   "classification": "experimental",
   "map_version_code": "TRANSFER_PRESSURE_MAP_ORIGINAL",
   "digitization_protocol": "PROTOCOLO_DIGITALIZACION_V2.md",
-  "status": "NOT_STARTED",
-  "sessions": [],
-  "reviews": [],
-  "version_history": [],
+  "status": "IN_PROGRESS",
+  "sessions": [
+    {
+      "session_id": "DIG-PER-NORTE-01-V1",
+      "operator": "Carlos Parodi",
+      "started_at_utc": null,
+      "completed_at_utc": null,
+      "tool_name": "QGIS Desktop 3.44.15 Solothurn",
+      "source_file_name": "TRANSFER_PRESSURE_MAP_SOUTH_AMERICA_V1.png",
+      "georeferenced_raster": "TRANSFER_PRESSURE_MAP_SOUTH_AMERICA_GEOREF_V1.tif",
+      "gcp_file": "TRANSFER_PRESSURE_MAP_SOUTH_AMERICA_GCP_V1.points",
+      "map_version_code": "TRANSFER_PRESSURE_MAP_ORIGINAL",
+      "corridor_code": "PER-NORTE-01",
+      "geometry_file": "PER-NORTE-01_DIGITIZATION_V1.geojson",
+      "geometry_type": "LineString",
+      "digitization_version": "V1",
+      "direction_status": "SOUTHBOUND_VISUAL",
+      "visual_confidence": "MEDIUM",
+      "review_status": "IN_PROGRESS",
+      "enabled_for_forecast": false,
+      "elements_created": [
+        "PER-NORTE-01 LineString V1"
+      ],
+      "elements_modified": [],
+      "visual_uncertainties": [
+        "Georeferencing approved only for the local north Peru pilot area",
+        "Source map is schematic and does not provide survey-grade positional accuracy",
+        "Southern and global portions of the raster are not approved for digitization"
+      ],
+      "notes": "Pilot trace follows the visual axis of the red offshore arrow opposite Tumbes, Piura, Chiclayo and Trujillo. Geometry remains disabled for forecasts pending visual, technical and historical validation."
+    }
+  ],
+  "reviews": [
+    {
+      "review_id": "REV-PER-NORTE-01-V1-VISUAL-LOCAL",
+      "review_type": "VISUAL_LOCAL",
+      "reviewer": "Carlos Parodi with Microsoft 365 Copilot guidance",
+      "reviewed_at_utc": null,
+      "geometry_version": "V1",
+      "result": "PENDING_FORMAL_REVIEW",
+      "findings": [
+        "GeoJSON exported successfully from QGIS",
+        "GitHub preview shows one offshore line feature along northern Peru",
+        "Attributes remain classified as IN_PROGRESS",
+        "enabled_for_forecast remains false"
+      ],
+      "required_changes": [
+        "Complete technical GeoJSON validation",
+        "Record exact session timestamps if available",
+        "Complete historical replay before any forecast activation"
+      ]
+    }
+  ],
+  "version_history": [
+    {
+      "version": "V1",
+      "corridor_code": "PER-NORTE-01",
+      "change_type": "INITIAL_DIGITIZATION",
+      "geometry_file": "PER-NORTE-01_DIGITIZATION_V1.geojson",
+      "status": "IN_PROGRESS"
+    }
+  ],
   "pilot_corridor": {
     "corridor_code": "PER-NORTE-01",
-    "status": "PENDING_DIGITIZATION",
-    "geometry_version": null,
-    "visual_review": "NOT_STARTED",
+    "status": "DIGITIZED_PENDING_REVIEW",
+    "geometry_version": "V1",
+    "visual_review": "PENDING_FORMAL_REVIEW",
     "technical_review": "NOT_STARTED",
     "historical_validation": "NOT_STARTED",
     "enabled_for_forecast": false
   },
-  "required_session_fields": [
-    "session_id",
-    "operator",
-    "started_at_utc",
-    "completed_at_utc",
-    "tool_name",
-    "source_file_name",
-    "map_version_code",
-    "corridor_code",
-    "zoom_or_scale",
-    "elements_created",
-    "elements_modified",
-    "visual_uncertainties",
-    "notes"
-  ],
-  "required_review_fields": [
-    "review_id",
-    "review_type",
-    "reviewer",
-    "reviewed_at_utc",
-    "geometry_version",
-    "result",
-    "findings",
-    "required_changes"
-  ],
   "warning_text": "Modelo experimental. No constituye una alerta oficial, una prediccion determinista ni sustituye la informacion del IGP/CENSIS y otras autoridades competentes."
 }
