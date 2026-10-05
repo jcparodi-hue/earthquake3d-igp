@@ -879,7 +879,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-715",
     "fecha_primera_recepcion": "2026-10-05T00:45:17.224081+00:00",
-    "fecha_ultima_observacion": "2026-10-05T01:35:11.961288+00:00"
+    "fecha_ultima_observacion": "2026-10-05T01:36:10.762244+00:00"
   },
   "EMSC:20261005_0000013": {
     "id": "20261005_0000013",
@@ -977,6 +977,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261005_0000022",
     "fecha_primera_recepcion": "2026-10-05T01:35:11.961288+00:00",
-    "fecha_ultima_observacion": "2026-10-05T01:35:11.961288+00:00"
+    "fecha_ultima_observacion": "2026-10-05T01:36:10.762244+00:00"
+  },
+  "USGS:us6000tzlp": {
+    "id": "us6000tzlp",
+    "fecha_hora_utc": "2026-10-05T01:18:50.392000+00:00",
+    "magnitud": 5.3,
+    "profundidad_km": 10.0,
+    "latitud": -0.4325,
+    "longitud": -19.965,
+    "pais": "",
+    "ciudad_referencia": "central Mid-Atlantic Ridge",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzlp",
+    "fecha_primera_recepcion": "2026-10-05T01:36:10.762244+00:00",
+    "fecha_ultima_observacion": "2026-10-05T01:36:10.762244+00:00"
   }
 }
