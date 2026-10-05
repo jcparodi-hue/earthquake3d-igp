@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "PER-NORTE-01_DIGITIZATION_V1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"fid":1,"corridor_code":"PER-NORTE-01","corridor_name":"Corredor norte del Peru","direction_status":"SOUTHBOUND_VISUAL","visual_confidence":"MEDIUM","digitization_version":"V1","review_status":"IN_PROGRESS","enabled_for_forecast":0,"notes":"Trazado piloto siguiendo el eje visual de la flecha roja frente a Tumbes, Piura, Chiclayo y Trujillo."},"geometry":{"type":"LineString","coordinates":[[-83.888627790471233,-3.816350143404941],[-83.444537648647653,-5.940137955869083],[-83.089265535188815,-7.549793748960586],[-82.93383398555055,-8.341475326020547]]}}
+]
+}
