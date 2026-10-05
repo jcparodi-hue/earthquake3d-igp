@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-05T10:35:14.746709+00:00",
+  "actualizado_utc": "2026-10-05T10:40:15.423307+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 26,
   "actualizacion_minutos": 5,
   "igp": 26,
   "emsc": 2128,
-  "usgs": 471,
-  "duplicados_eliminados": 443,
+  "usgs": 470,
+  "duplicados_eliminados": 442,
   "eventos_publicados": 2182,
-  "evento_mas_reciente_utc": "2026-10-05T10:13:25.173916+00:00",
+  "evento_mas_reciente_utc": "2026-10-05T10:27:30+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 24,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-05T00:50:19+00:00",
-      "antiguedad_evento_mas_reciente_min": 584.9
+      "antiguedad_evento_mas_reciente_min": 589.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2128,
       "eventos_recibidos": 2130,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-10-05T10:13:25.173916+00:00",
-      "antiguedad_evento_mas_reciente_min": 21.8
+      "evento_mas_reciente_utc": "2026-10-05T10:27:30+00:00",
+      "antiguedad_evento_mas_reciente_min": 12.8
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 471,
-      "eventos_recibidos": 474,
+      "eventos_validos": 470,
+      "eventos_recibidos": 473,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-10-05T08:00:10.420000+00:00",
-      "antiguedad_evento_mas_reciente_min": 155.1
+      "antiguedad_evento_mas_reciente_min": 160.1
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-716"
     },
     "emsc": {
-      "id": "20261005_0000166",
-      "fecha_hora_utc": "2026-10-05T10:13:25.173916+00:00",
-      "magnitud": 3.2,
-      "profundidad_km": 236.4,
-      "latitud": -33.7543,
-      "longitud": 178.6945,
+      "id": "20261005_0000170",
+      "fecha_hora_utc": "2026-10-05T10:27:30+00:00",
+      "magnitud": 3.1,
+      "profundidad_km": 50.0,
+      "latitud": 33.6,
+      "longitud": 132.5,
       "pais": "",
-      "ciudad_referencia": "SOUTH OF KERMADEC ISLANDS",
+      "ciudad_referencia": "SHIKOKU, JAPAN",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261005_0000166"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261005_0000170"
     },
     "usgs": {
       "id": "pr71535823",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-05T10:35:14.746709+00:00"
+    "hora_consulta_utc": "2026-10-05T10:40:15.423307+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-05T10:35:14.746709+00:00",
+  "updated_utc": "2026-10-05T10:40:15.423307+00:00",
   "combined_after_dedup": 2182
 }
