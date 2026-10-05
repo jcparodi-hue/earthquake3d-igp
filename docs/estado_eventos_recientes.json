@@ -2097,7 +2097,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-717",
     "fecha_primera_recepcion": "2026-10-05T15:00:23.228508+00:00",
-    "fecha_ultima_observacion": "2026-10-05T17:20:31.766527+00:00"
+    "fecha_ultima_observacion": "2026-10-05T17:25:13.557543+00:00"
   },
   "EMSC:20261005_0000255": {
     "id": "20261005_0000255",
@@ -2279,7 +2279,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tsxxtn",
     "fecha_primera_recepcion": "2026-10-05T17:00:21.815033+00:00",
-    "fecha_ultima_observacion": "2026-10-05T17:20:31.766527+00:00"
+    "fecha_ultima_observacion": "2026-10-05T17:25:13.557543+00:00"
   },
   "EMSC:20261005_0000282": {
     "id": "20261005_0000282",
@@ -2294,5 +2294,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261005_0000282",
     "fecha_primera_recepcion": "2026-10-05T17:10:16.338067+00:00",
     "fecha_ultima_observacion": "2026-10-05T17:20:31.766527+00:00"
+  },
+  "EMSC:20261005_0000286": {
+    "id": "20261005_0000286",
+    "fecha_hora_utc": "2026-10-05T17:12:54+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 14.0,
+    "latitud": 0.96,
+    "longitud": 120.94,
+    "pais": "",
+    "ciudad_referencia": "MINAHASA, SULAWESI, INDONESIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261005_0000286",
+    "fecha_primera_recepcion": "2026-10-05T17:25:13.557543+00:00",
+    "fecha_ultima_observacion": "2026-10-05T17:25:13.557543+00:00"
   }
 }
