@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-05T10:00:21.923258+00:00",
+  "actualizado_utc": "2026-10-05T10:05:11.318949+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 26,
   "actualizacion_minutos": 5,
   "igp": 26,
-  "emsc": 2132,
+  "emsc": 2130,
   "usgs": 471,
   "duplicados_eliminados": 443,
-  "eventos_publicados": 2186,
-  "evento_mas_reciente_utc": "2026-10-05T09:35:11.440000+00:00",
+  "eventos_publicados": 2184,
+  "evento_mas_reciente_utc": "2026-10-05T09:35:11.800000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 24,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-05T00:50:19+00:00",
-      "antiguedad_evento_mas_reciente_min": 550.0
+      "antiguedad_evento_mas_reciente_min": 554.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2132,
-      "eventos_recibidos": 2134,
+      "eventos_validos": 2130,
+      "eventos_recibidos": 2132,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-10-05T09:35:11.440000+00:00",
-      "antiguedad_evento_mas_reciente_min": 25.2
+      "evento_mas_reciente_utc": "2026-10-05T09:35:11.800000+00:00",
+      "antiguedad_evento_mas_reciente_min": 30.0
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 474,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-10-05T08:00:10.420000+00:00",
-      "antiguedad_evento_mas_reciente_min": 120.2
+      "antiguedad_evento_mas_reciente_min": 125.0
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261005_0000157",
-      "fecha_hora_utc": "2026-10-05T09:35:11.440000+00:00",
+      "fecha_hora_utc": "2026-10-05T09:35:11.800000+00:00",
       "magnitud": 3.2,
-      "profundidad_km": 8.0,
-      "latitud": 43.16,
-      "longitud": 17.7712,
+      "profundidad_km": 9.5,
+      "latitud": 43.1393,
+      "longitud": 17.8063,
       "pais": "",
       "ciudad_referencia": "BOSNIA AND HERZEGOVINA",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-05T10:00:21.923258+00:00"
+    "hora_consulta_utc": "2026-10-05T10:05:11.318949+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-05T10:00:21.923258+00:00",
-  "combined_after_dedup": 2186
+  "updated_utc": "2026-10-05T10:05:11.318949+00:00",
+  "combined_after_dedup": 2184
 }
