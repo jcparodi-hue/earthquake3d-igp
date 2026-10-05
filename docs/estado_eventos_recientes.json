@@ -739,7 +739,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzl0",
     "fecha_primera_recepcion": "2026-10-04T23:00:20.384513+00:00",
-    "fecha_ultima_observacion": "2026-10-05T00:40:15.407448+00:00"
+    "fecha_ultima_observacion": "2026-10-05T00:45:17.224081+00:00"
   },
   "EMSC:20261004_0000362": {
     "id": "20261004_0000362",
@@ -865,6 +865,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261005_0000006",
     "fecha_primera_recepcion": "2026-10-05T00:40:15.407448+00:00",
-    "fecha_ultima_observacion": "2026-10-05T00:40:15.407448+00:00"
+    "fecha_ultima_observacion": "2026-10-05T00:45:17.224081+00:00"
+  },
+  "IGP:2026-715": {
+    "id": "2026-715",
+    "fecha_hora_utc": "2026-10-04T23:03:06+00:00",
+    "magnitud": 3.5,
+    "profundidad_km": 11.0,
+    "latitud": -15.7,
+    "longitud": -71.96,
+    "pais": "Perú",
+    "ciudad_referencia": "9 km al S de Cabanaconde, Caylloma - Arequipa",
+    "fuente": "IGP",
+    "url": "https://ultimosismo.igp.gob.pe/evento/2026-715",
+    "fecha_primera_recepcion": "2026-10-05T00:45:17.224081+00:00",
+    "fecha_ultima_observacion": "2026-10-05T00:45:17.224081+00:00"
   }
 }

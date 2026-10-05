@@ -1,24 +1,24 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-05T00:40:15.407448+00:00",
+  "actualizado_utc": "2026-10-05T00:45:17.224081+00:00",
   "periodo_mundial_dias": 10,
-  "igp_historico": 24,
+  "igp_historico": 25,
   "actualizacion_minutos": 5,
-  "igp": 24,
+  "igp": 25,
   "emsc": 2112,
   "usgs": 471,
-  "duplicados_eliminados": 436,
+  "duplicados_eliminados": 437,
   "eventos_publicados": 2171,
   "evento_mas_reciente_utc": "2026-10-05T00:34:20+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 24,
-      "eventos_recibidos": 24,
+      "eventos_validos": 25,
+      "eventos_recibidos": 25,
       "invalidos_rechazados": 0,
-      "evento_mas_reciente_utc": "2026-10-04T21:08:00+00:00",
-      "antiguedad_evento_mas_reciente_min": 212.3
+      "evento_mas_reciente_utc": "2026-10-04T23:03:06+00:00",
+      "antiguedad_evento_mas_reciente_min": 102.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -27,7 +27,7 @@
       "eventos_recibidos": 2115,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-10-05T00:34:20+00:00",
-      "antiguedad_evento_mas_reciente_min": 5.9
+      "antiguedad_evento_mas_reciente_min": 11.0
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,21 +36,21 @@
       "eventos_recibidos": 475,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-10-04T22:13:26.165000+00:00",
-      "antiguedad_evento_mas_reciente_min": 146.8
+      "antiguedad_evento_mas_reciente_min": 151.9
     }
   },
   "ultimo_evento": {
     "igp": {
-      "id": "2026-714",
-      "fecha_hora_utc": "2026-10-04T21:08:00+00:00",
+      "id": "2026-715",
+      "fecha_hora_utc": "2026-10-04T23:03:06+00:00",
       "magnitud": 3.5,
-      "profundidad_km": 14.0,
-      "latitud": -9.49,
-      "longitud": -75.89,
+      "profundidad_km": 11.0,
+      "latitud": -15.7,
+      "longitud": -71.96,
       "pais": "Perú",
-      "ciudad_referencia": "26 km al SE de Tingo María, Leoncio Prado - Huánuco",
+      "ciudad_referencia": "9 km al S de Cabanaconde, Caylloma - Arequipa",
       "fuente": "IGP",
-      "url": "https://ultimosismo.igp.gob.pe/evento/2026-714"
+      "url": "https://ultimosismo.igp.gob.pe/evento/2026-715"
     },
     "emsc": {
       "id": "20261005_0000006",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-05T00:40:15.407448+00:00"
+    "hora_consulta_utc": "2026-10-05T00:45:17.224081+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-05T00:40:15.407448+00:00",
+  "updated_utc": "2026-10-05T00:45:17.224081+00:00",
   "combined_after_dedup": 2171
 }
