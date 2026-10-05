@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-05T03:55:12.679210+00:00",
+  "actualizado_utc": "2026-10-05T03:58:38.037853+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 25,
   "actualizacion_minutos": 5,
   "igp": 25,
-  "emsc": 2129,
-  "usgs": 476,
-  "duplicados_eliminados": 441,
-  "eventos_publicados": 2189,
-  "evento_mas_reciente_utc": "2026-10-05T03:39:58+00:00",
+  "emsc": 2130,
+  "usgs": 475,
+  "duplicados_eliminados": 440,
+  "eventos_publicados": 2190,
+  "evento_mas_reciente_utc": "2026-10-05T03:47:41+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 24,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-04T23:03:06+00:00",
-      "antiguedad_evento_mas_reciente_min": 292.1
+      "antiguedad_evento_mas_reciente_min": 295.5
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2129,
-      "eventos_recibidos": 2132,
+      "eventos_validos": 2130,
+      "eventos_recibidos": 2133,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-05T03:39:58+00:00",
-      "antiguedad_evento_mas_reciente_min": 15.2
+      "evento_mas_reciente_utc": "2026-10-05T03:47:41+00:00",
+      "antiguedad_evento_mas_reciente_min": 11.0
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 476,
-      "eventos_recibidos": 480,
+      "eventos_validos": 475,
+      "eventos_recibidos": 479,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-10-05T02:34:54.630000+00:00",
-      "antiguedad_evento_mas_reciente_min": 80.3
+      "antiguedad_evento_mas_reciente_min": 83.7
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-715"
     },
     "emsc": {
-      "id": "20261005_0000056",
-      "fecha_hora_utc": "2026-10-05T03:39:58+00:00",
-      "magnitud": 2.8,
-      "profundidad_km": 10.0,
-      "latitud": -7.81,
-      "longitud": 120.33,
+      "id": "20261005_0000059",
+      "fecha_hora_utc": "2026-10-05T03:47:41+00:00",
+      "magnitud": 2.5,
+      "profundidad_km": 125.0,
+      "latitud": -28.64,
+      "longitud": -67.48,
       "pais": "",
-      "ciudad_referencia": "FLORES SEA",
+      "ciudad_referencia": "LA RIOJA, ARGENTINA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261005_0000056"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261005_0000059"
     },
     "usgs": {
       "id": "mb90210028",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-05T03:55:12.679210+00:00"
+    "hora_consulta_utc": "2026-10-05T03:58:38.037853+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-05T03:55:12.679210+00:00",
-  "combined_after_dedup": 2189
+  "updated_utc": "2026-10-05T03:58:38.037853+00:00",
+  "combined_after_dedup": 2190
 }
