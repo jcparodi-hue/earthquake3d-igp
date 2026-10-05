@@ -879,7 +879,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-715",
     "fecha_primera_recepcion": "2026-10-05T00:45:17.224081+00:00",
-    "fecha_ultima_observacion": "2026-10-05T05:40:15.623179+00:00"
+    "fecha_ultima_observacion": "2026-10-05T05:45:17.546052+00:00"
   },
   "EMSC:20261005_0000013": {
     "id": "20261005_0000013",
@@ -1257,7 +1257,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzm7",
     "fecha_primera_recepcion": "2026-10-05T04:38:56.143717+00:00",
-    "fecha_ultima_observacion": "2026-10-05T05:40:15.623179+00:00"
+    "fecha_ultima_observacion": "2026-10-05T05:45:17.546052+00:00"
   },
   "EMSC:20261005_0000070": {
     "id": "20261005_0000070",
@@ -1342,5 +1342,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261005_0000083",
     "fecha_primera_recepcion": "2026-10-05T05:40:15.623179+00:00",
     "fecha_ultima_observacion": "2026-10-05T05:40:15.623179+00:00"
+  },
+  "EMSC:20261005_0000086": {
+    "id": "20261005_0000086",
+    "fecha_hora_utc": "2026-10-05T05:36:27.670000+00:00",
+    "magnitud": 3.8,
+    "profundidad_km": 140.0,
+    "latitud": 45.6752,
+    "longitud": 26.5491,
+    "pais": "",
+    "ciudad_referencia": "ROMANIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261005_0000086",
+    "fecha_primera_recepcion": "2026-10-05T05:45:17.546052+00:00",
+    "fecha_ultima_observacion": "2026-10-05T05:45:17.546052+00:00"
   }
 }
