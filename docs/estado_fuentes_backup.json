@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-05T12:50:18.340365+00:00",
+  "actualizado_utc": "2026-10-05T12:55:13.391207+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 26,
   "actualizacion_minutos": 5,
   "igp": 26,
-  "emsc": 2142,
+  "emsc": 2141,
   "usgs": 473,
   "duplicados_eliminados": 445,
-  "eventos_publicados": 2196,
-  "evento_mas_reciente_utc": "2026-10-05T12:31:42.409000+00:00",
+  "eventos_publicados": 2195,
+  "evento_mas_reciente_utc": "2026-10-05T12:31:43.010000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 24,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-05T00:50:19+00:00",
-      "antiguedad_evento_mas_reciente_min": 720.0
+      "antiguedad_evento_mas_reciente_min": 724.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2142,
-      "eventos_recibidos": 2144,
+      "eventos_validos": 2141,
+      "eventos_recibidos": 2143,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-10-05T12:31:42.409000+00:00",
-      "antiguedad_evento_mas_reciente_min": 18.6
+      "evento_mas_reciente_utc": "2026-10-05T12:31:43.010000+00:00",
+      "antiguedad_evento_mas_reciente_min": 23.5
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -35,8 +35,8 @@
       "eventos_validos": 473,
       "eventos_recibidos": 476,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-05T12:31:43.070000+00:00",
-      "antiguedad_evento_mas_reciente_min": 18.6
+      "evento_mas_reciente_utc": "2026-10-05T12:31:43.010000+00:00",
+      "antiguedad_evento_mas_reciente_min": 23.5
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261005_0000201",
-      "fecha_hora_utc": "2026-10-05T12:31:42.409000+00:00",
+      "fecha_hora_utc": "2026-10-05T12:31:43.010000+00:00",
       "magnitud": 3.9,
-      "profundidad_km": 28.3,
-      "latitud": 19.3771,
-      "longitud": -155.309,
+      "profundidad_km": 28.2,
+      "latitud": 19.3547,
+      "longitud": -155.3007,
       "pais": "",
       "ciudad_referencia": "ISLAND OF HAWAII, HAWAII",
       "fuente": "EMSC",
@@ -66,11 +66,11 @@
     },
     "usgs": {
       "id": "hv75050162",
-      "fecha_hora_utc": "2026-10-05T12:31:43.070000+00:00",
-      "magnitud": 3.5,
-      "profundidad_km": 26.7199993133545,
-      "latitud": 19.3530006408691,
-      "longitud": -155.30583190918,
+      "fecha_hora_utc": "2026-10-05T12:31:43.010000+00:00",
+      "magnitud": 3.59,
+      "profundidad_km": 28.21,
+      "latitud": 19.3546666666667,
+      "longitud": -155.300666666667,
       "pais": "",
       "ciudad_referencia": "12 km SW of Volcano, Hawaii",
       "fuente": "USGS",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-05T12:50:18.340365+00:00"
+    "hora_consulta_utc": "2026-10-05T12:55:13.391207+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-05T12:50:18.340365+00:00",
-  "combined_after_dedup": 2196
+  "updated_utc": "2026-10-05T12:55:13.391207+00:00",
+  "combined_after_dedup": 2195
 }
