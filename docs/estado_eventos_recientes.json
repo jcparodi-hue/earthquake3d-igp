@@ -879,7 +879,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-715",
     "fecha_primera_recepcion": "2026-10-05T00:45:17.224081+00:00",
-    "fecha_ultima_observacion": "2026-10-05T01:45:15.859207+00:00"
+    "fecha_ultima_observacion": "2026-10-05T01:50:04.832988+00:00"
   },
   "EMSC:20261005_0000013": {
     "id": "20261005_0000013",
@@ -991,6 +991,20 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzlp",
     "fecha_primera_recepcion": "2026-10-05T01:36:10.762244+00:00",
-    "fecha_ultima_observacion": "2026-10-05T01:45:15.859207+00:00"
+    "fecha_ultima_observacion": "2026-10-05T01:50:04.832988+00:00"
+  },
+  "EMSC:20261005_0000025": {
+    "id": "20261005_0000025",
+    "fecha_hora_utc": "2026-10-05T01:44:17+00:00",
+    "magnitud": 2.7,
+    "profundidad_km": 30.9,
+    "latitud": -27.99,
+    "longitud": -71.44,
+    "pais": "",
+    "ciudad_referencia": "OFFSHORE ATACAMA, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261005_0000025",
+    "fecha_primera_recepcion": "2026-10-05T01:50:04.832988+00:00",
+    "fecha_ultima_observacion": "2026-10-05T01:50:04.832988+00:00"
   }
 }
