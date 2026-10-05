@@ -879,7 +879,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-715",
     "fecha_primera_recepcion": "2026-10-05T00:45:17.224081+00:00",
-    "fecha_ultima_observacion": "2026-10-05T01:05:11.619558+00:00"
+    "fecha_ultima_observacion": "2026-10-05T01:10:15.799046+00:00"
   },
   "EMSC:20261005_0000013": {
     "id": "20261005_0000013",
@@ -894,5 +894,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261005_0000013",
     "fecha_primera_recepcion": "2026-10-05T01:00:21.875915+00:00",
     "fecha_ultima_observacion": "2026-10-05T01:05:11.619558+00:00"
+  },
+  "EMSC:20261005_0000014": {
+    "id": "20261005_0000014",
+    "fecha_hora_utc": "2026-10-05T01:02:40+00:00",
+    "magnitud": 3.7,
+    "profundidad_km": 101.0,
+    "latitud": -31.21,
+    "longitud": -68.84,
+    "pais": "",
+    "ciudad_referencia": "SAN JUAN, ARGENTINA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261005_0000014",
+    "fecha_primera_recepcion": "2026-10-05T01:10:15.799046+00:00",
+    "fecha_ultima_observacion": "2026-10-05T01:10:15.799046+00:00"
+  },
+  "USGS:us6000tzl3": {
+    "id": "us6000tzl3",
+    "fecha_hora_utc": "2026-10-04T22:51:30.983000+00:00",
+    "magnitud": 4.2,
+    "profundidad_km": 10.0,
+    "latitud": 37.7784,
+    "longitud": 36.0714,
+    "pais": "",
+    "ciudad_referencia": "14 km ESE of Feke, Turkey",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzl3",
+    "fecha_primera_recepcion": "2026-10-05T01:10:15.799046+00:00",
+    "fecha_ultima_observacion": "2026-10-05T01:10:15.799046+00:00"
   }
 }
