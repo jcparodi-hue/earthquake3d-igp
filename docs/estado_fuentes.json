@@ -1,14 +1,14 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-06T16:30:57.016634+00:00",
+  "actualizado_utc": "2026-10-06T16:35:16.465389+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 29,
   "actualizacion_minutos": 5,
   "igp": 29,
-  "emsc": 2185,
-  "usgs": 476,
-  "duplicados_eliminados": 446,
-  "eventos_publicados": 2244,
+  "emsc": 2184,
+  "usgs": 475,
+  "duplicados_eliminados": 445,
+  "eventos_publicados": 2243,
   "evento_mas_reciente_utc": "2026-10-06T16:10:26+00:00",
   "salud_fuentes": {
     "igp": {
@@ -18,25 +18,25 @@
       "eventos_recibidos": 26,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-05T21:23:20+00:00",
-      "antiguedad_evento_mas_reciente_min": 1147.6
+      "antiguedad_evento_mas_reciente_min": 1151.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2185,
-      "eventos_recibidos": 2187,
+      "eventos_validos": 2184,
+      "eventos_recibidos": 2186,
       "invalidos_rechazados": 2,
       "evento_mas_reciente_utc": "2026-10-06T16:10:26+00:00",
-      "antiguedad_evento_mas_reciente_min": 20.5
+      "antiguedad_evento_mas_reciente_min": 24.8
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 476,
-      "eventos_recibidos": 479,
+      "eventos_validos": 475,
+      "eventos_recibidos": 478,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-06T15:34:29.112000+00:00",
-      "antiguedad_evento_mas_reciente_min": 56.5
+      "evento_mas_reciente_utc": "2026-10-06T15:34:29.755000+00:00",
+      "antiguedad_evento_mas_reciente_min": 60.8
     }
   },
   "ultimo_evento": {
@@ -66,13 +66,13 @@
     },
     "usgs": {
       "id": "nn00925363",
-      "fecha_hora_utc": "2026-10-06T15:34:29.112000+00:00",
-      "magnitud": 3.62,
-      "profundidad_km": 0.0,
-      "latitud": 39.0624,
-      "longitud": -115.374,
+      "fecha_hora_utc": "2026-10-06T15:34:29.755000+00:00",
+      "magnitud": 3.6,
+      "profundidad_km": 6.3,
+      "latitud": 38.9946,
+      "longitud": -115.3385,
       "pais": "",
-      "ciudad_referencia": "31 km WNW of Preston, Nevada",
+      "ciudad_referencia": "25 km WNW of Preston, Nevada",
       "fuente": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925363"
     }
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-06T16:30:57.016634+00:00"
+    "hora_consulta_utc": "2026-10-06T16:35:16.465389+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-06T16:30:57.016634+00:00",
-  "combined_after_dedup": 2244
+  "updated_utc": "2026-10-06T16:35:16.465389+00:00",
+  "combined_after_dedup": 2243
 }
