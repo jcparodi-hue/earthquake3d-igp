@@ -2503,7 +2503,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-719",
     "fecha_primera_recepcion": "2026-10-05T21:50:14.808912+00:00",
-    "fecha_ultima_observacion": "2026-10-06T07:30:19.239700+00:00"
+    "fecha_ultima_observacion": "2026-10-06T07:35:12.377402+00:00"
   },
   "EMSC:20261005_0000359": {
     "id": "20261005_0000359",
@@ -3204,5 +3204,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261006_0000084",
     "fecha_primera_recepcion": "2026-10-06T07:30:19.239700+00:00",
     "fecha_ultima_observacion": "2026-10-06T07:30:19.239700+00:00"
+  },
+  "EMSC:20261006_0000085": {
+    "id": "20261006_0000085",
+    "fecha_hora_utc": "2026-10-06T07:27:57+00:00",
+    "magnitud": 3.3,
+    "profundidad_km": 122.5,
+    "latitud": -21.13,
+    "longitud": -68.99,
+    "pais": "",
+    "ciudad_referencia": "TARAPACA, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261006_0000085",
+    "fecha_primera_recepcion": "2026-10-06T07:35:12.377402+00:00",
+    "fecha_ultima_observacion": "2026-10-06T07:35:12.377402+00:00"
+  },
+  "USGS:us6000tzva": {
+    "id": "us6000tzva",
+    "fecha_hora_utc": "2026-10-06T06:54:10.618000+00:00",
+    "magnitud": 4.5,
+    "profundidad_km": 191.741,
+    "latitud": -20.0088,
+    "longitud": -67.4214,
+    "pais": "",
+    "ciudad_referencia": "60 km WNW of Colchani, Bolivia",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzva",
+    "fecha_primera_recepcion": "2026-10-06T07:35:12.377402+00:00",
+    "fecha_ultima_observacion": "2026-10-06T07:35:12.377402+00:00"
   }
 }
