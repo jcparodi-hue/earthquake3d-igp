@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-06T22:30:18.031740+00:00",
+  "actualizado_utc": "2026-10-06T22:35:14.541791+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 29,
   "actualizacion_minutos": 5,
   "igp": 29,
   "emsc": 2176,
-  "usgs": 483,
-  "duplicados_eliminados": 445,
-  "eventos_publicados": 2243,
-  "evento_mas_reciente_utc": "2026-10-06T22:08:30.249161+00:00",
+  "usgs": 485,
+  "duplicados_eliminados": 446,
+  "eventos_publicados": 2244,
+  "evento_mas_reciente_utc": "2026-10-06T22:33:02.530000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 24,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-05T21:23:20+00:00",
-      "antiguedad_evento_mas_reciente_min": 1507.0
+      "antiguedad_evento_mas_reciente_min": 1511.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2176,
       "eventos_recibidos": 2178,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-10-06T22:08:30.249161+00:00",
-      "antiguedad_evento_mas_reciente_min": 21.8
+      "evento_mas_reciente_utc": "2026-10-06T22:30:03.700000+00:00",
+      "antiguedad_evento_mas_reciente_min": 5.2
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 483,
-      "eventos_recibidos": 486,
+      "eventos_validos": 485,
+      "eventos_recibidos": 488,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-06T21:56:42.540000+00:00",
-      "antiguedad_evento_mas_reciente_min": 33.6
+      "evento_mas_reciente_utc": "2026-10-06T22:33:02.530000+00:00",
+      "antiguedad_evento_mas_reciente_min": 2.2
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-719"
     },
     "emsc": {
-      "id": "20261006_0000295",
-      "fecha_hora_utc": "2026-10-06T22:08:30.249161+00:00",
+      "id": "20261006_0000299",
+      "fecha_hora_utc": "2026-10-06T22:30:03.700000+00:00",
       "magnitud": 3.0,
-      "profundidad_km": 13.1,
-      "latitud": -40.2988,
-      "longitud": 176.704,
+      "profundidad_km": 8.6,
+      "latitud": 19.9552,
+      "longitud": -155.4027,
       "pais": "",
-      "ciudad_referencia": "NORTH ISLAND OF NEW ZEALAND",
+      "ciudad_referencia": "ISLAND OF HAWAII, HAWAII",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261006_0000295"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261006_0000299"
     },
     "usgs": {
-      "id": "us6000u0le",
-      "fecha_hora_utc": "2026-10-06T21:56:42.540000+00:00",
-      "magnitud": 4.8,
-      "profundidad_km": 62.064,
-      "latitud": -3.8571,
-      "longitud": 139.4664,
+      "id": "aka2026tvffdw",
+      "fecha_hora_utc": "2026-10-06T22:33:02.530000+00:00",
+      "magnitud": 2.6,
+      "profundidad_km": 41.1,
+      "latitud": 55.772,
+      "longitud": -155.98,
       "pais": "",
-      "ciudad_referencia": "190 km SW of Abepura, Indonesia",
+      "ciudad_referencia": "161 km ESE of Chignik, Alaska",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0le"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tvffdw"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-06T22:30:18.031740+00:00"
+    "hora_consulta_utc": "2026-10-06T22:35:14.541791+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-06T22:30:18.031740+00:00",
-  "combined_after_dedup": 2243
+  "updated_utc": "2026-10-06T22:35:14.541791+00:00",
+  "combined_after_dedup": 2244
 }
