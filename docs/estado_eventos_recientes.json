@@ -2503,7 +2503,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-719",
     "fecha_primera_recepcion": "2026-10-05T21:50:14.808912+00:00",
-    "fecha_ultima_observacion": "2026-10-06T21:05:12.532220+00:00"
+    "fecha_ultima_observacion": "2026-10-06T21:10:17.361161+00:00"
   },
   "EMSC:20261005_0000359": {
     "id": "20261005_0000359",
@@ -4211,6 +4211,20 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tvbgrt",
     "fecha_primera_recepcion": "2026-10-06T20:37:22.963869+00:00",
-    "fecha_ultima_observacion": "2026-10-06T21:05:12.532220+00:00"
+    "fecha_ultima_observacion": "2026-10-06T21:10:17.361161+00:00"
+  },
+  "EMSC:20261006_0000283": {
+    "id": "20261006_0000283",
+    "fecha_hora_utc": "2026-10-06T20:52:13+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 5.0,
+    "latitud": 27.208,
+    "longitud": 92.452,
+    "pais": "",
+    "ciudad_referencia": "ARUNACHAL PRADESH, INDIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261006_0000283",
+    "fecha_primera_recepcion": "2026-10-06T21:10:17.361161+00:00",
+    "fecha_ultima_observacion": "2026-10-06T21:10:17.361161+00:00"
   }
 }
