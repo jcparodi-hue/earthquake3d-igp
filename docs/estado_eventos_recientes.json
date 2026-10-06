@@ -2503,7 +2503,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-719",
     "fecha_primera_recepcion": "2026-10-05T21:50:14.808912+00:00",
-    "fecha_ultima_observacion": "2026-10-06T07:10:16.931036+00:00"
+    "fecha_ultima_observacion": "2026-10-06T07:15:15.203307+00:00"
   },
   "EMSC:20261005_0000359": {
     "id": "20261005_0000359",
@@ -3133,7 +3133,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzv6",
     "fecha_primera_recepcion": "2026-10-06T06:40:18.713582+00:00",
-    "fecha_ultima_observacion": "2026-10-06T07:10:16.931036+00:00"
+    "fecha_ultima_observacion": "2026-10-06T07:15:15.203307+00:00"
   },
   "EMSC:20261006_0000073": {
     "id": "20261006_0000073",
@@ -3162,5 +3162,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261006_0000074",
     "fecha_primera_recepcion": "2026-10-06T06:50:15.919224+00:00",
     "fecha_ultima_observacion": "2026-10-06T07:10:16.931036+00:00"
+  },
+  "EMSC:20261006_0000080": {
+    "id": "20261006_0000080",
+    "fecha_hora_utc": "2026-10-06T06:52:59+00:00",
+    "magnitud": 4.1,
+    "profundidad_km": 170.3,
+    "latitud": 16.936,
+    "longitud": -93.865,
+    "pais": "",
+    "ciudad_referencia": "CHIAPAS, MEXICO",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261006_0000080",
+    "fecha_primera_recepcion": "2026-10-06T07:15:15.203307+00:00",
+    "fecha_ultima_observacion": "2026-10-06T07:15:15.203307+00:00"
   }
 }
