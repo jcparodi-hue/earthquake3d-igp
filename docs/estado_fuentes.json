@@ -1,14 +1,14 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-06T06:35:14.557764+00:00",
+  "actualizado_utc": "2026-10-06T06:40:18.713582+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 29,
   "actualizacion_minutos": 5,
   "igp": 29,
-  "emsc": 2179,
+  "emsc": 2178,
   "usgs": 491,
   "duplicados_eliminados": 458,
-  "eventos_publicados": 2241,
+  "eventos_publicados": 2240,
   "evento_mas_reciente_utc": "2026-10-06T06:25:22+00:00",
   "salud_fuentes": {
     "igp": {
@@ -18,16 +18,16 @@
       "eventos_recibidos": 26,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-05T21:23:20+00:00",
-      "antiguedad_evento_mas_reciente_min": 551.9
+      "antiguedad_evento_mas_reciente_min": 557.0
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2179,
-      "eventos_recibidos": 2181,
+      "eventos_validos": 2178,
+      "eventos_recibidos": 2180,
       "invalidos_rechazados": 2,
       "evento_mas_reciente_utc": "2026-10-06T06:25:22+00:00",
-      "antiguedad_evento_mas_reciente_min": 9.9
+      "antiguedad_evento_mas_reciente_min": 14.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -35,8 +35,8 @@
       "eventos_validos": 491,
       "eventos_recibidos": 494,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-06T06:04:50.916000+00:00",
-      "antiguedad_evento_mas_reciente_min": 30.4
+      "evento_mas_reciente_utc": "2026-10-06T06:16:33.173000+00:00",
+      "antiguedad_evento_mas_reciente_min": 23.8
     }
   },
   "ultimo_evento": {
@@ -65,24 +65,24 @@
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261006_0000072"
     },
     "usgs": {
-      "id": "aka2026ttygip",
-      "fecha_hora_utc": "2026-10-06T06:04:50.916000+00:00",
-      "magnitud": 3.1,
-      "profundidad_km": 1.3,
-      "latitud": 63.857,
-      "longitud": -147.67,
+      "id": "us6000tzv6",
+      "fecha_hora_utc": "2026-10-06T06:16:33.173000+00:00",
+      "magnitud": 4.7,
+      "profundidad_km": 122.011,
+      "latitud": -21.1586,
+      "longitud": -68.6026,
       "pais": "",
-      "ciudad_referencia": "62 km ENE of Denali Park, Alaska",
+      "ciudad_referencia": "36 km WNW of Ollagüe, Chile",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ttygip"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzv6"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-06T06:35:14.557764+00:00"
+    "hora_consulta_utc": "2026-10-06T06:40:18.713582+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-06T06:35:14.557764+00:00",
-  "combined_after_dedup": 2241
+  "updated_utc": "2026-10-06T06:40:18.713582+00:00",
+  "combined_after_dedup": 2240
 }
