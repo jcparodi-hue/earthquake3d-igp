@@ -2503,7 +2503,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-719",
     "fecha_primera_recepcion": "2026-10-05T21:50:14.808912+00:00",
-    "fecha_ultima_observacion": "2026-10-06T02:00:21.865575+00:00"
+    "fecha_ultima_observacion": "2026-10-06T02:05:12.642409+00:00"
   },
   "EMSC:20261005_0000359": {
     "id": "20261005_0000359",
@@ -2770,5 +2770,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261006_0000016",
     "fecha_primera_recepcion": "2026-10-06T01:59:06.187206+00:00",
     "fecha_ultima_observacion": "2026-10-06T02:00:21.865575+00:00"
+  },
+  "EMSC:20261006_0000020": {
+    "id": "20261006_0000020",
+    "fecha_hora_utc": "2026-10-06T02:02:09.190000+00:00",
+    "magnitud": 2.6,
+    "profundidad_km": 7.4,
+    "latitud": 46.7402,
+    "longitud": -122.0537,
+    "pais": "",
+    "ciudad_referencia": "WASHINGTON",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261006_0000020",
+    "fecha_primera_recepcion": "2026-10-06T02:05:12.642409+00:00",
+    "fecha_ultima_observacion": "2026-10-06T02:05:12.642409+00:00"
+  },
+  "USGS:uw714116641": {
+    "id": "uw714116641",
+    "fecha_hora_utc": "2026-10-06T02:02:09.190000+00:00",
+    "magnitud": 2.57948839664459,
+    "profundidad_km": 7.44000005722046,
+    "latitud": 46.7401657104492,
+    "longitud": -122.053665161133,
+    "pais": "",
+    "ciudad_referencia": "2 km SW of Ashford, Washington",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714116641",
+    "fecha_primera_recepcion": "2026-10-06T02:05:12.642409+00:00",
+    "fecha_ultima_observacion": "2026-10-06T02:05:12.642409+00:00"
   }
 }
