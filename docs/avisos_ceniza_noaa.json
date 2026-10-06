@@ -1,5 +1,19 @@
 [
   {
+    "volcan": "Sangay",
+    "pais": "Ecuador",
+    "codigo_vaac": "SANGAY3",
+    "fecha_hora_utc_texto": "2326 UTC",
+    "id_archivo": "2026J062326",
+    "url_aviso": "https://www.ospo.noaa.gov/VAAC/ARCH26/SANGAY3/2026J062326.html",
+    "url_xml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/xml_files/FVXX23_20261006_2326.xml",
+    "url_grafico": "https://www.ospo.noaa.gov/VAAC/ARCH26/GFX/SANG0655.jpg",
+    "url_kml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/kml_files/SANGAY_ASH_202610062326.kml",
+    "vaac": "Washington",
+    "tipo": "VAA",
+    "fuente": "NOAA Washington VAAC"
+  },
+  {
     "volcan": "Reventador",
     "pais": "Ecuador",
     "codigo_vaac": "REVE",
@@ -233,20 +247,6 @@
     "url_xml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/xml_files/FVXX21_20261006_0143.xml",
     "url_grafico": "https://www.ospo.noaa.gov/VAAC/ARCH26/GFX/REVE1037.jpg",
     "url_kml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/kml_files/REVENTADOR_ASH_202610060143.kml",
-    "vaac": "Washington",
-    "tipo": "VAA",
-    "fuente": "NOAA Washington VAAC"
-  },
-  {
-    "volcan": "Santa María",
-    "pais": "Guatemala",
-    "codigo_vaac": "SANTAMA",
-    "fecha_hora_utc_texto": "2331 UTC",
-    "id_archivo": "2026J052331",
-    "url_aviso": "https://www.ospo.noaa.gov/VAAC/ARCH26/SANTAMA/2026J052331.html",
-    "url_xml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/xml_files/FVXX22_20261005_2331.xml",
-    "url_grafico": "https://www.ospo.noaa.gov/VAAC/ARCH26/GFX/SANT0594.jpg",
-    "url_kml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/kml_files/SANTAMARIA_ASH_202610052331.kml",
     "vaac": "Washington",
     "tipo": "VAA",
     "fuente": "NOAA Washington VAAC"
