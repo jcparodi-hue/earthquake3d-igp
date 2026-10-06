@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-06T04:05:14.023059+00:00",
+  "actualizado_utc": "2026-10-06T04:10:14.267286+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 29,
   "actualizacion_minutos": 5,
   "igp": 29,
-  "emsc": 2175,
-  "usgs": 489,
-  "duplicados_eliminados": 453,
-  "eventos_publicados": 2240,
-  "evento_mas_reciente_utc": "2026-10-06T04:01:29.019884+00:00",
+  "emsc": 2174,
+  "usgs": 490,
+  "duplicados_eliminados": 454,
+  "eventos_publicados": 2239,
+  "evento_mas_reciente_utc": "2026-10-06T04:01:28.177000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 26,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-05T21:23:20+00:00",
-      "antiguedad_evento_mas_reciente_min": 401.9
+      "antiguedad_evento_mas_reciente_min": 406.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2175,
-      "eventos_recibidos": 2177,
+      "eventos_validos": 2174,
+      "eventos_recibidos": 2176,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-10-06T04:01:29.019884+00:00",
-      "antiguedad_evento_mas_reciente_min": 3.8
+      "evento_mas_reciente_utc": "2026-10-06T04:01:28.177000+00:00",
+      "antiguedad_evento_mas_reciente_min": 8.8
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 489,
-      "eventos_recibidos": 492,
+      "eventos_validos": 490,
+      "eventos_recibidos": 493,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-06T03:42:43.999000+00:00",
-      "antiguedad_evento_mas_reciente_min": 22.5
+      "evento_mas_reciente_utc": "2026-10-06T04:01:29.033000+00:00",
+      "antiguedad_evento_mas_reciente_min": 8.8
     }
   },
   "ultimo_evento": {
@@ -54,35 +54,35 @@
     },
     "emsc": {
       "id": "20261006_0000043",
-      "fecha_hora_utc": "2026-10-06T04:01:29.019884+00:00",
+      "fecha_hora_utc": "2026-10-06T04:01:28.177000+00:00",
       "magnitud": 3.4,
-      "profundidad_km": 32.9,
-      "latitud": 61.551,
-      "longitud": -149.905,
+      "profundidad_km": 65.4,
+      "latitud": 61.572,
+      "longitud": -149.8786,
       "pais": "",
       "ciudad_referencia": "SOUTHERN ALASKA",
       "fuente": "EMSC",
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261006_0000043"
     },
     "usgs": {
-      "id": "us6000tzuj",
-      "fecha_hora_utc": "2026-10-06T03:42:43.999000+00:00",
-      "magnitud": 4.8,
-      "profundidad_km": 8.653,
-      "latitud": -7.8323,
-      "longitud": 120.3932,
+      "id": "aka2026ttudjl",
+      "fecha_hora_utc": "2026-10-06T04:01:29.033000+00:00",
+      "magnitud": 3.4,
+      "profundidad_km": 32.8,
+      "latitud": 61.548,
+      "longitud": -149.903,
       "pais": "",
-      "ciudad_referencia": "86 km N of Ruteng, Indonesia",
+      "ciudad_referencia": "4 km NE of Big Lake, Alaska",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzuj"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ttudjl"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-06T04:05:14.023059+00:00"
+    "hora_consulta_utc": "2026-10-06T04:10:14.267286+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-06T04:05:14.023059+00:00",
-  "combined_after_dedup": 2240
+  "updated_utc": "2026-10-06T04:10:14.267286+00:00",
+  "combined_after_dedup": 2239
 }
