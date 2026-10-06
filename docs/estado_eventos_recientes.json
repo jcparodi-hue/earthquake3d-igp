@@ -2503,7 +2503,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-719",
     "fecha_primera_recepcion": "2026-10-05T21:50:14.808912+00:00",
-    "fecha_ultima_observacion": "2026-10-06T04:30:16.912807+00:00"
+    "fecha_ultima_observacion": "2026-10-06T04:35:13.170184+00:00"
   },
   "EMSC:20261005_0000359": {
     "id": "20261005_0000359",
@@ -2952,5 +2952,33 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ttudjl",
     "fecha_primera_recepcion": "2026-10-06T04:10:14.267286+00:00",
     "fecha_ultima_observacion": "2026-10-06T04:30:16.912807+00:00"
+  },
+  "EMSC:20261006_0000049": {
+    "id": "20261006_0000049",
+    "fecha_hora_utc": "2026-10-06T04:29:56.400000+00:00",
+    "magnitud": 3.1,
+    "profundidad_km": 2.8,
+    "latitud": 18.738,
+    "longitud": -156.5492,
+    "pais": "",
+    "ciudad_referencia": "HAWAII REGION, HAWAII",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261006_0000049",
+    "fecha_primera_recepcion": "2026-10-06T04:35:13.170184+00:00",
+    "fecha_ultima_observacion": "2026-10-06T04:35:13.170184+00:00"
+  },
+  "USGS:hv75050527": {
+    "id": "hv75050527",
+    "fecha_hora_utc": "2026-10-06T04:29:56.400000+00:00",
+    "magnitud": 3.12,
+    "profundidad_km": 2.75,
+    "latitud": 18.738000869751,
+    "longitud": -156.549163818359,
+    "pais": "",
+    "ciudad_referencia": "90 km WSW of Hawaiian Ocean View, Hawaii",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75050527",
+    "fecha_primera_recepcion": "2026-10-06T04:35:13.170184+00:00",
+    "fecha_ultima_observacion": "2026-10-06T04:35:13.170184+00:00"
   }
 }

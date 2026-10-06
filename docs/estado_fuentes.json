@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-06T04:30:16.912807+00:00",
+  "actualizado_utc": "2026-10-06T04:35:13.170184+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 29,
   "actualizacion_minutos": 5,
   "igp": 29,
-  "emsc": 2171,
-  "usgs": 490,
-  "duplicados_eliminados": 454,
-  "eventos_publicados": 2236,
-  "evento_mas_reciente_utc": "2026-10-06T04:01:28.177000+00:00",
+  "emsc": 2174,
+  "usgs": 492,
+  "duplicados_eliminados": 456,
+  "eventos_publicados": 2239,
+  "evento_mas_reciente_utc": "2026-10-06T04:29:56.400000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 26,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-05T21:23:20+00:00",
-      "antiguedad_evento_mas_reciente_min": 426.9
+      "antiguedad_evento_mas_reciente_min": 431.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2171,
-      "eventos_recibidos": 2173,
+      "eventos_validos": 2174,
+      "eventos_recibidos": 2176,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-10-06T04:01:28.177000+00:00",
-      "antiguedad_evento_mas_reciente_min": 28.8
+      "evento_mas_reciente_utc": "2026-10-06T04:29:56.400000+00:00",
+      "antiguedad_evento_mas_reciente_min": 5.3
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 490,
-      "eventos_recibidos": 493,
+      "eventos_validos": 492,
+      "eventos_recibidos": 495,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-06T04:01:29.033000+00:00",
-      "antiguedad_evento_mas_reciente_min": 28.8
+      "evento_mas_reciente_utc": "2026-10-06T04:29:56.400000+00:00",
+      "antiguedad_evento_mas_reciente_min": 5.3
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-719"
     },
     "emsc": {
-      "id": "20261006_0000043",
-      "fecha_hora_utc": "2026-10-06T04:01:28.177000+00:00",
-      "magnitud": 3.4,
-      "profundidad_km": 65.4,
-      "latitud": 61.572,
-      "longitud": -149.8786,
+      "id": "20261006_0000049",
+      "fecha_hora_utc": "2026-10-06T04:29:56.400000+00:00",
+      "magnitud": 3.1,
+      "profundidad_km": 2.8,
+      "latitud": 18.738,
+      "longitud": -156.5492,
       "pais": "",
-      "ciudad_referencia": "SOUTHERN ALASKA",
+      "ciudad_referencia": "HAWAII REGION, HAWAII",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261006_0000043"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261006_0000049"
     },
     "usgs": {
-      "id": "aka2026ttudjl",
-      "fecha_hora_utc": "2026-10-06T04:01:29.033000+00:00",
-      "magnitud": 3.4,
-      "profundidad_km": 32.8,
-      "latitud": 61.548,
-      "longitud": -149.903,
+      "id": "hv75050527",
+      "fecha_hora_utc": "2026-10-06T04:29:56.400000+00:00",
+      "magnitud": 3.12,
+      "profundidad_km": 2.75,
+      "latitud": 18.738000869751,
+      "longitud": -156.549163818359,
       "pais": "",
-      "ciudad_referencia": "4 km NE of Big Lake, Alaska",
+      "ciudad_referencia": "90 km WSW of Hawaiian Ocean View, Hawaii",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ttudjl"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75050527"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-06T04:30:16.912807+00:00"
+    "hora_consulta_utc": "2026-10-06T04:35:13.170184+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-06T04:30:16.912807+00:00",
-  "combined_after_dedup": 2236
+  "updated_utc": "2026-10-06T04:35:13.170184+00:00",
+  "combined_after_dedup": 2239
 }
