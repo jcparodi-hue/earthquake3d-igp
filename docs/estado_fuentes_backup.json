@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-06T20:37:22.963869+00:00",
+  "actualizado_utc": "2026-10-06T20:40:17.393297+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 29,
   "actualizacion_minutos": 5,
   "igp": 29,
-  "emsc": 2189,
-  "usgs": 478,
-  "duplicados_eliminados": 443,
-  "eventos_publicados": 2253,
-  "evento_mas_reciente_utc": "2026-10-06T20:34:34.608023+00:00",
+  "emsc": 2188,
+  "usgs": 477,
+  "duplicados_eliminados": 442,
+  "eventos_publicados": 2252,
+  "evento_mas_reciente_utc": "2026-10-06T20:34:34.516022+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 25,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-05T21:23:20+00:00",
-      "antiguedad_evento_mas_reciente_min": 1394.0
+      "antiguedad_evento_mas_reciente_min": 1397.0
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2189,
-      "eventos_recibidos": 2191,
+      "eventos_validos": 2188,
+      "eventos_recibidos": 2190,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-10-06T20:34:34.608023+00:00",
-      "antiguedad_evento_mas_reciente_min": 2.8
+      "evento_mas_reciente_utc": "2026-10-06T20:34:34.516022+00:00",
+      "antiguedad_evento_mas_reciente_min": 5.7
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 478,
-      "eventos_recibidos": 481,
+      "eventos_validos": 477,
+      "eventos_recibidos": 480,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-06T20:34:34.608000+00:00",
-      "antiguedad_evento_mas_reciente_min": 2.8
+      "evento_mas_reciente_utc": "2026-10-06T20:34:34.516000+00:00",
+      "antiguedad_evento_mas_reciente_min": 5.7
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261006_0000277",
-      "fecha_hora_utc": "2026-10-06T20:34:34.608023+00:00",
-      "magnitud": 3.2,
-      "profundidad_km": 30.0,
-      "latitud": 54.713,
-      "longitud": -156.85,
+      "fecha_hora_utc": "2026-10-06T20:34:34.516022+00:00",
+      "magnitud": 3.5,
+      "profundidad_km": 20.8,
+      "latitud": 54.684,
+      "longitud": -156.792,
       "pais": "",
       "ciudad_referencia": "SOUTH OF ALASKA",
       "fuente": "EMSC",
@@ -66,13 +66,13 @@
     },
     "usgs": {
       "id": "aka2026tvbgrt",
-      "fecha_hora_utc": "2026-10-06T20:34:34.608000+00:00",
-      "magnitud": 3.4,
-      "profundidad_km": 30.0,
-      "latitud": 54.713,
-      "longitud": -156.85,
+      "fecha_hora_utc": "2026-10-06T20:34:34.516000+00:00",
+      "magnitud": 3.5,
+      "profundidad_km": 20.8,
+      "latitud": 54.684,
+      "longitud": -156.792,
       "pais": "",
-      "ciudad_referencia": "197 km SE of Perryville, Alaska",
+      "ciudad_referencia": "202 km SE of Perryville, Alaska",
       "fuente": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tvbgrt"
     }
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-06T20:37:22.963869+00:00"
+    "hora_consulta_utc": "2026-10-06T20:40:17.393297+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-06T20:37:22.963869+00:00",
-  "combined_after_dedup": 2253
+  "updated_utc": "2026-10-06T20:40:17.393297+00:00",
+  "combined_after_dedup": 2252
 }
