@@ -2503,7 +2503,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-719",
     "fecha_primera_recepcion": "2026-10-05T21:50:14.808912+00:00",
-    "fecha_ultima_observacion": "2026-10-06T14:05:16.011303+00:00"
+    "fecha_ultima_observacion": "2026-10-06T14:07:40.388264+00:00"
   },
   "EMSC:20261005_0000359": {
     "id": "20261005_0000359",
@@ -3707,7 +3707,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzwg",
     "fecha_primera_recepcion": "2026-10-06T13:50:17.047123+00:00",
-    "fecha_ultima_observacion": "2026-10-06T14:05:16.011303+00:00"
+    "fecha_ultima_observacion": "2026-10-06T14:07:40.388264+00:00"
   },
   "EMSC:20261006_0000170": {
     "id": "20261006_0000170",
@@ -3722,5 +3722,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261006_0000170",
     "fecha_primera_recepcion": "2026-10-06T14:00:27.255753+00:00",
     "fecha_ultima_observacion": "2026-10-06T14:05:16.011303+00:00"
+  },
+  "EMSC:20261006_0000171": {
+    "id": "20261006_0000171",
+    "fecha_hora_utc": "2026-10-06T14:01:52+00:00",
+    "magnitud": 3.9,
+    "profundidad_km": 35.0,
+    "latitud": 0.77,
+    "longitud": 98.79,
+    "pais": "",
+    "ciudad_referencia": "NIAS REGION, INDONESIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261006_0000171",
+    "fecha_primera_recepcion": "2026-10-06T14:07:40.388264+00:00",
+    "fecha_ultima_observacion": "2026-10-06T14:07:40.388264+00:00"
   }
 }
