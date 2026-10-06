@@ -1,14 +1,14 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-06T04:55:12.724862+00:00",
+  "actualizado_utc": "2026-10-06T05:00:21.333756+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 29,
   "actualizacion_minutos": 5,
   "igp": 29,
-  "emsc": 2175,
-  "usgs": 493,
-  "duplicados_eliminados": 457,
-  "eventos_publicados": 2240,
+  "emsc": 2176,
+  "usgs": 494,
+  "duplicados_eliminados": 458,
+  "eventos_publicados": 2241,
   "evento_mas_reciente_utc": "2026-10-06T04:49:40+00:00",
   "salud_fuentes": {
     "igp": {
@@ -18,25 +18,25 @@
       "eventos_recibidos": 26,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-05T21:23:20+00:00",
-      "antiguedad_evento_mas_reciente_min": 451.9
+      "antiguedad_evento_mas_reciente_min": 457.0
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2175,
-      "eventos_recibidos": 2177,
+      "eventos_validos": 2176,
+      "eventos_recibidos": 2178,
       "invalidos_rechazados": 2,
       "evento_mas_reciente_utc": "2026-10-06T04:49:40+00:00",
-      "antiguedad_evento_mas_reciente_min": 5.5
+      "antiguedad_evento_mas_reciente_min": 10.7
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 493,
-      "eventos_recibidos": 496,
+      "eventos_validos": 494,
+      "eventos_recibidos": 497,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-06T04:29:49.160000+00:00",
-      "antiguedad_evento_mas_reciente_min": 25.4
+      "evento_mas_reciente_utc": "2026-10-06T04:40:28.098000+00:00",
+      "antiguedad_evento_mas_reciente_min": 19.9
     }
   },
   "ultimo_evento": {
@@ -55,34 +55,34 @@
     "emsc": {
       "id": "20261006_0000052",
       "fecha_hora_utc": "2026-10-06T04:49:40+00:00",
-      "magnitud": 3.1,
-      "profundidad_km": 248.8,
-      "latitud": -23.84,
-      "longitud": -67.18,
+      "magnitud": 3.5,
+      "profundidad_km": 216.1,
+      "latitud": -24.06,
+      "longitud": -67.01,
       "pais": "",
       "ciudad_referencia": "SALTA, ARGENTINA",
       "fuente": "EMSC",
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261006_0000052"
     },
     "usgs": {
-      "id": "us6000tzun",
-      "fecha_hora_utc": "2026-10-06T04:29:49.160000+00:00",
-      "magnitud": 3.3,
+      "id": "us6000tzus",
+      "fecha_hora_utc": "2026-10-06T04:40:28.098000+00:00",
+      "magnitud": 4.9,
       "profundidad_km": 10.0,
-      "latitud": 18.7252,
-      "longitud": -156.8293,
+      "latitud": 6.7818,
+      "longitud": 144.4068,
       "pais": "",
-      "ciudad_referencia": "118 km WSW of Hawaiian Ocean View, Hawaii",
+      "ciudad_referencia": "State of Yap, Federated States of Micronesia",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzun"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzus"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-06T04:55:12.724862+00:00"
+    "hora_consulta_utc": "2026-10-06T05:00:21.333756+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-06T04:55:12.724862+00:00",
-  "combined_after_dedup": 2240
+  "updated_utc": "2026-10-06T05:00:21.333756+00:00",
+  "combined_after_dedup": 2241
 }
