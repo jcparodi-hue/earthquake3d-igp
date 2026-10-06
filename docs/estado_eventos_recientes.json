@@ -2475,7 +2475,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343775",
     "fecha_primera_recepcion": "2026-10-05T21:31:59.063197+00:00",
-    "fecha_ultima_observacion": "2026-10-06T01:30:17.209048+00:00"
+    "fecha_ultima_observacion": "2026-10-06T01:35:12.022951+00:00"
   },
   "EMSC:20261005_0000354": {
     "id": "20261005_0000354",
@@ -2503,7 +2503,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-719",
     "fecha_primera_recepcion": "2026-10-05T21:50:14.808912+00:00",
-    "fecha_ultima_observacion": "2026-10-06T01:30:17.209048+00:00"
+    "fecha_ultima_observacion": "2026-10-06T01:35:12.022951+00:00"
   },
   "EMSC:20261005_0000359": {
     "id": "20261005_0000359",
@@ -2728,5 +2728,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261006_0000014",
     "fecha_primera_recepcion": "2026-10-06T01:30:17.209048+00:00",
     "fecha_ultima_observacion": "2026-10-06T01:30:17.209048+00:00"
+  },
+  "EMSC:20261006_0000013": {
+    "id": "20261006_0000013",
+    "fecha_hora_utc": "2026-10-06T01:26:19.970000+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 1.0,
+    "latitud": 43.1,
+    "longitud": -0.4,
+    "pais": "",
+    "ciudad_referencia": "PYRENEES",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261006_0000013",
+    "fecha_primera_recepcion": "2026-10-06T01:35:12.022951+00:00",
+    "fecha_ultima_observacion": "2026-10-06T01:35:12.022951+00:00"
   }
 }
