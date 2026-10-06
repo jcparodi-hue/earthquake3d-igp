@@ -2503,7 +2503,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-719",
     "fecha_primera_recepcion": "2026-10-05T21:50:14.808912+00:00",
-    "fecha_ultima_observacion": "2026-10-06T09:20:17.414277+00:00"
+    "fecha_ultima_observacion": "2026-10-06T09:25:13.576649+00:00"
   },
   "EMSC:20261005_0000359": {
     "id": "20261005_0000359",
@@ -3357,6 +3357,20 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzvn",
     "fecha_primera_recepcion": "2026-10-06T09:15:18.755662+00:00",
-    "fecha_ultima_observacion": "2026-10-06T09:20:17.414277+00:00"
+    "fecha_ultima_observacion": "2026-10-06T09:25:13.576649+00:00"
+  },
+  "EMSC:20261006_0000101": {
+    "id": "20261006_0000101",
+    "fecha_hora_utc": "2026-10-06T09:03:32+00:00",
+    "magnitud": 3.7,
+    "profundidad_km": 10.0,
+    "latitud": 29.831,
+    "longitud": 92.496,
+    "pais": "",
+    "ciudad_referencia": "EASTERN XIZANG",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261006_0000101",
+    "fecha_primera_recepcion": "2026-10-06T09:25:13.576649+00:00",
+    "fecha_ultima_observacion": "2026-10-06T09:25:13.576649+00:00"
   }
 }
