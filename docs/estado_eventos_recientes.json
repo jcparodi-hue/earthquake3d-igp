@@ -2503,7 +2503,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-719",
     "fecha_primera_recepcion": "2026-10-05T21:50:14.808912+00:00",
-    "fecha_ultima_observacion": "2026-10-06T22:10:15.537302+00:00"
+    "fecha_ultima_observacion": "2026-10-06T22:15:18.045392+00:00"
   },
   "EMSC:20261005_0000359": {
     "id": "20261005_0000359",
@@ -4282,5 +4282,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261006_0000291",
     "fecha_primera_recepcion": "2026-10-06T22:08:58.410224+00:00",
     "fecha_ultima_observacion": "2026-10-06T22:10:15.537302+00:00"
+  },
+  "EMSC:20261006_0000295": {
+    "id": "20261006_0000295",
+    "fecha_hora_utc": "2026-10-06T22:08:30.249161+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 13.1,
+    "latitud": -40.2988,
+    "longitud": 176.704,
+    "pais": "",
+    "ciudad_referencia": "NORTH ISLAND OF NEW ZEALAND",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261006_0000295",
+    "fecha_primera_recepcion": "2026-10-06T22:15:18.045392+00:00",
+    "fecha_ultima_observacion": "2026-10-06T22:15:18.045392+00:00"
+  },
+  "USGS:us6000u0le": {
+    "id": "us6000u0le",
+    "fecha_hora_utc": "2026-10-06T21:56:42.540000+00:00",
+    "magnitud": 4.8,
+    "profundidad_km": 62.064,
+    "latitud": -3.8571,
+    "longitud": 139.4664,
+    "pais": "",
+    "ciudad_referencia": "190 km SW of Abepura, Indonesia",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0le",
+    "fecha_primera_recepcion": "2026-10-06T22:15:18.045392+00:00",
+    "fecha_ultima_observacion": "2026-10-06T22:15:18.045392+00:00"
   }
 }
