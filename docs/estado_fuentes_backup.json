@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-06T17:06:27.224098+00:00",
+  "actualizado_utc": "2026-10-06T17:10:22.807968+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 29,
   "actualizacion_minutos": 5,
   "igp": 29,
   "emsc": 2185,
-  "usgs": 474,
-  "duplicados_eliminados": 444,
+  "usgs": 476,
+  "duplicados_eliminados": 446,
   "eventos_publicados": 2244,
-  "evento_mas_reciente_utc": "2026-10-06T16:53:15.560000+00:00",
+  "evento_mas_reciente_utc": "2026-10-06T16:53:11.296000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 26,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-05T21:23:20+00:00",
-      "antiguedad_evento_mas_reciente_min": 1183.1
+      "antiguedad_evento_mas_reciente_min": 1187.0
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2185,
       "eventos_recibidos": 2187,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-10-06T16:53:15.560000+00:00",
-      "antiguedad_evento_mas_reciente_min": 13.2
+      "evento_mas_reciente_utc": "2026-10-06T16:53:11.296000+00:00",
+      "antiguedad_evento_mas_reciente_min": 17.2
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 474,
-      "eventos_recibidos": 477,
+      "eventos_validos": 476,
+      "eventos_recibidos": 479,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-06T15:42:06.800000+00:00",
-      "antiguedad_evento_mas_reciente_min": 84.3
+      "evento_mas_reciente_utc": "2026-10-06T16:53:11.296000+00:00",
+      "antiguedad_evento_mas_reciente_min": 17.2
     }
   },
   "ultimo_evento": {
@@ -54,35 +54,35 @@
     },
     "emsc": {
       "id": "20261006_0000229",
-      "fecha_hora_utc": "2026-10-06T16:53:15.560000+00:00",
+      "fecha_hora_utc": "2026-10-06T16:53:11.296000+00:00",
       "magnitud": 5.1,
-      "profundidad_km": 25.0,
-      "latitud": 30.9083,
-      "longitud": 80.1281,
+      "profundidad_km": 10.0,
+      "latitud": 30.1171,
+      "longitud": 79.6148,
       "pais": "",
-      "ciudad_referencia": "WESTERN XIZANG-INDIA BORDER REG.",
+      "ciudad_referencia": "UTTARANCHAL, INDIA",
       "fuente": "EMSC",
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261006_0000229"
     },
     "usgs": {
-      "id": "pr71535908",
-      "fecha_hora_utc": "2026-10-06T15:42:06.800000+00:00",
-      "magnitud": 3.07,
-      "profundidad_km": 112.96,
-      "latitud": 18.4088333333333,
-      "longitud": -66.0446666666667,
+      "id": "us6000u0hz",
+      "fecha_hora_utc": "2026-10-06T16:53:11.296000+00:00",
+      "magnitud": 5.1,
+      "profundidad_km": 10.0,
+      "latitud": 30.1171,
+      "longitud": 79.6148,
       "pais": "",
-      "ciudad_referencia": "7 km NNW of Trujillo Alto, Puerto Rico",
+      "ciudad_referencia": "34 km NNW of Bāgeshwar, India",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71535908"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0hz"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-06T17:06:27.224098+00:00"
+    "hora_consulta_utc": "2026-10-06T17:10:22.807968+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-06T17:06:27.224098+00:00",
+  "updated_utc": "2026-10-06T17:10:22.807968+00:00",
   "combined_after_dedup": 2244
 }
