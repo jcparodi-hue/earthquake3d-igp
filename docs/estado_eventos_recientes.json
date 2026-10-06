@@ -2503,7 +2503,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-719",
     "fecha_primera_recepcion": "2026-10-05T21:50:14.808912+00:00",
-    "fecha_ultima_observacion": "2026-10-06T13:45:16.426811+00:00"
+    "fecha_ultima_observacion": "2026-10-06T13:50:17.047123+00:00"
   },
   "EMSC:20261005_0000359": {
     "id": "20261005_0000359",
@@ -3680,5 +3680,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261006_0000162",
     "fecha_primera_recepcion": "2026-10-06T13:45:16.426811+00:00",
     "fecha_ultima_observacion": "2026-10-06T13:45:16.426811+00:00"
+  },
+  "EMSC:20261006_0000165": {
+    "id": "20261006_0000165",
+    "fecha_hora_utc": "2026-10-06T13:42:22+00:00",
+    "magnitud": 3.4,
+    "profundidad_km": 21.0,
+    "latitud": -8.82,
+    "longitud": 112.1,
+    "pais": "",
+    "ciudad_referencia": "JAVA, INDONESIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261006_0000165",
+    "fecha_primera_recepcion": "2026-10-06T13:50:17.047123+00:00",
+    "fecha_ultima_observacion": "2026-10-06T13:50:17.047123+00:00"
+  },
+  "USGS:us6000tzwg": {
+    "id": "us6000tzwg",
+    "fecha_hora_utc": "2026-10-06T13:11:22.577000+00:00",
+    "magnitud": 4.9,
+    "profundidad_km": 10.0,
+    "latitud": 4.8667,
+    "longitud": 118.8285,
+    "pais": "",
+    "ciudad_referencia": "48 km NNE of Semporna, Malaysia",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzwg",
+    "fecha_primera_recepcion": "2026-10-06T13:50:17.047123+00:00",
+    "fecha_ultima_observacion": "2026-10-06T13:50:17.047123+00:00"
   }
 }
