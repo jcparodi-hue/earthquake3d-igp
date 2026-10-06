@@ -1,5 +1,19 @@
 [
   {
+    "volcan": "Puracé",
+    "pais": "Colombia",
+    "codigo_vaac": "PURA",
+    "fecha_hora_utc_texto": "1809 UTC",
+    "id_archivo": "2026J061809",
+    "url_aviso": "https://www.ospo.noaa.gov/VAAC/ARCH26/PURA/2026J061809.html",
+    "url_xml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/xml_files/FVXX24_20261006_1809.xml",
+    "url_grafico": "https://www.ospo.noaa.gov/VAAC/ARCH26/GFX/SANG0654.jpg",
+    "url_kml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/kml_files/PURACE_ASH_202610061809.kml",
+    "vaac": "Washington",
+    "tipo": "VAA",
+    "fuente": "NOAA Washington VAAC"
+  },
+  {
     "volcan": "Sangay",
     "pais": "Ecuador",
     "codigo_vaac": "SANGAY3",
