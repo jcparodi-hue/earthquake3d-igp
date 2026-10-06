@@ -2503,7 +2503,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-719",
     "fecha_primera_recepcion": "2026-10-05T21:50:14.808912+00:00",
-    "fecha_ultima_observacion": "2026-10-06T04:00:21.308337+00:00"
+    "fecha_ultima_observacion": "2026-10-06T04:01:19.502734+00:00"
   },
   "EMSC:20261005_0000359": {
     "id": "20261005_0000359",
@@ -2896,5 +2896,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261006_0000038",
     "fecha_primera_recepcion": "2026-10-06T03:40:52.801207+00:00",
     "fecha_ultima_observacion": "2026-10-06T04:00:21.308337+00:00"
+  },
+  "EMSC:20261006_0000042": {
+    "id": "20261006_0000042",
+    "fecha_hora_utc": "2026-10-06T03:42:43.999000+00:00",
+    "magnitud": 4.8,
+    "profundidad_km": 8.7,
+    "latitud": -7.8323,
+    "longitud": 120.3932,
+    "pais": "",
+    "ciudad_referencia": "FLORES SEA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261006_0000042",
+    "fecha_primera_recepcion": "2026-10-06T04:01:19.502734+00:00",
+    "fecha_ultima_observacion": "2026-10-06T04:01:19.502734+00:00"
+  },
+  "USGS:us6000tzuj": {
+    "id": "us6000tzuj",
+    "fecha_hora_utc": "2026-10-06T03:42:43.999000+00:00",
+    "magnitud": 4.8,
+    "profundidad_km": 8.653,
+    "latitud": -7.8323,
+    "longitud": 120.3932,
+    "pais": "",
+    "ciudad_referencia": "86 km N of Ruteng, Indonesia",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzuj",
+    "fecha_primera_recepcion": "2026-10-06T04:01:19.502734+00:00",
+    "fecha_ultima_observacion": "2026-10-06T04:01:19.502734+00:00"
   }
 }
