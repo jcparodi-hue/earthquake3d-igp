@@ -2503,7 +2503,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-719",
     "fecha_primera_recepcion": "2026-10-05T21:50:14.808912+00:00",
-    "fecha_ultima_observacion": "2026-10-06T06:40:18.713582+00:00"
+    "fecha_ultima_observacion": "2026-10-06T06:45:15.810676+00:00"
   },
   "EMSC:20261005_0000359": {
     "id": "20261005_0000359",
@@ -3133,6 +3133,20 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzv6",
     "fecha_primera_recepcion": "2026-10-06T06:40:18.713582+00:00",
-    "fecha_ultima_observacion": "2026-10-06T06:40:18.713582+00:00"
+    "fecha_ultima_observacion": "2026-10-06T06:45:15.810676+00:00"
+  },
+  "EMSC:20261006_0000073": {
+    "id": "20261006_0000073",
+    "fecha_hora_utc": "2026-10-06T06:38:32+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 5.0,
+    "latitud": 14.353,
+    "longitud": -90.121,
+    "pais": "",
+    "ciudad_referencia": "GUATEMALA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261006_0000073",
+    "fecha_primera_recepcion": "2026-10-06T06:45:15.810676+00:00",
+    "fecha_ultima_observacion": "2026-10-06T06:45:15.810676+00:00"
   }
 }
