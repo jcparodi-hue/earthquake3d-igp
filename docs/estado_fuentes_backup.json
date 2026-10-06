@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-06T12:40:17.539104+00:00",
+  "actualizado_utc": "2026-10-06T12:44:48.490009+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 29,
   "actualizacion_minutos": 5,
   "igp": 29,
-  "emsc": 2161,
-  "usgs": 477,
+  "emsc": 2162,
+  "usgs": 476,
   "duplicados_eliminados": 447,
   "eventos_publicados": 2220,
-  "evento_mas_reciente_utc": "2026-10-06T12:16:16+00:00",
+  "evento_mas_reciente_utc": "2026-10-06T12:40:22+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 26,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-05T21:23:20+00:00",
-      "antiguedad_evento_mas_reciente_min": 917.0
+      "antiguedad_evento_mas_reciente_min": 921.5
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2161,
-      "eventos_recibidos": 2163,
+      "eventos_validos": 2162,
+      "eventos_recibidos": 2164,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-10-06T12:16:16+00:00",
-      "antiguedad_evento_mas_reciente_min": 24.0
+      "evento_mas_reciente_utc": "2026-10-06T12:40:22+00:00",
+      "antiguedad_evento_mas_reciente_min": 4.4
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 477,
-      "eventos_recibidos": 480,
+      "eventos_validos": 476,
+      "eventos_recibidos": 479,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-10-06T09:37:56.970000+00:00",
-      "antiguedad_evento_mas_reciente_min": 182.3
+      "antiguedad_evento_mas_reciente_min": 186.9
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-719"
     },
     "emsc": {
-      "id": "20261006_0000148",
-      "fecha_hora_utc": "2026-10-06T12:16:16+00:00",
-      "magnitud": 3.2,
-      "profundidad_km": 5.0,
-      "latitud": 27.175,
-      "longitud": 92.451,
+      "id": "20261006_0000150",
+      "fecha_hora_utc": "2026-10-06T12:40:22+00:00",
+      "magnitud": 4.2,
+      "profundidad_km": 10.0,
+      "latitud": -9.51,
+      "longitud": 118.91,
       "pais": "",
-      "ciudad_referencia": "ARUNACHAL PRADESH, INDIA",
+      "ciudad_referencia": "SUMBAWA REGION, INDONESIA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261006_0000148"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261006_0000150"
     },
     "usgs": {
       "id": "ci41344007",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-06T12:40:17.539104+00:00"
+    "hora_consulta_utc": "2026-10-06T12:44:48.490009+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-06T12:40:17.539104+00:00",
+  "updated_utc": "2026-10-06T12:44:48.490009+00:00",
   "combined_after_dedup": 2220
 }
