@@ -2503,7 +2503,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-719",
     "fecha_primera_recepcion": "2026-10-05T21:50:14.808912+00:00",
-    "fecha_ultima_observacion": "2026-10-06T21:50:17.050071+00:00"
+    "fecha_ultima_observacion": "2026-10-06T21:55:12.140780+00:00"
   },
   "EMSC:20261005_0000359": {
     "id": "20261005_0000359",
@@ -4240,5 +4240,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261006_0000286",
     "fecha_primera_recepcion": "2026-10-06T21:45:17.012706+00:00",
     "fecha_ultima_observacion": "2026-10-06T21:50:17.050071+00:00"
+  },
+  "EMSC:20261006_0000289": {
+    "id": "20261006_0000289",
+    "fecha_hora_utc": "2026-10-06T21:48:09.920000+00:00",
+    "magnitud": 2.6,
+    "profundidad_km": 7.6,
+    "latitud": 19.9552,
+    "longitud": -155.4103,
+    "pais": "",
+    "ciudad_referencia": "ISLAND OF HAWAII, HAWAII",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261006_0000289",
+    "fecha_primera_recepcion": "2026-10-06T21:55:12.140780+00:00",
+    "fecha_ultima_observacion": "2026-10-06T21:55:12.140780+00:00"
+  },
+  "USGS:hv75051172": {
+    "id": "hv75051172",
+    "fecha_hora_utc": "2026-10-06T21:48:09.920000+00:00",
+    "magnitud": 2.56,
+    "profundidad_km": 7.55000019073486,
+    "latitud": 19.9551658630371,
+    "longitud": -155.410339355469,
+    "pais": "",
+    "ciudad_referencia": "10 km SSW of Pa‘auilo, Hawaii",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75051172",
+    "fecha_primera_recepcion": "2026-10-06T21:55:12.140780+00:00",
+    "fecha_ultima_observacion": "2026-10-06T21:55:12.140780+00:00"
   }
 }
