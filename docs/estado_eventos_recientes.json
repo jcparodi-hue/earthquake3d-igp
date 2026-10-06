@@ -2503,7 +2503,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-719",
     "fecha_primera_recepcion": "2026-10-05T21:50:14.808912+00:00",
-    "fecha_ultima_observacion": "2026-10-06T20:20:31.355888+00:00"
+    "fecha_ultima_observacion": "2026-10-06T20:25:16.555743+00:00"
   },
   "EMSC:20261005_0000359": {
     "id": "20261005_0000359",
@@ -4156,5 +4156,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261006_0000269",
     "fecha_primera_recepcion": "2026-10-06T20:15:14.870955+00:00",
     "fecha_ultima_observacion": "2026-10-06T20:20:31.355888+00:00"
+  },
+  "EMSC:20261006_0000274": {
+    "id": "20261006_0000274",
+    "fecha_hora_utc": "2026-10-06T20:16:49.705000+00:00",
+    "magnitud": 3.7,
+    "profundidad_km": 5.6,
+    "latitud": 38.9312,
+    "longitud": -115.3201,
+    "pais": "",
+    "ciudad_referencia": "NEVADA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261006_0000274",
+    "fecha_primera_recepcion": "2026-10-06T20:25:16.555743+00:00",
+    "fecha_ultima_observacion": "2026-10-06T20:25:16.555743+00:00"
+  },
+  "USGS:nn00925389": {
+    "id": "nn00925389",
+    "fecha_hora_utc": "2026-10-06T20:16:49.705000+00:00",
+    "magnitud": 3.69,
+    "profundidad_km": 5.5727,
+    "latitud": 38.9312,
+    "longitud": -115.3201,
+    "pais": "",
+    "ciudad_referencia": "22 km W of Preston, Nevada",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925389",
+    "fecha_primera_recepcion": "2026-10-06T20:25:16.555743+00:00",
+    "fecha_ultima_observacion": "2026-10-06T20:25:16.555743+00:00"
   }
 }
