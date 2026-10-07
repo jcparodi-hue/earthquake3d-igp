@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-07T23:40:15.545214+00:00",
+  "actualizado_utc": "2026-10-07T23:45:18.431104+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 33,
   "actualizacion_minutos": 5,
@@ -18,7 +18,7 @@
       "eventos_recibidos": 28,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-07T20:51:30+00:00",
-      "antiguedad_evento_mas_reciente_min": 168.8
+      "antiguedad_evento_mas_reciente_min": 173.8
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,8 +26,8 @@
       "eventos_validos": 2180,
       "eventos_recibidos": 2181,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-07T23:33:58+00:00",
-      "antiguedad_evento_mas_reciente_min": 6.3
+      "evento_mas_reciente_utc": "2026-10-07T23:33:56+00:00",
+      "antiguedad_evento_mas_reciente_min": 11.4
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 475,
       "invalidos_rechazados": 2,
       "evento_mas_reciente_utc": "2026-10-07T23:35:14.019000+00:00",
-      "antiguedad_evento_mas_reciente_min": 5.0
+      "antiguedad_evento_mas_reciente_min": 10.1
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261007_0000344",
-      "fecha_hora_utc": "2026-10-07T23:33:58+00:00",
-      "magnitud": 3.8,
-      "profundidad_km": 33.0,
+      "fecha_hora_utc": "2026-10-07T23:33:56+00:00",
+      "magnitud": 3.9,
+      "profundidad_km": 56.1,
       "latitud": -36.61,
-      "longitud": -72.53,
+      "longitud": -72.44,
       "pais": "",
       "ciudad_referencia": "BIO-BIO, CHILE",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-07T23:40:15.545214+00:00"
+    "hora_consulta_utc": "2026-10-07T23:45:18.431104+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-07T23:40:15.545214+00:00",
+  "updated_utc": "2026-10-07T23:45:18.431104+00:00",
   "combined_after_dedup": 2247
 }
