@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-07T18:01:21.918678+00:00",
+  "actualizado_utc": "2026-10-07T18:05:15.525035+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 32,
   "actualizacion_minutos": 5,
   "igp": 32,
-  "emsc": 2213,
-  "usgs": 481,
-  "duplicados_eliminados": 451,
-  "eventos_publicados": 2275,
-  "evento_mas_reciente_utc": "2026-10-07T17:55:41+00:00",
+  "emsc": 2211,
+  "usgs": 480,
+  "duplicados_eliminados": 450,
+  "eventos_publicados": 2273,
+  "evento_mas_reciente_utc": "2026-10-07T17:55:41.950000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 27,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-07T08:42:38+00:00",
-      "antiguedad_evento_mas_reciente_min": 558.7
+      "antiguedad_evento_mas_reciente_min": 562.6
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2213,
-      "eventos_recibidos": 2215,
+      "eventos_validos": 2211,
+      "eventos_recibidos": 2213,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-10-07T17:55:41+00:00",
-      "antiguedad_evento_mas_reciente_min": 5.7
+      "evento_mas_reciente_utc": "2026-10-07T17:55:41.950000+00:00",
+      "antiguedad_evento_mas_reciente_min": 9.6
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 481,
-      "eventos_recibidos": 484,
+      "eventos_validos": 480,
+      "eventos_recibidos": 483,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-10-07T17:45:15.543000+00:00",
-      "antiguedad_evento_mas_reciente_min": 16.1
+      "antiguedad_evento_mas_reciente_min": 20.0
     }
   },
   "ultimo_evento": {
@@ -54,8 +54,8 @@
     },
     "emsc": {
       "id": "20261007_0000259",
-      "fecha_hora_utc": "2026-10-07T17:55:41+00:00",
-      "magnitud": 2.7,
+      "fecha_hora_utc": "2026-10-07T17:55:41.950000+00:00",
+      "magnitud": 2.8,
       "profundidad_km": 7.0,
       "latitud": 40.1742,
       "longitud": 31.8448,
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-07T18:01:21.918678+00:00"
+    "hora_consulta_utc": "2026-10-07T18:05:15.525035+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-07T18:01:21.918678+00:00",
-  "combined_after_dedup": 2275
+  "updated_utc": "2026-10-07T18:05:15.525035+00:00",
+  "combined_after_dedup": 2273
 }
