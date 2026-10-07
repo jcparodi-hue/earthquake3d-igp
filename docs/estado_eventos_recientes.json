@@ -5429,7 +5429,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-722",
     "fecha_primera_recepcion": "2026-10-07T12:05:15.908744+00:00",
-    "fecha_ultima_observacion": "2026-10-07T17:10:18.635081+00:00"
+    "fecha_ultima_observacion": "2026-10-07T17:11:18.329752+00:00"
   },
   "EMSC:20261007_0000172": {
     "id": "20261007_0000172",
@@ -5751,7 +5751,7 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000245",
     "fecha_primera_recepcion": "2026-10-07T17:05:17.474631+00:00",
-    "fecha_ultima_observacion": "2026-10-07T17:10:18.635081+00:00"
+    "fecha_ultima_observacion": "2026-10-07T17:11:18.329752+00:00"
   },
   "USGS:us6000u0rx": {
     "id": "us6000u0rx",
@@ -5766,5 +5766,19 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0rx",
     "fecha_primera_recepcion": "2026-10-07T17:05:17.474631+00:00",
     "fecha_ultima_observacion": "2026-10-07T17:10:18.635081+00:00"
+  },
+  "USGS:us6000u0s2": {
+    "id": "us6000u0s2",
+    "fecha_hora_utc": "2026-10-07T16:06:06.205000+00:00",
+    "magnitud": 4.3,
+    "profundidad_km": 162.357,
+    "latitud": -1.7116,
+    "longitud": -77.7569,
+    "pais": "",
+    "ciudad_referencia": "23 km E of Palora, Ecuador",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0s2",
+    "fecha_primera_recepcion": "2026-10-07T17:11:18.329752+00:00",
+    "fecha_ultima_observacion": "2026-10-07T17:11:18.329752+00:00"
   }
 }
