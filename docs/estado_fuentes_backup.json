@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-07T17:30:37.509617+00:00",
+  "actualizado_utc": "2026-10-07T17:35:15.816337+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 32,
   "actualizacion_minutos": 5,
   "igp": 32,
-  "emsc": 2212,
+  "emsc": 2214,
   "usgs": 479,
   "duplicados_eliminados": 449,
-  "eventos_publicados": 2274,
-  "evento_mas_reciente_utc": "2026-10-07T17:24:54+00:00",
+  "eventos_publicados": 2276,
+  "evento_mas_reciente_utc": "2026-10-07T17:26:52+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 27,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-07T08:42:38+00:00",
-      "antiguedad_evento_mas_reciente_min": 528.0
+      "antiguedad_evento_mas_reciente_min": 532.6
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2212,
-      "eventos_recibidos": 2214,
+      "eventos_validos": 2214,
+      "eventos_recibidos": 2216,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-10-07T17:24:54+00:00",
-      "antiguedad_evento_mas_reciente_min": 5.7
+      "evento_mas_reciente_utc": "2026-10-07T17:26:52+00:00",
+      "antiguedad_evento_mas_reciente_min": 8.4
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 482,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-10-07T17:17:08.844000+00:00",
-      "antiguedad_evento_mas_reciente_min": 13.5
+      "antiguedad_evento_mas_reciente_min": 18.1
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-722"
     },
     "emsc": {
-      "id": "20261007_0000253",
-      "fecha_hora_utc": "2026-10-07T17:24:54+00:00",
-      "magnitud": 2.7,
-      "profundidad_km": 58.0,
-      "latitud": -3.69,
-      "longitud": 140.92,
+      "id": "20261007_0000255",
+      "fecha_hora_utc": "2026-10-07T17:26:52+00:00",
+      "magnitud": 3.2,
+      "profundidad_km": 239.3,
+      "latitud": -24.01,
+      "longitud": -67.3,
       "pais": "",
-      "ciudad_referencia": "PAPUA, INDONESIA",
+      "ciudad_referencia": "SALTA, ARGENTINA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000253"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000255"
     },
     "usgs": {
       "id": "us6000u0tb",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-07T17:30:37.509617+00:00"
+    "hora_consulta_utc": "2026-10-07T17:35:15.816337+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-07T17:30:37.509617+00:00",
-  "combined_after_dedup": 2274
+  "updated_utc": "2026-10-07T17:35:15.816337+00:00",
+  "combined_after_dedup": 2276
 }
