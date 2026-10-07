@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-07T09:40:16.653877+00:00",
+  "actualizado_utc": "2026-10-07T09:45:17.008315+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 30,
   "actualizacion_minutos": 5,
   "igp": 30,
-  "emsc": 2216,
+  "emsc": 2217,
   "usgs": 487,
   "duplicados_eliminados": 453,
-  "eventos_publicados": 2280,
-  "evento_mas_reciente_utc": "2026-10-07T09:26:34+00:00",
+  "eventos_publicados": 2281,
+  "evento_mas_reciente_utc": "2026-10-07T09:32:22+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 25,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-07T04:43:06+00:00",
-      "antiguedad_evento_mas_reciente_min": 297.2
+      "antiguedad_evento_mas_reciente_min": 302.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2216,
-      "eventos_recibidos": 2218,
+      "eventos_validos": 2217,
+      "eventos_recibidos": 2219,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-10-07T09:26:34+00:00",
-      "antiguedad_evento_mas_reciente_min": 13.7
+      "evento_mas_reciente_utc": "2026-10-07T09:32:22+00:00",
+      "antiguedad_evento_mas_reciente_min": 12.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 490,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-10-07T08:52:32.360000+00:00",
-      "antiguedad_evento_mas_reciente_min": 47.7
+      "antiguedad_evento_mas_reciente_min": 52.7
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-720"
     },
     "emsc": {
-      "id": "20261007_0000138",
-      "fecha_hora_utc": "2026-10-07T09:26:34+00:00",
-      "magnitud": 3.7,
-      "profundidad_km": 63.0,
-      "latitud": -9.15,
-      "longitud": 123.89,
+      "id": "20261007_0000139",
+      "fecha_hora_utc": "2026-10-07T09:32:22+00:00",
+      "magnitud": 3.6,
+      "profundidad_km": 10.0,
+      "latitud": -9.58,
+      "longitud": 119.08,
       "pais": "",
-      "ciudad_referencia": "TIMOR REGION, INDONESIA",
+      "ciudad_referencia": "SUMBA REGION, INDONESIA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000138"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000139"
     },
     "usgs": {
       "id": "hv75051582",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-07T09:40:16.653877+00:00"
+    "hora_consulta_utc": "2026-10-07T09:45:17.008315+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-07T09:40:16.653877+00:00",
-  "combined_after_dedup": 2280
+  "updated_utc": "2026-10-07T09:45:17.008315+00:00",
+  "combined_after_dedup": 2281
 }
