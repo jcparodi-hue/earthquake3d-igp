@@ -5429,7 +5429,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-722",
     "fecha_primera_recepcion": "2026-10-07T12:05:15.908744+00:00",
-    "fecha_ultima_observacion": "2026-10-07T17:25:13.685930+00:00"
+    "fecha_ultima_observacion": "2026-10-07T17:30:20.387253+00:00"
   },
   "EMSC:20261007_0000172": {
     "id": "20261007_0000172",
@@ -5808,5 +5808,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000252",
     "fecha_primera_recepcion": "2026-10-07T17:25:13.685930+00:00",
     "fecha_ultima_observacion": "2026-10-07T17:25:13.685930+00:00"
+  },
+  "EMSC:20261007_0000253": {
+    "id": "20261007_0000253",
+    "fecha_hora_utc": "2026-10-07T17:24:54+00:00",
+    "magnitud": 2.7,
+    "profundidad_km": 58.0,
+    "latitud": -3.69,
+    "longitud": 140.92,
+    "pais": "",
+    "ciudad_referencia": "PAPUA, INDONESIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000253",
+    "fecha_primera_recepcion": "2026-10-07T17:30:20.387253+00:00",
+    "fecha_ultima_observacion": "2026-10-07T17:30:20.387253+00:00"
+  },
+  "USGS:us6000u0tb": {
+    "id": "us6000u0tb",
+    "fecha_hora_utc": "2026-10-07T17:17:08.844000+00:00",
+    "magnitud": 3.5,
+    "profundidad_km": 13.727,
+    "latitud": 31.1646,
+    "longitud": -103.115,
+    "pais": "",
+    "ciudad_referencia": "9 km SSW of Coyanosa, Texas",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0tb",
+    "fecha_primera_recepcion": "2026-10-07T17:30:20.387253+00:00",
+    "fecha_ultima_observacion": "2026-10-07T17:30:20.387253+00:00"
   }
 }
