@@ -4827,7 +4827,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75051442",
     "fecha_primera_recepcion": "2026-10-07T04:44:04.257786+00:00",
-    "fecha_ultima_observacion": "2026-10-07T05:40:17.052841+00:00"
+    "fecha_ultima_observacion": "2026-10-07T05:45:17.378048+00:00"
   },
   "EMSC:20261007_0000067": {
     "id": "20261007_0000067",
@@ -4869,6 +4869,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000077",
     "fecha_primera_recepcion": "2026-10-07T05:40:17.052841+00:00",
-    "fecha_ultima_observacion": "2026-10-07T05:40:17.052841+00:00"
+    "fecha_ultima_observacion": "2026-10-07T05:45:17.378048+00:00"
+  },
+  "IGP:2026-720": {
+    "id": "2026-720",
+    "fecha_hora_utc": "2026-10-07T04:43:06+00:00",
+    "magnitud": 3.3,
+    "profundidad_km": 11.0,
+    "latitud": -12.17,
+    "longitud": -75.32,
+    "pais": "Perú",
+    "ciudad_referencia": "13 km al S de Chupaca, Chupaca - Junín",
+    "fuente": "IGP",
+    "url": "https://ultimosismo.igp.gob.pe/evento/2026-720",
+    "fecha_primera_recepcion": "2026-10-07T05:45:17.378048+00:00",
+    "fecha_ultima_observacion": "2026-10-07T05:45:17.378048+00:00"
   }
 }
