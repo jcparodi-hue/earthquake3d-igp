@@ -5429,7 +5429,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-722",
     "fecha_primera_recepcion": "2026-10-07T12:05:15.908744+00:00",
-    "fecha_ultima_observacion": "2026-10-07T14:10:17.870884+00:00"
+    "fecha_ultima_observacion": "2026-10-07T14:14:52.902844+00:00"
   },
   "EMSC:20261007_0000172": {
     "id": "20261007_0000172",
@@ -5545,16 +5545,30 @@
   },
   "USGS:us6000u0rc": {
     "id": "us6000u0rc",
-    "fecha_hora_utc": "2026-10-07T12:35:08.886000+00:00",
+    "fecha_hora_utc": "2026-10-07T12:35:08.873000+00:00",
     "magnitud": 3.6,
     "profundidad_km": 5.0,
-    "latitud": -26.9764,
-    "longitud": 26.8572,
+    "latitud": -26.998,
+    "longitud": 26.8523,
     "pais": "",
-    "ciudad_referencia": "17 km SSE of Stilfontein, South Africa",
+    "ciudad_referencia": "17 km E of Orkney, South Africa",
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0rc",
     "fecha_primera_recepcion": "2026-10-07T14:10:17.870884+00:00",
-    "fecha_ultima_observacion": "2026-10-07T14:10:17.870884+00:00"
+    "fecha_ultima_observacion": "2026-10-07T14:14:52.902844+00:00"
+  },
+  "EMSC:20261007_0000195": {
+    "id": "20261007_0000195",
+    "fecha_hora_utc": "2026-10-07T14:04:57+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 239.8,
+    "latitud": -23.82,
+    "longitud": -67.4,
+    "pais": "",
+    "ciudad_referencia": "ANTOFAGASTA, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000195",
+    "fecha_primera_recepcion": "2026-10-07T14:14:52.902844+00:00",
+    "fecha_ultima_observacion": "2026-10-07T14:14:52.902844+00:00"
   }
 }
