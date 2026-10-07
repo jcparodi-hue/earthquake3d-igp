@@ -5429,7 +5429,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-722",
     "fecha_primera_recepcion": "2026-10-07T12:05:15.908744+00:00",
-    "fecha_ultima_observacion": "2026-10-07T16:05:17.251829+00:00"
+    "fecha_ultima_observacion": "2026-10-07T16:09:51.753312+00:00"
   },
   "EMSC:20261007_0000172": {
     "id": "20261007_0000172",
@@ -5625,7 +5625,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0rr",
     "fecha_primera_recepcion": "2026-10-07T15:25:12.965537+00:00",
-    "fecha_ultima_observacion": "2026-10-07T16:05:17.251829+00:00"
+    "fecha_ultima_observacion": "2026-10-07T16:09:51.753312+00:00"
   },
   "EMSC:20261007_0000219": {
     "id": "20261007_0000219",
@@ -5710,5 +5710,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000232",
     "fecha_primera_recepcion": "2026-10-07T16:05:17.251829+00:00",
     "fecha_ultima_observacion": "2026-10-07T16:05:17.251829+00:00"
+  },
+  "EMSC:20261007_0000233": {
+    "id": "20261007_0000233",
+    "fecha_hora_utc": "2026-10-07T16:06:07.200000+00:00",
+    "magnitud": 4.1,
+    "profundidad_km": 178.0,
+    "latitud": -1.63,
+    "longitud": -77.99,
+    "pais": "",
+    "ciudad_referencia": "ECUADOR",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000233",
+    "fecha_primera_recepcion": "2026-10-07T16:09:51.753312+00:00",
+    "fecha_ultima_observacion": "2026-10-07T16:09:51.753312+00:00"
   }
 }
