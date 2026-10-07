@@ -4883,7 +4883,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-720",
     "fecha_primera_recepcion": "2026-10-07T05:45:17.378048+00:00",
-    "fecha_ultima_observacion": "2026-10-07T06:30:31.601632+00:00"
+    "fecha_ultima_observacion": "2026-10-07T06:35:12.183097+00:00"
   },
   "EMSC:20261007_0000079": {
     "id": "20261007_0000079",
@@ -4925,7 +4925,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tvuggp",
     "fecha_primera_recepcion": "2026-10-07T06:10:15.985038+00:00",
-    "fecha_ultima_observacion": "2026-10-07T06:30:31.601632+00:00"
+    "fecha_ultima_observacion": "2026-10-07T06:35:12.183097+00:00"
   },
   "EMSC:20261007_0000087": {
     "id": "20261007_0000087",
@@ -4954,5 +4954,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000090",
     "fecha_primera_recepcion": "2026-10-07T06:25:13.313690+00:00",
     "fecha_ultima_observacion": "2026-10-07T06:30:31.601632+00:00"
+  },
+  "EMSC:20261007_0000094": {
+    "id": "20261007_0000094",
+    "fecha_hora_utc": "2026-10-07T06:27:41.160000+00:00",
+    "magnitud": 2.6,
+    "profundidad_km": 6.7,
+    "latitud": 46.4712,
+    "longitud": 7.8168,
+    "pais": "",
+    "ciudad_referencia": "SWITZERLAND",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000094",
+    "fecha_primera_recepcion": "2026-10-07T06:35:12.183097+00:00",
+    "fecha_ultima_observacion": "2026-10-07T06:35:12.183097+00:00"
   }
 }
