@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-07T11:05:15.746226+00:00",
+  "actualizado_utc": "2026-10-07T11:10:16.950880+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 30,
   "actualizacion_minutos": 5,
   "igp": 30,
-  "emsc": 2205,
+  "emsc": 2207,
   "usgs": 483,
   "duplicados_eliminados": 450,
-  "eventos_publicados": 2268,
-  "evento_mas_reciente_utc": "2026-10-07T10:56:00+00:00",
+  "eventos_publicados": 2270,
+  "evento_mas_reciente_utc": "2026-10-07T10:58:24.600000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 25,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-07T04:43:06+00:00",
-      "antiguedad_evento_mas_reciente_min": 382.2
+      "antiguedad_evento_mas_reciente_min": 387.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2205,
-      "eventos_recibidos": 2207,
+      "eventos_validos": 2207,
+      "eventos_recibidos": 2209,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-10-07T10:56:00+00:00",
-      "antiguedad_evento_mas_reciente_min": 9.3
+      "evento_mas_reciente_utc": "2026-10-07T10:58:24.600000+00:00",
+      "antiguedad_evento_mas_reciente_min": 11.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 486,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-10-07T10:20:33.568000+00:00",
-      "antiguedad_evento_mas_reciente_min": 44.7
+      "antiguedad_evento_mas_reciente_min": 49.7
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-720"
     },
     "emsc": {
-      "id": "20261007_0000160",
-      "fecha_hora_utc": "2026-10-07T10:56:00+00:00",
+      "id": "20261007_0000163",
+      "fecha_hora_utc": "2026-10-07T10:58:24.600000+00:00",
       "magnitud": 3.0,
-      "profundidad_km": 5.0,
-      "latitud": 28.5,
-      "longitud": 104.65,
+      "profundidad_km": 7.0,
+      "latitud": 37.7357,
+      "longitud": 36.1362,
       "pais": "",
-      "ciudad_referencia": "EASTERN SICHUAN, CHINA",
+      "ciudad_referencia": "CENTRAL TURKEY",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000160"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000163"
     },
     "usgs": {
       "id": "us6000u0qs",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-07T11:05:15.746226+00:00"
+    "hora_consulta_utc": "2026-10-07T11:10:16.950880+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-07T11:05:15.746226+00:00",
-  "combined_after_dedup": 2268
+  "updated_utc": "2026-10-07T11:10:16.950880+00:00",
+  "combined_after_dedup": 2270
 }
