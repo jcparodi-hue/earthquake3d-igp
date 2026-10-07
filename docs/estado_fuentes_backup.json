@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-07T03:10:18.229403+00:00",
+  "actualizado_utc": "2026-10-07T03:15:16.298215+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 29,
   "actualizacion_minutos": 5,
   "igp": 29,
-  "emsc": 2205,
-  "usgs": 494,
-  "duplicados_eliminados": 453,
-  "eventos_publicados": 2275,
-  "evento_mas_reciente_utc": "2026-10-07T02:56:38+00:00",
+  "emsc": 2210,
+  "usgs": 495,
+  "duplicados_eliminados": 454,
+  "eventos_publicados": 2280,
+  "evento_mas_reciente_utc": "2026-10-07T03:09:28+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 24,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-05T21:23:20+00:00",
-      "antiguedad_evento_mas_reciente_min": 1787.0
+      "antiguedad_evento_mas_reciente_min": 1791.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2205,
-      "eventos_recibidos": 2207,
+      "eventos_validos": 2210,
+      "eventos_recibidos": 2212,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-10-07T02:56:38+00:00",
-      "antiguedad_evento_mas_reciente_min": 13.7
+      "evento_mas_reciente_utc": "2026-10-07T03:09:28+00:00",
+      "antiguedad_evento_mas_reciente_min": 5.8
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 494,
-      "eventos_recibidos": 497,
+      "eventos_validos": 495,
+      "eventos_recibidos": 498,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-07T02:25:37.068000+00:00",
-      "antiguedad_evento_mas_reciente_min": 44.7
+      "evento_mas_reciente_utc": "2026-10-07T02:49:59.426000+00:00",
+      "antiguedad_evento_mas_reciente_min": 25.3
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-719"
     },
     "emsc": {
-      "id": "20261007_0000039",
-      "fecha_hora_utc": "2026-10-07T02:56:38+00:00",
-      "magnitud": 4.0,
-      "profundidad_km": 15.4,
-      "latitud": 37.7718,
-      "longitud": 29.4228,
+      "id": "20261007_0000044",
+      "fecha_hora_utc": "2026-10-07T03:09:28+00:00",
+      "magnitud": 3.7,
+      "profundidad_km": 10.0,
+      "latitud": -8.14,
+      "longitud": 120.52,
       "pais": "",
-      "ciudad_referencia": "WESTERN TURKEY",
+      "ciudad_referencia": "FLORES REGION, INDONESIA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000039"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000044"
     },
     "usgs": {
-      "id": "aka2026tvmyss",
-      "fecha_hora_utc": "2026-10-07T02:25:37.068000+00:00",
-      "magnitud": 2.5,
-      "profundidad_km": 43.5,
-      "latitud": 60.543,
-      "longitud": -150.615,
+      "id": "us6000u0ns",
+      "fecha_hora_utc": "2026-10-07T02:49:59.426000+00:00",
+      "magnitud": 4.8,
+      "profundidad_km": 10.0,
+      "latitud": -20.979,
+      "longitud": 169.0011,
       "pais": "",
-      "ciudad_referencia": "8 km E of Sterling, Alaska",
+      "ciudad_referencia": "132 km ENE of Tadine, New Caledonia",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tvmyss"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0ns"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-07T03:10:18.229403+00:00"
+    "hora_consulta_utc": "2026-10-07T03:15:16.298215+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-07T03:10:18.229403+00:00",
-  "combined_after_dedup": 2275
+  "updated_utc": "2026-10-07T03:15:16.298215+00:00",
+  "combined_after_dedup": 2280
 }
