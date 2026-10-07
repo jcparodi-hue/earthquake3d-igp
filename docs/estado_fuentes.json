@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-07T16:50:24.322558+00:00",
+  "actualizado_utc": "2026-10-07T17:05:17.474631+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 32,
   "actualizacion_minutos": 5,
   "igp": 32,
-  "emsc": 2212,
+  "emsc": 2210,
   "usgs": 477,
   "duplicados_eliminados": 448,
-  "eventos_publicados": 2273,
-  "evento_mas_reciente_utc": "2026-10-07T16:37:03+00:00",
+  "eventos_publicados": 2271,
+  "evento_mas_reciente_utc": "2026-10-07T16:54:44+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 27,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-07T08:42:38+00:00",
-      "antiguedad_evento_mas_reciente_min": 487.8
+      "antiguedad_evento_mas_reciente_min": 502.7
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2212,
-      "eventos_recibidos": 2214,
+      "eventos_validos": 2210,
+      "eventos_recibidos": 2212,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-10-07T16:37:03+00:00",
-      "antiguedad_evento_mas_reciente_min": 13.4
+      "evento_mas_reciente_utc": "2026-10-07T16:54:44+00:00",
+      "antiguedad_evento_mas_reciente_min": 10.6
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -35,8 +35,8 @@
       "eventos_validos": 477,
       "eventos_recibidos": 480,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-07T14:59:25.858000+00:00",
-      "antiguedad_evento_mas_reciente_min": 111.0
+      "evento_mas_reciente_utc": "2026-10-07T15:46:14.830000+00:00",
+      "antiguedad_evento_mas_reciente_min": 79.0
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-722"
     },
     "emsc": {
-      "id": "20261007_0000242",
-      "fecha_hora_utc": "2026-10-07T16:37:03+00:00",
-      "magnitud": 3.2,
-      "profundidad_km": 89.9,
-      "latitud": -28.11,
-      "longitud": -69.53,
+      "id": "20261007_0000245",
+      "fecha_hora_utc": "2026-10-07T16:54:44+00:00",
+      "magnitud": 2.5,
+      "profundidad_km": 60.0,
+      "latitud": -3.27,
+      "longitud": 140.57,
       "pais": "",
-      "ciudad_referencia": "ATACAMA, CHILE",
+      "ciudad_referencia": "PAPUA, INDONESIA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000242"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000245"
     },
     "usgs": {
-      "id": "us6000u0rr",
-      "fecha_hora_utc": "2026-10-07T14:59:25.858000+00:00",
-      "magnitud": 5.2,
-      "profundidad_km": 10.0,
-      "latitud": -6.6637,
-      "longitud": 72.2362,
+      "id": "us6000u0rx",
+      "fecha_hora_utc": "2026-10-07T15:46:14.830000+00:00",
+      "magnitud": 4.7,
+      "profundidad_km": 105.86,
+      "latitud": -21.1132,
+      "longitud": -68.68,
       "pais": "",
-      "ciudad_referencia": "Chagos Archipelago region",
+      "ciudad_referencia": "45 km WNW of Ollagüe, Chile",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0rr"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0rx"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-07T16:50:24.322558+00:00"
+    "hora_consulta_utc": "2026-10-07T17:05:17.474631+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-07T16:50:24.322558+00:00",
-  "combined_after_dedup": 2273
+  "updated_utc": "2026-10-07T17:05:17.474631+00:00",
+  "combined_after_dedup": 2271
 }
