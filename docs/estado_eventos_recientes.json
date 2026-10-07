@@ -5429,7 +5429,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-722",
     "fecha_primera_recepcion": "2026-10-07T12:05:15.908744+00:00",
-    "fecha_ultima_observacion": "2026-10-07T20:00:39.436103+00:00"
+    "fecha_ultima_observacion": "2026-10-07T20:05:15.763618+00:00"
   },
   "EMSC:20261007_0000172": {
     "id": "20261007_0000172",
@@ -6017,7 +6017,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026twucys",
     "fecha_primera_recepcion": "2026-10-07T19:05:14.599739+00:00",
-    "fecha_ultima_observacion": "2026-10-07T20:00:39.436103+00:00"
+    "fecha_ultima_observacion": "2026-10-07T20:05:15.763618+00:00"
   },
   "EMSC:20261007_0000280": {
     "id": "20261007_0000280",
@@ -6102,5 +6102,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000296",
     "fecha_primera_recepcion": "2026-10-07T20:00:39.436103+00:00",
     "fecha_ultima_observacion": "2026-10-07T20:00:39.436103+00:00"
+  },
+  "EMSC:20261007_0000298": {
+    "id": "20261007_0000298",
+    "fecha_hora_utc": "2026-10-07T19:59:27+00:00",
+    "magnitud": 3.1,
+    "profundidad_km": 73.4,
+    "latitud": -31.89,
+    "longitud": -70.85,
+    "pais": "",
+    "ciudad_referencia": "COQUIMBO, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000298",
+    "fecha_primera_recepcion": "2026-10-07T20:05:15.763618+00:00",
+    "fecha_ultima_observacion": "2026-10-07T20:05:15.763618+00:00"
   }
 }
