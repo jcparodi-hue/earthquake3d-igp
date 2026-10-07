@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-07T23:45:18.431104+00:00",
+  "actualizado_utc": "2026-10-07T23:50:16.305860+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 33,
   "actualizacion_minutos": 5,
   "igp": 33,
   "emsc": 2180,
-  "usgs": 473,
-  "duplicados_eliminados": 439,
+  "usgs": 472,
+  "duplicados_eliminados": 438,
   "eventos_publicados": 2247,
-  "evento_mas_reciente_utc": "2026-10-07T23:35:14.019000+00:00",
+  "evento_mas_reciente_utc": "2026-10-07T23:43:56+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 28,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-07T20:51:30+00:00",
-      "antiguedad_evento_mas_reciente_min": 173.8
+      "antiguedad_evento_mas_reciente_min": 178.8
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2180,
       "eventos_recibidos": 2181,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-07T23:33:56+00:00",
-      "antiguedad_evento_mas_reciente_min": 11.4
+      "evento_mas_reciente_utc": "2026-10-07T23:43:56+00:00",
+      "antiguedad_evento_mas_reciente_min": 6.3
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 473,
-      "eventos_recibidos": 475,
+      "eventos_validos": 472,
+      "eventos_recibidos": 474,
       "invalidos_rechazados": 2,
       "evento_mas_reciente_utc": "2026-10-07T23:35:14.019000+00:00",
-      "antiguedad_evento_mas_reciente_min": 10.1
+      "antiguedad_evento_mas_reciente_min": 15.0
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-723"
     },
     "emsc": {
-      "id": "20261007_0000344",
-      "fecha_hora_utc": "2026-10-07T23:33:56+00:00",
-      "magnitud": 3.9,
-      "profundidad_km": 56.1,
-      "latitud": -36.61,
-      "longitud": -72.44,
+      "id": "20261007_0000346",
+      "fecha_hora_utc": "2026-10-07T23:43:56+00:00",
+      "magnitud": 2.5,
+      "profundidad_km": 141.5,
+      "latitud": -20.44,
+      "longitud": -68.8,
       "pais": "",
-      "ciudad_referencia": "BIO-BIO, CHILE",
+      "ciudad_referencia": "TARAPACA, CHILE",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000344"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000346"
     },
     "usgs": {
       "id": "aka2026txdhrc",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-07T23:45:18.431104+00:00"
+    "hora_consulta_utc": "2026-10-07T23:50:16.305860+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-07T23:45:18.431104+00:00",
+  "updated_utc": "2026-10-07T23:50:16.305860+00:00",
   "combined_after_dedup": 2247
 }
