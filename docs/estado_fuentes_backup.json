@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-07T20:05:15.763618+00:00",
+  "actualizado_utc": "2026-10-07T20:10:16.769826+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 32,
   "actualizacion_minutos": 5,
   "igp": 32,
   "emsc": 2197,
-  "usgs": 479,
+  "usgs": 480,
   "duplicados_eliminados": 446,
-  "eventos_publicados": 2262,
-  "evento_mas_reciente_utc": "2026-10-07T19:59:27+00:00",
+  "eventos_publicados": 2263,
+  "evento_mas_reciente_utc": "2026-10-07T20:00:26+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 27,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-07T08:42:38+00:00",
-      "antiguedad_evento_mas_reciente_min": 682.6
+      "antiguedad_evento_mas_reciente_min": 687.6
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2197,
       "eventos_recibidos": 2198,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-07T19:59:27+00:00",
-      "antiguedad_evento_mas_reciente_min": 5.8
+      "evento_mas_reciente_utc": "2026-10-07T20:00:26+00:00",
+      "antiguedad_evento_mas_reciente_min": 9.8
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 479,
-      "eventos_recibidos": 481,
+      "eventos_validos": 480,
+      "eventos_recibidos": 482,
       "invalidos_rechazados": 2,
       "evento_mas_reciente_utc": "2026-10-07T18:59:56.119000+00:00",
-      "antiguedad_evento_mas_reciente_min": 65.3
+      "antiguedad_evento_mas_reciente_min": 70.3
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-722"
     },
     "emsc": {
-      "id": "20261007_0000298",
-      "fecha_hora_utc": "2026-10-07T19:59:27+00:00",
-      "magnitud": 3.1,
-      "profundidad_km": 73.4,
-      "latitud": -31.89,
-      "longitud": -70.85,
+      "id": "20261007_0000300",
+      "fecha_hora_utc": "2026-10-07T20:00:26+00:00",
+      "magnitud": 2.7,
+      "profundidad_km": 10.0,
+      "latitud": -0.58,
+      "longitud": 123.4,
       "pais": "",
-      "ciudad_referencia": "COQUIMBO, CHILE",
+      "ciudad_referencia": "SULAWESI, INDONESIA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000298"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000300"
     },
     "usgs": {
       "id": "aka2026twucys",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-07T20:05:15.763618+00:00"
+    "hora_consulta_utc": "2026-10-07T20:10:16.769826+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-07T20:05:15.763618+00:00",
-  "combined_after_dedup": 2262
+  "updated_utc": "2026-10-07T20:10:16.769826+00:00",
+  "combined_after_dedup": 2263
 }
