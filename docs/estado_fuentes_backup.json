@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-07T04:40:18.386987+00:00",
+  "actualizado_utc": "2026-10-07T04:44:04.257786+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 29,
   "actualizacion_minutos": 5,
   "igp": 29,
-  "emsc": 2216,
-  "usgs": 497,
-  "duplicados_eliminados": 457,
-  "eventos_publicados": 2285,
-  "evento_mas_reciente_utc": "2026-10-07T04:28:11+00:00",
+  "emsc": 2217,
+  "usgs": 498,
+  "duplicados_eliminados": 458,
+  "eventos_publicados": 2286,
+  "evento_mas_reciente_utc": "2026-10-07T04:39:46.830000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 24,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-05T21:23:20+00:00",
-      "antiguedad_evento_mas_reciente_min": 1877.0
+      "antiguedad_evento_mas_reciente_min": 1880.7
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2216,
-      "eventos_recibidos": 2218,
+      "eventos_validos": 2217,
+      "eventos_recibidos": 2219,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-10-07T04:28:11+00:00",
-      "antiguedad_evento_mas_reciente_min": 12.1
+      "evento_mas_reciente_utc": "2026-10-07T04:39:46.830000+00:00",
+      "antiguedad_evento_mas_reciente_min": 4.3
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 497,
-      "eventos_recibidos": 500,
+      "eventos_validos": 498,
+      "eventos_recibidos": 501,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-07T02:49:59.426000+00:00",
-      "antiguedad_evento_mas_reciente_min": 110.3
+      "evento_mas_reciente_utc": "2026-10-07T04:39:46.830000+00:00",
+      "antiguedad_evento_mas_reciente_min": 4.3
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-719"
     },
     "emsc": {
-      "id": "20261007_0000065",
-      "fecha_hora_utc": "2026-10-07T04:28:11+00:00",
-      "magnitud": 3.6,
-      "profundidad_km": 10.0,
-      "latitud": -7.93,
-      "longitud": 120.87,
+      "id": "20261007_0000066",
+      "fecha_hora_utc": "2026-10-07T04:39:46.830000+00:00",
+      "magnitud": 2.8,
+      "profundidad_km": 6.9,
+      "latitud": 19.3873,
+      "longitud": -154.8585,
       "pais": "",
-      "ciudad_referencia": "FLORES SEA",
+      "ciudad_referencia": "HAWAII REGION, HAWAII",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000065"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000066"
     },
     "usgs": {
-      "id": "us6000u0ns",
-      "fecha_hora_utc": "2026-10-07T02:49:59.426000+00:00",
-      "magnitud": 4.8,
-      "profundidad_km": 10.0,
-      "latitud": -20.979,
-      "longitud": 169.0011,
+      "id": "hv75051442",
+      "fecha_hora_utc": "2026-10-07T04:39:46.830000+00:00",
+      "magnitud": 2.84,
+      "profundidad_km": 6.88000011444092,
+      "latitud": 19.3873329162598,
+      "longitud": -154.858505249023,
       "pais": "",
-      "ciudad_referencia": "132 km ENE of Tadine, New Caledonia",
+      "ciudad_referencia": "11 km SE of Leilani Estates, Hawaii",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0ns"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75051442"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-07T04:40:18.386987+00:00"
+    "hora_consulta_utc": "2026-10-07T04:44:04.257786+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-07T04:40:18.386987+00:00",
-  "combined_after_dedup": 2285
+  "updated_utc": "2026-10-07T04:44:04.257786+00:00",
+  "combined_after_dedup": 2286
 }
