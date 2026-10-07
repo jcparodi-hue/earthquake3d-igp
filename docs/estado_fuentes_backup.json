@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-07T03:02:10.441225+00:00",
+  "actualizado_utc": "2026-10-07T03:05:13.447594+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 29,
   "actualizacion_minutos": 5,
@@ -9,7 +9,7 @@
   "usgs": 494,
   "duplicados_eliminados": 453,
   "eventos_publicados": 2275,
-  "evento_mas_reciente_utc": "2026-10-07T02:56:37.100000+00:00",
+  "evento_mas_reciente_utc": "2026-10-07T02:56:38+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 24,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-05T21:23:20+00:00",
-      "antiguedad_evento_mas_reciente_min": 1778.8
+      "antiguedad_evento_mas_reciente_min": 1781.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,8 +26,8 @@
       "eventos_validos": 2205,
       "eventos_recibidos": 2207,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-10-07T02:56:37.100000+00:00",
-      "antiguedad_evento_mas_reciente_min": 5.6
+      "evento_mas_reciente_utc": "2026-10-07T02:56:38+00:00",
+      "antiguedad_evento_mas_reciente_min": 8.6
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 497,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-10-07T02:25:37.068000+00:00",
-      "antiguedad_evento_mas_reciente_min": 36.6
+      "antiguedad_evento_mas_reciente_min": 39.6
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261007_0000039",
-      "fecha_hora_utc": "2026-10-07T02:56:37.100000+00:00",
+      "fecha_hora_utc": "2026-10-07T02:56:38+00:00",
       "magnitud": 4.0,
-      "profundidad_km": 1.3,
-      "latitud": 37.7727,
-      "longitud": 29.4222,
+      "profundidad_km": 15.4,
+      "latitud": 37.7718,
+      "longitud": 29.4228,
       "pais": "",
       "ciudad_referencia": "WESTERN TURKEY",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-07T03:02:10.441225+00:00"
+    "hora_consulta_utc": "2026-10-07T03:05:13.447594+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-07T03:02:10.441225+00:00",
+  "updated_utc": "2026-10-07T03:05:13.447594+00:00",
   "combined_after_dedup": 2275
 }
