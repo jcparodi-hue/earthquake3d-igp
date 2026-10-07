@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-07T03:35:12.670115+00:00",
+  "actualizado_utc": "2026-10-07T03:38:47.945032+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 29,
   "actualizacion_minutos": 5,
   "igp": 29,
-  "emsc": 2213,
-  "usgs": 495,
-  "duplicados_eliminados": 455,
-  "eventos_publicados": 2282,
-  "evento_mas_reciente_utc": "2026-10-07T03:26:52+00:00",
+  "emsc": 2214,
+  "usgs": 494,
+  "duplicados_eliminados": 454,
+  "eventos_publicados": 2283,
+  "evento_mas_reciente_utc": "2026-10-07T03:29:20+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 24,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-05T21:23:20+00:00",
-      "antiguedad_evento_mas_reciente_min": 1811.9
+      "antiguedad_evento_mas_reciente_min": 1815.5
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2213,
-      "eventos_recibidos": 2215,
+      "eventos_validos": 2214,
+      "eventos_recibidos": 2216,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-10-07T03:26:52+00:00",
-      "antiguedad_evento_mas_reciente_min": 8.3
+      "evento_mas_reciente_utc": "2026-10-07T03:29:20+00:00",
+      "antiguedad_evento_mas_reciente_min": 9.5
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 495,
-      "eventos_recibidos": 498,
+      "eventos_validos": 494,
+      "eventos_recibidos": 497,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-10-07T02:49:59.426000+00:00",
-      "antiguedad_evento_mas_reciente_min": 45.2
+      "antiguedad_evento_mas_reciente_min": 48.8
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-719"
     },
     "emsc": {
-      "id": "20261007_0000051",
-      "fecha_hora_utc": "2026-10-07T03:26:52+00:00",
-      "magnitud": 3.8,
-      "profundidad_km": 13.7,
-      "latitud": 37.7732,
-      "longitud": 29.415,
+      "id": "20261007_0000053",
+      "fecha_hora_utc": "2026-10-07T03:29:20+00:00",
+      "magnitud": 3.9,
+      "profundidad_km": 102.5,
+      "latitud": 24.4135,
+      "longitud": 94.5318,
       "pais": "",
-      "ciudad_referencia": "WESTERN TURKEY",
+      "ciudad_referencia": "MYANMAR-INDIA BORDER REGION",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000051"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000053"
     },
     "usgs": {
       "id": "us6000u0ns",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-07T03:35:12.670115+00:00"
+    "hora_consulta_utc": "2026-10-07T03:38:47.945032+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-07T03:35:12.670115+00:00",
-  "combined_after_dedup": 2282
+  "updated_utc": "2026-10-07T03:38:47.945032+00:00",
+  "combined_after_dedup": 2283
 }
