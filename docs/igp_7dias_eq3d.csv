@@ -47,7 +47,7 @@ YEAR, MON, DAY, HOUR, MIN, DEP, MAG, LAT, LONG, URL   // IGP history + EMSC-RTS 
 2026,10,7,04,39,10.0,3.0,19.323900,-154.814600,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000066
 2026,10,7,04,39,10.0,4.9,-55.728000,-30.053000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000075
 2026,10,7,04,28,10.0,3.6,-7.930000,120.870000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000065
-2026,10,7,04,19,10.0,2.6,51.558600,16.177400,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000063
+2026,10,7,04,19,0.7,2.5,51.535900,16.170300,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000063
 2026,10,7,04,07,24.0,3.8,-8.220000,120.880000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000058
 2026,10,7,03,59,19.0,3.3,8.197500,-82.745900,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000059
 2026,10,7,03,57,12.0,3.3,-7.920000,120.930000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000054
@@ -2261,7 +2261,6 @@ YEAR, MON, DAY, HOUR, MIN, DEP, MAG, LAT, LONG, URL   // IGP history + EMSC-RTS 
 2026,9,27,11,19,68.0,2.6,51.491000,179.831000,10,https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tdsocj
 2026,9,27,11,17,11.0,2.8,-7.660000,120.500000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20260927_0000127
 2026,9,27,11,01,11.0,2.9,10.911600,-84.256000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20260927_0000139
-2026,9,27,10,58,9.6,3.5,15.530000,-95.955000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20260927_0000162
 2026,9,26,21,44,13.0,3.5,-15.720000,-71.980000,10,https://ultimosismo.igp.gob.pe/evento/2026-695
 2026,9,26,19,30,14.0,3.5,-10.640000,-75.570000,10,https://ultimosismo.igp.gob.pe/evento/2026-694
 2026,9,25,17,35,11.0,3.3,-17.120000,-70.660000,10,https://ultimosismo.igp.gob.pe/evento/2026-693
