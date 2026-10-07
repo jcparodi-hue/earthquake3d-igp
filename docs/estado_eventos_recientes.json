@@ -2503,7 +2503,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-719",
     "fecha_primera_recepcion": "2026-10-05T21:50:14.808912+00:00",
-    "fecha_ultima_observacion": "2026-10-07T04:20:18.058440+00:00"
+    "fecha_ultima_observacion": "2026-10-07T04:24:51.725205+00:00"
   },
   "EMSC:20261005_0000359": {
     "id": "20261005_0000359",
@@ -4715,7 +4715,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0ns",
     "fecha_primera_recepcion": "2026-10-07T03:15:16.298215+00:00",
-    "fecha_ultima_observacion": "2026-10-07T04:20:18.058440+00:00"
+    "fecha_ultima_observacion": "2026-10-07T04:24:51.725205+00:00"
   },
   "EMSC:20261007_0000051": {
     "id": "20261007_0000051",
@@ -4772,5 +4772,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000058",
     "fecha_primera_recepcion": "2026-10-07T04:15:17.123927+00:00",
     "fecha_ultima_observacion": "2026-10-07T04:20:18.058440+00:00"
+  },
+  "EMSC:20261007_0000063": {
+    "id": "20261007_0000063",
+    "fecha_hora_utc": "2026-10-07T04:19:12.142000+00:00",
+    "magnitud": 2.8,
+    "profundidad_km": 0.0,
+    "latitud": 51.5702,
+    "longitud": 16.2922,
+    "pais": "",
+    "ciudad_referencia": "POLAND",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000063",
+    "fecha_primera_recepcion": "2026-10-07T04:24:51.725205+00:00",
+    "fecha_ultima_observacion": "2026-10-07T04:24:51.725205+00:00"
   }
 }
