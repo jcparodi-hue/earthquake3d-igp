@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-07T10:42:08.627827+00:00",
+  "actualizado_utc": "2026-10-07T10:45:17.109677+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 30,
   "actualizacion_minutos": 5,
   "igp": 30,
   "emsc": 2206,
-  "usgs": 485,
+  "usgs": 484,
   "duplicados_eliminados": 451,
-  "eventos_publicados": 2270,
-  "evento_mas_reciente_utc": "2026-10-07T10:29:37.200000+00:00",
+  "eventos_publicados": 2269,
+  "evento_mas_reciente_utc": "2026-10-07T10:34:34+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 25,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-07T04:43:06+00:00",
-      "antiguedad_evento_mas_reciente_min": 359.0
+      "antiguedad_evento_mas_reciente_min": 362.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2206,
       "eventos_recibidos": 2208,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-10-07T10:29:37.200000+00:00",
-      "antiguedad_evento_mas_reciente_min": 12.5
+      "evento_mas_reciente_utc": "2026-10-07T10:34:34+00:00",
+      "antiguedad_evento_mas_reciente_min": 10.7
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 485,
-      "eventos_recibidos": 488,
+      "eventos_validos": 484,
+      "eventos_recibidos": 487,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-10-07T10:20:33.568000+00:00",
-      "antiguedad_evento_mas_reciente_min": 21.6
+      "antiguedad_evento_mas_reciente_min": 24.7
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-720"
     },
     "emsc": {
-      "id": "20261007_0000154",
-      "fecha_hora_utc": "2026-10-07T10:29:37.200000+00:00",
-      "magnitud": 3.1,
-      "profundidad_km": 8.2,
-      "latitud": 38.0805,
-      "longitud": 38.4163,
+      "id": "20261007_0000156",
+      "fecha_hora_utc": "2026-10-07T10:34:34+00:00",
+      "magnitud": 2.8,
+      "profundidad_km": 120.0,
+      "latitud": -28.75,
+      "longitud": -68.61,
       "pais": "",
-      "ciudad_referencia": "EASTERN TURKEY",
+      "ciudad_referencia": "LA RIOJA, ARGENTINA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000154"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000156"
     },
     "usgs": {
       "id": "us6000u0qs",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-07T10:42:08.627827+00:00"
+    "hora_consulta_utc": "2026-10-07T10:45:17.109677+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-07T10:42:08.627827+00:00",
-  "combined_after_dedup": 2270
+  "updated_utc": "2026-10-07T10:45:17.109677+00:00",
+  "combined_after_dedup": 2269
 }
