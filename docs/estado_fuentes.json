@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-07T19:05:14.599739+00:00",
+  "actualizado_utc": "2026-10-07T19:10:17.507803+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 32,
   "actualizacion_minutos": 5,
@@ -18,7 +18,7 @@
       "eventos_recibidos": 27,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-07T08:42:38+00:00",
-      "antiguedad_evento_mas_reciente_min": 622.6
+      "antiguedad_evento_mas_reciente_min": 627.7
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,8 +26,8 @@
       "eventos_validos": 2201,
       "eventos_recibidos": 2203,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-10-07T18:51:01.477528+00:00",
-      "antiguedad_evento_mas_reciente_min": 14.2
+      "evento_mas_reciente_utc": "2026-10-07T18:58:50+00:00",
+      "antiguedad_evento_mas_reciente_min": 11.5
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 483,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-10-07T18:59:56.119000+00:00",
-      "antiguedad_evento_mas_reciente_min": 5.3
+      "antiguedad_evento_mas_reciente_min": 10.4
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-722"
     },
     "emsc": {
-      "id": "20261007_0000278",
-      "fecha_hora_utc": "2026-10-07T18:51:01.477528+00:00",
-      "magnitud": 2.6,
-      "profundidad_km": 14.6,
-      "latitud": 35.3934,
-      "longitud": 26.6226,
+      "id": "20261007_0000280",
+      "fecha_hora_utc": "2026-10-07T18:58:50+00:00",
+      "magnitud": 3.1,
+      "profundidad_km": 10.0,
+      "latitud": -26.03,
+      "longitud": -66.66,
       "pais": "",
-      "ciudad_referencia": "CRETE, GREECE",
+      "ciudad_referencia": "SALTA, ARGENTINA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000278"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000280"
     },
     "usgs": {
       "id": "aka2026twucys",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-07T19:05:14.599739+00:00"
+    "hora_consulta_utc": "2026-10-07T19:10:17.507803+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-07T19:05:14.599739+00:00",
+  "updated_utc": "2026-10-07T19:10:17.507803+00:00",
   "combined_after_dedup": 2265
 }
