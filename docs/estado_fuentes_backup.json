@@ -1,13 +1,13 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-07T21:01:22.470049+00:00",
+  "actualizado_utc": "2026-10-07T21:05:49.959625+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 32,
   "actualizacion_minutos": 5,
   "igp": 32,
   "emsc": 2196,
-  "usgs": 481,
-  "duplicados_eliminados": 446,
+  "usgs": 482,
+  "duplicados_eliminados": 447,
   "eventos_publicados": 2263,
   "evento_mas_reciente_utc": "2026-10-07T20:56:51+00:00",
   "salud_fuentes": {
@@ -18,7 +18,7 @@
       "eventos_recibidos": 27,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-07T08:42:38+00:00",
-      "antiguedad_evento_mas_reciente_min": 738.7
+      "antiguedad_evento_mas_reciente_min": 743.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -27,16 +27,16 @@
       "eventos_recibidos": 2197,
       "invalidos_rechazados": 1,
       "evento_mas_reciente_utc": "2026-10-07T20:56:51+00:00",
-      "antiguedad_evento_mas_reciente_min": 4.5
+      "antiguedad_evento_mas_reciente_min": 9.0
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 481,
-      "eventos_recibidos": 483,
+      "eventos_validos": 482,
+      "eventos_recibidos": 484,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-10-07T18:59:56.119000+00:00",
-      "antiguedad_evento_mas_reciente_min": 121.4
+      "evento_mas_reciente_utc": "2026-10-07T19:13:47.589000+00:00",
+      "antiguedad_evento_mas_reciente_min": 112.0
     }
   },
   "ultimo_evento": {
@@ -65,24 +65,24 @@
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000317"
     },
     "usgs": {
-      "id": "aka2026twucys",
-      "fecha_hora_utc": "2026-10-07T18:59:56.119000+00:00",
-      "magnitud": 2.8,
-      "profundidad_km": 73.7,
-      "latitud": 59.734,
-      "longitud": -152.115,
+      "id": "us6000u0u7",
+      "fecha_hora_utc": "2026-10-07T19:13:47.589000+00:00",
+      "magnitud": 4.9,
+      "profundidad_km": 50.601,
+      "latitud": 35.5597,
+      "longitud": 140.5835,
       "pais": "",
-      "ciudad_referencia": "16 km WSW of Anchor Point, Alaska",
+      "ciudad_referencia": "13 km SE of Yokoshiba, Japan",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026twucys"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0u7"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-07T21:01:22.470049+00:00"
+    "hora_consulta_utc": "2026-10-07T21:05:49.959625+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-07T21:01:22.470049+00:00",
+  "updated_utc": "2026-10-07T21:05:49.959625+00:00",
   "combined_after_dedup": 2263
 }
