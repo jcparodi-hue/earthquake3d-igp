@@ -1,13 +1,13 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-07T08:00:22.863814+00:00",
+  "actualizado_utc": "2026-10-07T08:05:13.219369+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 30,
   "actualizacion_minutos": 5,
   "igp": 30,
   "emsc": 2217,
-  "usgs": 490,
-  "duplicados_eliminados": 454,
+  "usgs": 491,
+  "duplicados_eliminados": 455,
   "eventos_publicados": 2283,
   "evento_mas_reciente_utc": "2026-10-07T07:47:44+00:00",
   "salud_fuentes": {
@@ -18,7 +18,7 @@
       "eventos_recibidos": 25,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-07T04:43:06+00:00",
-      "antiguedad_evento_mas_reciente_min": 197.3
+      "antiguedad_evento_mas_reciente_min": 202.1
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -27,16 +27,16 @@
       "eventos_recibidos": 2219,
       "invalidos_rechazados": 2,
       "evento_mas_reciente_utc": "2026-10-07T07:47:44+00:00",
-      "antiguedad_evento_mas_reciente_min": 12.6
+      "antiguedad_evento_mas_reciente_min": 17.5
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 490,
-      "eventos_recibidos": 493,
+      "eventos_validos": 491,
+      "eventos_recibidos": 494,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-07T06:03:51.815000+00:00",
-      "antiguedad_evento_mas_reciente_min": 116.5
+      "evento_mas_reciente_utc": "2026-10-07T07:43:19.524000+00:00",
+      "antiguedad_evento_mas_reciente_min": 21.9
     }
   },
   "ultimo_evento": {
@@ -65,24 +65,24 @@
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000113"
     },
     "usgs": {
-      "id": "aka2026tvuggp",
-      "fecha_hora_utc": "2026-10-07T06:03:51.815000+00:00",
-      "magnitud": 3.1,
-      "profundidad_km": 5.0,
-      "latitud": 54.629,
-      "longitud": -155.901,
+      "id": "us6000u0q1",
+      "fecha_hora_utc": "2026-10-07T07:43:19.524000+00:00",
+      "magnitud": 4.9,
+      "profundidad_km": 61.654,
+      "latitud": 14.6207,
+      "longitud": -93.1891,
       "pais": "",
-      "ciudad_referencia": "243 km SE of Chignik, Alaska",
+      "ciudad_referencia": "80 km SW of El Arenal, Mexico",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tvuggp"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0q1"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-07T08:00:22.863814+00:00"
+    "hora_consulta_utc": "2026-10-07T08:05:13.219369+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-07T08:00:22.863814+00:00",
+  "updated_utc": "2026-10-07T08:05:13.219369+00:00",
   "combined_after_dedup": 2283
 }
