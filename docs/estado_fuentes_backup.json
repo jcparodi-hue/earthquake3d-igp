@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-07T23:38:55.969409+00:00",
+  "actualizado_utc": "2026-10-07T23:40:15.545214+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 33,
   "actualizacion_minutos": 5,
@@ -9,7 +9,7 @@
   "usgs": 473,
   "duplicados_eliminados": 439,
   "eventos_publicados": 2247,
-  "evento_mas_reciente_utc": "2026-10-07T23:35:13.910000+00:00",
+  "evento_mas_reciente_utc": "2026-10-07T23:35:14.019000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 28,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-07T20:51:30+00:00",
-      "antiguedad_evento_mas_reciente_min": 167.4
+      "antiguedad_evento_mas_reciente_min": 168.8
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -27,7 +27,7 @@
       "eventos_recibidos": 2181,
       "invalidos_rechazados": 1,
       "evento_mas_reciente_utc": "2026-10-07T23:33:58+00:00",
-      "antiguedad_evento_mas_reciente_min": 5.0
+      "antiguedad_evento_mas_reciente_min": 6.3
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -35,8 +35,8 @@
       "eventos_validos": 473,
       "eventos_recibidos": 475,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-10-07T23:35:13.910000+00:00",
-      "antiguedad_evento_mas_reciente_min": 3.7
+      "evento_mas_reciente_utc": "2026-10-07T23:35:14.019000+00:00",
+      "antiguedad_evento_mas_reciente_min": 5.0
     }
   },
   "ultimo_evento": {
@@ -66,13 +66,13 @@
     },
     "usgs": {
       "id": "aka2026txdhrc",
-      "fecha_hora_utc": "2026-10-07T23:35:13.910000+00:00",
+      "fecha_hora_utc": "2026-10-07T23:35:14.019000+00:00",
       "magnitud": 2.6,
-      "profundidad_km": 11.6,
-      "latitud": 64.631,
-      "longitud": -151.329,
+      "profundidad_km": 14.1,
+      "latitud": 64.64,
+      "longitud": -151.319,
       "pais": "",
-      "ciudad_referencia": "52 km SW of Manley Hot Springs, Alaska",
+      "ciudad_referencia": "51 km SW of Manley Hot Springs, Alaska",
       "fuente": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026txdhrc"
     }
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-07T23:38:55.969409+00:00"
+    "hora_consulta_utc": "2026-10-07T23:40:15.545214+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-07T23:38:55.969409+00:00",
+  "updated_utc": "2026-10-07T23:40:15.545214+00:00",
   "combined_after_dedup": 2247
 }
