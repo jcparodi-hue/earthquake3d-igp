@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-07T18:25:14.812043+00:00",
+  "actualizado_utc": "2026-10-07T18:30:23.049088+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 32,
   "actualizacion_minutos": 5,
   "igp": 32,
-  "emsc": 2206,
-  "usgs": 480,
-  "duplicados_eliminados": 450,
-  "eventos_publicados": 2268,
-  "evento_mas_reciente_utc": "2026-10-07T17:55:41.950000+00:00",
+  "emsc": 2204,
+  "usgs": 478,
+  "duplicados_eliminados": 449,
+  "eventos_publicados": 2265,
+  "evento_mas_reciente_utc": "2026-10-07T18:20:08+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 27,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-07T08:42:38+00:00",
-      "antiguedad_evento_mas_reciente_min": 582.6
+      "antiguedad_evento_mas_reciente_min": 587.8
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2206,
-      "eventos_recibidos": 2208,
+      "eventos_validos": 2204,
+      "eventos_recibidos": 2206,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-10-07T17:55:41.950000+00:00",
-      "antiguedad_evento_mas_reciente_min": 29.5
+      "evento_mas_reciente_utc": "2026-10-07T18:20:08+00:00",
+      "antiguedad_evento_mas_reciente_min": 10.3
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 480,
-      "eventos_recibidos": 483,
+      "eventos_validos": 478,
+      "eventos_recibidos": 481,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-10-07T17:45:15.499000+00:00",
-      "antiguedad_evento_mas_reciente_min": 40.0
+      "antiguedad_evento_mas_reciente_min": 45.1
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-722"
     },
     "emsc": {
-      "id": "20261007_0000259",
-      "fecha_hora_utc": "2026-10-07T17:55:41.950000+00:00",
-      "magnitud": 2.8,
-      "profundidad_km": 7.0,
-      "latitud": 40.1742,
-      "longitud": 31.8448,
+      "id": "20261007_0000263",
+      "fecha_hora_utc": "2026-10-07T18:20:08+00:00",
+      "magnitud": 3.1,
+      "profundidad_km": 11.0,
+      "latitud": -7.83,
+      "longitud": 120.92,
       "pais": "",
-      "ciudad_referencia": "WESTERN TURKEY",
+      "ciudad_referencia": "FLORES SEA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000259"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000263"
     },
     "usgs": {
       "id": "aka2026twrpqs",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-07T18:25:14.812043+00:00"
+    "hora_consulta_utc": "2026-10-07T18:30:23.049088+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-07T18:25:14.812043+00:00",
-  "combined_after_dedup": 2268
+  "updated_utc": "2026-10-07T18:30:23.049088+00:00",
+  "combined_after_dedup": 2265
 }
