@@ -6283,6 +6283,34 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-723",
     "fecha_primera_recepcion": "2026-10-07T23:25:13.522322+00:00",
-    "fecha_ultima_observacion": "2026-10-07T23:35:14.465521+00:00"
+    "fecha_ultima_observacion": "2026-10-07T23:38:55.969409+00:00"
+  },
+  "EMSC:20261007_0000344": {
+    "id": "20261007_0000344",
+    "fecha_hora_utc": "2026-10-07T23:33:58+00:00",
+    "magnitud": 3.8,
+    "profundidad_km": 33.0,
+    "latitud": -36.61,
+    "longitud": -72.53,
+    "pais": "",
+    "ciudad_referencia": "BIO-BIO, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000344",
+    "fecha_primera_recepcion": "2026-10-07T23:38:55.969409+00:00",
+    "fecha_ultima_observacion": "2026-10-07T23:38:55.969409+00:00"
+  },
+  "USGS:aka2026txdhrc": {
+    "id": "aka2026txdhrc",
+    "fecha_hora_utc": "2026-10-07T23:35:13.910000+00:00",
+    "magnitud": 2.6,
+    "profundidad_km": 11.6,
+    "latitud": 64.631,
+    "longitud": -151.329,
+    "pais": "",
+    "ciudad_referencia": "52 km SW of Manley Hot Springs, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026txdhrc",
+    "fecha_primera_recepcion": "2026-10-07T23:38:55.969409+00:00",
+    "fecha_ultima_observacion": "2026-10-07T23:38:55.969409+00:00"
   }
 }

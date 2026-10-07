@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-07T23:35:14.465521+00:00",
+  "actualizado_utc": "2026-10-07T23:38:55.969409+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 33,
   "actualizacion_minutos": 5,
   "igp": 33,
-  "emsc": 2179,
-  "usgs": 472,
+  "emsc": 2180,
+  "usgs": 473,
   "duplicados_eliminados": 439,
-  "eventos_publicados": 2245,
-  "evento_mas_reciente_utc": "2026-10-07T22:14:59+00:00",
+  "eventos_publicados": 2247,
+  "evento_mas_reciente_utc": "2026-10-07T23:35:13.910000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 28,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-07T20:51:30+00:00",
-      "antiguedad_evento_mas_reciente_min": 163.7
+      "antiguedad_evento_mas_reciente_min": 167.4
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2179,
-      "eventos_recibidos": 2180,
+      "eventos_validos": 2180,
+      "eventos_recibidos": 2181,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-07T22:14:59+00:00",
-      "antiguedad_evento_mas_reciente_min": 80.3
+      "evento_mas_reciente_utc": "2026-10-07T23:33:58+00:00",
+      "antiguedad_evento_mas_reciente_min": 5.0
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 472,
-      "eventos_recibidos": 474,
+      "eventos_validos": 473,
+      "eventos_recibidos": 475,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-10-07T19:13:47.589000+00:00",
-      "antiguedad_evento_mas_reciente_min": 261.4
+      "evento_mas_reciente_utc": "2026-10-07T23:35:13.910000+00:00",
+      "antiguedad_evento_mas_reciente_min": 3.7
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-723"
     },
     "emsc": {
-      "id": "20261007_0000333",
-      "fecha_hora_utc": "2026-10-07T22:14:59+00:00",
-      "magnitud": 3.9,
-      "profundidad_km": 10.0,
-      "latitud": 1.04,
-      "longitud": 127.9,
+      "id": "20261007_0000344",
+      "fecha_hora_utc": "2026-10-07T23:33:58+00:00",
+      "magnitud": 3.8,
+      "profundidad_km": 33.0,
+      "latitud": -36.61,
+      "longitud": -72.53,
       "pais": "",
-      "ciudad_referencia": "HALMAHERA, INDONESIA",
+      "ciudad_referencia": "BIO-BIO, CHILE",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000333"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000344"
     },
     "usgs": {
-      "id": "us6000u0u7",
-      "fecha_hora_utc": "2026-10-07T19:13:47.589000+00:00",
-      "magnitud": 4.9,
-      "profundidad_km": 50.601,
-      "latitud": 35.5597,
-      "longitud": 140.5835,
+      "id": "aka2026txdhrc",
+      "fecha_hora_utc": "2026-10-07T23:35:13.910000+00:00",
+      "magnitud": 2.6,
+      "profundidad_km": 11.6,
+      "latitud": 64.631,
+      "longitud": -151.329,
       "pais": "",
-      "ciudad_referencia": "13 km SE of Yokoshiba, Japan",
+      "ciudad_referencia": "52 km SW of Manley Hot Springs, Alaska",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0u7"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026txdhrc"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-07T23:35:14.465521+00:00"
+    "hora_consulta_utc": "2026-10-07T23:38:55.969409+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-07T23:35:14.465521+00:00",
-  "combined_after_dedup": 2245
+  "updated_utc": "2026-10-07T23:38:55.969409+00:00",
+  "combined_after_dedup": 2247
 }
