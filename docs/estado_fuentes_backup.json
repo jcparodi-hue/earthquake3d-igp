@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-07T17:45:15.727576+00:00",
+  "actualizado_utc": "2026-10-07T17:48:29.311753+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 32,
   "actualizacion_minutos": 5,
   "igp": 32,
   "emsc": 2215,
-  "usgs": 480,
-  "duplicados_eliminados": 450,
+  "usgs": 481,
+  "duplicados_eliminados": 451,
   "eventos_publicados": 2277,
-  "evento_mas_reciente_utc": "2026-10-07T17:39:47+00:00",
+  "evento_mas_reciente_utc": "2026-10-07T17:45:15.543301+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 27,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-07T08:42:38+00:00",
-      "antiguedad_evento_mas_reciente_min": 542.6
+      "antiguedad_evento_mas_reciente_min": 545.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2215,
       "eventos_recibidos": 2217,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-10-07T17:39:47+00:00",
-      "antiguedad_evento_mas_reciente_min": 5.5
+      "evento_mas_reciente_utc": "2026-10-07T17:45:15.543301+00:00",
+      "antiguedad_evento_mas_reciente_min": 3.2
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 480,
-      "eventos_recibidos": 483,
+      "eventos_validos": 481,
+      "eventos_recibidos": 484,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-07T17:17:08.259000+00:00",
-      "antiguedad_evento_mas_reciente_min": 28.1
+      "evento_mas_reciente_utc": "2026-10-07T17:45:15.543000+00:00",
+      "antiguedad_evento_mas_reciente_min": 3.2
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-722"
     },
     "emsc": {
-      "id": "20261007_0000256",
-      "fecha_hora_utc": "2026-10-07T17:39:47+00:00",
-      "magnitud": 2.8,
-      "profundidad_km": 14.0,
-      "latitud": -9.77,
-      "longitud": 118.91,
+      "id": "20261007_0000257",
+      "fecha_hora_utc": "2026-10-07T17:45:15.543301+00:00",
+      "magnitud": 3.3,
+      "profundidad_km": 21.8,
+      "latitud": 60.749,
+      "longitud": -149.935,
       "pais": "",
-      "ciudad_referencia": "SUMBAWA REGION, INDONESIA",
+      "ciudad_referencia": "KENAI PENINSULA, ALASKA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000256"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000257"
     },
     "usgs": {
-      "id": "tx2026ttlzei",
-      "fecha_hora_utc": "2026-10-07T17:17:08.259000+00:00",
-      "magnitud": 3.6,
-      "profundidad_km": 2.0111,
-      "latitud": 31.171,
-      "longitud": -103.138,
+      "id": "aka2026twrpqs",
+      "fecha_hora_utc": "2026-10-07T17:45:15.543000+00:00",
+      "magnitud": 3.3,
+      "profundidad_km": 21.8,
+      "latitud": 60.749,
+      "longitud": -149.935,
       "pais": "",
-      "ciudad_referencia": "10 km SW of Coyanosa, Texas",
+      "ciudad_referencia": "24 km SW of Hope, Alaska",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ttlzei"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026twrpqs"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-07T17:45:15.727576+00:00"
+    "hora_consulta_utc": "2026-10-07T17:48:29.311753+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-07T17:45:15.727576+00:00",
+  "updated_utc": "2026-10-07T17:48:29.311753+00:00",
   "combined_after_dedup": 2277
 }
