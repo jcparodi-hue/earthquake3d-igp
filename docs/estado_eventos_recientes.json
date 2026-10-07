@@ -5429,7 +5429,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-722",
     "fecha_primera_recepcion": "2026-10-07T12:05:15.908744+00:00",
-    "fecha_ultima_observacion": "2026-10-07T18:05:15.525035+00:00"
+    "fecha_ultima_observacion": "2026-10-07T18:10:17.567513+00:00"
   },
   "EMSC:20261007_0000172": {
     "id": "20261007_0000172",
@@ -5895,17 +5895,17 @@
   },
   "USGS:aka2026twrpqs": {
     "id": "aka2026twrpqs",
-    "fecha_hora_utc": "2026-10-07T17:45:15.543000+00:00",
+    "fecha_hora_utc": "2026-10-07T17:45:15.499000+00:00",
     "magnitud": 3.3,
-    "profundidad_km": 21.8,
-    "latitud": 60.749,
-    "longitud": -149.935,
+    "profundidad_km": 22.9,
+    "latitud": 60.773,
+    "longitud": -149.933,
     "pais": "",
-    "ciudad_referencia": "24 km SW of Hope, Alaska",
+    "ciudad_referencia": "22 km SW of Hope, Alaska",
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026twrpqs",
     "fecha_primera_recepcion": "2026-10-07T17:48:29.311753+00:00",
-    "fecha_ultima_observacion": "2026-10-07T18:05:15.525035+00:00"
+    "fecha_ultima_observacion": "2026-10-07T18:10:17.567513+00:00"
   },
   "EMSC:20261007_0000259": {
     "id": "20261007_0000259",
@@ -5919,6 +5919,6 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261007_0000259",
     "fecha_primera_recepcion": "2026-10-07T18:00:28.013152+00:00",
-    "fecha_ultima_observacion": "2026-10-07T18:05:15.525035+00:00"
+    "fecha_ultima_observacion": "2026-10-07T18:10:17.567513+00:00"
   }
 }
