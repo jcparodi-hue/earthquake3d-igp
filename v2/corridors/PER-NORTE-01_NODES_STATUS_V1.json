@@ -1,0 +1,25 @@
+{
+  "project": "EARTHQUAKE 3D",
+  "model_version": "2.0.0",
+  "classification": "experimental",
+  "corridor_code": "PER-NORTE-01",
+  "digitization_version": "V1",
+  "nodes_layer": "PER_NORTE_01_NODES_V1",
+  "node_review_result": "NO_NODE_VISIBLE_LOCAL",
+  "node_review_status": "APPROVED_WITH_LIMITATIONS",
+  "confirmed_nodes_count": 0,
+  "confirmed_node_types": [],
+  "local_findings": {
+    "D": "NOT_VISIBLE_LOCAL",
+    "X": "NOT_VISIBLE_LOCAL",
+    "V": "NOT_VISIBLE_LOCAL",
+    "BRANCH": "NOT_CONFIRMED_LOCAL",
+    "REFLECTION": "NOT_VISIBLE_LOCAL"
+  },
+  "nodes_layer_must_remain_empty": true,
+  "visual_confidence": "MEDIUM",
+  "historical_validation": "NOT_STARTED",
+  "enabled_for_forecast": false,
+  "next_step": "DEFINE_ADMINISTRATIVE_SEGMENTS_WITH_INDEPENDENT_BOUNDARIES",
+  "warning_text": "Modelo experimental. No constituye una alerta oficial, una prediccion determinista ni sustituye la informacion del IGP/CENSIS y otras autoridades competentes."
+}
