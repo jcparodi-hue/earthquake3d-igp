@@ -6283,7 +6283,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-723",
     "fecha_primera_recepcion": "2026-10-07T23:25:13.522322+00:00",
-    "fecha_ultima_observacion": "2026-10-08T04:20:17.952033+00:00"
+    "fecha_ultima_observacion": "2026-10-08T04:25:13.299828+00:00"
   },
   "EMSC:20261007_0000344": {
     "id": "20261007_0000344",
@@ -6633,7 +6633,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0w0",
     "fecha_primera_recepcion": "2026-10-08T03:54:40.632815+00:00",
-    "fecha_ultima_observacion": "2026-10-08T04:20:17.952033+00:00"
+    "fecha_ultima_observacion": "2026-10-08T04:25:13.299828+00:00"
   },
   "EMSC:20261008_0000050": {
     "id": "20261008_0000050",
@@ -6648,5 +6648,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261008_0000050",
     "fecha_primera_recepcion": "2026-10-08T04:00:21.657234+00:00",
     "fecha_ultima_observacion": "2026-10-08T04:20:17.952033+00:00"
+  },
+  "EMSC:20261008_0000056": {
+    "id": "20261008_0000056",
+    "fecha_hora_utc": "2026-10-08T04:13:29.761249+00:00",
+    "magnitud": 2.7,
+    "profundidad_km": 5.0,
+    "latitud": -31.1807,
+    "longitud": 117.2632,
+    "pais": "",
+    "ciudad_referencia": "WESTERN AUSTRALIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261008_0000056",
+    "fecha_primera_recepcion": "2026-10-08T04:25:13.299828+00:00",
+    "fecha_ultima_observacion": "2026-10-08T04:25:13.299828+00:00"
   }
 }
