@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-08T04:45:16.941285+00:00",
+  "actualizado_utc": "2026-10-08T04:50:15.847588+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 33,
   "actualizacion_minutos": 5,
   "igp": 33,
-  "emsc": 2171,
+  "emsc": 2174,
   "usgs": 466,
-  "duplicados_eliminados": 433,
-  "eventos_publicados": 2237,
-  "evento_mas_reciente_utc": "2026-10-08T04:42:19.094000+00:00",
+  "duplicados_eliminados": 434,
+  "eventos_publicados": 2239,
+  "evento_mas_reciente_utc": "2026-10-08T04:42:19.094589+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 28,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-07T20:51:30+00:00",
-      "antiguedad_evento_mas_reciente_min": 473.8
+      "antiguedad_evento_mas_reciente_min": 478.8
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2171,
-      "eventos_recibidos": 2172,
+      "eventos_validos": 2174,
+      "eventos_recibidos": 2175,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-08T04:30:30+00:00",
-      "antiguedad_evento_mas_reciente_min": 14.8
+      "evento_mas_reciente_utc": "2026-10-08T04:42:19.094589+00:00",
+      "antiguedad_evento_mas_reciente_min": 7.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -35,8 +35,8 @@
       "eventos_validos": 466,
       "eventos_recibidos": 467,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-08T04:42:19.094000+00:00",
-      "antiguedad_evento_mas_reciente_min": 3.0
+      "evento_mas_reciente_utc": "2026-10-08T04:42:19.107000+00:00",
+      "antiguedad_evento_mas_reciente_min": 7.9
     }
   },
   "ultimo_evento": {
@@ -53,24 +53,24 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-723"
     },
     "emsc": {
-      "id": "20261008_0000058",
-      "fecha_hora_utc": "2026-10-08T04:30:30+00:00",
-      "magnitud": 3.8,
-      "profundidad_km": 30.0,
-      "latitud": 43.0,
-      "longitud": 145.8,
-      "pais": "",
-      "ciudad_referencia": "HOKKAIDO, JAPAN REGION",
-      "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261008_0000058"
-    },
-    "usgs": {
-      "id": "aka2026txnnxy",
-      "fecha_hora_utc": "2026-10-08T04:42:19.094000+00:00",
-      "magnitud": 2.9,
+      "id": "20261008_0000062",
+      "fecha_hora_utc": "2026-10-08T04:42:19.094589+00:00",
+      "magnitud": 3.1,
       "profundidad_km": 132.3,
       "latitud": 59.964,
       "longitud": -153.211,
+      "pais": "",
+      "ciudad_referencia": "SOUTHERN ALASKA",
+      "fuente": "EMSC",
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261008_0000062"
+    },
+    "usgs": {
+      "id": "aka2026txnnxy",
+      "fecha_hora_utc": "2026-10-08T04:42:19.107000+00:00",
+      "magnitud": 3.1,
+      "profundidad_km": 132.1,
+      "latitud": 59.964,
+      "longitud": -153.212,
       "pais": "",
       "ciudad_referencia": "53 km ENE of Pedro Bay, Alaska",
       "fuente": "USGS",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-08T04:45:16.941285+00:00"
+    "hora_consulta_utc": "2026-10-08T04:50:15.847588+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-08T04:45:16.941285+00:00",
-  "combined_after_dedup": 2237
+  "updated_utc": "2026-10-08T04:50:15.847588+00:00",
+  "combined_after_dedup": 2239
 }
