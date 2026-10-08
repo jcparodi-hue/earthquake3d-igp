@@ -1,14 +1,14 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-08T14:40:49.315698+00:00",
+  "actualizado_utc": "2026-10-08T14:45:15.401425+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 34,
   "actualizacion_minutos": 5,
   "igp": 34,
-  "emsc": 2180,
-  "usgs": 453,
-  "duplicados_eliminados": 430,
-  "eventos_publicados": 2237,
+  "emsc": 2177,
+  "usgs": 452,
+  "duplicados_eliminados": 429,
+  "eventos_publicados": 2234,
   "evento_mas_reciente_utc": "2026-10-08T14:20:34+00:00",
   "salud_fuentes": {
     "igp": {
@@ -18,25 +18,25 @@
       "eventos_recibidos": 29,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-08T06:42:22+00:00",
-      "antiguedad_evento_mas_reciente_min": 478.5
+      "antiguedad_evento_mas_reciente_min": 482.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2180,
-      "eventos_recibidos": 2181,
+      "eventos_validos": 2177,
+      "eventos_recibidos": 2178,
       "invalidos_rechazados": 1,
       "evento_mas_reciente_utc": "2026-10-08T14:20:34+00:00",
-      "antiguedad_evento_mas_reciente_min": 20.3
+      "antiguedad_evento_mas_reciente_min": 24.7
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 453,
-      "eventos_recibidos": 454,
+      "eventos_validos": 452,
+      "eventos_recibidos": 453,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-08T10:07:28.642000+00:00",
-      "antiguedad_evento_mas_reciente_min": 273.3
+      "evento_mas_reciente_utc": "2026-10-08T14:11:49.678000+00:00",
+      "antiguedad_evento_mas_reciente_min": 33.4
     }
   },
   "ultimo_evento": {
@@ -65,24 +65,24 @@
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261008_0000211"
     },
     "usgs": {
-      "id": "us6000u0xn",
-      "fecha_hora_utc": "2026-10-08T10:07:28.642000+00:00",
-      "magnitud": 5.1,
-      "profundidad_km": 602.272,
-      "latitud": -18.0147,
-      "longitud": -178.4545,
+      "id": "us6000u0yr",
+      "fecha_hora_utc": "2026-10-08T14:11:49.678000+00:00",
+      "magnitud": 4.9,
+      "profundidad_km": 10.0,
+      "latitud": -10.0202,
+      "longitud": 122.2936,
       "pais": "",
-      "ciudad_referencia": "236 km E of Levuka, Fiji",
+      "ciudad_referencia": "113 km NW of Baa, Indonesia",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0xn"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0yr"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-08T14:40:49.315698+00:00"
+    "hora_consulta_utc": "2026-10-08T14:45:15.401425+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-08T14:40:49.315698+00:00",
-  "combined_after_dedup": 2237
+  "updated_utc": "2026-10-08T14:45:15.401425+00:00",
+  "combined_after_dedup": 2234
 }
