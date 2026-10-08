@@ -6283,7 +6283,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-723",
     "fecha_primera_recepcion": "2026-10-07T23:25:13.522322+00:00",
-    "fecha_ultima_observacion": "2026-10-08T00:35:14.412927+00:00"
+    "fecha_ultima_observacion": "2026-10-08T00:40:16.703495+00:00"
   },
   "EMSC:20261007_0000344": {
     "id": "20261007_0000344",
@@ -6311,7 +6311,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026txdhrc",
     "fecha_primera_recepcion": "2026-10-07T23:38:55.969409+00:00",
-    "fecha_ultima_observacion": "2026-10-08T00:35:14.412927+00:00"
+    "fecha_ultima_observacion": "2026-10-08T00:40:16.703495+00:00"
   },
   "EMSC:20261007_0000346": {
     "id": "20261007_0000346",
@@ -6354,5 +6354,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261008_0000003",
     "fecha_primera_recepcion": "2026-10-08T00:23:13.410818+00:00",
     "fecha_ultima_observacion": "2026-10-08T00:35:14.412927+00:00"
+  },
+  "EMSC:20261008_0000006": {
+    "id": "20261008_0000006",
+    "fecha_hora_utc": "2026-10-08T00:31:38+00:00",
+    "magnitud": 2.7,
+    "profundidad_km": 184.1,
+    "latitud": -20.78,
+    "longitud": -68.15,
+    "pais": "",
+    "ciudad_referencia": "POTOSI, BOLIVIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261008_0000006",
+    "fecha_primera_recepcion": "2026-10-08T00:40:16.703495+00:00",
+    "fecha_ultima_observacion": "2026-10-08T00:40:16.703495+00:00"
   }
 }
