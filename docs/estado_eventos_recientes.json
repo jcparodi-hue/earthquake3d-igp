@@ -7123,7 +7123,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-724",
     "fecha_primera_recepcion": "2026-10-08T09:35:14.419871+00:00",
-    "fecha_ultima_observacion": "2026-10-08T15:20:15.298865+00:00"
+    "fecha_ultima_observacion": "2026-10-08T15:25:13.789980+00:00"
   },
   "EMSC:20261008_0000140": {
     "id": "20261008_0000140",
@@ -7431,7 +7431,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0yr",
     "fecha_primera_recepcion": "2026-10-08T14:45:15.401425+00:00",
-    "fecha_ultima_observacion": "2026-10-08T15:20:15.298865+00:00"
+    "fecha_ultima_observacion": "2026-10-08T15:25:13.789980+00:00"
   },
   "EMSC:20261008_0000212": {
     "id": "20261008_0000212",
@@ -7460,5 +7460,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261008_0000214",
     "fecha_primera_recepcion": "2026-10-08T15:10:19.516390+00:00",
     "fecha_ultima_observacion": "2026-10-08T15:20:15.298865+00:00"
+  },
+  "EMSC:20261008_0000217": {
+    "id": "20261008_0000217",
+    "fecha_hora_utc": "2026-10-08T15:10:55.620446+00:00",
+    "magnitud": 3.4,
+    "profundidad_km": 13.1,
+    "latitud": 34.5877,
+    "longitud": 26.5018,
+    "pais": "",
+    "ciudad_referencia": "CRETE, GREECE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261008_0000217",
+    "fecha_primera_recepcion": "2026-10-08T15:25:13.789980+00:00",
+    "fecha_ultima_observacion": "2026-10-08T15:25:13.789980+00:00"
   }
 }
