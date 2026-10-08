@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-08T09:10:28.929992+00:00",
+  "actualizado_utc": "2026-10-08T09:15:20.336629+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 33,
   "actualizacion_minutos": 5,
   "igp": 33,
-  "emsc": 2167,
-  "usgs": 465,
-  "duplicados_eliminados": 436,
-  "eventos_publicados": 2229,
-  "evento_mas_reciente_utc": "2026-10-08T09:04:58.980309+00:00",
+  "emsc": 2166,
+  "usgs": 464,
+  "duplicados_eliminados": 435,
+  "eventos_publicados": 2228,
+  "evento_mas_reciente_utc": "2026-10-08T09:09:06.091684+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 28,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-07T20:51:30+00:00",
-      "antiguedad_evento_mas_reciente_min": 739.0
+      "antiguedad_evento_mas_reciente_min": 743.8
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2167,
-      "eventos_recibidos": 2168,
+      "eventos_validos": 2166,
+      "eventos_recibidos": 2167,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-08T09:04:58.980309+00:00",
-      "antiguedad_evento_mas_reciente_min": 5.5
+      "evento_mas_reciente_utc": "2026-10-08T09:09:06.091684+00:00",
+      "antiguedad_evento_mas_reciente_min": 6.2
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 465,
-      "eventos_recibidos": 466,
+      "eventos_validos": 464,
+      "eventos_recibidos": 465,
       "invalidos_rechazados": 1,
       "evento_mas_reciente_utc": "2026-10-08T09:00:08+00:00",
-      "antiguedad_evento_mas_reciente_min": 10.3
+      "antiguedad_evento_mas_reciente_min": 15.2
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-723"
     },
     "emsc": {
-      "id": "20261008_0000126",
-      "fecha_hora_utc": "2026-10-08T09:04:58.980309+00:00",
-      "magnitud": 3.4,
-      "profundidad_km": 326.0,
-      "latitud": -40.0602,
-      "longitud": 172.2149,
+      "id": "20261008_0000129",
+      "fecha_hora_utc": "2026-10-08T09:09:06.091684+00:00",
+      "magnitud": 3.6,
+      "profundidad_km": 144.9,
+      "latitud": -41.2093,
+      "longitud": 172.7855,
       "pais": "",
-      "ciudad_referencia": "OFF W. COAST OF S. ISLAND, N.Z.",
+      "ciudad_referencia": "SOUTH ISLAND OF NEW ZEALAND",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261008_0000126"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261008_0000129"
     },
     "usgs": {
       "id": "pt26281001",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-08T09:10:28.929992+00:00"
+    "hora_consulta_utc": "2026-10-08T09:15:20.336629+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-08T09:10:28.929992+00:00",
-  "combined_after_dedup": 2229
+  "updated_utc": "2026-10-08T09:15:20.336629+00:00",
+  "combined_after_dedup": 2228
 }
