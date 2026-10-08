@@ -7123,7 +7123,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-724",
     "fecha_primera_recepcion": "2026-10-08T09:35:14.419871+00:00",
-    "fecha_ultima_observacion": "2026-10-08T20:00:17.921894+00:00"
+    "fecha_ultima_observacion": "2026-10-08T20:05:14.263082+00:00"
   },
   "EMSC:20261008_0000140": {
     "id": "20261008_0000140",
@@ -7753,6 +7753,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261008_0000276",
     "fecha_primera_recepcion": "2026-10-08T20:00:17.921894+00:00",
-    "fecha_ultima_observacion": "2026-10-08T20:00:17.921894+00:00"
+    "fecha_ultima_observacion": "2026-10-08T20:05:14.263082+00:00"
+  },
+  "USGS:us6000u10v": {
+    "id": "us6000u10v",
+    "fecha_hora_utc": "2026-10-08T18:32:03.544000+00:00",
+    "magnitud": 4.6,
+    "profundidad_km": 95.608,
+    "latitud": 30.7337,
+    "longitud": 140.6005,
+    "pais": "",
+    "ciudad_referencia": "Izu Islands, Japan region",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u10v",
+    "fecha_primera_recepcion": "2026-10-08T20:05:14.263082+00:00",
+    "fecha_ultima_observacion": "2026-10-08T20:05:14.263082+00:00"
   }
 }
