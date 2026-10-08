@@ -1,7 +1,7 @@
 {
-  "actualizado_utc": "2026-10-08T15:56:33.915045+00:00",
+  "actualizado_utc": "2026-10-08T16:11:37.081510+00:00",
   "estado": "OK",
-  "volcanes_mundiales": 1470,
+  "volcanes_mundiales": 0,
   "volcanes_usgs": 161,
   "volcanes_usgs_elevados": 4,
   "boletines_cenvul": 10,
@@ -14,5 +14,7 @@
     "peru": "IGP/CENVUL - boletines vulcanológicos oficiales",
     "ceniza": "NOAA Washington VAAC - avisos de ceniza de las últimas 24 horas"
   },
-  "errores": []
+  "errores": [
+    "Inventario mundial: The read operation timed out"
+  ]
 }
