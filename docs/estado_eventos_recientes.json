@@ -6283,7 +6283,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-723",
     "fecha_primera_recepcion": "2026-10-07T23:25:13.522322+00:00",
-    "fecha_ultima_observacion": "2026-10-08T06:25:48.486564+00:00"
+    "fecha_ultima_observacion": "2026-10-08T06:30:20.587335+00:00"
   },
   "EMSC:20261007_0000344": {
     "id": "20261007_0000344",
@@ -6815,7 +6815,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0wh",
     "fecha_primera_recepcion": "2026-10-08T05:55:13.727028+00:00",
-    "fecha_ultima_observacion": "2026-10-08T06:25:48.486564+00:00"
+    "fecha_ultima_observacion": "2026-10-08T06:30:20.587335+00:00"
   },
   "EMSC:20261008_0000083": {
     "id": "20261008_0000083",
@@ -6844,5 +6844,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261008_0000086",
     "fecha_primera_recepcion": "2026-10-08T06:20:20.952510+00:00",
     "fecha_ultima_observacion": "2026-10-08T06:25:48.486564+00:00"
+  },
+  "EMSC:20261008_0000089": {
+    "id": "20261008_0000089",
+    "fecha_hora_utc": "2026-10-08T06:18:05+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 106.0,
+    "latitud": -31.66,
+    "longitud": -69.36,
+    "pais": "",
+    "ciudad_referencia": "SAN JUAN, ARGENTINA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261008_0000089",
+    "fecha_primera_recepcion": "2026-10-08T06:30:20.587335+00:00",
+    "fecha_ultima_observacion": "2026-10-08T06:30:20.587335+00:00"
   }
 }
