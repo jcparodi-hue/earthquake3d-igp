@@ -6283,7 +6283,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-723",
     "fecha_primera_recepcion": "2026-10-07T23:25:13.522322+00:00",
-    "fecha_ultima_observacion": "2026-10-08T08:00:24.365662+00:00"
+    "fecha_ultima_observacion": "2026-10-08T08:05:13.585826+00:00"
   },
   "EMSC:20261007_0000344": {
     "id": "20261007_0000344",
@@ -6969,6 +6969,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261008_0000107",
     "fecha_primera_recepcion": "2026-10-08T07:59:42.087497+00:00",
-    "fecha_ultima_observacion": "2026-10-08T08:00:24.365662+00:00"
+    "fecha_ultima_observacion": "2026-10-08T08:05:13.585826+00:00"
+  },
+  "USGS:us6000u0x2": {
+    "id": "us6000u0x2",
+    "fecha_hora_utc": "2026-10-08T07:45:12.588000+00:00",
+    "magnitud": 4.6,
+    "profundidad_km": 97.534,
+    "latitud": 5.4545,
+    "longitud": 94.7814,
+    "pais": "",
+    "ciudad_referencia": "61 km W of Banda Aceh, Indonesia",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0x2",
+    "fecha_primera_recepcion": "2026-10-08T08:05:13.585826+00:00",
+    "fecha_ultima_observacion": "2026-10-08T08:05:13.585826+00:00"
   }
 }
