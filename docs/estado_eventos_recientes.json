@@ -6283,7 +6283,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-723",
     "fecha_primera_recepcion": "2026-10-07T23:25:13.522322+00:00",
-    "fecha_ultima_observacion": "2026-10-08T03:50:18.017498+00:00"
+    "fecha_ultima_observacion": "2026-10-08T03:54:40.632815+00:00"
   },
   "EMSC:20261007_0000344": {
     "id": "20261007_0000344",
@@ -6609,16 +6609,30 @@
   },
   "EMSC:20261008_0000044": {
     "id": "20261008_0000044",
-    "fecha_hora_utc": "2026-10-08T03:42:52.640000+00:00",
-    "magnitud": 4.6,
-    "profundidad_km": 360.4,
-    "latitud": 39.1706,
-    "longitud": 14.2699,
+    "fecha_hora_utc": "2026-10-08T03:42:52.895000+00:00",
+    "magnitud": 4.9,
+    "profundidad_km": 367.1,
+    "latitud": 39.2061,
+    "longitud": 14.3516,
     "pais": "",
     "ciudad_referencia": "TYRRHENIAN SEA",
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261008_0000044",
     "fecha_primera_recepcion": "2026-10-08T03:50:18.017498+00:00",
-    "fecha_ultima_observacion": "2026-10-08T03:50:18.017498+00:00"
+    "fecha_ultima_observacion": "2026-10-08T03:54:40.632815+00:00"
+  },
+  "USGS:us6000u0w0": {
+    "id": "us6000u0w0",
+    "fecha_hora_utc": "2026-10-08T03:42:52.895000+00:00",
+    "magnitud": 4.9,
+    "profundidad_km": 367.078,
+    "latitud": 39.2061,
+    "longitud": 14.3516,
+    "pais": "",
+    "ciudad_referencia": "81 km NNW of Malfa, Italy",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0w0",
+    "fecha_primera_recepcion": "2026-10-08T03:54:40.632815+00:00",
+    "fecha_ultima_observacion": "2026-10-08T03:54:40.632815+00:00"
   }
 }
