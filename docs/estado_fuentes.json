@@ -1,33 +1,33 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-08T09:30:20.939952+00:00",
+  "actualizado_utc": "2026-10-08T09:35:14.419871+00:00",
   "periodo_mundial_dias": 10,
-  "igp_historico": 33,
+  "igp_historico": 34,
   "actualizacion_minutos": 5,
-  "igp": 33,
-  "emsc": 2165,
+  "igp": 34,
+  "emsc": 2164,
   "usgs": 463,
-  "duplicados_eliminados": 435,
-  "eventos_publicados": 2226,
+  "duplicados_eliminados": 436,
+  "eventos_publicados": 2225,
   "evento_mas_reciente_utc": "2026-10-08T09:14:30+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 33,
-      "eventos_recibidos": 28,
+      "eventos_validos": 34,
+      "eventos_recibidos": 29,
       "invalidos_rechazados": 0,
-      "evento_mas_reciente_utc": "2026-10-07T20:51:30+00:00",
-      "antiguedad_evento_mas_reciente_min": 758.8
+      "evento_mas_reciente_utc": "2026-10-08T06:42:22+00:00",
+      "antiguedad_evento_mas_reciente_min": 172.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2165,
-      "eventos_recibidos": 2166,
+      "eventos_validos": 2164,
+      "eventos_recibidos": 2165,
       "invalidos_rechazados": 1,
       "evento_mas_reciente_utc": "2026-10-08T09:14:30+00:00",
-      "antiguedad_evento_mas_reciente_min": 15.8
+      "antiguedad_evento_mas_reciente_min": 20.7
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,21 +36,21 @@
       "eventos_recibidos": 464,
       "invalidos_rechazados": 1,
       "evento_mas_reciente_utc": "2026-10-08T09:00:07.768000+00:00",
-      "antiguedad_evento_mas_reciente_min": 30.2
+      "antiguedad_evento_mas_reciente_min": 35.1
     }
   },
   "ultimo_evento": {
     "igp": {
-      "id": "2026-723",
-      "fecha_hora_utc": "2026-10-07T20:51:30+00:00",
-      "magnitud": 3.4,
-      "profundidad_km": 15.0,
-      "latitud": -11.49,
-      "longitud": -74.59,
+      "id": "2026-724",
+      "fecha_hora_utc": "2026-10-08T06:42:22+00:00",
+      "magnitud": 3.5,
+      "profundidad_km": 14.0,
+      "latitud": -15.68,
+      "longitud": -72.09,
       "pais": "Perú",
-      "ciudad_referencia": "13 km al SO de San Martín de Pangoa, Satipo - Junín",
+      "ciudad_referencia": "6 km al N de Huambo, Caylloma - Arequipa",
       "fuente": "IGP",
-      "url": "https://ultimosismo.igp.gob.pe/evento/2026-723"
+      "url": "https://ultimosismo.igp.gob.pe/evento/2026-724"
     },
     "emsc": {
       "id": "20261008_0000131",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-08T09:30:20.939952+00:00"
+    "hora_consulta_utc": "2026-10-08T09:35:14.419871+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-08T09:30:20.939952+00:00",
-  "combined_after_dedup": 2226
+  "updated_utc": "2026-10-08T09:35:14.419871+00:00",
+  "combined_after_dedup": 2225
 }
