@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-08T18:05:16.865336+00:00",
+  "actualizado_utc": "2026-10-08T18:10:15.389024+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 34,
   "actualizacion_minutos": 5,
   "igp": 34,
   "emsc": 2164,
-  "usgs": 448,
-  "duplicados_eliminados": 426,
-  "eventos_publicados": 2220,
-  "evento_mas_reciente_utc": "2026-10-08T17:50:27.700000+00:00",
+  "usgs": 450,
+  "duplicados_eliminados": 427,
+  "eventos_publicados": 2221,
+  "evento_mas_reciente_utc": "2026-10-08T18:07:03.578364+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 29,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-08T06:42:22+00:00",
-      "antiguedad_evento_mas_reciente_min": 682.9
+      "antiguedad_evento_mas_reciente_min": 687.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2164,
       "eventos_recibidos": 2165,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-08T17:50:27.700000+00:00",
-      "antiguedad_evento_mas_reciente_min": 14.8
+      "evento_mas_reciente_utc": "2026-10-08T18:07:03.578364+00:00",
+      "antiguedad_evento_mas_reciente_min": 3.2
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 448,
-      "eventos_recibidos": 449,
+      "eventos_validos": 450,
+      "eventos_recibidos": 451,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-08T14:11:49.678000+00:00",
-      "antiguedad_evento_mas_reciente_min": 233.5
+      "evento_mas_reciente_utc": "2026-10-08T18:07:03.578000+00:00",
+      "antiguedad_evento_mas_reciente_min": 3.2
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-724"
     },
     "emsc": {
-      "id": "20261008_0000243",
-      "fecha_hora_utc": "2026-10-08T17:50:27.700000+00:00",
-      "magnitud": 3.4,
-      "profundidad_km": 8.9,
-      "latitud": 63.717,
-      "longitud": -23.274,
+      "id": "20261008_0000244",
+      "fecha_hora_utc": "2026-10-08T18:07:03.578364+00:00",
+      "magnitud": 3.2,
+      "profundidad_km": 15.0,
+      "latitud": 55.78,
+      "longitud": -157.648,
       "pais": "",
-      "ciudad_referencia": "ICELAND REGION",
+      "ciudad_referencia": "ALASKA PENINSULA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261008_0000243"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261008_0000244"
     },
     "usgs": {
-      "id": "us6000u0yr",
-      "fecha_hora_utc": "2026-10-08T14:11:49.678000+00:00",
-      "magnitud": 4.9,
-      "profundidad_km": 10.0,
-      "latitud": -10.0202,
-      "longitud": 122.2936,
+      "id": "aka2026tyojsd",
+      "fecha_hora_utc": "2026-10-08T18:07:03.578000+00:00",
+      "magnitud": 3.2,
+      "profundidad_km": 15.0,
+      "latitud": 55.78,
+      "longitud": -157.648,
       "pais": "",
-      "ciudad_referencia": "113 km NW of Baa, Indonesia",
+      "ciudad_referencia": "74 km SE of Chignik, Alaska",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0yr"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tyojsd"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-08T18:05:16.865336+00:00"
+    "hora_consulta_utc": "2026-10-08T18:10:15.389024+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-08T18:05:16.865336+00:00",
-  "combined_after_dedup": 2220
+  "updated_utc": "2026-10-08T18:10:15.389024+00:00",
+  "combined_after_dedup": 2221
 }
