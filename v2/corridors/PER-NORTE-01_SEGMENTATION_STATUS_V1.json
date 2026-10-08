@@ -1,0 +1,55 @@
+{
+  "project": "EARTHQUAKE 3D",
+  "model_version": "2.0.0",
+  "classification": "experimental",
+  "corridor_code": "PER-NORTE-01",
+  "digitization_version": "V1",
+  "segmentation_evaluation": {
+    "method": "NEAREST_COASTAL_DEPARTMENT",
+    "method_status": "METHOD_REJECTED_FOR_SEGMENTATION",
+    "input_corridor_layer": "PER_NORTE_01_WORKING_UTM17S_V1",
+    "input_departments_layer": "PER_NORTE_01_DEPARTMENTS_UTM17S_V1",
+    "sample_points_layer": "PER_NORTE_01_POINTS_20KM_UTM17S_V1",
+    "evidence_layer": "PER_NORTE_01_NEAREST_DEPARTMENT_20KM_V1",
+    "crs": "EPSG:32717",
+    "sample_interval_m": 20000,
+    "sample_count": 26,
+    "distance_range_m": {
+      "start": 0,
+      "end": 500000
+    },
+    "joined_count": 26,
+    "unjoinable_count": 0,
+    "department_assignments": {
+      "TUMBES": 0,
+      "PIURA": 26,
+      "LAMBAYEQUE": 0,
+      "LA_LIBERTAD": 0
+    },
+    "detected_transitions": 0,
+    "supports_s01_s04_segmentation": false,
+    "interpretation": "Using terrestrial departmental polygons and nearest geometric distance, PIURA was the nearest polygon for all 26 offshore sample points. This does not establish official maritime jurisdiction and does not support dividing the corridor into S01-S04.",
+    "decision_notes": [
+      "Do not divide the corridor by eye.",
+      "Do not manually change department assignments.",
+      "Do not modify PER-NORTE-01 V1 to force four segments.",
+      "Do not invent maritime departmental boundaries.",
+      "Retain the evidence layers for audit and reproducibility."
+    ]
+  },
+  "segment_status": {
+    "PER-NORTE-01-S01": "NOT_GEOMETRICALLY_CONFIRMED",
+    "PER-NORTE-01-S02": "NOT_GEOMETRICALLY_CONFIRMED",
+    "PER-NORTE-01-S03": "NOT_GEOMETRICALLY_CONFIRMED",
+    "PER-NORTE-01-S04": "NOT_GEOMETRICALLY_CONFIRMED"
+  },
+  "next_step": "EVALUATE_INDEPENDENT_VERIFIABLE_ALTERNATIVE_OR_KEEP_CORRIDOR_UNSEGMENTED",
+  "review_status": "IN_PROGRESS",
+  "historical_validation": "NOT_STARTED",
+  "enabled_for_forecast": false,
+  "branch_policy": {
+    "working_branch": "develop-v2",
+    "merge_to_main": false
+  },
+  "warning_text": "Modelo experimental. No constituye una alerta oficial, una prediccion determinista ni sustituye la informacion del IGP/CENSIS y otras autoridades competentes."
+}
