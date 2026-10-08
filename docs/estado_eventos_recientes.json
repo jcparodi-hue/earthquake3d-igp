@@ -6283,7 +6283,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-723",
     "fecha_primera_recepcion": "2026-10-07T23:25:13.522322+00:00",
-    "fecha_ultima_observacion": "2026-10-08T02:45:18.510482+00:00"
+    "fecha_ultima_observacion": "2026-10-08T02:50:15.624514+00:00"
   },
   "EMSC:20261007_0000344": {
     "id": "20261007_0000344",
@@ -6535,6 +6535,20 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tuedbl",
     "fecha_primera_recepcion": "2026-10-08T02:45:18.510482+00:00",
-    "fecha_ultima_observacion": "2026-10-08T02:45:18.510482+00:00"
+    "fecha_ultima_observacion": "2026-10-08T02:50:15.624514+00:00"
+  },
+  "EMSC:20261008_0000029": {
+    "id": "20261008_0000029",
+    "fecha_hora_utc": "2026-10-08T02:43:30+00:00",
+    "magnitud": 3.7,
+    "profundidad_km": 40.0,
+    "latitud": 30.0,
+    "longitud": 130.4,
+    "pais": "",
+    "ciudad_referencia": "KYUSHU, JAPAN",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261008_0000029",
+    "fecha_primera_recepcion": "2026-10-08T02:50:15.624514+00:00",
+    "fecha_ultima_observacion": "2026-10-08T02:50:15.624514+00:00"
   }
 }
