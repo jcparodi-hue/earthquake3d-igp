@@ -1,0 +1,44 @@
+{
+  "project": "EARTHQUAKE 3D",
+  "model_version": "2.0.0",
+  "corridor_code": "PER-NORTE-01",
+  "document_type": "CALIBRATION_V1_CLOSURE",
+  "closure_status": "CLOSED_AS_NON_INFORMATIVE",
+  "engine_version": "V1.1",
+  "calibration_period": [
+    "1980-01-01",
+    "2009-12-31"
+  ],
+  "catalog_rows": 10977,
+  "geometry_sha256": "e4ae50eb7aa36417554dce0d6ffe751ea1b754c50a0f38233a9209200ba4fe7e",
+  "findings": {
+    "targets_m45_within_50_km": 0,
+    "targets_m45_within_100_km": 2,
+    "targets_m45_within_150_km": 8,
+    "primary_triggers_total": 44,
+    "primary_triggers_within_150_km": 0,
+    "exploratory_triggers_total": 42,
+    "exploratory_triggers_within_150_km": 0,
+    "primary_forecasts": 0,
+    "exploratory_forecasts": 0,
+    "control_targets_within_150_km": 0
+  },
+  "interpretation": "The V1 spatial trigger rule produced no eligible trigger near PER-NORTE-01 during calibration. V1 is non-informative for testing remote transfer and is preserved as a null calibration result.",
+  "hypothesis_status": "NOT_CONFIRMED_NOT_REFUTED",
+  "v1_rules_must_not_be_modified": true,
+  "validation_2010_2019_opened": false,
+  "holdout_2020_2026_opened": false,
+  "next_phase": "DESIGN_V2_REMOTE_ORIGIN_CONNECTIVITY_USING_CALIBRATION_ONLY",
+  "v2_constraints": [
+    "Do not use validation or holdout events during design.",
+    "Define remote-origin connectivity before scoring.",
+    "Redesign the control so it contains a comparable calibration event base.",
+    "Freeze V2 before opening validation.",
+    "Keep enabled_for_forecast false."
+  ],
+  "historical_validation": "NOT_STARTED",
+  "enabled_for_forecast": false,
+  "public_alert_capability": false,
+  "working_branch": "develop-v2",
+  "merge_to_main": false
+}
