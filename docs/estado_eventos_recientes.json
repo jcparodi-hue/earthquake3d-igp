@@ -9251,7 +9251,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-726",
     "fecha_primera_recepcion": "2026-10-09T14:45:18.005933+00:00",
-    "fecha_ultima_observacion": "2026-10-09T18:35:14.234775+00:00"
+    "fecha_ultima_observacion": "2026-10-09T18:40:15.013524+00:00"
   },
   "EMSC:20261009_0000219": {
     "id": "20261009_0000219",
@@ -9658,5 +9658,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000263",
     "fecha_primera_recepcion": "2026-10-09T18:30:20.568652+00:00",
     "fecha_ultima_observacion": "2026-10-09T18:35:14.234775+00:00"
+  },
+  "EMSC:20261009_0000271": {
+    "id": "20261009_0000271",
+    "fecha_hora_utc": "2026-10-09T18:34:08.195000+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 6.9,
+    "latitud": 36.7217,
+    "longitud": -115.6157,
+    "pais": "",
+    "ciudad_referencia": "NEVADA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000271",
+    "fecha_primera_recepcion": "2026-10-09T18:40:15.013524+00:00",
+    "fecha_ultima_observacion": "2026-10-09T18:40:15.013524+00:00"
+  },
+  "USGS:us6000u18t": {
+    "id": "us6000u18t",
+    "fecha_hora_utc": "2026-10-09T18:22:15.709000+00:00",
+    "magnitud": 5.5,
+    "profundidad_km": 10.0,
+    "latitud": 7.586,
+    "longitud": -80.2885,
+    "pais": "",
+    "ciudad_referencia": "3 km SW of Bajo Corral, Panama",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18t",
+    "fecha_primera_recepcion": "2026-10-09T18:40:15.013524+00:00",
+    "fecha_ultima_observacion": "2026-10-09T18:40:15.013524+00:00"
   }
 }
