@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-09T17:50:14.273440+00:00",
+  "actualizado_utc": "2026-10-09T17:50:28.537413+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 36,
   "actualizacion_minutos": 5,
@@ -9,7 +9,7 @@
   "usgs": 440,
   "duplicados_eliminados": 430,
   "eventos_publicados": 2249,
-  "evento_mas_reciente_utc": "2026-10-09T17:48:25.064100+00:00",
+  "evento_mas_reciente_utc": "2026-10-09T17:48:24.984958+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 29,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-09T10:55:25+00:00",
-      "antiguedad_evento_mas_reciente_min": 414.8
+      "antiguedad_evento_mas_reciente_min": 415.1
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,8 +26,8 @@
       "eventos_validos": 2203,
       "eventos_recibidos": 2204,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-09T17:48:25.064100+00:00",
-      "antiguedad_evento_mas_reciente_min": 1.8
+      "evento_mas_reciente_utc": "2026-10-09T17:48:24.984958+00:00",
+      "antiguedad_evento_mas_reciente_min": 2.1
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -35,8 +35,8 @@
       "eventos_validos": 440,
       "eventos_recibidos": 441,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-09T17:48:25.064000+00:00",
-      "antiguedad_evento_mas_reciente_min": 1.8
+      "evento_mas_reciente_utc": "2026-10-09T17:48:24.984000+00:00",
+      "antiguedad_evento_mas_reciente_min": 2.1
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261009_0000255",
-      "fecha_hora_utc": "2026-10-09T17:48:25.064100+00:00",
+      "fecha_hora_utc": "2026-10-09T17:48:24.984958+00:00",
       "magnitud": 2.6,
-      "profundidad_km": 26.8,
+      "profundidad_km": 22.3,
       "latitud": 61.243,
-      "longitud": -146.142,
+      "longitud": -146.145,
       "pais": "",
       "ciudad_referencia": "SOUTHERN ALASKA",
       "fuente": "EMSC",
@@ -66,11 +66,11 @@
     },
     "usgs": {
       "id": "aka2026uajubu",
-      "fecha_hora_utc": "2026-10-09T17:48:25.064000+00:00",
+      "fecha_hora_utc": "2026-10-09T17:48:24.984000+00:00",
       "magnitud": 2.6,
-      "profundidad_km": 26.8,
+      "profundidad_km": 22.3,
       "latitud": 61.243,
-      "longitud": -146.142,
+      "longitud": -146.145,
       "pais": "",
       "ciudad_referencia": "16 km NE of Valdez, Alaska",
       "fuente": "USGS",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-09T17:50:14.273440+00:00"
+    "hora_consulta_utc": "2026-10-09T17:50:28.537413+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-09T17:50:14.273440+00:00",
+  "updated_utc": "2026-10-09T17:50:28.537413+00:00",
   "combined_after_dedup": 2249
 }
