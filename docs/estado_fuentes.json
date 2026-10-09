@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-09T18:40:15.013524+00:00",
+  "actualizado_utc": "2026-10-09T18:42:14.551650+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 36,
   "actualizacion_minutos": 5,
   "igp": 36,
-  "emsc": 2209,
-  "usgs": 441,
-  "duplicados_eliminados": 430,
-  "eventos_publicados": 2256,
-  "evento_mas_reciente_utc": "2026-10-09T18:34:08.195000+00:00",
+  "emsc": 2210,
+  "usgs": 442,
+  "duplicados_eliminados": 431,
+  "eventos_publicados": 2257,
+  "evento_mas_reciente_utc": "2026-10-09T18:40:03.596426+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 28,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-09T10:55:25+00:00",
-      "antiguedad_evento_mas_reciente_min": 464.8
+      "antiguedad_evento_mas_reciente_min": 466.8
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2209,
-      "eventos_recibidos": 2210,
+      "eventos_validos": 2210,
+      "eventos_recibidos": 2211,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-09T18:34:08.195000+00:00",
-      "antiguedad_evento_mas_reciente_min": 6.1
+      "evento_mas_reciente_utc": "2026-10-09T18:40:03.596426+00:00",
+      "antiguedad_evento_mas_reciente_min": 2.2
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 441,
-      "eventos_recibidos": 442,
+      "eventos_validos": 442,
+      "eventos_recibidos": 443,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-09T18:22:15.709000+00:00",
-      "antiguedad_evento_mas_reciente_min": 18.0
+      "evento_mas_reciente_utc": "2026-10-09T18:40:03.596000+00:00",
+      "antiguedad_evento_mas_reciente_min": 2.2
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-726"
     },
     "emsc": {
-      "id": "20261009_0000271",
-      "fecha_hora_utc": "2026-10-09T18:34:08.195000+00:00",
-      "magnitud": 2.5,
-      "profundidad_km": 6.9,
-      "latitud": 36.7217,
-      "longitud": -115.6157,
+      "id": "20261009_0000273",
+      "fecha_hora_utc": "2026-10-09T18:40:03.596426+00:00",
+      "magnitud": 3.2,
+      "profundidad_km": 84.4,
+      "latitud": 60.829,
+      "longitud": -151.736,
       "pais": "",
-      "ciudad_referencia": "NEVADA",
+      "ciudad_referencia": "KENAI PENINSULA, ALASKA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000271"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000273"
     },
     "usgs": {
-      "id": "us6000u18t",
-      "fecha_hora_utc": "2026-10-09T18:22:15.709000+00:00",
-      "magnitud": 5.5,
-      "profundidad_km": 10.0,
-      "latitud": 7.586,
-      "longitud": -80.2885,
+      "id": "aka2026ualmwh",
+      "fecha_hora_utc": "2026-10-09T18:40:03.596000+00:00",
+      "magnitud": 3.2,
+      "profundidad_km": 84.4,
+      "latitud": 60.829,
+      "longitud": -151.736,
       "pais": "",
-      "ciudad_referencia": "3 km SW of Bajo Corral, Panama",
+      "ciudad_referencia": "28 km WNW of Nikiski, Alaska",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18t"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ualmwh"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-09T18:40:15.013524+00:00"
+    "hora_consulta_utc": "2026-10-09T18:42:14.551650+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-09T18:40:15.013524+00:00",
-  "combined_after_dedup": 2256
+  "updated_utc": "2026-10-09T18:42:14.551650+00:00",
+  "combined_after_dedup": 2257
 }
