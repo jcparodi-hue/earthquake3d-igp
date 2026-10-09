@@ -7123,7 +7123,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-724",
     "fecha_primera_recepcion": "2026-10-08T09:35:14.419871+00:00",
-    "fecha_ultima_observacion": "2026-10-09T01:00:20.407302+00:00"
+    "fecha_ultima_observacion": "2026-10-09T01:05:13.798129+00:00"
   },
   "EMSC:20261008_0000140": {
     "id": "20261008_0000140",
@@ -8033,7 +8033,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u120",
     "fecha_primera_recepcion": "2026-10-08T23:40:16.824871+00:00",
-    "fecha_ultima_observacion": "2026-10-09T01:00:20.407302+00:00"
+    "fecha_ultima_observacion": "2026-10-09T01:05:13.798129+00:00"
   },
   "EMSC:20261008_0000330": {
     "id": "20261008_0000330",
@@ -8118,5 +8118,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000010",
     "fecha_primera_recepcion": "2026-10-09T01:00:20.407302+00:00",
     "fecha_ultima_observacion": "2026-10-09T01:00:20.407302+00:00"
+  },
+  "EMSC:20261009_0000011": {
+    "id": "20261009_0000011",
+    "fecha_hora_utc": "2026-10-09T00:59:08.100000+00:00",
+    "magnitud": 4.1,
+    "profundidad_km": 5.0,
+    "latitud": 18.69,
+    "longitud": -74.0,
+    "pais": "",
+    "ciudad_referencia": "HAITI REGION",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000011",
+    "fecha_primera_recepcion": "2026-10-09T01:05:13.798129+00:00",
+    "fecha_ultima_observacion": "2026-10-09T01:05:13.798129+00:00"
   }
 }
