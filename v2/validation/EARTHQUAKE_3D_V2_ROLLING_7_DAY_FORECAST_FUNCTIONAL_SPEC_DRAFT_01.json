@@ -1,0 +1,135 @@
+{
+  "project": "EARTHQUAKE 3D",
+  "model_version": "2.0.0",
+  "specification_version": "V2-DRAFT-01",
+  "document_type": "ROLLING_7_DAY_FORECAST_FUNCTIONAL_SPECIFICATION",
+  "status": "DRAFT_NOT_FROZEN",
+  "primary_goal": "Produce an experimental probabilistic seven-day earthquake forecast for predefined receiver regions.",
+  "forecast_definition": {
+    "forecast_not_prediction": true,
+    "window_days": 7,
+    "rolling_window": true,
+    "target_output": "Probability of one or more qualifying earthquakes in a predefined receiver region during the next seven days.",
+    "exact_time_claim": false,
+    "exact_epicenter_claim": false,
+    "exact_magnitude_claim": false
+  },
+  "event_driven_operation": {
+    "analyze_every_new_event": true,
+    "recheck_all_compatible_red_arrow_routes": true,
+    "allow_multiple_active_routes": true,
+    "allow_multiple_active_receiver_regions": true,
+    "update_existing_signals": true,
+    "open_new_signals_when_eligible": true,
+    "probability_may_increase": true,
+    "probability_may_decrease": true,
+    "dominant_route_may_change": true,
+    "dominant_receiver_region_may_change": true,
+    "archive_every_forecast_version": true,
+    "never_overwrite_prior_forecast": true
+  },
+  "red_arrow_interpretation": {
+    "role": "Flexible directional corridor and central reference axis.",
+    "exact_epicenter_on_axis_required": false,
+    "lateral_events_allowed": true,
+    "ocean_events_allowed": true,
+    "coastal_events_allowed": true,
+    "inland_events_allowed": true,
+    "volcanic_setting_required": false,
+    "all_events_automatically_transfer": false
+  },
+  "spatial_compatibility_classes": [
+    "CORE",
+    "INNER_LATERAL",
+    "OUTER_LATERAL",
+    "TECTONIC_EXTENSION",
+    "OUTSIDE"
+  ],
+  "signal_states": [
+    "NEW_REMOTE_TRIGGER",
+    "ROUTE_SUPPORTING",
+    "ROUTE_NEUTRAL",
+    "ROUTE_DIVERGING",
+    "RECEIVER_EVENT",
+    "DUPLICATE_OR_AFTERSHOCK",
+    "SIGNAL_EXPIRED"
+  ],
+  "forecast_update_sequence": [
+    "EVENT_RECEIVED",
+    "NORMALIZE_AND_DEDUPLICATE",
+    "CLASSIFY_MAGNITUDE_DEPTH_AND_REGION",
+    "MATCH_ALL_COMPATIBLE_ROUTES",
+    "UPDATE_ACTIVE_SIGNALS",
+    "OPEN_NEW_SIGNALS_IF_NEEDED",
+    "RECALCULATE_SEVEN_DAY_PROBABILITIES",
+    "COMPARE_WITH_HISTORICAL_BASELINE",
+    "ISSUE_NEW_FORECAST_SNAPSHOT_IF_REQUIRED",
+    "ARCHIVE_PREVIOUS_SNAPSHOT"
+  ],
+  "required_forecast_fields": [
+    "forecast_id",
+    "forecast_version",
+    "issued_at_utc",
+    "valid_from_utc",
+    "valid_until_utc",
+    "receiver_region_id",
+    "minimum_magnitude",
+    "probability_percent",
+    "historical_baseline_percent",
+    "probability_change_points",
+    "probability_ratio",
+    "source_event_ids",
+    "supporting_event_ids",
+    "compatible_route_ids",
+    "dominant_route_id",
+    "spatial_compatibility",
+    "data_completeness",
+    "uncertainty_level",
+    "model_version",
+    "validation_status",
+    "official_alert"
+  ],
+  "v2_test_levels": {
+    "V2A": "Remote source association with a South American receiver region.",
+    "V2B": "General directional compatibility along one or more red-arrow corridors.",
+    "V2C": "Ordered progression through intermediate stages and nodes before arrival at a receiver region."
+  },
+  "receiver_region_components": [
+    "OCEANIC_RECEIVER",
+    "COASTAL_APPROACH",
+    "COASTAL_LAND",
+    "INLAND_TECTONIC_EXTENSION"
+  ],
+  "data_policy": {
+    "global_source_catalog_required": true,
+    "igp_censis_primary_for_peru_receivers": true,
+    "use_calibration_only_during_design": true,
+    "calibration_period": [
+      "1980-01-01",
+      "2009-12-31"
+    ],
+    "validation_period_closed": [
+      "2010-01-01",
+      "2019-12-31"
+    ],
+    "holdout_period_closed": [
+      "2020-01-01",
+      "2026-10-08"
+    ]
+  },
+  "v1_learning": [
+    "Do not treat a red arrow as an exact epicenter line.",
+    "Do not require a remote source event to occur near the Peru receiver corridor.",
+    "Do not use only a Peru catalog for a global transfer hypothesis.",
+    "Do not use a control region with no comparable target activity.",
+    "Preserve immutable forecast versions and complete failure logs."
+  ],
+  "safety_and_release": {
+    "historical_validation": "NOT_STARTED",
+    "enabled_for_forecast": false,
+    "public_alert_capability": false,
+    "official_alert": false,
+    "merge_to_main": false,
+    "warning_text": "Experimental research forecast specification. It is not an official alert, evacuation instruction, or deterministic earthquake prediction."
+  }
+}
