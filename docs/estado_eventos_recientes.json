@@ -7123,7 +7123,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-724",
     "fecha_primera_recepcion": "2026-10-08T09:35:14.419871+00:00",
-    "fecha_ultima_observacion": "2026-10-09T01:20:15.992156+00:00"
+    "fecha_ultima_observacion": "2026-10-09T01:25:14.412665+00:00"
   },
   "EMSC:20261008_0000140": {
     "id": "20261008_0000140",
@@ -8033,7 +8033,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u120",
     "fecha_primera_recepcion": "2026-10-08T23:40:16.824871+00:00",
-    "fecha_ultima_observacion": "2026-10-09T01:20:15.992156+00:00"
+    "fecha_ultima_observacion": "2026-10-09T01:25:14.412665+00:00"
   },
   "EMSC:20261008_0000330": {
     "id": "20261008_0000330",
@@ -8146,5 +8146,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000012",
     "fecha_primera_recepcion": "2026-10-09T01:10:24.139482+00:00",
     "fecha_ultima_observacion": "2026-10-09T01:20:15.992156+00:00"
+  },
+  "EMSC:20261009_0000014": {
+    "id": "20261009_0000014",
+    "fecha_hora_utc": "2026-10-09T01:11:58+00:00",
+    "magnitud": 4.4,
+    "profundidad_km": 10.0,
+    "latitud": 28.3679,
+    "longitud": 88.5671,
+    "pais": "",
+    "ciudad_referencia": "WESTERN XIZANG",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000014",
+    "fecha_primera_recepcion": "2026-10-09T01:25:14.412665+00:00",
+    "fecha_ultima_observacion": "2026-10-09T01:25:14.412665+00:00"
   }
 }
