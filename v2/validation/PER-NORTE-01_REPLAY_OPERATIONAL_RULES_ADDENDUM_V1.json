@@ -1,0 +1,114 @@
+{
+  "project": "EARTHQUAKE 3D",
+  "model_version": "2.0.0",
+  "corridor_code": "PER-NORTE-01",
+  "document_type": "REPLAY_OPERATIONAL_RULE_ADDENDUM",
+  "version": "V1",
+  "status": "DRAFT_FOR_FREEZE",
+  "parent_protocol": "PER-NORTE-01_REPLAY_PREREGISTRATION_V1.json",
+  "scope": "Retrospective research evaluation only. This document does not authorize public alerts, operational warnings, or deterministic earthquake predictions.",
+  "forecast_unit": {
+    "name": "CORRIDOR_LEVEL_WINDOW",
+    "description": "One research forecast window for the complete unsegmented PER-NORTE-01 V1 corridor.",
+    "segments_used": false,
+    "reason": "S01-S04 are not geometrically confirmed."
+  },
+  "trigger_rules": {
+    "primary_trigger": {
+      "minimum_depth_km": 300,
+      "minimum_magnitude": 4.5,
+      "catalog_period_start": "1980-01-01T00:00:00Z",
+      "description": "Scientific primary deep-event trigger."
+    },
+    "exploratory_trigger": {
+      "minimum_depth_km": 200,
+      "maximum_depth_exclusive_km": 300,
+      "minimum_magnitude": 4.5,
+      "description": "Dutchsinse-like exploratory trigger, scored separately from the primary test."
+    },
+    "spatial_trigger_rule": "A trigger event must be within 150 km of PER-NORTE-01 V1. Sensitivity results at 50 km and 100 km must also be reported.",
+    "trigger_time": "Catalog event_datetime_utc."
+  },
+  "forecast_window": {
+    "primary_duration_days": 7,
+    "sensitivity_duration_days": [
+      3,
+      10
+    ],
+    "start_inclusive": "trigger_time",
+    "end_inclusive": "trigger_time + duration",
+    "rule": "All three durations must be scored; the 7-day result is primary."
+  },
+  "target_event_rules": {
+    "primary_period_minimum_magnitude": 4.5,
+    "historical_control_minimum_magnitude": 5.0,
+    "target_depth_km": [
+      0,
+      900
+    ],
+    "target_spatial_band_km": {
+      "primary": 100,
+      "sensitivity": [
+        50,
+        150
+      ]
+    },
+    "target_geometry": "Complete PER-NORTE-01 V1 corridor, without S01-S04 segments.",
+    "target_time_rule": "Target event_datetime_utc must fall inside an open forecast window."
+  },
+  "forecast_deduplication": {
+    "overlapping_trigger_rule": "Triggers of the same test type occurring while a forecast window is open do not create an additional forecast. The existing window remains anchored to the first trigger and is not extended.",
+    "primary_and_exploratory_separation": "Primary and exploratory trigger streams are evaluated independently.",
+    "new_window_rule": "A new forecast may open only after the previous window of the same test type has closed."
+  },
+  "target_deduplication": {
+    "first_qualifying_target": "The first qualifying target event in an open window determines whether that forecast is a hit.",
+    "additional_targets": "Additional qualifying events are retained in the event log but do not create extra hits for the same forecast window.",
+    "aftershock_policy": "No aftershock exclusion is applied in V1 because the catalog lacks a frozen declustering rule. All qualifying events are reported, and target-window scoring remains one hit maximum per forecast."
+  },
+  "outcome_definitions": {
+    "HIT": "An open forecast window contains at least one qualifying target event within the selected corridor-distance band.",
+    "FALSE_ALARM": "A forecast window closes without a qualifying target event.",
+    "FALSE_NEGATIVE": "A qualifying target event occurs within the selected corridor-distance band while no forecast window of that test type is open.",
+    "TARGET_OUTSIDE_CORRIDOR": "A catalog event meets the magnitude threshold but lies outside the selected corridor-distance band; it is reported but is not a target for that band.",
+    "TRIGGER_ONLY": "A trigger event opens a window but is not automatically counted as its own target event."
+  },
+  "magnitude_prediction": {
+    "enabled": false,
+    "rule": "V1 does not predict a target magnitude. Magnitude is used only as a minimum target threshold."
+  },
+  "directionality": {
+    "enabled": false,
+    "rule": "SOUTHBOUND_VISUAL is descriptive metadata only and is not used to exclude targets or alter scores in V1."
+  },
+  "evaluation_order": [
+    "Read catalog strictly in chronological UTC order.",
+    "Close expired forecast windows before processing the current event.",
+    "Score the current event as a target against windows opened by earlier events only.",
+    "After target scoring, evaluate whether the current event opens a new trigger window.",
+    "Write every trigger, window, target, and outcome to an immutable replay log."
+  ],
+  "benchmarks": {
+    "B0": "Historical event-rate forecast for the same time and spatial band.",
+    "B1": "Recent-activity persistence forecast without transfer-pressure routes.",
+    "C0": "Area-matched control region.",
+    "rule": "No EARTHQUAKE 3D result is interpreted without comparison against B0, B1, and C0."
+  },
+  "prohibited_changes_after_freeze": [
+    "Changing depth thresholds.",
+    "Changing magnitude thresholds.",
+    "Changing time windows.",
+    "Changing corridor-distance bands.",
+    "Moving or editing PER-NORTE-01 V1.",
+    "Creating S01-S04 segments to improve results.",
+    "Extending windows after a new trigger.",
+    "Removing unsuccessful forecasts.",
+    "Selecting only the best sensitivity result."
+  ],
+  "historical_validation": "NOT_STARTED",
+  "enabled_for_forecast": false,
+  "public_alert_capability": false,
+  "working_branch": "develop-v2",
+  "merge_to_main": false,
+  "warning_text": "Modelo experimental para investigacion retrospectiva. No constituye una alerta oficial, una prediccion determinista ni sustituye la informacion del IGP/CENSIS y otras autoridades competentes."
+}
