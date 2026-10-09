@@ -1,0 +1,100 @@
+{
+  "project": "EARTHQUAKE 3D",
+  "model_version": "2.0.0",
+  "corridor_code": "PER-NORTE-01",
+  "document_type": "REPLAY_BENCHMARK_RULES_ADDENDUM",
+  "version": "V1",
+  "status": "DRAFT_FOR_FREEZE",
+  "parent_protocol": "PER-NORTE-01_REPLAY_PREREGISTRATION_V1.json",
+  "parent_operational_rules": "PER-NORTE-01_REPLAY_OPERATIONAL_RULES_ADDENDUM_V1.json",
+  "scope": "Define benchmark rules before any calibration, validation, or holdout score is calculated.",
+  "common_evaluation": {
+    "periods": {
+      "calibration": [
+        "1980-01-01",
+        "2009-12-31"
+      ],
+      "validation": [
+        "2010-01-01",
+        "2019-12-31"
+      ],
+      "holdout": [
+        "2020-01-01",
+        "2026-10-08"
+      ]
+    },
+    "target_minimum_magnitude": 4.5,
+    "time_windows_days": [
+      3,
+      7,
+      10
+    ],
+    "corridor_bands_km": [
+      50,
+      100,
+      150
+    ],
+    "primary_time_window_days": 7,
+    "primary_corridor_band_km": 100,
+    "scoring_outputs": [
+      "forecast_count",
+      "hits",
+      "false_alarms",
+      "false_negatives",
+      "precision",
+      "recall",
+      "fraction_of_time_under_forecast",
+      "target_capture_rate",
+      "brier_score_when_applicable"
+    ]
+  },
+  "benchmarks": {
+    "B0": {
+      "name": "HISTORICAL_RATE",
+      "type": "constant_rate_probability",
+      "rule": "Estimate the target-event rate using calibration data only, separately for each spatial band. Convert the rate to a probability for each 3, 7, and 10 day window using p = 1 - exp(-lambda * duration_days). Do not refit lambda in validation or holdout.",
+      "uses_transfer_pressure_route": false,
+      "uses_deep_trigger": false
+    },
+    "B1": {
+      "name": "RECENT_ACTIVITY_PERSISTENCE",
+      "type": "event_triggered_window",
+      "trigger_rule": "Any event with magnitude >= 4.5 inside the evaluated corridor-distance band opens a forecast window after the event.",
+      "window_rule": "Use the same 3, 7, and 10 day windows. Overlapping triggers do not open or extend another window; the first event anchors the active window.",
+      "target_rule": "The trigger event cannot score as its own target. Score only later qualifying events.",
+      "uses_transfer_pressure_route": false,
+      "uses_deep_trigger": false
+    },
+    "C0": {
+      "name": "AREA_MATCHED_CONTROL",
+      "type": "translated_control_corridor",
+      "geometry_rule": "Create a control copy of PER-NORTE-01 V1 by subtracting 5.0 decimal degrees from every latitude while preserving all longitudes and vertex order.",
+      "reason": "The translated line preserves corridor length and shape approximately and places the control farther south along the same broad Peru subduction margin without fitting to earthquake outcomes.",
+      "control_code": "PER-CONTROL-SOUTH-01-V1",
+      "scoring_rule": "Apply the same primary and exploratory deep-trigger rules, time windows, distance bands, deduplication rules, and target thresholds used for PER-NORTE-01.",
+      "limitations": [
+        "The translation is a geometric control, not an official tectonic corridor.",
+        "Results must be labeled experimental.",
+        "No control geometry changes are allowed after freeze."
+      ]
+    }
+  },
+  "comparison_rule": {
+    "primary_question": "Does PER-NORTE-01 outperform B0, B1, and C0 on validation and holdout without parameter changes?",
+    "minimum_reporting": "Report every benchmark and every sensitivity combination, not only the best result.",
+    "no_claim_rule": "No predictive-skill claim is allowed if PER-NORTE-01 does not consistently outperform benchmarks on validation and holdout."
+  },
+  "prohibited_changes_after_freeze": [
+    "Changing the B0 calibration rate after viewing validation or holdout.",
+    "Changing the B1 trigger or overlap rule.",
+    "Moving, rotating, reshaping, or resizing C0.",
+    "Selecting only favorable windows or distance bands.",
+    "Removing unsuccessful forecasts or missed target events."
+  ],
+  "historical_validation": "NOT_STARTED",
+  "enabled_for_forecast": false,
+  "public_alert_capability": false,
+  "working_branch": "develop-v2",
+  "merge_to_main": false,
+  "warning_text": "Modelo experimental para investigacion retrospectiva. No constituye una alerta oficial, una prediccion determinista ni sustituye la informacion del IGP/CENSIS y otras autoridades competentes."
+}
