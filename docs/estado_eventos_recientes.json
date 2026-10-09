@@ -9251,7 +9251,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-726",
     "fecha_primera_recepcion": "2026-10-09T14:45:18.005933+00:00",
-    "fecha_ultima_observacion": "2026-10-09T20:20:15.440458+00:00"
+    "fecha_ultima_observacion": "2026-10-09T20:25:14.500942+00:00"
   },
   "EMSC:20261009_0000219": {
     "id": "20261009_0000219",
@@ -9853,7 +9853,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19h",
     "fecha_primera_recepcion": "2026-10-09T20:09:39.487477+00:00",
-    "fecha_ultima_observacion": "2026-10-09T20:20:15.440458+00:00"
+    "fecha_ultima_observacion": "2026-10-09T20:25:14.500942+00:00"
   },
   "EMSC:20261009_0000296": {
     "id": "20261009_0000296",
@@ -9882,5 +9882,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000300",
     "fecha_primera_recepcion": "2026-10-09T20:15:13.582801+00:00",
     "fecha_ultima_observacion": "2026-10-09T20:20:15.440458+00:00"
+  },
+  "EMSC:20261009_0000302": {
+    "id": "20261009_0000302",
+    "fecha_hora_utc": "2026-10-09T20:16:40+00:00",
+    "magnitud": 2.9,
+    "profundidad_km": 78.0,
+    "latitud": 1.99,
+    "longitud": 127.42,
+    "pais": "",
+    "ciudad_referencia": "HALMAHERA, INDONESIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000302",
+    "fecha_primera_recepcion": "2026-10-09T20:25:14.500942+00:00",
+    "fecha_ultima_observacion": "2026-10-09T20:25:14.500942+00:00"
   }
 }
