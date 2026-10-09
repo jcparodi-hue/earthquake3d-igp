@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-09T22:35:12.597323+00:00",
+  "actualizado_utc": "2026-10-09T22:40:15.300847+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 36,
   "actualizacion_minutos": 5,
   "igp": 36,
-  "emsc": 2228,
-  "usgs": 456,
-  "duplicados_eliminados": 446,
-  "eventos_publicados": 2274,
-  "evento_mas_reciente_utc": "2026-10-09T22:15:09.665739+00:00",
+  "emsc": 2229,
+  "usgs": 458,
+  "duplicados_eliminados": 447,
+  "eventos_publicados": 2276,
+  "evento_mas_reciente_utc": "2026-10-09T22:29:05+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 28,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-09T10:55:25+00:00",
-      "antiguedad_evento_mas_reciente_min": 699.8
+      "antiguedad_evento_mas_reciente_min": 704.8
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2228,
-      "eventos_recibidos": 2229,
+      "eventos_validos": 2229,
+      "eventos_recibidos": 2230,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-09T22:15:09.665739+00:00",
-      "antiguedad_evento_mas_reciente_min": 20.0
+      "evento_mas_reciente_utc": "2026-10-09T22:29:05+00:00",
+      "antiguedad_evento_mas_reciente_min": 11.2
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 456,
-      "eventos_recibidos": 457,
+      "eventos_validos": 458,
+      "eventos_recibidos": 459,
       "invalidos_rechazados": 1,
       "evento_mas_reciente_utc": "2026-10-09T22:15:09.665000+00:00",
-      "antiguedad_evento_mas_reciente_min": 20.0
+      "antiguedad_evento_mas_reciente_min": 25.1
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-726"
     },
     "emsc": {
-      "id": "20261009_0000340",
-      "fecha_hora_utc": "2026-10-09T22:15:09.665739+00:00",
-      "magnitud": 3.0,
-      "profundidad_km": 79.2,
-      "latitud": 56.402,
-      "longitud": -157.108,
+      "id": "20261009_0000345",
+      "fecha_hora_utc": "2026-10-09T22:29:05+00:00",
+      "magnitud": 3.4,
+      "profundidad_km": 10.0,
+      "latitud": -32.46,
+      "longitud": -69.01,
       "pais": "",
-      "ciudad_referencia": "ALASKA PENINSULA",
+      "ciudad_referencia": "MENDOZA, ARGENTINA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000340"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000345"
     },
     "usgs": {
       "id": "aka2026uasrgd",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-09T22:35:12.597323+00:00"
+    "hora_consulta_utc": "2026-10-09T22:40:15.300847+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-09T22:35:12.597323+00:00",
-  "combined_after_dedup": 2274
+  "updated_utc": "2026-10-09T22:40:15.300847+00:00",
+  "combined_after_dedup": 2276
 }

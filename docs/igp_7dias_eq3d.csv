@@ -1,4 +1,5 @@
 YEAR, MON, DAY, HOUR, MIN, DEP, MAG, LAT, LONG, URL   // IGP history + EMSC-RTS + USGS, global rolling 10 days
+2026,10,9,22,29,10.0,3.4,-32.460000,-69.010000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000345
 2026,10,9,22,15,79.2,3.0,56.402000,-157.108000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000340
 2026,10,9,22,13,9.0,4.3,7.740300,-81.420700,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000342
 2026,10,9,22,06,13.0,3.3,11.060000,123.190000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000344
@@ -21,7 +22,7 @@ YEAR, MON, DAY, HOUR, MIN, DEP, MAG, LAT, LONG, URL   // IGP history + EMSC-RTS 
 2026,10,9,20,25,10.0,6.6,7.701700,-81.383300,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000316
 2026,10,9,20,21,10.0,5.0,7.473400,-80.549100,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000309
 2026,10,9,20,20,10.0,4.9,7.616900,-81.026800,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000313
-2026,10,9,20,20,43.5,5.4,-5.183000,151.830000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000323
+2026,10,9,20,20,50.5,4.7,-5.431200,152.110300,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000323
 2026,10,9,20,16,78.0,2.9,1.990000,127.420000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000302
 2026,10,9,20,15,0.7,3.3,35.000500,33.918300,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000305
 2026,10,9,20,04,19.0,3.4,41.210000,83.710000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000300
@@ -291,6 +292,7 @@ YEAR, MON, DAY, HOUR, MIN, DEP, MAG, LAT, LONG, URL   // IGP history + EMSC-RTS 
 2026,10,8,18,02,7.3,3.7,14.258000,-92.174000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261008_0000347
 2026,10,8,17,50,8.9,3.4,63.717000,-23.274000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261008_0000243
 2026,10,8,17,23,10.0,3.3,78.340000,8.186000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261008_0000355
+2026,10,8,17,21,44.1,2.7,51.192000,-177.898000,10,https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tymwpg
 2026,10,8,17,01,10.0,3.0,-26.440000,27.366000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261008_0000238
 2026,10,8,16,53,0.8,3.0,78.314000,8.316000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261008_0000352
 2026,10,8,16,46,5.0,3.3,-30.522000,117.809700,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261008_0000235
@@ -1156,8 +1158,8 @@ YEAR, MON, DAY, HOUR, MIN, DEP, MAG, LAT, LONG, URL   // IGP history + EMSC-RTS 
 2026,10,4,21,11,10.0,2.5,-8.300000,120.590000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261004_0000324
 2026,10,4,21,08,14.0,3.5,-9.490000,-75.890000,10,https://ultimosismo.igp.gob.pe/evento/2026-714
 2026,10,4,21,07,22.0,2.7,36.066500,-119.643700,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261004_0000323
-2026,10,4,20,54,6.0,3.2,11.150000,124.160000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261004_0000325
 2026,10,4,20,54,10.0,4.1,-6.140000,130.610000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261004_0000320
+2026,10,4,20,54,6.0,3.2,11.150000,124.160000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261004_0000325
 2026,10,4,20,39,40.2,3.5,15.003000,-93.490000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261004_0000389
 2026,10,4,20,32,15.8,3.3,16.431000,-98.495000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261004_0000390
 2026,10,4,20,31,3.6,3.4,19.153000,-103.692000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261004_0000391
