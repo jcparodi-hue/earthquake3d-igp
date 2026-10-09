@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-09T02:51:20.554342+00:00",
+  "actualizado_utc": "2026-10-09T02:55:13.827649+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 34,
   "actualizacion_minutos": 5,
   "igp": 34,
   "emsc": 2183,
-  "usgs": 439,
-  "duplicados_eliminados": 418,
+  "usgs": 440,
+  "duplicados_eliminados": 419,
   "eventos_publicados": 2238,
-  "evento_mas_reciente_utc": "2026-10-09T02:36:14+00:00",
+  "evento_mas_reciente_utc": "2026-10-09T02:51:03.920000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 28,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-08T06:42:22+00:00",
-      "antiguedad_evento_mas_reciente_min": 1209.0
+      "antiguedad_evento_mas_reciente_min": 1212.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2183,
       "eventos_recibidos": 2184,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-09T02:36:14+00:00",
-      "antiguedad_evento_mas_reciente_min": 15.1
+      "evento_mas_reciente_utc": "2026-10-09T02:51:03.920000+00:00",
+      "antiguedad_evento_mas_reciente_min": 4.2
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 439,
-      "eventos_recibidos": 440,
+      "eventos_validos": 440,
+      "eventos_recibidos": 441,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-08T21:24:19.759000+00:00",
-      "antiguedad_evento_mas_reciente_min": 327.0
+      "evento_mas_reciente_utc": "2026-10-09T02:51:03.920000+00:00",
+      "antiguedad_evento_mas_reciente_min": 4.2
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-724"
     },
     "emsc": {
-      "id": "20261009_0000035",
-      "fecha_hora_utc": "2026-10-09T02:36:14+00:00",
-      "magnitud": 2.8,
-      "profundidad_km": 104.3,
-      "latitud": -23.37,
-      "longitud": -68.66,
+      "id": "20261009_0000037",
+      "fecha_hora_utc": "2026-10-09T02:51:03.920000+00:00",
+      "magnitud": 2.6,
+      "profundidad_km": 16.1,
+      "latitud": 38.0258,
+      "longitud": -118.7272,
       "pais": "",
-      "ciudad_referencia": "ANTOFAGASTA, CHILE",
+      "ciudad_referencia": "CENTRAL CALIFORNIA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000035"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000037"
     },
     "usgs": {
-      "id": "us6000u120",
-      "fecha_hora_utc": "2026-10-08T21:24:19.759000+00:00",
-      "magnitud": 3.1,
-      "profundidad_km": 10.0,
-      "latitud": 56.6924,
-      "longitud": -148.9651,
+      "id": "nc75446746",
+      "fecha_hora_utc": "2026-10-09T02:51:03.920000+00:00",
+      "magnitud": 2.81,
+      "profundidad_km": 16.1100006103516,
+      "latitud": 38.0258331298828,
+      "longitud": -118.727165222168,
       "pais": "",
-      "ciudad_referencia": "225 km ESE of Chiniak, Alaska",
+      "ciudad_referencia": "32 km SE of Bodie, CA",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u120"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446746"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-09T02:51:20.554342+00:00"
+    "hora_consulta_utc": "2026-10-09T02:55:13.827649+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-09T02:51:20.554342+00:00",
+  "updated_utc": "2026-10-09T02:55:13.827649+00:00",
   "combined_after_dedup": 2238
 }
