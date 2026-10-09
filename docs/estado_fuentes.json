@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-09T06:45:15.367690+00:00",
+  "actualizado_utc": "2026-10-09T06:50:13.988851+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 34,
   "actualizacion_minutos": 5,
   "igp": 34,
-  "emsc": 2196,
+  "emsc": 2195,
   "usgs": 438,
   "duplicados_eliminados": 418,
-  "eventos_publicados": 2250,
-  "evento_mas_reciente_utc": "2026-10-09T06:41:45+00:00",
+  "eventos_publicados": 2249,
+  "evento_mas_reciente_utc": "2026-10-09T06:40:54+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 28,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-08T06:42:22+00:00",
-      "antiguedad_evento_mas_reciente_min": 1442.9
+      "antiguedad_evento_mas_reciente_min": 1447.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2196,
-      "eventos_recibidos": 2197,
+      "eventos_validos": 2195,
+      "eventos_recibidos": 2196,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-09T06:41:45+00:00",
-      "antiguedad_evento_mas_reciente_min": 3.5
+      "evento_mas_reciente_utc": "2026-10-09T06:40:54+00:00",
+      "antiguedad_evento_mas_reciente_min": 9.3
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 439,
       "invalidos_rechazados": 1,
       "evento_mas_reciente_utc": "2026-10-09T05:17:04.106000+00:00",
-      "antiguedad_evento_mas_reciente_min": 88.2
+      "antiguedad_evento_mas_reciente_min": 93.2
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261009_0000102",
-      "fecha_hora_utc": "2026-10-09T06:41:45+00:00",
-      "magnitud": 4.0,
-      "profundidad_km": 128.4,
-      "latitud": -21.28,
-      "longitud": -69.01,
+      "fecha_hora_utc": "2026-10-09T06:40:54+00:00",
+      "magnitud": 4.2,
+      "profundidad_km": 121.0,
+      "latitud": -21.24,
+      "longitud": -68.79,
       "pais": "",
       "ciudad_referencia": "TARAPACA, CHILE",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-09T06:45:15.367690+00:00"
+    "hora_consulta_utc": "2026-10-09T06:50:13.988851+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-09T06:45:15.367690+00:00",
-  "combined_after_dedup": 2250
+  "updated_utc": "2026-10-09T06:50:13.988851+00:00",
+  "combined_after_dedup": 2249
 }
