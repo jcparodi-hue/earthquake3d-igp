@@ -9223,7 +9223,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u15x",
     "fecha_primera_recepcion": "2026-10-09T14:15:15.814048+00:00",
-    "fecha_ultima_observacion": "2026-10-09T14:40:16.103252+00:00"
+    "fecha_ultima_observacion": "2026-10-09T14:45:18.005933+00:00"
   },
   "EMSC:20261009_0000212": {
     "id": "20261009_0000212",
@@ -9237,6 +9237,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000212",
     "fecha_primera_recepcion": "2026-10-09T14:25:13.729133+00:00",
-    "fecha_ultima_observacion": "2026-10-09T14:40:16.103252+00:00"
+    "fecha_ultima_observacion": "2026-10-09T14:45:18.005933+00:00"
+  },
+  "IGP:2026-726": {
+    "id": "2026-726",
+    "fecha_hora_utc": "2026-10-09T10:55:25+00:00",
+    "magnitud": 4.2,
+    "profundidad_km": 107.0,
+    "latitud": -16.27,
+    "longitud": -72.26,
+    "pais": "Perú",
+    "ciudad_referencia": "33 km al SE de Aplao, Castilla - Arequipa",
+    "fuente": "IGP",
+    "url": "https://ultimosismo.igp.gob.pe/evento/2026-726",
+    "fecha_primera_recepcion": "2026-10-09T14:45:18.005933+00:00",
+    "fecha_ultima_observacion": "2026-10-09T14:45:18.005933+00:00"
   }
 }
