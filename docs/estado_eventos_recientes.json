@@ -9251,7 +9251,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-726",
     "fecha_primera_recepcion": "2026-10-09T14:45:18.005933+00:00",
-    "fecha_ultima_observacion": "2026-10-09T23:35:14.060126+00:00"
+    "fecha_ultima_observacion": "2026-10-09T23:40:14.589130+00:00"
   },
   "EMSC:20261009_0000219": {
     "id": "20261009_0000219",
@@ -10176,5 +10176,33 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ay",
     "fecha_primera_recepcion": "2026-10-09T23:35:14.060126+00:00",
     "fecha_ultima_observacion": "2026-10-09T23:35:14.060126+00:00"
+  },
+  "EMSC:20261009_0000363": {
+    "id": "20261009_0000363",
+    "fecha_hora_utc": "2026-10-09T23:29:57.800000+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 2.8,
+    "latitud": 37.7648,
+    "longitud": 36.1075,
+    "pais": "",
+    "ciudad_referencia": "CENTRAL TURKEY",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000363",
+    "fecha_primera_recepcion": "2026-10-09T23:40:14.589130+00:00",
+    "fecha_ultima_observacion": "2026-10-09T23:40:14.589130+00:00"
+  },
+  "USGS:aka2026uavhxe": {
+    "id": "aka2026uavhxe",
+    "fecha_hora_utc": "2026-10-09T23:34:12.188000+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 16.3,
+    "latitud": 64.712,
+    "longitud": -149.635,
+    "pais": "",
+    "ciudad_referencia": "27 km WNW of Four Mile Road, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uavhxe",
+    "fecha_primera_recepcion": "2026-10-09T23:40:14.589130+00:00",
+    "fecha_ultima_observacion": "2026-10-09T23:40:14.589130+00:00"
   }
 }
