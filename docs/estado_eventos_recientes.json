@@ -9251,7 +9251,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-726",
     "fecha_primera_recepcion": "2026-10-09T14:45:18.005933+00:00",
-    "fecha_ultima_observacion": "2026-10-09T17:25:14.171447+00:00"
+    "fecha_ultima_observacion": "2026-10-09T17:30:17.951325+00:00"
   },
   "EMSC:20261009_0000219": {
     "id": "20261009_0000219",
@@ -9521,30 +9521,30 @@
   },
   "EMSC:20261009_0000250": {
     "id": "20261009_0000250",
-    "fecha_hora_utc": "2026-10-09T17:09:05.392000+00:00",
-    "magnitud": 4.7,
+    "fecha_hora_utc": "2026-10-09T17:09:04.613000+00:00",
+    "magnitud": 4.8,
     "profundidad_km": 10.0,
-    "latitud": 52.0445,
-    "longitud": 160.5376,
+    "latitud": 51.8952,
+    "longitud": 160.6987,
     "pais": "",
     "ciudad_referencia": "OFF EAST COAST OF KAMCHATKA",
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000250",
     "fecha_primera_recepcion": "2026-10-09T17:25:14.171447+00:00",
-    "fecha_ultima_observacion": "2026-10-09T17:25:14.171447+00:00"
+    "fecha_ultima_observacion": "2026-10-09T17:30:17.951325+00:00"
   },
   "USGS:us6000u18e": {
     "id": "us6000u18e",
-    "fecha_hora_utc": "2026-10-09T17:09:05.392000+00:00",
-    "magnitud": 4.7,
+    "fecha_hora_utc": "2026-10-09T17:09:04.613000+00:00",
+    "magnitud": 4.8,
     "profundidad_km": 10.0,
-    "latitud": 52.0445,
-    "longitud": 160.5376,
+    "latitud": 51.8952,
+    "longitud": 160.6987,
     "pais": "",
-    "ciudad_referencia": "172 km SE of Petropavlovsk-Kamchatsky, Russia",
+    "ciudad_referencia": "191 km SE of Petropavlovsk-Kamchatsky, Russia",
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18e",
     "fecha_primera_recepcion": "2026-10-09T17:25:14.171447+00:00",
-    "fecha_ultima_observacion": "2026-10-09T17:25:14.171447+00:00"
+    "fecha_ultima_observacion": "2026-10-09T17:30:17.951325+00:00"
   }
 }
