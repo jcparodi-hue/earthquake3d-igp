@@ -9251,7 +9251,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-726",
     "fecha_primera_recepcion": "2026-10-09T14:45:18.005933+00:00",
-    "fecha_ultima_observacion": "2026-10-09T18:42:14.551650+00:00"
+    "fecha_ultima_observacion": "2026-10-09T18:45:17.425868+00:00"
   },
   "EMSC:20261009_0000219": {
     "id": "20261009_0000219",
@@ -9689,30 +9689,30 @@
   },
   "EMSC:20261009_0000273": {
     "id": "20261009_0000273",
-    "fecha_hora_utc": "2026-10-09T18:40:03.596426+00:00",
-    "magnitud": 3.2,
-    "profundidad_km": 84.4,
+    "fecha_hora_utc": "2026-10-09T18:40:03.579360+00:00",
+    "magnitud": 3.1,
+    "profundidad_km": 84.5,
     "latitud": 60.829,
-    "longitud": -151.736,
+    "longitud": -151.737,
     "pais": "",
     "ciudad_referencia": "KENAI PENINSULA, ALASKA",
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000273",
     "fecha_primera_recepcion": "2026-10-09T18:42:14.551650+00:00",
-    "fecha_ultima_observacion": "2026-10-09T18:42:14.551650+00:00"
+    "fecha_ultima_observacion": "2026-10-09T18:45:17.425868+00:00"
   },
   "USGS:aka2026ualmwh": {
     "id": "aka2026ualmwh",
-    "fecha_hora_utc": "2026-10-09T18:40:03.596000+00:00",
-    "magnitud": 3.2,
-    "profundidad_km": 84.4,
+    "fecha_hora_utc": "2026-10-09T18:40:03.579000+00:00",
+    "magnitud": 3.1,
+    "profundidad_km": 84.5,
     "latitud": 60.829,
-    "longitud": -151.736,
+    "longitud": -151.737,
     "pais": "",
     "ciudad_referencia": "28 km WNW of Nikiski, Alaska",
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ualmwh",
     "fecha_primera_recepcion": "2026-10-09T18:42:14.551650+00:00",
-    "fecha_ultima_observacion": "2026-10-09T18:42:14.551650+00:00"
+    "fecha_ultima_observacion": "2026-10-09T18:45:17.425868+00:00"
   }
 }
