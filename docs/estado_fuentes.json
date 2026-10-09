@@ -1,14 +1,14 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-09T12:45:15.558419+00:00",
+  "actualizado_utc": "2026-10-09T12:50:17.223078+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 35,
   "actualizacion_minutos": 5,
   "igp": 35,
-  "emsc": 2191,
-  "usgs": 438,
-  "duplicados_eliminados": 423,
-  "eventos_publicados": 2241,
+  "emsc": 2190,
+  "usgs": 439,
+  "duplicados_eliminados": 424,
+  "eventos_publicados": 2240,
   "evento_mas_reciente_utc": "2026-10-09T12:33:54.099000+00:00",
   "salud_fuentes": {
     "igp": {
@@ -18,25 +18,25 @@
       "eventos_recibidos": 28,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-09T05:16:13+00:00",
-      "antiguedad_evento_mas_reciente_min": 449.0
+      "antiguedad_evento_mas_reciente_min": 454.1
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2191,
-      "eventos_recibidos": 2192,
+      "eventos_validos": 2190,
+      "eventos_recibidos": 2191,
       "invalidos_rechazados": 1,
       "evento_mas_reciente_utc": "2026-10-09T12:33:54.099000+00:00",
-      "antiguedad_evento_mas_reciente_min": 11.4
+      "antiguedad_evento_mas_reciente_min": 16.4
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 438,
-      "eventos_recibidos": 439,
+      "eventos_validos": 439,
+      "eventos_recibidos": 440,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-09T11:39:04.448000+00:00",
-      "antiguedad_evento_mas_reciente_min": 66.2
+      "evento_mas_reciente_utc": "2026-10-09T12:33:43.985000+00:00",
+      "antiguedad_evento_mas_reciente_min": 16.6
     }
   },
   "ultimo_evento": {
@@ -65,24 +65,24 @@
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000173"
     },
     "usgs": {
-      "id": "us6000u15g",
-      "fecha_hora_utc": "2026-10-09T11:39:04.448000+00:00",
-      "magnitud": 4.4,
-      "profundidad_km": 203.147,
-      "latitud": 36.5453,
-      "longitud": 70.4321,
+      "id": "us6000u15l",
+      "fecha_hora_utc": "2026-10-09T12:33:43.985000+00:00",
+      "magnitud": 4.8,
+      "profundidad_km": 165.662,
+      "latitud": 11.5951,
+      "longitud": -86.0613,
       "pais": "",
-      "ciudad_referencia": "50 km SW of Jurm, Afghanistan",
+      "ciudad_referencia": "17 km S of Nandaime, Nicaragua",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u15g"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u15l"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-09T12:45:15.558419+00:00"
+    "hora_consulta_utc": "2026-10-09T12:50:17.223078+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-09T12:45:15.558419+00:00",
-  "combined_after_dedup": 2241
+  "updated_utc": "2026-10-09T12:50:17.223078+00:00",
+  "combined_after_dedup": 2240
 }
