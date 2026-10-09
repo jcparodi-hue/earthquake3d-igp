@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-09T06:20:15.683336+00:00",
+  "actualizado_utc": "2026-10-09T06:25:11.813787+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 34,
   "actualizacion_minutos": 5,
   "igp": 34,
-  "emsc": 2198,
+  "emsc": 2196,
   "usgs": 439,
   "duplicados_eliminados": 419,
-  "eventos_publicados": 2252,
-  "evento_mas_reciente_utc": "2026-10-09T05:47:50.490000+00:00",
+  "eventos_publicados": 2250,
+  "evento_mas_reciente_utc": "2026-10-09T06:04:46+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 28,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-08T06:42:22+00:00",
-      "antiguedad_evento_mas_reciente_min": 1417.9
+      "antiguedad_evento_mas_reciente_min": 1422.8
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2198,
-      "eventos_recibidos": 2199,
+      "eventos_validos": 2196,
+      "eventos_recibidos": 2197,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-09T05:47:50.490000+00:00",
-      "antiguedad_evento_mas_reciente_min": 32.4
+      "evento_mas_reciente_utc": "2026-10-09T06:04:46+00:00",
+      "antiguedad_evento_mas_reciente_min": 20.4
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 440,
       "invalidos_rechazados": 1,
       "evento_mas_reciente_utc": "2026-10-09T05:17:04.106000+00:00",
-      "antiguedad_evento_mas_reciente_min": 63.2
+      "antiguedad_evento_mas_reciente_min": 68.1
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-724"
     },
     "emsc": {
-      "id": "20261009_0000095",
-      "fecha_hora_utc": "2026-10-09T05:47:50.490000+00:00",
-      "magnitud": 2.9,
-      "profundidad_km": 12.1,
-      "latitud": 39.1657,
-      "longitud": 25.4785,
+      "id": "20261009_0000098",
+      "fecha_hora_utc": "2026-10-09T06:04:46+00:00",
+      "magnitud": 3.2,
+      "profundidad_km": 10.0,
+      "latitud": 28.191,
+      "longitud": 88.054,
       "pais": "",
-      "ciudad_referencia": "AEGEAN SEA",
+      "ciudad_referencia": "WESTERN XIZANG",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000095"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000098"
     },
     "usgs": {
       "id": "us6000u13y",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-09T06:20:15.683336+00:00"
+    "hora_consulta_utc": "2026-10-09T06:25:11.813787+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-09T06:20:15.683336+00:00",
-  "combined_after_dedup": 2252
+  "updated_utc": "2026-10-09T06:25:11.813787+00:00",
+  "combined_after_dedup": 2250
 }
