@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-09T11:55:41.648892+00:00",
+  "actualizado_utc": "2026-10-09T12:00:22.138573+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 35,
   "actualizacion_minutos": 5,
   "igp": 35,
-  "emsc": 2192,
-  "usgs": 437,
-  "duplicados_eliminados": 421,
-  "eventos_publicados": 2243,
-  "evento_mas_reciente_utc": "2026-10-09T11:23:51.825000+00:00",
+  "emsc": 2191,
+  "usgs": 438,
+  "duplicados_eliminados": 422,
+  "eventos_publicados": 2242,
+  "evento_mas_reciente_utc": "2026-10-09T11:39:04.448000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 28,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-09T05:16:13+00:00",
-      "antiguedad_evento_mas_reciente_min": 399.5
+      "antiguedad_evento_mas_reciente_min": 404.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2192,
-      "eventos_recibidos": 2193,
+      "eventos_validos": 2191,
+      "eventos_recibidos": 2192,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-09T11:23:51.825000+00:00",
-      "antiguedad_evento_mas_reciente_min": 31.8
+      "evento_mas_reciente_utc": "2026-10-09T11:39:04.448000+00:00",
+      "antiguedad_evento_mas_reciente_min": 21.3
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 437,
-      "eventos_recibidos": 438,
+      "eventos_validos": 438,
+      "eventos_recibidos": 439,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-09T11:23:52.758000+00:00",
-      "antiguedad_evento_mas_reciente_min": 31.8
+      "evento_mas_reciente_utc": "2026-10-09T11:39:04.448000+00:00",
+      "antiguedad_evento_mas_reciente_min": 21.3
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-725"
     },
     "emsc": {
-      "id": "20261009_0000160",
-      "fecha_hora_utc": "2026-10-09T11:23:51.825000+00:00",
-      "magnitud": 3.0,
-      "profundidad_km": 11.3,
-      "latitud": 64.9237,
-      "longitud": -150.8515,
+      "id": "20261009_0000166",
+      "fecha_hora_utc": "2026-10-09T11:39:04.448000+00:00",
+      "magnitud": 4.4,
+      "profundidad_km": 203.1,
+      "latitud": 36.5453,
+      "longitud": 70.4321,
       "pais": "",
-      "ciudad_referencia": "CENTRAL ALASKA",
+      "ciudad_referencia": "HINDU KUSH REGION, AFGHANISTAN",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000160"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000166"
     },
     "usgs": {
-      "id": "aka2026tzwyrc",
-      "fecha_hora_utc": "2026-10-09T11:23:52.758000+00:00",
-      "magnitud": 3.0,
-      "profundidad_km": 9.4,
-      "latitud": 64.97,
-      "longitud": -150.822,
+      "id": "us6000u15g",
+      "fecha_hora_utc": "2026-10-09T11:39:04.448000+00:00",
+      "magnitud": 4.4,
+      "profundidad_km": 203.147,
+      "latitud": 36.5453,
+      "longitud": 70.4321,
       "pais": "",
-      "ciudad_referencia": "9 km WSW of Manley Hot Springs, Alaska",
+      "ciudad_referencia": "50 km SW of Jurm, Afghanistan",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tzwyrc"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u15g"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-09T11:55:41.648892+00:00"
+    "hora_consulta_utc": "2026-10-09T12:00:22.138573+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-09T11:55:41.648892+00:00",
-  "combined_after_dedup": 2243
+  "updated_utc": "2026-10-09T12:00:22.138573+00:00",
+  "combined_after_dedup": 2242
 }
