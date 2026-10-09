@@ -9251,7 +9251,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-726",
     "fecha_primera_recepcion": "2026-10-09T14:45:18.005933+00:00",
-    "fecha_ultima_observacion": "2026-10-09T20:50:15.489210+00:00"
+    "fecha_ultima_observacion": "2026-10-09T20:55:14.707450+00:00"
   },
   "EMSC:20261009_0000219": {
     "id": "20261009_0000219",
@@ -9923,7 +9923,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uapffg",
     "fecha_primera_recepcion": "2026-10-09T20:35:13.823560+00:00",
-    "fecha_ultima_observacion": "2026-10-09T20:50:15.489210+00:00"
+    "fecha_ultima_observacion": "2026-10-09T20:55:14.707450+00:00"
   },
   "EMSC:20261009_0000311": {
     "id": "20261009_0000311",
@@ -9938,5 +9938,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000311",
     "fecha_primera_recepcion": "2026-10-09T20:42:50.476115+00:00",
     "fecha_ultima_observacion": "2026-10-09T20:50:15.489210+00:00"
+  },
+  "EMSC:20261009_0000315": {
+    "id": "20261009_0000315",
+    "fecha_hora_utc": "2026-10-09T20:47:26+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 141.6,
+    "latitud": -34.82,
+    "longitud": -70.43,
+    "pais": "",
+    "ciudad_referencia": "LIBERTADOR O'HIGGINS, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000315",
+    "fecha_primera_recepcion": "2026-10-09T20:55:14.707450+00:00",
+    "fecha_ultima_observacion": "2026-10-09T20:55:14.707450+00:00"
   }
 }
