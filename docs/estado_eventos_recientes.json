@@ -9251,7 +9251,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-726",
     "fecha_primera_recepcion": "2026-10-09T14:45:18.005933+00:00",
-    "fecha_ultima_observacion": "2026-10-09T18:01:39.371090+00:00"
+    "fecha_ultima_observacion": "2026-10-09T18:05:12.475993+00:00"
   },
   "EMSC:20261009_0000219": {
     "id": "20261009_0000219",
@@ -9573,7 +9573,7 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000255",
     "fecha_primera_recepcion": "2026-10-09T17:50:14.273440+00:00",
-    "fecha_ultima_observacion": "2026-10-09T18:01:39.371090+00:00"
+    "fecha_ultima_observacion": "2026-10-09T18:05:12.475993+00:00"
   },
   "USGS:aka2026uajubu": {
     "id": "aka2026uajubu",
@@ -9588,5 +9588,19 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uajubu",
     "fecha_primera_recepcion": "2026-10-09T17:50:14.273440+00:00",
     "fecha_ultima_observacion": "2026-10-09T18:01:39.371090+00:00"
+  },
+  "USGS:pt26282000": {
+    "id": "pt26282000",
+    "fecha_hora_utc": "2026-10-09T17:56:08+00:00",
+    "magnitud": 8.0,
+    "profundidad_km": 33.0,
+    "latitud": 7.54,
+    "longitud": -80.75,
+    "pais": "",
+    "ciudad_referencia": "14 km SW of Pitaloza Arriba, Panama",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26282000",
+    "fecha_primera_recepcion": "2026-10-09T18:05:12.475993+00:00",
+    "fecha_ultima_observacion": "2026-10-09T18:05:12.475993+00:00"
   }
 }
