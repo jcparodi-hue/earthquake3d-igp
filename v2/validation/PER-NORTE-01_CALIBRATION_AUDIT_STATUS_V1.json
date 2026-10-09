@@ -1,0 +1,30 @@
+{
+  "corridor_code": "PER-NORTE-01",
+  "engine_version": "V1.1",
+  "period": ["1980-01-01", "2009-12-31"],
+  "catalog_rows": 10977,
+  "distance_audit": {
+    "null_distances": 0,
+    "targets_m45_within_50_km": 0,
+    "targets_m45_within_100_km": 2,
+    "targets_m45_within_150_km": 8,
+    "nearest_target_distance_km": 80.531094,
+    "primary_triggers_total": 44,
+    "primary_triggers_within_150_km": 0,
+    "nearest_primary_trigger_distance_km": 1164.99305,
+    "exploratory_triggers_total": 42,
+    "exploratory_triggers_within_150_km": 0,
+    "nearest_exploratory_trigger_distance_km": 1214.554169,
+    "control_targets_within_150_km": 0,
+    "nearest_control_target_distance_km": 207.723213
+  },
+  "calibration_interpretation": "NON_INFORMATIVE_ZERO_TRIGGER_TEST",
+  "hypothesis_status": "NOT_CONFIRMED_NOT_REFUTED",
+  "v1_action": "ARCHIVE_AS_NULL_CALIBRATION_RESULT",
+  "recommended_next_step": "DESIGN_V2_REMOTE_ORIGIN_CONNECTIVITY_RULE_USING_CALIBRATION_ONLY",
+  "validation_opened": false,
+  "holdout_opened": false,
+  "enabled_for_forecast": false,
+  "public_alert_capability": false,
+  "merge_to_main": false
+}
