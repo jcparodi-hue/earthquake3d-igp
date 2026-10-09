@@ -8607,7 +8607,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-725",
     "fecha_primera_recepcion": "2026-10-09T07:44:54.303296+00:00",
-    "fecha_ultima_observacion": "2026-10-09T11:00:20.460678+00:00"
+    "fecha_ultima_observacion": "2026-10-09T11:05:12.357984+00:00"
   },
   "EMSC:20261009_0000106": {
     "id": "20261009_0000106",
@@ -8888,5 +8888,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000150",
     "fecha_primera_recepcion": "2026-10-09T10:50:14.995813+00:00",
     "fecha_ultima_observacion": "2026-10-09T11:00:20.460678+00:00"
+  },
+  "EMSC:20261009_0000156": {
+    "id": "20261009_0000156",
+    "fecha_hora_utc": "2026-10-09T10:58:34+00:00",
+    "magnitud": 2.7,
+    "profundidad_km": 118.4,
+    "latitud": -21.23,
+    "longitud": -68.9,
+    "pais": "",
+    "ciudad_referencia": "TARAPACA, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000156",
+    "fecha_primera_recepcion": "2026-10-09T11:05:12.357984+00:00",
+    "fecha_ultima_observacion": "2026-10-09T11:05:12.357984+00:00"
+  },
+  "USGS:pr71536203": {
+    "id": "pr71536203",
+    "fecha_hora_utc": "2026-10-09T10:28:10.820000+00:00",
+    "magnitud": 3.18,
+    "profundidad_km": 21.05,
+    "latitud": 18.9471666666667,
+    "longitud": -64.3568333333333,
+    "pais": "",
+    "ciudad_referencia": "82 km NE of Cruz Bay, U.S. Virgin Islands",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71536203",
+    "fecha_primera_recepcion": "2026-10-09T11:05:12.357984+00:00",
+    "fecha_ultima_observacion": "2026-10-09T11:05:12.357984+00:00"
   }
 }
