@@ -8607,7 +8607,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-725",
     "fecha_primera_recepcion": "2026-10-09T07:44:54.303296+00:00",
-    "fecha_ultima_observacion": "2026-10-09T08:25:13.556241+00:00"
+    "fecha_ultima_observacion": "2026-10-09T08:30:16.850480+00:00"
   },
   "EMSC:20261009_0000106": {
     "id": "20261009_0000106",
@@ -8664,5 +8664,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000111",
     "fecha_primera_recepcion": "2026-10-09T08:05:12.179480+00:00",
     "fecha_ultima_observacion": "2026-10-09T08:25:13.556241+00:00"
+  },
+  "EMSC:20261009_0000113": {
+    "id": "20261009_0000113",
+    "fecha_hora_utc": "2026-10-09T08:11:47.203000+00:00",
+    "magnitud": 4.5,
+    "profundidad_km": 559.7,
+    "latitud": -17.72,
+    "longitud": -178.3548,
+    "pais": "",
+    "ciudad_referencia": "FIJI REGION",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000113",
+    "fecha_primera_recepcion": "2026-10-09T08:30:16.850480+00:00",
+    "fecha_ultima_observacion": "2026-10-09T08:30:16.850480+00:00"
+  },
+  "USGS:us6000u14e": {
+    "id": "us6000u14e",
+    "fecha_hora_utc": "2026-10-09T08:11:47.203000+00:00",
+    "magnitud": 4.5,
+    "profundidad_km": 559.662,
+    "latitud": -17.72,
+    "longitud": -178.3548,
+    "pais": "",
+    "ciudad_referencia": "249 km E of Levuka, Fiji",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u14e",
+    "fecha_primera_recepcion": "2026-10-09T08:30:16.850480+00:00",
+    "fecha_ultima_observacion": "2026-10-09T08:30:16.850480+00:00"
   }
 }
