@@ -9251,7 +9251,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-726",
     "fecha_primera_recepcion": "2026-10-09T14:45:18.005933+00:00",
-    "fecha_ultima_observacion": "2026-10-09T15:35:13.660406+00:00"
+    "fecha_ultima_observacion": "2026-10-09T15:38:39.619541+00:00"
   },
   "EMSC:20261009_0000219": {
     "id": "20261009_0000219",
@@ -9339,16 +9339,30 @@
   },
   "EMSC:20261009_0000225": {
     "id": "20261009_0000225",
-    "fecha_hora_utc": "2026-10-09T15:18:55.450000+00:00",
-    "magnitud": 5.0,
-    "profundidad_km": 507.0,
-    "latitud": -24.5936,
-    "longitud": -179.9816,
+    "fecha_hora_utc": "2026-10-09T15:18:55.617000+00:00",
+    "magnitud": 4.6,
+    "profundidad_km": 501.6,
+    "latitud": -24.7105,
+    "longitud": 179.9109,
     "pais": "",
     "ciudad_referencia": "SOUTH OF FIJI ISLANDS",
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000225",
     "fecha_primera_recepcion": "2026-10-09T15:30:19.703191+00:00",
-    "fecha_ultima_observacion": "2026-10-09T15:35:13.660406+00:00"
+    "fecha_ultima_observacion": "2026-10-09T15:38:39.619541+00:00"
+  },
+  "USGS:us6000u168": {
+    "id": "us6000u168",
+    "fecha_hora_utc": "2026-10-09T15:18:55.617000+00:00",
+    "magnitud": 4.6,
+    "profundidad_km": 501.59,
+    "latitud": -24.7105,
+    "longitud": 179.9109,
+    "pais": "",
+    "ciudad_referencia": "south of the Fiji Islands",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u168",
+    "fecha_primera_recepcion": "2026-10-09T15:38:39.619541+00:00",
+    "fecha_ultima_observacion": "2026-10-09T15:38:39.619541+00:00"
   }
 }
