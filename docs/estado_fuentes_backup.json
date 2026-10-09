@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-09T20:05:12.024173+00:00",
+  "actualizado_utc": "2026-10-09T20:09:39.487477+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 36,
   "actualizacion_minutos": 5,
   "igp": 36,
   "emsc": 2220,
-  "usgs": 445,
-  "duplicados_eliminados": 436,
+  "usgs": 446,
+  "duplicados_eliminados": 437,
   "eventos_publicados": 2265,
-  "evento_mas_reciente_utc": "2026-10-09T19:49:01.050000+00:00",
+  "evento_mas_reciente_utc": "2026-10-09T19:48:55.624000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 28,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-09T10:55:25+00:00",
-      "antiguedad_evento_mas_reciente_min": 549.8
+      "antiguedad_evento_mas_reciente_min": 554.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2220,
       "eventos_recibidos": 2221,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-09T19:49:01.050000+00:00",
-      "antiguedad_evento_mas_reciente_min": 16.2
+      "evento_mas_reciente_utc": "2026-10-09T19:48:55.624000+00:00",
+      "antiguedad_evento_mas_reciente_min": 20.7
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 445,
-      "eventos_recibidos": 446,
+      "eventos_validos": 446,
+      "eventos_recibidos": 447,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-09T19:17:22.610000+00:00",
-      "antiguedad_evento_mas_reciente_min": 47.8
+      "evento_mas_reciente_utc": "2026-10-09T19:48:55.624000+00:00",
+      "antiguedad_evento_mas_reciente_min": 20.7
     }
   },
   "ultimo_evento": {
@@ -54,35 +54,35 @@
     },
     "emsc": {
       "id": "20261009_0000294",
-      "fecha_hora_utc": "2026-10-09T19:49:01.050000+00:00",
-      "magnitud": 5.4,
-      "profundidad_km": 35.0,
-      "latitud": 7.9241,
-      "longitud": -81.1705,
+      "fecha_hora_utc": "2026-10-09T19:48:55.624000+00:00",
+      "magnitud": 5.2,
+      "profundidad_km": 10.0,
+      "latitud": 7.6417,
+      "longitud": -81.2677,
       "pais": "",
       "ciudad_referencia": "PANAMA",
       "fuente": "EMSC",
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000294"
     },
     "usgs": {
-      "id": "us6000u198",
-      "fecha_hora_utc": "2026-10-09T19:17:22.610000+00:00",
-      "magnitud": 4.8,
-      "profundidad_km": 25.962,
-      "latitud": 7.6086,
-      "longitud": -81.0415,
+      "id": "us6000u19h",
+      "fecha_hora_utc": "2026-10-09T19:48:55.624000+00:00",
+      "magnitud": 5.2,
+      "profundidad_km": 10.0,
+      "latitud": 7.6417,
+      "longitud": -81.2677,
       "pais": "",
-      "ciudad_referencia": "14 km SSW of Tebario, Panama",
+      "ciudad_referencia": "11 km SE of Río Grande, Panama",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u198"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19h"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-09T20:05:12.024173+00:00"
+    "hora_consulta_utc": "2026-10-09T20:09:39.487477+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-09T20:05:12.024173+00:00",
+  "updated_utc": "2026-10-09T20:09:39.487477+00:00",
   "combined_after_dedup": 2265
 }
