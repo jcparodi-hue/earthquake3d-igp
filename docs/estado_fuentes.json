@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-09T07:45:14.791702+00:00",
+  "actualizado_utc": "2026-10-09T07:50:14.684846+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 35,
   "actualizacion_minutos": 5,
   "igp": 35,
-  "emsc": 2195,
-  "usgs": 438,
-  "duplicados_eliminados": 419,
-  "eventos_publicados": 2249,
-  "evento_mas_reciente_utc": "2026-10-09T07:31:58+00:00",
+  "emsc": 2196,
+  "usgs": 439,
+  "duplicados_eliminados": 420,
+  "eventos_publicados": 2250,
+  "evento_mas_reciente_utc": "2026-10-09T07:45:48+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 29,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-09T05:16:13+00:00",
-      "antiguedad_evento_mas_reciente_min": 149.0
+      "antiguedad_evento_mas_reciente_min": 154.0
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2195,
-      "eventos_recibidos": 2196,
+      "eventos_validos": 2196,
+      "eventos_recibidos": 2197,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-09T07:31:58+00:00",
-      "antiguedad_evento_mas_reciente_min": 13.3
+      "evento_mas_reciente_utc": "2026-10-09T07:45:48+00:00",
+      "antiguedad_evento_mas_reciente_min": 4.4
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 438,
-      "eventos_recibidos": 439,
+      "eventos_validos": 439,
+      "eventos_recibidos": 440,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-09T07:14:32.449000+00:00",
-      "antiguedad_evento_mas_reciente_min": 30.7
+      "evento_mas_reciente_utc": "2026-10-09T07:44:17.510000+00:00",
+      "antiguedad_evento_mas_reciente_min": 6.0
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-725"
     },
     "emsc": {
-      "id": "20261009_0000106",
-      "fecha_hora_utc": "2026-10-09T07:31:58+00:00",
-      "magnitud": 4.2,
-      "profundidad_km": 10.0,
-      "latitud": 9.64,
-      "longitud": 123.64,
+      "id": "20261009_0000108",
+      "fecha_hora_utc": "2026-10-09T07:45:48+00:00",
+      "magnitud": 3.9,
+      "profundidad_km": 107.0,
+      "latitud": 14.11,
+      "longitud": 120.37,
       "pais": "",
-      "ciudad_referencia": "NEGROS- CEBU REG, PHILIPPINES",
+      "ciudad_referencia": "LUZON, PHILIPPINES",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000106"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000108"
     },
     "usgs": {
-      "id": "aka2026tzoqmd",
-      "fecha_hora_utc": "2026-10-09T07:14:32.449000+00:00",
-      "magnitud": 2.8,
-      "profundidad_km": 15.6,
-      "latitud": 61.73,
-      "longitud": -150.143,
+      "id": "ci41345415",
+      "fecha_hora_utc": "2026-10-09T07:44:17.510000+00:00",
+      "magnitud": 3.19046262420132,
+      "profundidad_km": 12.3000001907349,
+      "latitud": 33.7916679382324,
+      "longitud": -118.179832458496,
       "pais": "",
-      "ciudad_referencia": "5 km WSW of Willow, Alaska",
+      "ciudad_referencia": "2 km SW of Signal Hill, CA",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tzoqmd"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345415"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-09T07:45:14.791702+00:00"
+    "hora_consulta_utc": "2026-10-09T07:50:14.684846+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-09T07:45:14.791702+00:00",
-  "combined_after_dedup": 2249
+  "updated_utc": "2026-10-09T07:50:14.684846+00:00",
+  "combined_after_dedup": 2250
 }

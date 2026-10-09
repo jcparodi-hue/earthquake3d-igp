@@ -8607,7 +8607,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-725",
     "fecha_primera_recepcion": "2026-10-09T07:44:54.303296+00:00",
-    "fecha_ultima_observacion": "2026-10-09T07:45:14.791702+00:00"
+    "fecha_ultima_observacion": "2026-10-09T07:50:14.684846+00:00"
   },
   "EMSC:20261009_0000106": {
     "id": "20261009_0000106",
@@ -8622,5 +8622,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000106",
     "fecha_primera_recepcion": "2026-10-09T07:44:54.303296+00:00",
     "fecha_ultima_observacion": "2026-10-09T07:45:14.791702+00:00"
+  },
+  "EMSC:20261009_0000108": {
+    "id": "20261009_0000108",
+    "fecha_hora_utc": "2026-10-09T07:45:48+00:00",
+    "magnitud": 3.9,
+    "profundidad_km": 107.0,
+    "latitud": 14.11,
+    "longitud": 120.37,
+    "pais": "",
+    "ciudad_referencia": "LUZON, PHILIPPINES",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000108",
+    "fecha_primera_recepcion": "2026-10-09T07:50:14.684846+00:00",
+    "fecha_ultima_observacion": "2026-10-09T07:50:14.684846+00:00"
+  },
+  "USGS:ci41345415": {
+    "id": "ci41345415",
+    "fecha_hora_utc": "2026-10-09T07:44:17.510000+00:00",
+    "magnitud": 3.19046262420132,
+    "profundidad_km": 12.3000001907349,
+    "latitud": 33.7916679382324,
+    "longitud": -118.179832458496,
+    "pais": "",
+    "ciudad_referencia": "2 km SW of Signal Hill, CA",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345415",
+    "fecha_primera_recepcion": "2026-10-09T07:50:14.684846+00:00",
+    "fecha_ultima_observacion": "2026-10-09T07:50:14.684846+00:00"
   }
 }
