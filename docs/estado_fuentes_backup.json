@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-09T09:55:15.264925+00:00",
+  "actualizado_utc": "2026-10-09T10:00:19.874012+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 35,
   "actualizacion_minutos": 5,
   "igp": 35,
-  "emsc": 2196,
-  "usgs": 437,
-  "duplicados_eliminados": 420,
-  "eventos_publicados": 2248,
-  "evento_mas_reciente_utc": "2026-10-09T09:36:58.570000+00:00",
+  "emsc": 2197,
+  "usgs": 438,
+  "duplicados_eliminados": 421,
+  "eventos_publicados": 2249,
+  "evento_mas_reciente_utc": "2026-10-09T09:36:58.080000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 29,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-09T05:16:13+00:00",
-      "antiguedad_evento_mas_reciente_min": 279.0
+      "antiguedad_evento_mas_reciente_min": 284.1
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2196,
-      "eventos_recibidos": 2197,
+      "eventos_validos": 2197,
+      "eventos_recibidos": 2198,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-09T09:36:58.570000+00:00",
-      "antiguedad_evento_mas_reciente_min": 18.3
+      "evento_mas_reciente_utc": "2026-10-09T09:36:58.080000+00:00",
+      "antiguedad_evento_mas_reciente_min": 23.4
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 437,
-      "eventos_recibidos": 438,
+      "eventos_validos": 438,
+      "eventos_recibidos": 439,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-09T08:27:10.358000+00:00",
-      "antiguedad_evento_mas_reciente_min": 88.1
+      "evento_mas_reciente_utc": "2026-10-09T09:29:18.117000+00:00",
+      "antiguedad_evento_mas_reciente_min": 31.0
     }
   },
   "ultimo_evento": {
@@ -54,35 +54,35 @@
     },
     "emsc": {
       "id": "20261009_0000133",
-      "fecha_hora_utc": "2026-10-09T09:36:58.570000+00:00",
+      "fecha_hora_utc": "2026-10-09T09:36:58.080000+00:00",
       "magnitud": 3.1,
-      "profundidad_km": 10.0,
-      "latitud": -33.0482,
-      "longitud": -71.5108,
+      "profundidad_km": 5.3,
+      "latitud": -33.0417,
+      "longitud": -71.4995,
       "pais": "",
       "ciudad_referencia": "VALPARAISO, CHILE",
       "fuente": "EMSC",
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000133"
     },
     "usgs": {
-      "id": "us6000u14i",
-      "fecha_hora_utc": "2026-10-09T08:27:10.358000+00:00",
+      "id": "us6000u14u",
+      "fecha_hora_utc": "2026-10-09T09:29:18.117000+00:00",
       "magnitud": 4.8,
-      "profundidad_km": 639.935,
-      "latitud": -17.9914,
-      "longitud": -179.7622,
+      "profundidad_km": 10.0,
+      "latitud": 35.3331,
+      "longitud": -35.5737,
       "pais": "",
-      "ciudad_referencia": "97 km E of Levuka, Fiji",
+      "ciudad_referencia": "northern Mid-Atlantic Ridge",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u14i"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u14u"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-09T09:55:15.264925+00:00"
+    "hora_consulta_utc": "2026-10-09T10:00:19.874012+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-09T09:55:15.264925+00:00",
-  "combined_after_dedup": 2248
+  "updated_utc": "2026-10-09T10:00:19.874012+00:00",
+  "combined_after_dedup": 2249
 }

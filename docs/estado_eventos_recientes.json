@@ -8607,7 +8607,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-725",
     "fecha_primera_recepcion": "2026-10-09T07:44:54.303296+00:00",
-    "fecha_ultima_observacion": "2026-10-09T09:55:15.264925+00:00"
+    "fecha_ultima_observacion": "2026-10-09T10:00:19.874012+00:00"
   },
   "EMSC:20261009_0000106": {
     "id": "20261009_0000106",
@@ -8779,16 +8779,30 @@
   },
   "EMSC:20261009_0000133": {
     "id": "20261009_0000133",
-    "fecha_hora_utc": "2026-10-09T09:36:58.570000+00:00",
+    "fecha_hora_utc": "2026-10-09T09:36:58.080000+00:00",
     "magnitud": 3.1,
-    "profundidad_km": 10.0,
-    "latitud": -33.0482,
-    "longitud": -71.5108,
+    "profundidad_km": 5.3,
+    "latitud": -33.0417,
+    "longitud": -71.4995,
     "pais": "",
     "ciudad_referencia": "VALPARAISO, CHILE",
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000133",
     "fecha_primera_recepcion": "2026-10-09T09:40:56.045276+00:00",
-    "fecha_ultima_observacion": "2026-10-09T09:55:15.264925+00:00"
+    "fecha_ultima_observacion": "2026-10-09T10:00:19.874012+00:00"
+  },
+  "USGS:us6000u14u": {
+    "id": "us6000u14u",
+    "fecha_hora_utc": "2026-10-09T09:29:18.117000+00:00",
+    "magnitud": 4.8,
+    "profundidad_km": 10.0,
+    "latitud": 35.3331,
+    "longitud": -35.5737,
+    "pais": "",
+    "ciudad_referencia": "northern Mid-Atlantic Ridge",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u14u",
+    "fecha_primera_recepcion": "2026-10-09T10:00:19.874012+00:00",
+    "fecha_ultima_observacion": "2026-10-09T10:00:19.874012+00:00"
   }
 }
