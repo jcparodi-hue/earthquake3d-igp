@@ -9251,7 +9251,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-726",
     "fecha_primera_recepcion": "2026-10-09T14:45:18.005933+00:00",
-    "fecha_ultima_observacion": "2026-10-09T18:25:11.802331+00:00"
+    "fecha_ultima_observacion": "2026-10-09T18:30:20.568652+00:00"
   },
   "EMSC:20261009_0000219": {
     "id": "20261009_0000219",
@@ -9619,17 +9619,17 @@
   },
   "USGS:us6000u18k": {
     "id": "us6000u18k",
-    "fecha_hora_utc": "2026-10-09T17:56:05.655000+00:00",
-    "magnitud": 7.6,
-    "profundidad_km": 10.0,
-    "latitud": 7.5993,
-    "longitud": -80.7572,
+    "fecha_hora_utc": "2026-10-09T17:56:06.036000+00:00",
+    "magnitud": 7.7,
+    "profundidad_km": 12.647,
+    "latitud": 7.5868,
+    "longitud": -80.769,
     "pais": "",
-    "ciudad_referencia": "10 km WSW of Pitaloza Arriba, Panama",
+    "ciudad_referencia": "12 km WSW of Pitaloza Arriba, Panama",
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k",
     "fecha_primera_recepcion": "2026-10-09T18:15:15.753679+00:00",
-    "fecha_ultima_observacion": "2026-10-09T18:25:11.802331+00:00"
+    "fecha_ultima_observacion": "2026-10-09T18:30:20.568652+00:00"
   },
   "EMSC:20261009_0000261": {
     "id": "20261009_0000261",
@@ -9644,5 +9644,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000261",
     "fecha_primera_recepcion": "2026-10-09T18:22:16.301716+00:00",
     "fecha_ultima_observacion": "2026-10-09T18:25:11.802331+00:00"
+  },
+  "EMSC:20261009_0000263": {
+    "id": "20261009_0000263",
+    "fecha_hora_utc": "2026-10-09T18:23:42.300000+00:00",
+    "magnitud": 4.0,
+    "profundidad_km": 5.0,
+    "latitud": 1.53,
+    "longitud": -78.65,
+    "pais": "",
+    "ciudad_referencia": "COLOMBIA-ECUADOR BORDER REGION",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000263",
+    "fecha_primera_recepcion": "2026-10-09T18:30:20.568652+00:00",
+    "fecha_ultima_observacion": "2026-10-09T18:30:20.568652+00:00"
   }
 }
