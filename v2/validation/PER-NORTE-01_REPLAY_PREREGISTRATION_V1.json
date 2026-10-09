@@ -1,0 +1,97 @@
+{
+  "project": "EARTHQUAKE 3D",
+  "model_version": "2.0.0",
+  "corridor_code": "PER-NORTE-01",
+  "protocol_version": "V1",
+  "status": "DRAFT_FOR_FREEZE",
+  "purpose": "Retrospective evaluation of the PER-NORTE-01 corridor without changing rules after observing validation results.",
+  "catalog": {
+    "source": "IGP/CENSIS",
+    "original_file": "datos-sismicos_Instrumental_1960-01-01_2026-10-08.xlsx",
+    "normalized_file": "IGP_CENSIS_CATALOGO_NORMALIZADO_1960_2026_V1.xlsx",
+    "event_count": 25778,
+    "first_event_utc": "1960-01-13T15:40:34Z",
+    "last_event_utc": "2026-10-08T06:42:22Z"
+  },
+  "magnitude_completeness": {
+    "diagnostic_file": "IGP_CENSIS_COMPLETITUD_PRELIMINAR_V1.json",
+    "primary_period": {
+      "start": "1980-01-01T00:00:00Z",
+      "end": "2026-10-08T06:42:22Z",
+      "minimum_magnitude": 4.5
+    },
+    "historical_control_period": {
+      "start": "1960-01-13T15:40:34Z",
+      "end": "1979-12-31T23:59:59Z",
+      "minimum_magnitude": 5.0
+    }
+  },
+  "time_splits": {
+    "calibration": ["1980-01-01", "2009-12-31"],
+    "validation": ["2010-01-01", "2019-12-31"],
+    "holdout": ["2020-01-01", "2026-10-08"],
+    "rule": "No parameter changes after inspecting validation or holdout scores."
+  },
+  "depth_definitions": {
+    "scientific_primary_deep_km": 300,
+    "scientific_intermediate_range_km": [70, 300],
+    "exploratory_dutchsinse_like_trigger_km": 200,
+    "rule": "The 300 km threshold is primary. Results using 200 km must be labeled exploratory and reported separately."
+  },
+  "forecast_windows_days": {
+    "primary": 7,
+    "sensitivity": [3, 10]
+  },
+  "corridor_distance_bands_km": {
+    "primary": 100,
+    "sensitivity": [50, 150],
+    "rule": "All bands must be reported; do not select only the best result."
+  },
+  "target_event": {
+    "primary_minimum_magnitude": 4.5,
+    "historical_control_minimum_magnitude": 5.0,
+    "depth_range_km": [0, 900]
+  },
+  "benchmarks": [
+    {
+      "code": "B0",
+      "name": "HISTORICAL_RATE",
+      "description": "Historical event rate in the same evaluation region and time window."
+    },
+    {
+      "code": "B1",
+      "name": "RECENT_ACTIVITY_PERSISTENCE",
+      "description": "Forecast based only on recent seismic activity, without transfer-pressure routes."
+    },
+    {
+      "code": "C0",
+      "name": "AREA_MATCHED_CONTROL",
+      "description": "Control region with area comparable to the corridor evaluation region."
+    }
+  ],
+  "required_outputs": [
+    "forecast_count",
+    "target_event_count",
+    "hits",
+    "misses",
+    "false_alarms",
+    "false_negatives",
+    "spatial_error_km",
+    "temporal_error_hours",
+    "magnitude_error",
+    "monitored_area_km2",
+    "score_comparison_against_B0_B1_C0"
+  ],
+  "reporting_rules": [
+    "Report all forecasts, including unsuccessful forecasts.",
+    "Report all target events, including events outside the corridor.",
+    "Do not change PER-NORTE-01 V1 during replay.",
+    "Do not create S01-S04 segments unless an independent method is validated.",
+    "Do not interpret retrospective results as an operational warning capability."
+  ],
+  "historical_validation": "NOT_STARTED",
+  "enabled_for_forecast": false,
+  "working_branch": "develop-v2",
+  "merge_to_main": false,
+  "warning_text": "Modelo experimental. No constituye una alerta oficial, una prediccion determinista ni sustituye la informacion del IGP/CENSIS y otras autoridades competentes."
+}
