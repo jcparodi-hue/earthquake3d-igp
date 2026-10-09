@@ -8607,7 +8607,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-725",
     "fecha_primera_recepcion": "2026-10-09T07:44:54.303296+00:00",
-    "fecha_ultima_observacion": "2026-10-09T08:56:00.168546+00:00"
+    "fecha_ultima_observacion": "2026-10-09T09:00:19.316463+00:00"
   },
   "EMSC:20261009_0000106": {
     "id": "20261009_0000106",
@@ -8719,7 +8719,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u14i",
     "fecha_primera_recepcion": "2026-10-09T08:45:14.774394+00:00",
-    "fecha_ultima_observacion": "2026-10-09T08:56:00.168546+00:00"
+    "fecha_ultima_observacion": "2026-10-09T09:00:19.316463+00:00"
   },
   "EMSC:20261009_0000119": {
     "id": "20261009_0000119",
@@ -8748,5 +8748,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000122",
     "fecha_primera_recepcion": "2026-10-09T08:55:13.177311+00:00",
     "fecha_ultima_observacion": "2026-10-09T08:56:00.168546+00:00"
+  },
+  "EMSC:20261009_0000125": {
+    "id": "20261009_0000125",
+    "fecha_hora_utc": "2026-10-09T08:57:46.790000+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 0.0,
+    "latitud": 38.7381,
+    "longitud": -118.6574,
+    "pais": "",
+    "ciudad_referencia": "NEVADA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000125",
+    "fecha_primera_recepcion": "2026-10-09T09:00:19.316463+00:00",
+    "fecha_ultima_observacion": "2026-10-09T09:00:19.316463+00:00"
   }
 }
