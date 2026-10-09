@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-09T18:10:14.318821+00:00",
+  "actualizado_utc": "2026-10-09T18:15:15.753679+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 36,
   "actualizacion_minutos": 5,
   "igp": 36,
-  "emsc": 2202,
+  "emsc": 2204,
   "usgs": 441,
   "duplicados_eliminados": 429,
-  "eventos_publicados": 2250,
-  "evento_mas_reciente_utc": "2026-10-09T17:56:08+00:00",
+  "eventos_publicados": 2252,
+  "evento_mas_reciente_utc": "2026-10-09T18:04:30+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 28,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-09T10:55:25+00:00",
-      "antiguedad_evento_mas_reciente_min": 434.8
+      "antiguedad_evento_mas_reciente_min": 439.8
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2202,
-      "eventos_recibidos": 2203,
+      "eventos_validos": 2204,
+      "eventos_recibidos": 2205,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-09T17:48:24.984958+00:00",
-      "antiguedad_evento_mas_reciente_min": 21.8
+      "evento_mas_reciente_utc": "2026-10-09T18:04:30+00:00",
+      "antiguedad_evento_mas_reciente_min": 10.8
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -35,8 +35,8 @@
       "eventos_validos": 441,
       "eventos_recibidos": 442,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-09T17:56:08+00:00",
-      "antiguedad_evento_mas_reciente_min": 14.1
+      "evento_mas_reciente_utc": "2026-10-09T17:56:05.655000+00:00",
+      "antiguedad_evento_mas_reciente_min": 19.2
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-726"
     },
     "emsc": {
-      "id": "20261009_0000255",
-      "fecha_hora_utc": "2026-10-09T17:48:24.984958+00:00",
-      "magnitud": 2.6,
-      "profundidad_km": 22.3,
-      "latitud": 61.243,
-      "longitud": -146.145,
+      "id": "20261009_0000259",
+      "fecha_hora_utc": "2026-10-09T18:04:30+00:00",
+      "magnitud": 3.6,
+      "profundidad_km": 60.0,
+      "latitud": 38.3,
+      "longitud": 141.6,
       "pais": "",
-      "ciudad_referencia": "SOUTHERN ALASKA",
+      "ciudad_referencia": "NEAR EAST COAST OF HONSHU, JAPAN",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000255"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000259"
     },
     "usgs": {
-      "id": "pt26282000",
-      "fecha_hora_utc": "2026-10-09T17:56:08+00:00",
-      "magnitud": 8.0,
-      "profundidad_km": 33.0,
-      "latitud": 7.54,
-      "longitud": -80.75,
+      "id": "us6000u18k",
+      "fecha_hora_utc": "2026-10-09T17:56:05.655000+00:00",
+      "magnitud": 7.6,
+      "profundidad_km": 10.0,
+      "latitud": 7.5993,
+      "longitud": -80.7572,
       "pais": "",
-      "ciudad_referencia": "14 km SW of Pitaloza Arriba, Panama",
+      "ciudad_referencia": "10 km WSW of Pitaloza Arriba, Panama",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26282000"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-09T18:10:14.318821+00:00"
+    "hora_consulta_utc": "2026-10-09T18:15:15.753679+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-09T18:10:14.318821+00:00",
-  "combined_after_dedup": 2250
+  "updated_utc": "2026-10-09T18:15:15.753679+00:00",
+  "combined_after_dedup": 2252
 }

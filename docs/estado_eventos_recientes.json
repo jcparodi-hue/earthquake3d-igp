@@ -9251,7 +9251,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-726",
     "fecha_primera_recepcion": "2026-10-09T14:45:18.005933+00:00",
-    "fecha_ultima_observacion": "2026-10-09T18:10:14.318821+00:00"
+    "fecha_ultima_observacion": "2026-10-09T18:15:15.753679+00:00"
   },
   "EMSC:20261009_0000219": {
     "id": "20261009_0000219",
@@ -9602,5 +9602,33 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26282000",
     "fecha_primera_recepcion": "2026-10-09T18:05:12.475993+00:00",
     "fecha_ultima_observacion": "2026-10-09T18:10:14.318821+00:00"
+  },
+  "EMSC:20261009_0000259": {
+    "id": "20261009_0000259",
+    "fecha_hora_utc": "2026-10-09T18:04:30+00:00",
+    "magnitud": 3.6,
+    "profundidad_km": 60.0,
+    "latitud": 38.3,
+    "longitud": 141.6,
+    "pais": "",
+    "ciudad_referencia": "NEAR EAST COAST OF HONSHU, JAPAN",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000259",
+    "fecha_primera_recepcion": "2026-10-09T18:15:15.753679+00:00",
+    "fecha_ultima_observacion": "2026-10-09T18:15:15.753679+00:00"
+  },
+  "USGS:us6000u18k": {
+    "id": "us6000u18k",
+    "fecha_hora_utc": "2026-10-09T17:56:05.655000+00:00",
+    "magnitud": 7.6,
+    "profundidad_km": 10.0,
+    "latitud": 7.5993,
+    "longitud": -80.7572,
+    "pais": "",
+    "ciudad_referencia": "10 km WSW of Pitaloza Arriba, Panama",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k",
+    "fecha_primera_recepcion": "2026-10-09T18:15:15.753679+00:00",
+    "fecha_ultima_observacion": "2026-10-09T18:15:15.753679+00:00"
   }
 }
