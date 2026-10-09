@@ -9251,7 +9251,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-726",
     "fecha_primera_recepcion": "2026-10-09T14:45:18.005933+00:00",
-    "fecha_ultima_observacion": "2026-10-09T20:10:14.782288+00:00"
+    "fecha_ultima_observacion": "2026-10-09T20:15:13.582801+00:00"
   },
   "EMSC:20261009_0000219": {
     "id": "20261009_0000219",
@@ -9853,7 +9853,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19h",
     "fecha_primera_recepcion": "2026-10-09T20:09:39.487477+00:00",
-    "fecha_ultima_observacion": "2026-10-09T20:10:14.782288+00:00"
+    "fecha_ultima_observacion": "2026-10-09T20:15:13.582801+00:00"
   },
   "EMSC:20261009_0000296": {
     "id": "20261009_0000296",
@@ -9868,5 +9868,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000296",
     "fecha_primera_recepcion": "2026-10-09T20:10:14.782288+00:00",
     "fecha_ultima_observacion": "2026-10-09T20:10:14.782288+00:00"
+  },
+  "EMSC:20261009_0000300": {
+    "id": "20261009_0000300",
+    "fecha_hora_utc": "2026-10-09T20:04:30+00:00",
+    "magnitud": 3.4,
+    "profundidad_km": 19.0,
+    "latitud": 41.21,
+    "longitud": 83.71,
+    "pais": "",
+    "ciudad_referencia": "SOUTHERN XINJIANG, CHINA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000300",
+    "fecha_primera_recepcion": "2026-10-09T20:15:13.582801+00:00",
+    "fecha_ultima_observacion": "2026-10-09T20:15:13.582801+00:00"
   }
 }
