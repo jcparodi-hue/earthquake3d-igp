@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-09T11:26:02.183706+00:00",
+  "actualizado_utc": "2026-10-09T11:30:15.430935+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 35,
   "actualizacion_minutos": 5,
   "igp": 35,
-  "emsc": 2194,
-  "usgs": 438,
-  "duplicados_eliminados": 422,
-  "eventos_publicados": 2245,
-  "evento_mas_reciente_utc": "2026-10-09T11:23:52.406496+00:00",
+  "emsc": 2193,
+  "usgs": 437,
+  "duplicados_eliminados": 421,
+  "eventos_publicados": 2244,
+  "evento_mas_reciente_utc": "2026-10-09T11:23:52.743193+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 28,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-09T05:16:13+00:00",
-      "antiguedad_evento_mas_reciente_min": 369.8
+      "antiguedad_evento_mas_reciente_min": 374.0
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2194,
-      "eventos_recibidos": 2195,
+      "eventos_validos": 2193,
+      "eventos_recibidos": 2194,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-09T11:23:52.406496+00:00",
-      "antiguedad_evento_mas_reciente_min": 2.2
+      "evento_mas_reciente_utc": "2026-10-09T11:23:52.743193+00:00",
+      "antiguedad_evento_mas_reciente_min": 6.4
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 438,
-      "eventos_recibidos": 439,
+      "eventos_validos": 437,
+      "eventos_recibidos": 438,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-09T11:23:52.406000+00:00",
-      "antiguedad_evento_mas_reciente_min": 2.2
+      "evento_mas_reciente_utc": "2026-10-09T11:23:52.718000+00:00",
+      "antiguedad_evento_mas_reciente_min": 6.4
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261009_0000160",
-      "fecha_hora_utc": "2026-10-09T11:23:52.406496+00:00",
-      "magnitud": 3.1,
-      "profundidad_km": 8.3,
-      "latitud": 64.963,
-      "longitud": -150.844,
+      "fecha_hora_utc": "2026-10-09T11:23:52.743193+00:00",
+      "magnitud": 3.0,
+      "profundidad_km": 9.0,
+      "latitud": 64.97,
+      "longitud": -150.816,
       "pais": "",
       "ciudad_referencia": "CENTRAL ALASKA",
       "fuente": "EMSC",
@@ -66,13 +66,13 @@
     },
     "usgs": {
       "id": "aka2026tzwyrc",
-      "fecha_hora_utc": "2026-10-09T11:23:52.406000+00:00",
-      "magnitud": 3.1,
-      "profundidad_km": 8.3,
-      "latitud": 64.963,
-      "longitud": -150.844,
+      "fecha_hora_utc": "2026-10-09T11:23:52.718000+00:00",
+      "magnitud": 3.0,
+      "profundidad_km": 9.0,
+      "latitud": 64.968,
+      "longitud": -150.818,
       "pais": "",
-      "ciudad_referencia": "10 km WSW of Manley Hot Springs, Alaska",
+      "ciudad_referencia": "9 km WSW of Manley Hot Springs, Alaska",
       "fuente": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tzwyrc"
     }
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-09T11:26:02.183706+00:00"
+    "hora_consulta_utc": "2026-10-09T11:30:15.430935+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-09T11:26:02.183706+00:00",
-  "combined_after_dedup": 2245
+  "updated_utc": "2026-10-09T11:30:15.430935+00:00",
+  "combined_after_dedup": 2244
 }

@@ -8607,7 +8607,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-725",
     "fecha_primera_recepcion": "2026-10-09T07:44:54.303296+00:00",
-    "fecha_ultima_observacion": "2026-10-09T11:26:02.183706+00:00"
+    "fecha_ultima_observacion": "2026-10-09T11:30:15.430935+00:00"
   },
   "EMSC:20261009_0000106": {
     "id": "20261009_0000106",
@@ -8947,30 +8947,30 @@
   },
   "USGS:aka2026tzwyrc": {
     "id": "aka2026tzwyrc",
-    "fecha_hora_utc": "2026-10-09T11:23:52.406000+00:00",
-    "magnitud": 3.1,
-    "profundidad_km": 8.3,
-    "latitud": 64.963,
-    "longitud": -150.844,
+    "fecha_hora_utc": "2026-10-09T11:23:52.718000+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 9.0,
+    "latitud": 64.968,
+    "longitud": -150.818,
     "pais": "",
-    "ciudad_referencia": "10 km WSW of Manley Hot Springs, Alaska",
+    "ciudad_referencia": "9 km WSW of Manley Hot Springs, Alaska",
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tzwyrc",
     "fecha_primera_recepcion": "2026-10-09T11:25:12.547856+00:00",
-    "fecha_ultima_observacion": "2026-10-09T11:26:02.183706+00:00"
+    "fecha_ultima_observacion": "2026-10-09T11:30:15.430935+00:00"
   },
   "EMSC:20261009_0000160": {
     "id": "20261009_0000160",
-    "fecha_hora_utc": "2026-10-09T11:23:52.406496+00:00",
-    "magnitud": 3.1,
-    "profundidad_km": 8.3,
-    "latitud": 64.963,
-    "longitud": -150.844,
+    "fecha_hora_utc": "2026-10-09T11:23:52.743193+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 9.0,
+    "latitud": 64.97,
+    "longitud": -150.816,
     "pais": "",
     "ciudad_referencia": "CENTRAL ALASKA",
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000160",
     "fecha_primera_recepcion": "2026-10-09T11:26:02.183706+00:00",
-    "fecha_ultima_observacion": "2026-10-09T11:26:02.183706+00:00"
+    "fecha_ultima_observacion": "2026-10-09T11:30:15.430935+00:00"
   }
 }
