@@ -1,13 +1,13 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-09T05:30:16.090042+00:00",
+  "actualizado_utc": "2026-10-09T05:33:45.743521+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 34,
   "actualizacion_minutos": 5,
   "igp": 34,
   "emsc": 2197,
-  "usgs": 438,
-  "duplicados_eliminados": 418,
+  "usgs": 439,
+  "duplicados_eliminados": 419,
   "eventos_publicados": 2251,
   "evento_mas_reciente_utc": "2026-10-09T05:19:51.465282+00:00",
   "salud_fuentes": {
@@ -18,7 +18,7 @@
       "eventos_recibidos": 28,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-08T06:42:22+00:00",
-      "antiguedad_evento_mas_reciente_min": 1367.9
+      "antiguedad_evento_mas_reciente_min": 1371.4
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -27,16 +27,16 @@
       "eventos_recibidos": 2198,
       "invalidos_rechazados": 1,
       "evento_mas_reciente_utc": "2026-10-09T05:19:51.465282+00:00",
-      "antiguedad_evento_mas_reciente_min": 10.4
+      "antiguedad_evento_mas_reciente_min": 13.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 438,
-      "eventos_recibidos": 439,
+      "eventos_validos": 439,
+      "eventos_recibidos": 440,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-09T02:51:03.920000+00:00",
-      "antiguedad_evento_mas_reciente_min": 159.2
+      "evento_mas_reciente_utc": "2026-10-09T05:11:04.200000+00:00",
+      "antiguedad_evento_mas_reciente_min": 22.7
     }
   },
   "ultimo_evento": {
@@ -65,24 +65,24 @@
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000088"
     },
     "usgs": {
-      "id": "nc75446746",
-      "fecha_hora_utc": "2026-10-09T02:51:03.920000+00:00",
-      "magnitud": 2.81,
-      "profundidad_km": 16.1100006103516,
-      "latitud": 38.0258331298828,
-      "longitud": -118.727165222168,
+      "id": "us6000u13v",
+      "fecha_hora_utc": "2026-10-09T05:11:04.200000+00:00",
+      "magnitud": 5.2,
+      "profundidad_km": 40.049,
+      "latitud": 0.7587,
+      "longitud": 125.9365,
       "pais": "",
-      "ciudad_referencia": "32 km SE of Bodie, CA",
+      "ciudad_referencia": "117 km SE of Bitung, Indonesia",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446746"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u13v"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-09T05:30:16.090042+00:00"
+    "hora_consulta_utc": "2026-10-09T05:33:45.743521+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-09T05:30:16.090042+00:00",
+  "updated_utc": "2026-10-09T05:33:45.743521+00:00",
   "combined_after_dedup": 2251
 }

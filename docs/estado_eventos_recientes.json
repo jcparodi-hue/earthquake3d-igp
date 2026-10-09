@@ -7123,7 +7123,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-724",
     "fecha_primera_recepcion": "2026-10-08T09:35:14.419871+00:00",
-    "fecha_ultima_observacion": "2026-10-09T05:30:16.090042+00:00"
+    "fecha_ultima_observacion": "2026-10-09T05:33:45.743521+00:00"
   },
   "EMSC:20261008_0000140": {
     "id": "20261008_0000140",
@@ -8467,6 +8467,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000088",
     "fecha_primera_recepcion": "2026-10-09T05:25:13.633695+00:00",
-    "fecha_ultima_observacion": "2026-10-09T05:30:16.090042+00:00"
+    "fecha_ultima_observacion": "2026-10-09T05:33:45.743521+00:00"
+  },
+  "USGS:us6000u13v": {
+    "id": "us6000u13v",
+    "fecha_hora_utc": "2026-10-09T05:11:04.200000+00:00",
+    "magnitud": 5.2,
+    "profundidad_km": 40.049,
+    "latitud": 0.7587,
+    "longitud": 125.9365,
+    "pais": "",
+    "ciudad_referencia": "117 km SE of Bitung, Indonesia",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u13v",
+    "fecha_primera_recepcion": "2026-10-09T05:33:45.743521+00:00",
+    "fecha_ultima_observacion": "2026-10-09T05:33:45.743521+00:00"
   }
 }
