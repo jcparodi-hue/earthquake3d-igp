@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-09T16:46:01.655251+00:00",
+  "actualizado_utc": "2026-10-09T16:50:16.158725+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 36,
   "actualizacion_minutos": 5,
   "igp": 36,
-  "emsc": 2204,
-  "usgs": 438,
-  "duplicados_eliminados": 426,
-  "eventos_publicados": 2252,
-  "evento_mas_reciente_utc": "2026-10-09T16:38:21+00:00",
+  "emsc": 2205,
+  "usgs": 439,
+  "duplicados_eliminados": 427,
+  "eventos_publicados": 2253,
+  "evento_mas_reciente_utc": "2026-10-09T16:45:14+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 29,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-09T10:55:25+00:00",
-      "antiguedad_evento_mas_reciente_min": 350.6
+      "antiguedad_evento_mas_reciente_min": 354.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2204,
-      "eventos_recibidos": 2205,
+      "eventos_validos": 2205,
+      "eventos_recibidos": 2206,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-09T16:38:21+00:00",
-      "antiguedad_evento_mas_reciente_min": 7.7
+      "evento_mas_reciente_utc": "2026-10-09T16:45:14+00:00",
+      "antiguedad_evento_mas_reciente_min": 5.0
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 438,
-      "eventos_recibidos": 439,
+      "eventos_validos": 439,
+      "eventos_recibidos": 440,
       "invalidos_rechazados": 1,
       "evento_mas_reciente_utc": "2026-10-09T16:15:46.438000+00:00",
-      "antiguedad_evento_mas_reciente_min": 30.3
+      "antiguedad_evento_mas_reciente_min": 34.5
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-726"
     },
     "emsc": {
-      "id": "20261009_0000239",
-      "fecha_hora_utc": "2026-10-09T16:38:21+00:00",
-      "magnitud": 3.7,
-      "profundidad_km": 108.0,
-      "latitud": -8.71,
-      "longitud": 113.11,
+      "id": "20261009_0000243",
+      "fecha_hora_utc": "2026-10-09T16:45:14+00:00",
+      "magnitud": 3.1,
+      "profundidad_km": 22.0,
+      "latitud": 30.29,
+      "longitud": 102.86,
       "pais": "",
-      "ciudad_referencia": "JAVA, INDONESIA",
+      "ciudad_referencia": "WESTERN SICHUAN, CHINA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000239"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000243"
     },
     "usgs": {
       "id": "aka2026uagrtn",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-09T16:46:01.655251+00:00"
+    "hora_consulta_utc": "2026-10-09T16:50:16.158725+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-09T16:46:01.655251+00:00",
-  "combined_after_dedup": 2252
+  "updated_utc": "2026-10-09T16:50:16.158725+00:00",
+  "combined_after_dedup": 2253
 }
