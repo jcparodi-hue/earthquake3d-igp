@@ -8607,7 +8607,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-725",
     "fecha_primera_recepcion": "2026-10-09T07:44:54.303296+00:00",
-    "fecha_ultima_observacion": "2026-10-09T10:35:13.051493+00:00"
+    "fecha_ultima_observacion": "2026-10-09T10:40:12.747057+00:00"
   },
   "EMSC:20261009_0000106": {
     "id": "20261009_0000106",
@@ -8835,16 +8835,30 @@
   },
   "EMSC:20261009_0000144": {
     "id": "20261009_0000144",
-    "fecha_hora_utc": "2026-10-09T10:22:16.220000+00:00",
-    "magnitud": 5.3,
-    "profundidad_km": 123.0,
-    "latitud": -19.9396,
-    "longitud": -68.5263,
+    "fecha_hora_utc": "2026-10-09T10:22:14.915000+00:00",
+    "magnitud": 5.1,
+    "profundidad_km": 123.8,
+    "latitud": -19.9128,
+    "longitud": -68.7905,
     "pais": "",
-    "ciudad_referencia": "POTOSI, BOLIVIA",
+    "ciudad_referencia": "TARAPACA, CHILE",
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000144",
     "fecha_primera_recepcion": "2026-10-09T10:25:12.362030+00:00",
-    "fecha_ultima_observacion": "2026-10-09T10:35:13.051493+00:00"
+    "fecha_ultima_observacion": "2026-10-09T10:40:12.747057+00:00"
+  },
+  "USGS:us6000u153": {
+    "id": "us6000u153",
+    "fecha_hora_utc": "2026-10-09T10:22:14.915000+00:00",
+    "magnitud": 5.1,
+    "profundidad_km": 123.835,
+    "latitud": -19.9128,
+    "longitud": -68.7905,
+    "pais": "",
+    "ciudad_referencia": "72 km SSW of Colchane, Chile",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u153",
+    "fecha_primera_recepcion": "2026-10-09T10:40:12.747057+00:00",
+    "fecha_ultima_observacion": "2026-10-09T10:40:12.747057+00:00"
   }
 }
