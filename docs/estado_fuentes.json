@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-10T19:45:28.855703+00:00",
+  "actualizado_utc": "2026-10-10T19:50:14.624013+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 37,
   "actualizacion_minutos": 5,
   "igp": 37,
-  "emsc": 2362,
+  "emsc": 2363,
   "usgs": 480,
   "duplicados_eliminados": 472,
-  "eventos_publicados": 2407,
-  "evento_mas_reciente_utc": "2026-10-10T19:42:21.304445+00:00",
+  "eventos_publicados": 2408,
+  "evento_mas_reciente_utc": "2026-10-10T19:43:38+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 24,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-10T18:14:29+00:00",
-      "antiguedad_evento_mas_reciente_min": 91.0
+      "antiguedad_evento_mas_reciente_min": 95.8
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2362,
-      "eventos_recibidos": 2364,
+      "eventos_validos": 2363,
+      "eventos_recibidos": 2365,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-10-10T19:42:21.304445+00:00",
-      "antiguedad_evento_mas_reciente_min": 3.1
+      "evento_mas_reciente_utc": "2026-10-10T19:43:38+00:00",
+      "antiguedad_evento_mas_reciente_min": 6.6
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -35,8 +35,8 @@
       "eventos_validos": 480,
       "eventos_recibidos": 482,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-10-10T19:42:21.304000+00:00",
-      "antiguedad_evento_mas_reciente_min": 3.1
+      "evento_mas_reciente_utc": "2026-10-10T19:42:21.444000+00:00",
+      "antiguedad_evento_mas_reciente_min": 7.9
     }
   },
   "ultimo_evento": {
@@ -53,24 +53,24 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-727"
     },
     "emsc": {
-      "id": "20261010_0000342",
-      "fecha_hora_utc": "2026-10-10T19:42:21.304445+00:00",
-      "magnitud": 3.0,
-      "profundidad_km": 16.4,
-      "latitud": 55.469,
-      "longitud": -158.399,
+      "id": "20261010_0000345",
+      "fecha_hora_utc": "2026-10-10T19:43:38+00:00",
+      "magnitud": 2.6,
+      "profundidad_km": 99.1,
+      "latitud": -20.93,
+      "longitud": -68.89,
       "pais": "",
-      "ciudad_referencia": "ALASKA PENINSULA",
+      "ciudad_referencia": "ANTOFAGASTA, CHILE",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261010_0000342"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261010_0000345"
     },
     "usgs": {
       "id": "aka2026ucjpkf",
-      "fecha_hora_utc": "2026-10-10T19:42:21.304000+00:00",
+      "fecha_hora_utc": "2026-10-10T19:42:21.444000+00:00",
       "magnitud": 3.0,
-      "profundidad_km": 16.4,
-      "latitud": 55.469,
-      "longitud": -158.399,
+      "profundidad_km": 19.6,
+      "latitud": 55.464,
+      "longitud": -158.388,
       "pais": "",
       "ciudad_referencia": "68 km SE of Perryville, Alaska",
       "fuente": "USGS",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-10T19:45:28.855703+00:00"
+    "hora_consulta_utc": "2026-10-10T19:50:14.624013+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-10T19:45:28.855703+00:00",
-  "combined_after_dedup": 2407
+  "updated_utc": "2026-10-10T19:50:14.624013+00:00",
+  "combined_after_dedup": 2408
 }

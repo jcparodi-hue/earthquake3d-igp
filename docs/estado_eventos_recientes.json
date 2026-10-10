@@ -12177,7 +12177,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-727",
     "fecha_primera_recepcion": "2026-10-10T19:20:15.079996+00:00",
-    "fecha_ultima_observacion": "2026-10-10T19:45:28.855703+00:00"
+    "fecha_ultima_observacion": "2026-10-10T19:50:14.624013+00:00"
   },
   "EMSC:20261010_0000338": {
     "id": "20261010_0000338",
@@ -12223,16 +12223,30 @@
   },
   "USGS:aka2026ucjpkf": {
     "id": "aka2026ucjpkf",
-    "fecha_hora_utc": "2026-10-10T19:42:21.304000+00:00",
+    "fecha_hora_utc": "2026-10-10T19:42:21.444000+00:00",
     "magnitud": 3.0,
-    "profundidad_km": 16.4,
-    "latitud": 55.469,
-    "longitud": -158.399,
+    "profundidad_km": 19.6,
+    "latitud": 55.464,
+    "longitud": -158.388,
     "pais": "",
     "ciudad_referencia": "68 km SE of Perryville, Alaska",
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ucjpkf",
     "fecha_primera_recepcion": "2026-10-10T19:45:13.402323+00:00",
-    "fecha_ultima_observacion": "2026-10-10T19:45:28.855703+00:00"
+    "fecha_ultima_observacion": "2026-10-10T19:50:14.624013+00:00"
+  },
+  "EMSC:20261010_0000345": {
+    "id": "20261010_0000345",
+    "fecha_hora_utc": "2026-10-10T19:43:38+00:00",
+    "magnitud": 2.6,
+    "profundidad_km": 99.1,
+    "latitud": -20.93,
+    "longitud": -68.89,
+    "pais": "",
+    "ciudad_referencia": "ANTOFAGASTA, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261010_0000345",
+    "fecha_primera_recepcion": "2026-10-10T19:50:14.624013+00:00",
+    "fecha_ultima_observacion": "2026-10-10T19:50:14.624013+00:00"
   }
 }
