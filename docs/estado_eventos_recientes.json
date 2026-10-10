@@ -9251,7 +9251,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-726",
     "fecha_primera_recepcion": "2026-10-09T14:45:18.005933+00:00",
-    "fecha_ultima_observacion": "2026-10-10T02:15:17.616386+00:00"
+    "fecha_ultima_observacion": "2026-10-10T02:20:14.263924+00:00"
   },
   "EMSC:20261009_0000219": {
     "id": "20261009_0000219",
@@ -10484,5 +10484,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261010_0000036",
     "fecha_primera_recepcion": "2026-10-10T02:10:14.267569+00:00",
     "fecha_ultima_observacion": "2026-10-10T02:15:17.616386+00:00"
+  },
+  "EMSC:20261010_0000037": {
+    "id": "20261010_0000037",
+    "fecha_hora_utc": "2026-10-10T02:07:05+00:00",
+    "magnitud": 4.1,
+    "profundidad_km": 5.0,
+    "latitud": 7.7157,
+    "longitud": -81.5086,
+    "pais": "",
+    "ciudad_referencia": "PANAMA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261010_0000037",
+    "fecha_primera_recepcion": "2026-10-10T02:20:14.263924+00:00",
+    "fecha_ultima_observacion": "2026-10-10T02:20:14.263924+00:00"
+  },
+  "USGS:us6000u1bs": {
+    "id": "us6000u1bs",
+    "fecha_hora_utc": "2026-10-10T02:00:42.634000+00:00",
+    "magnitud": 5.1,
+    "profundidad_km": 10.0,
+    "latitud": 1.416,
+    "longitud": 126.3601,
+    "pais": "",
+    "ciudad_referencia": "133 km WNW of Ternate, Indonesia",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bs",
+    "fecha_primera_recepcion": "2026-10-10T02:20:14.263924+00:00",
+    "fecha_ultima_observacion": "2026-10-10T02:20:14.263924+00:00"
   }
 }
