@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-10T14:55:13.401350+00:00",
+  "actualizado_utc": "2026-10-10T14:59:46.189834+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 36,
   "actualizacion_minutos": 5,
   "igp": 36,
-  "emsc": 2339,
+  "emsc": 2341,
   "usgs": 473,
   "duplicados_eliminados": 465,
-  "eventos_publicados": 2383,
-  "evento_mas_reciente_utc": "2026-10-10T14:40:01+00:00",
+  "eventos_publicados": 2385,
+  "evento_mas_reciente_utc": "2026-10-10T14:55:59+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 25,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-09T10:55:25+00:00",
-      "antiguedad_evento_mas_reciente_min": 1679.8
+      "antiguedad_evento_mas_reciente_min": 1684.4
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2339,
-      "eventos_recibidos": 2341,
+      "eventos_validos": 2341,
+      "eventos_recibidos": 2343,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-10-10T14:40:01+00:00",
-      "antiguedad_evento_mas_reciente_min": 15.2
+      "evento_mas_reciente_utc": "2026-10-10T14:55:59+00:00",
+      "antiguedad_evento_mas_reciente_min": 3.8
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 475,
       "invalidos_rechazados": 2,
       "evento_mas_reciente_utc": "2026-10-10T12:34:08.871000+00:00",
-      "antiguedad_evento_mas_reciente_min": 141.1
+      "antiguedad_evento_mas_reciente_min": 145.6
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-726"
     },
     "emsc": {
-      "id": "20261010_0000263",
-      "fecha_hora_utc": "2026-10-10T14:40:01+00:00",
-      "magnitud": 4.1,
-      "profundidad_km": 10.0,
-      "latitud": 7.6713,
-      "longitud": -81.5818,
+      "id": "20261010_0000266",
+      "fecha_hora_utc": "2026-10-10T14:55:59+00:00",
+      "magnitud": 2.6,
+      "profundidad_km": 111.0,
+      "latitud": -20.95,
+      "longitud": -68.96,
       "pais": "",
-      "ciudad_referencia": "PANAMA",
+      "ciudad_referencia": "TARAPACA, CHILE",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261010_0000263"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261010_0000266"
     },
     "usgs": {
       "id": "us6000u1em",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-10T14:55:13.401350+00:00"
+    "hora_consulta_utc": "2026-10-10T14:59:46.189834+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-10T14:55:13.401350+00:00",
-  "combined_after_dedup": 2383
+  "updated_utc": "2026-10-10T14:59:46.189834+00:00",
+  "combined_after_dedup": 2385
 }
