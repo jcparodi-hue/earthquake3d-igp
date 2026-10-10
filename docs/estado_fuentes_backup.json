@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-10T00:55:13.580633+00:00",
+  "actualizado_utc": "2026-10-10T01:00:19.097971+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 36,
   "actualizacion_minutos": 5,
   "igp": 36,
-  "emsc": 2236,
+  "emsc": 2237,
   "usgs": 462,
   "duplicados_eliminados": 450,
-  "eventos_publicados": 2284,
-  "evento_mas_reciente_utc": "2026-10-10T00:42:04+00:00",
+  "eventos_publicados": 2285,
+  "evento_mas_reciente_utc": "2026-10-10T00:47:09.510000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,15 +18,15 @@
       "eventos_recibidos": 28,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-09T10:55:25+00:00",
-      "antiguedad_evento_mas_reciente_min": 839.8
+      "antiguedad_evento_mas_reciente_min": 844.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2236,
-      "eventos_recibidos": 2237,
+      "eventos_validos": 2237,
+      "eventos_recibidos": 2238,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-10T00:42:04+00:00",
+      "evento_mas_reciente_utc": "2026-10-10T00:47:09.510000+00:00",
       "antiguedad_evento_mas_reciente_min": 13.2
     },
     "usgs": {
@@ -36,7 +36,7 @@
       "eventos_recibidos": 463,
       "invalidos_rechazados": 1,
       "evento_mas_reciente_utc": "2026-10-09T23:54:22.924000+00:00",
-      "antiguedad_evento_mas_reciente_min": 60.8
+      "antiguedad_evento_mas_reciente_min": 65.9
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-726"
     },
     "emsc": {
-      "id": "20261010_0000009",
-      "fecha_hora_utc": "2026-10-10T00:42:04+00:00",
-      "magnitud": 3.1,
-      "profundidad_km": 140.0,
-      "latitud": -28.19,
-      "longitud": -67.43,
+      "id": "20261010_0000010",
+      "fecha_hora_utc": "2026-10-10T00:47:09.510000+00:00",
+      "magnitud": 5.1,
+      "profundidad_km": 35.0,
+      "latitud": 53.8438,
+      "longitud": 86.1776,
       "pais": "",
-      "ciudad_referencia": "CATAMARCA, ARGENTINA",
+      "ciudad_referencia": "SOUTHWESTERN SIBERIA, RUSSIA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261010_0000009"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261010_0000010"
     },
     "usgs": {
       "id": "us6000u1b3",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-10T00:55:13.580633+00:00"
+    "hora_consulta_utc": "2026-10-10T01:00:19.097971+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-10T00:55:13.580633+00:00",
-  "combined_after_dedup": 2284
+  "updated_utc": "2026-10-10T01:00:19.097971+00:00",
+  "combined_after_dedup": 2285
 }

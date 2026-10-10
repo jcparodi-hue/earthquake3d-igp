@@ -9251,7 +9251,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-726",
     "fecha_primera_recepcion": "2026-10-09T14:45:18.005933+00:00",
-    "fecha_ultima_observacion": "2026-10-10T00:55:13.580633+00:00"
+    "fecha_ultima_observacion": "2026-10-10T01:00:19.097971+00:00"
   },
   "EMSC:20261009_0000219": {
     "id": "20261009_0000219",
@@ -10273,7 +10273,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1b3",
     "fecha_primera_recepcion": "2026-10-10T00:30:16.053941+00:00",
-    "fecha_ultima_observacion": "2026-10-10T00:55:13.580633+00:00"
+    "fecha_ultima_observacion": "2026-10-10T01:00:19.097971+00:00"
   },
   "EMSC:20261010_0000006": {
     "id": "20261010_0000006",
@@ -10302,5 +10302,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261010_0000009",
     "fecha_primera_recepcion": "2026-10-10T00:50:14.075288+00:00",
     "fecha_ultima_observacion": "2026-10-10T00:55:13.580633+00:00"
+  },
+  "EMSC:20261010_0000010": {
+    "id": "20261010_0000010",
+    "fecha_hora_utc": "2026-10-10T00:47:09.510000+00:00",
+    "magnitud": 5.1,
+    "profundidad_km": 35.0,
+    "latitud": 53.8438,
+    "longitud": 86.1776,
+    "pais": "",
+    "ciudad_referencia": "SOUTHWESTERN SIBERIA, RUSSIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261010_0000010",
+    "fecha_primera_recepcion": "2026-10-10T01:00:19.097971+00:00",
+    "fecha_ultima_observacion": "2026-10-10T01:00:19.097971+00:00"
   }
 }
