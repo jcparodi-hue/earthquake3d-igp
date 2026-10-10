@@ -1,14 +1,14 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-10T01:53:27.102864+00:00",
+  "actualizado_utc": "2026-10-10T01:55:10.910502+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 36,
   "actualizacion_minutos": 5,
   "igp": 36,
-  "emsc": 2252,
-  "usgs": 462,
-  "duplicados_eliminados": 449,
-  "eventos_publicados": 2301,
+  "emsc": 2253,
+  "usgs": 463,
+  "duplicados_eliminados": 450,
+  "eventos_publicados": 2302,
   "evento_mas_reciente_utc": "2026-10-10T01:48:08+00:00",
   "salud_fuentes": {
     "igp": {
@@ -18,25 +18,25 @@
       "eventos_recibidos": 27,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-09T10:55:25+00:00",
-      "antiguedad_evento_mas_reciente_min": 898.0
+      "antiguedad_evento_mas_reciente_min": 899.8
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2252,
-      "eventos_recibidos": 2253,
+      "eventos_validos": 2253,
+      "eventos_recibidos": 2254,
       "invalidos_rechazados": 1,
       "evento_mas_reciente_utc": "2026-10-10T01:48:08+00:00",
-      "antiguedad_evento_mas_reciente_min": 5.3
+      "antiguedad_evento_mas_reciente_min": 7.0
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 462,
-      "eventos_recibidos": 463,
+      "eventos_validos": 463,
+      "eventos_recibidos": 464,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-10T01:11:47.812000+00:00",
-      "antiguedad_evento_mas_reciente_min": 41.7
+      "evento_mas_reciente_utc": "2026-10-10T01:35:47.527000+00:00",
+      "antiguedad_evento_mas_reciente_min": 19.4
     }
   },
   "ultimo_evento": {
@@ -65,24 +65,24 @@
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261010_0000024"
     },
     "usgs": {
-      "id": "us6000u1bl",
-      "fecha_hora_utc": "2026-10-10T01:11:47.812000+00:00",
-      "magnitud": 4.7,
+      "id": "us6000u1bp",
+      "fecha_hora_utc": "2026-10-10T01:35:47.527000+00:00",
+      "magnitud": 4.6,
       "profundidad_km": 10.0,
-      "latitud": 7.5302,
-      "longitud": -80.5858,
+      "latitud": 7.6272,
+      "longitud": -81.3237,
       "pais": "",
-      "ciudad_referencia": "10 km N of La Tronosa, Panama",
+      "ciudad_referencia": "10 km S of Río Grande, Panama",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bl"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bp"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-10T01:53:27.102864+00:00"
+    "hora_consulta_utc": "2026-10-10T01:55:10.910502+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-10T01:53:27.102864+00:00",
-  "combined_after_dedup": 2301
+  "updated_utc": "2026-10-10T01:55:10.910502+00:00",
+  "combined_after_dedup": 2302
 }

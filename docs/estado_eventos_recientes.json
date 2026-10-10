@@ -9251,7 +9251,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-726",
     "fecha_primera_recepcion": "2026-10-09T14:45:18.005933+00:00",
-    "fecha_ultima_observacion": "2026-10-10T01:53:27.102864+00:00"
+    "fecha_ultima_observacion": "2026-10-10T01:55:10.910502+00:00"
   },
   "EMSC:20261009_0000219": {
     "id": "20261009_0000219",
@@ -10441,6 +10441,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261010_0000024",
     "fecha_primera_recepcion": "2026-10-10T01:50:15.389044+00:00",
-    "fecha_ultima_observacion": "2026-10-10T01:53:27.102864+00:00"
+    "fecha_ultima_observacion": "2026-10-10T01:55:10.910502+00:00"
+  },
+  "USGS:us6000u1bp": {
+    "id": "us6000u1bp",
+    "fecha_hora_utc": "2026-10-10T01:35:47.527000+00:00",
+    "magnitud": 4.6,
+    "profundidad_km": 10.0,
+    "latitud": 7.6272,
+    "longitud": -81.3237,
+    "pais": "",
+    "ciudad_referencia": "10 km S of Río Grande, Panama",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bp",
+    "fecha_primera_recepcion": "2026-10-10T01:55:10.910502+00:00",
+    "fecha_ultima_observacion": "2026-10-10T01:55:10.910502+00:00"
   }
 }
