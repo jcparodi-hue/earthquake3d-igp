@@ -12177,7 +12177,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-727",
     "fecha_primera_recepcion": "2026-10-10T19:20:15.079996+00:00",
-    "fecha_ultima_observacion": "2026-10-10T19:40:16.780794+00:00"
+    "fecha_ultima_observacion": "2026-10-10T19:45:13.402323+00:00"
   },
   "EMSC:20261010_0000338": {
     "id": "20261010_0000338",
@@ -12206,5 +12206,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261010_0000340",
     "fecha_primera_recepcion": "2026-10-10T19:40:16.780794+00:00",
     "fecha_ultima_observacion": "2026-10-10T19:40:16.780794+00:00"
+  },
+  "EMSC:20261010_0000342": {
+    "id": "20261010_0000342",
+    "fecha_hora_utc": "2026-10-10T19:42:21.304445+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 16.4,
+    "latitud": 55.469,
+    "longitud": -158.399,
+    "pais": "",
+    "ciudad_referencia": "ALASKA PENINSULA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261010_0000342",
+    "fecha_primera_recepcion": "2026-10-10T19:45:13.402323+00:00",
+    "fecha_ultima_observacion": "2026-10-10T19:45:13.402323+00:00"
+  },
+  "USGS:aka2026ucjpkf": {
+    "id": "aka2026ucjpkf",
+    "fecha_hora_utc": "2026-10-10T19:42:21.304000+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 16.4,
+    "latitud": 55.469,
+    "longitud": -158.399,
+    "pais": "",
+    "ciudad_referencia": "68 km SE of Perryville, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ucjpkf",
+    "fecha_primera_recepcion": "2026-10-10T19:45:13.402323+00:00",
+    "fecha_ultima_observacion": "2026-10-10T19:45:13.402323+00:00"
   }
 }

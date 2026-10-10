@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-10T19:40:16.780794+00:00",
+  "actualizado_utc": "2026-10-10T19:45:13.402323+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 37,
   "actualizacion_minutos": 5,
   "igp": 37,
-  "emsc": 2359,
-  "usgs": 479,
-  "duplicados_eliminados": 470,
-  "eventos_publicados": 2405,
-  "evento_mas_reciente_utc": "2026-10-10T19:31:33+00:00",
+  "emsc": 2362,
+  "usgs": 480,
+  "duplicados_eliminados": 472,
+  "eventos_publicados": 2407,
+  "evento_mas_reciente_utc": "2026-10-10T19:42:21.304445+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 24,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-10T18:14:29+00:00",
-      "antiguedad_evento_mas_reciente_min": 85.8
+      "antiguedad_evento_mas_reciente_min": 90.7
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2359,
-      "eventos_recibidos": 2361,
+      "eventos_validos": 2362,
+      "eventos_recibidos": 2364,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-10-10T19:31:33+00:00",
-      "antiguedad_evento_mas_reciente_min": 8.7
+      "evento_mas_reciente_utc": "2026-10-10T19:42:21.304445+00:00",
+      "antiguedad_evento_mas_reciente_min": 2.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 479,
-      "eventos_recibidos": 481,
+      "eventos_validos": 480,
+      "eventos_recibidos": 482,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-10-10T16:59:07.790000+00:00",
-      "antiguedad_evento_mas_reciente_min": 161.1
+      "evento_mas_reciente_utc": "2026-10-10T19:42:21.304000+00:00",
+      "antiguedad_evento_mas_reciente_min": 2.9
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-727"
     },
     "emsc": {
-      "id": "20261010_0000340",
-      "fecha_hora_utc": "2026-10-10T19:31:33+00:00",
+      "id": "20261010_0000342",
+      "fecha_hora_utc": "2026-10-10T19:42:21.304445+00:00",
       "magnitud": 3.0,
-      "profundidad_km": 13.0,
-      "latitud": 12.85,
-      "longitud": -90.001,
+      "profundidad_km": 16.4,
+      "latitud": 55.469,
+      "longitud": -158.399,
       "pais": "",
-      "ciudad_referencia": "OFFSHORE EL SALVADOR",
+      "ciudad_referencia": "ALASKA PENINSULA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261010_0000340"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261010_0000342"
     },
     "usgs": {
-      "id": "ci41346143",
-      "fecha_hora_utc": "2026-10-10T16:59:07.790000+00:00",
-      "magnitud": 2.5,
-      "profundidad_km": 13.98,
-      "latitud": 33.6373333333333,
-      "longitud": -117.018333333333,
+      "id": "aka2026ucjpkf",
+      "fecha_hora_utc": "2026-10-10T19:42:21.304000+00:00",
+      "magnitud": 3.0,
+      "profundidad_km": 16.4,
+      "latitud": 55.469,
+      "longitud": -158.399,
       "pais": "",
-      "ciudad_referencia": "10 km SE of Winchester, CA",
+      "ciudad_referencia": "68 km SE of Perryville, Alaska",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346143"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ucjpkf"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-10T19:40:16.780794+00:00"
+    "hora_consulta_utc": "2026-10-10T19:45:13.402323+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-10T19:40:16.780794+00:00",
-  "combined_after_dedup": 2405
+  "updated_utc": "2026-10-10T19:45:13.402323+00:00",
+  "combined_after_dedup": 2407
 }
