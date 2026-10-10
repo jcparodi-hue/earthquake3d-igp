@@ -9251,7 +9251,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-726",
     "fecha_primera_recepcion": "2026-10-09T14:45:18.005933+00:00",
-    "fecha_ultima_observacion": "2026-10-10T01:25:11.450047+00:00"
+    "fecha_ultima_observacion": "2026-10-10T01:30:15.966448+00:00"
   },
   "EMSC:20261009_0000219": {
     "id": "20261009_0000219",
@@ -10358,5 +10358,33 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1b4",
     "fecha_primera_recepcion": "2026-10-10T01:22:41.408655+00:00",
     "fecha_ultima_observacion": "2026-10-10T01:25:11.450047+00:00"
+  },
+  "EMSC:20261010_0000014": {
+    "id": "20261010_0000014",
+    "fecha_hora_utc": "2026-10-10T01:23:37+00:00",
+    "magnitud": 4.1,
+    "profundidad_km": 10.0,
+    "latitud": 7.7831,
+    "longitud": -80.2166,
+    "pais": "",
+    "ciudad_referencia": "PANAMA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261010_0000014",
+    "fecha_primera_recepcion": "2026-10-10T01:30:15.966448+00:00",
+    "fecha_ultima_observacion": "2026-10-10T01:30:15.966448+00:00"
+  },
+  "USGS:us6000u1bl": {
+    "id": "us6000u1bl",
+    "fecha_hora_utc": "2026-10-10T01:11:47.812000+00:00",
+    "magnitud": 4.7,
+    "profundidad_km": 10.0,
+    "latitud": 7.5302,
+    "longitud": -80.5858,
+    "pais": "",
+    "ciudad_referencia": "10 km N of La Tronosa, Panama",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1bl",
+    "fecha_primera_recepcion": "2026-10-10T01:30:15.966448+00:00",
+    "fecha_ultima_observacion": "2026-10-10T01:30:15.966448+00:00"
   }
 }
