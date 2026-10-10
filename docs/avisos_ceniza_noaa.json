@@ -1,5 +1,19 @@
 [
   {
+    "volcan": "Sangay",
+    "pais": "Ecuador",
+    "codigo_vaac": "SANGAY3",
+    "fecha_hora_utc_texto": "2230 UTC",
+    "id_archivo": "2026J102230",
+    "url_aviso": "https://www.ospo.noaa.gov/VAAC/ARCH26/SANGAY3/2026J102230.html",
+    "url_xml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/xml_files/FVXX20_20261010_2230.xml",
+    "url_grafico": "https://www.ospo.noaa.gov/VAAC/ARCH26/GFX/SANG0667.jpg",
+    "url_kml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/kml_files/SANGAY_ASH_202610102230.kml",
+    "vaac": "Washington",
+    "tipo": "VAA",
+    "fuente": "NOAA Washington VAAC"
+  },
+  {
     "volcan": "Reventador",
     "pais": "Ecuador",
     "codigo_vaac": "REVE",
@@ -247,20 +261,6 @@
     "url_xml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/xml_files/FVXX23_20261009_2306.xml",
     "url_grafico": "https://www.ospo.noaa.gov/VAAC/ARCH26/GFX/SANG0663.jpg",
     "url_kml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/kml_files/SANGAY_ASH_202610092306.kml",
-    "vaac": "Washington",
-    "tipo": "VAA",
-    "fuente": "NOAA Washington VAAC"
-  },
-  {
-    "volcan": "Reventador",
-    "pais": "Ecuador",
-    "codigo_vaac": "REVE",
-    "fecha_hora_utc_texto": "2239 UTC",
-    "id_archivo": "2026J092239",
-    "url_aviso": "https://www.ospo.noaa.gov/VAAC/ARCH26/REVE/2026J092239.html",
-    "url_xml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/xml_files/FVXX21_20261009_2239.xml",
-    "url_grafico": "https://www.ospo.noaa.gov/VAAC/ARCH26/GFX/REVE1054.jpg",
-    "url_kml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/kml_files/REVENTADOR_ASH_202610092239.kml",
     "vaac": "Washington",
     "tipo": "VAA",
     "fuente": "NOAA Washington VAAC"
