@@ -12177,7 +12177,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-727",
     "fecha_primera_recepcion": "2026-10-10T19:20:15.079996+00:00",
-    "fecha_ultima_observacion": "2026-10-10T21:05:12.860285+00:00"
+    "fecha_ultima_observacion": "2026-10-10T21:10:16.349642+00:00"
   },
   "EMSC:20261010_0000338": {
     "id": "20261010_0000338",
@@ -12373,6 +12373,20 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1gm",
     "fecha_primera_recepcion": "2026-10-10T21:05:12.860285+00:00",
-    "fecha_ultima_observacion": "2026-10-10T21:05:12.860285+00:00"
+    "fecha_ultima_observacion": "2026-10-10T21:10:16.349642+00:00"
+  },
+  "EMSC:20261010_0000366": {
+    "id": "20261010_0000366",
+    "fecha_hora_utc": "2026-10-10T20:53:40+00:00",
+    "magnitud": 3.1,
+    "profundidad_km": 15.0,
+    "latitud": 8.32,
+    "longitud": 127.5,
+    "pais": "",
+    "ciudad_referencia": "PHILIPPINE ISLANDS REGION",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261010_0000366",
+    "fecha_primera_recepcion": "2026-10-10T21:10:16.349642+00:00",
+    "fecha_ultima_observacion": "2026-10-10T21:10:16.349642+00:00"
   }
 }
