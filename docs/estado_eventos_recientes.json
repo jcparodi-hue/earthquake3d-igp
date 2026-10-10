@@ -9251,7 +9251,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-726",
     "fecha_primera_recepcion": "2026-10-09T14:45:18.005933+00:00",
-    "fecha_ultima_observacion": "2026-10-10T00:25:11.559188+00:00"
+    "fecha_ultima_observacion": "2026-10-10T00:30:16.053941+00:00"
   },
   "EMSC:20261009_0000219": {
     "id": "20261009_0000219",
@@ -10259,6 +10259,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261010_0000004",
     "fecha_primera_recepcion": "2026-10-10T00:25:11.559188+00:00",
-    "fecha_ultima_observacion": "2026-10-10T00:25:11.559188+00:00"
+    "fecha_ultima_observacion": "2026-10-10T00:30:16.053941+00:00"
+  },
+  "USGS:us6000u1b3": {
+    "id": "us6000u1b3",
+    "fecha_hora_utc": "2026-10-09T23:54:22.924000+00:00",
+    "magnitud": 4.5,
+    "profundidad_km": 10.0,
+    "latitud": 7.1444,
+    "longitud": -79.8903,
+    "pais": "",
+    "ciudad_referencia": "45 km SSE of Pedasí, Panama",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1b3",
+    "fecha_primera_recepcion": "2026-10-10T00:30:16.053941+00:00",
+    "fecha_ultima_observacion": "2026-10-10T00:30:16.053941+00:00"
   }
 }
