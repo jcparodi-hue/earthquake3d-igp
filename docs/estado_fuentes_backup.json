@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-10T01:20:13.793756+00:00",
+  "actualizado_utc": "2026-10-10T01:22:41.408655+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 36,
   "actualizacion_minutos": 5,
   "igp": 36,
-  "emsc": 2235,
-  "usgs": 461,
-  "duplicados_eliminados": 449,
-  "eventos_publicados": 2283,
-  "evento_mas_reciente_utc": "2026-10-10T01:03:33+00:00",
+  "emsc": 2236,
+  "usgs": 462,
+  "duplicados_eliminados": 450,
+  "eventos_publicados": 2284,
+  "evento_mas_reciente_utc": "2026-10-10T01:07:28+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 28,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-09T10:55:25+00:00",
-      "antiguedad_evento_mas_reciente_min": 864.8
+      "antiguedad_evento_mas_reciente_min": 867.3
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2235,
-      "eventos_recibidos": 2236,
+      "eventos_validos": 2236,
+      "eventos_recibidos": 2237,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-10T01:03:33+00:00",
-      "antiguedad_evento_mas_reciente_min": 16.7
+      "evento_mas_reciente_utc": "2026-10-10T01:07:28+00:00",
+      "antiguedad_evento_mas_reciente_min": 15.2
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 461,
-      "eventos_recibidos": 462,
+      "eventos_validos": 462,
+      "eventos_recibidos": 463,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-09T23:54:22.924000+00:00",
-      "antiguedad_evento_mas_reciente_min": 85.8
+      "evento_mas_reciente_utc": "2026-10-09T23:57:38.179000+00:00",
+      "antiguedad_evento_mas_reciente_min": 85.1
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-726"
     },
     "emsc": {
-      "id": "20261010_0000011",
-      "fecha_hora_utc": "2026-10-10T01:03:33+00:00",
-      "magnitud": 2.7,
-      "profundidad_km": 5.0,
-      "latitud": 25.507,
-      "longitud": 91.534,
+      "id": "20261010_0000012",
+      "fecha_hora_utc": "2026-10-10T01:07:28+00:00",
+      "magnitud": 3.3,
+      "profundidad_km": 12.0,
+      "latitud": 12.52,
+      "longitud": 125.44,
       "pais": "",
-      "ciudad_referencia": "MEGHALAYA, INDIA REGION",
+      "ciudad_referencia": "SAMAR, PHILIPPINES",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261010_0000011"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261010_0000012"
     },
     "usgs": {
-      "id": "us6000u1b3",
-      "fecha_hora_utc": "2026-10-09T23:54:22.924000+00:00",
-      "magnitud": 4.5,
+      "id": "us6000u1b4",
+      "fecha_hora_utc": "2026-10-09T23:57:38.179000+00:00",
+      "magnitud": 4.7,
       "profundidad_km": 10.0,
-      "latitud": 7.1444,
-      "longitud": -79.8903,
+      "latitud": 7.7378,
+      "longitud": -81.4599,
       "pais": "",
-      "ciudad_referencia": "45 km SSE of Pedasí, Panama",
+      "ciudad_referencia": "14 km W of Río Grande, Panama",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1b3"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1b4"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-10T01:20:13.793756+00:00"
+    "hora_consulta_utc": "2026-10-10T01:22:41.408655+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-10T01:20:13.793756+00:00",
-  "combined_after_dedup": 2283
+  "updated_utc": "2026-10-10T01:22:41.408655+00:00",
+  "combined_after_dedup": 2284
 }

@@ -9251,7 +9251,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-726",
     "fecha_primera_recepcion": "2026-10-09T14:45:18.005933+00:00",
-    "fecha_ultima_observacion": "2026-10-10T01:20:13.793756+00:00"
+    "fecha_ultima_observacion": "2026-10-10T01:22:41.408655+00:00"
   },
   "EMSC:20261009_0000219": {
     "id": "20261009_0000219",
@@ -10330,5 +10330,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261010_0000011",
     "fecha_primera_recepcion": "2026-10-10T01:15:16.543908+00:00",
     "fecha_ultima_observacion": "2026-10-10T01:20:13.793756+00:00"
+  },
+  "EMSC:20261010_0000012": {
+    "id": "20261010_0000012",
+    "fecha_hora_utc": "2026-10-10T01:07:28+00:00",
+    "magnitud": 3.3,
+    "profundidad_km": 12.0,
+    "latitud": 12.52,
+    "longitud": 125.44,
+    "pais": "",
+    "ciudad_referencia": "SAMAR, PHILIPPINES",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261010_0000012",
+    "fecha_primera_recepcion": "2026-10-10T01:22:41.408655+00:00",
+    "fecha_ultima_observacion": "2026-10-10T01:22:41.408655+00:00"
+  },
+  "USGS:us6000u1b4": {
+    "id": "us6000u1b4",
+    "fecha_hora_utc": "2026-10-09T23:57:38.179000+00:00",
+    "magnitud": 4.7,
+    "profundidad_km": 10.0,
+    "latitud": 7.7378,
+    "longitud": -81.4599,
+    "pais": "",
+    "ciudad_referencia": "14 km W of Río Grande, Panama",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1b4",
+    "fecha_primera_recepcion": "2026-10-10T01:22:41.408655+00:00",
+    "fecha_ultima_observacion": "2026-10-10T01:22:41.408655+00:00"
   }
 }
