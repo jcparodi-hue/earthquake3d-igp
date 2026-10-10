@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-10T02:35:12.337526+00:00",
+  "actualizado_utc": "2026-10-10T02:37:40.908669+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 36,
   "actualizacion_minutos": 5,
   "igp": 36,
   "emsc": 2265,
-  "usgs": 463,
-  "duplicados_eliminados": 451,
+  "usgs": 462,
+  "duplicados_eliminados": 450,
   "eventos_publicados": 2313,
-  "evento_mas_reciente_utc": "2026-10-10T02:20:14+00:00",
+  "evento_mas_reciente_utc": "2026-10-10T02:26:34.370000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 27,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-09T10:55:25+00:00",
-      "antiguedad_evento_mas_reciente_min": 939.8
+      "antiguedad_evento_mas_reciente_min": 942.3
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2265,
       "eventos_recibidos": 2266,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-10T02:20:14+00:00",
-      "antiguedad_evento_mas_reciente_min": 15.0
+      "evento_mas_reciente_utc": "2026-10-10T02:26:34.370000+00:00",
+      "antiguedad_evento_mas_reciente_min": 11.1
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 463,
-      "eventos_recibidos": 464,
+      "eventos_validos": 462,
+      "eventos_recibidos": 463,
       "invalidos_rechazados": 1,
       "evento_mas_reciente_utc": "2026-10-10T02:00:42.634000+00:00",
-      "antiguedad_evento_mas_reciente_min": 34.5
+      "antiguedad_evento_mas_reciente_min": 37.0
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-726"
     },
     "emsc": {
-      "id": "20261010_0000040",
-      "fecha_hora_utc": "2026-10-10T02:20:14+00:00",
-      "magnitud": 4.4,
-      "profundidad_km": 3.0,
-      "latitud": 7.6883,
-      "longitud": -81.4059,
+      "id": "20261010_0000041",
+      "fecha_hora_utc": "2026-10-10T02:26:34.370000+00:00",
+      "magnitud": 5.1,
+      "profundidad_km": 12.0,
+      "latitud": 7.4656,
+      "longitud": -80.453,
       "pais": "",
       "ciudad_referencia": "PANAMA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261010_0000040"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261010_0000041"
     },
     "usgs": {
       "id": "us6000u1bs",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-10T02:35:12.337526+00:00"
+    "hora_consulta_utc": "2026-10-10T02:37:40.908669+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-10T02:35:12.337526+00:00",
+  "updated_utc": "2026-10-10T02:37:40.908669+00:00",
   "combined_after_dedup": 2313
 }
