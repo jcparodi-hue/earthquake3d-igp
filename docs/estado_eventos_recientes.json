@@ -9251,7 +9251,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-726",
     "fecha_primera_recepcion": "2026-10-09T14:45:18.005933+00:00",
-    "fecha_ultima_observacion": "2026-10-10T08:20:14.315202+00:00"
+    "fecha_ultima_observacion": "2026-10-10T08:25:15.457793+00:00"
   },
   "EMSC:20261009_0000219": {
     "id": "20261009_0000219",
@@ -11127,6 +11127,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261010_0000140",
     "fecha_primera_recepcion": "2026-10-10T08:20:14.315202+00:00",
-    "fecha_ultima_observacion": "2026-10-10T08:20:14.315202+00:00"
+    "fecha_ultima_observacion": "2026-10-10T08:25:15.457793+00:00"
+  },
+  "USGS:us6000u1dh": {
+    "id": "us6000u1dh",
+    "fecha_hora_utc": "2026-10-10T07:47:00.391000+00:00",
+    "magnitud": 4.2,
+    "profundidad_km": 10.0,
+    "latitud": 17.8191,
+    "longitud": -92.7794,
+    "pais": "",
+    "ciudad_referencia": "4 km W of Aquiles Serdán 1ra. Sección, Mexico",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1dh",
+    "fecha_primera_recepcion": "2026-10-10T08:25:15.457793+00:00",
+    "fecha_ultima_observacion": "2026-10-10T08:25:15.457793+00:00"
   }
 }
