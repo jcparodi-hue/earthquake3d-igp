@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-10T08:55:14.311589+00:00",
+  "actualizado_utc": "2026-10-10T08:59:10.990236+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 36,
   "actualizacion_minutos": 5,
   "igp": 36,
-  "emsc": 2295,
-  "usgs": 472,
-  "duplicados_eliminados": 463,
-  "eventos_publicados": 2340,
-  "evento_mas_reciente_utc": "2026-10-10T08:30:26+00:00",
+  "emsc": 2296,
+  "usgs": 473,
+  "duplicados_eliminados": 464,
+  "eventos_publicados": 2341,
+  "evento_mas_reciente_utc": "2026-10-10T08:38:50.674000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 26,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-09T10:55:25+00:00",
-      "antiguedad_evento_mas_reciente_min": 1319.8
+      "antiguedad_evento_mas_reciente_min": 1323.8
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2295,
-      "eventos_recibidos": 2297,
+      "eventos_validos": 2296,
+      "eventos_recibidos": 2298,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-10-10T08:30:26+00:00",
-      "antiguedad_evento_mas_reciente_min": 24.8
+      "evento_mas_reciente_utc": "2026-10-10T08:38:50.674000+00:00",
+      "antiguedad_evento_mas_reciente_min": 20.3
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 472,
-      "eventos_recibidos": 474,
+      "eventos_validos": 473,
+      "eventos_recibidos": 475,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-10-10T07:47:00.391000+00:00",
-      "antiguedad_evento_mas_reciente_min": 68.2
+      "evento_mas_reciente_utc": "2026-10-10T08:38:50.674000+00:00",
+      "antiguedad_evento_mas_reciente_min": 20.3
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-726"
     },
     "emsc": {
-      "id": "20261010_0000147",
-      "fecha_hora_utc": "2026-10-10T08:30:26+00:00",
-      "magnitud": 4.1,
-      "profundidad_km": 10.0,
-      "latitud": 7.4685,
-      "longitud": -80.0271,
+      "id": "20261010_0000150",
+      "fecha_hora_utc": "2026-10-10T08:38:50.674000+00:00",
+      "magnitud": 4.5,
+      "profundidad_km": 79.4,
+      "latitud": -15.397,
+      "longitud": -173.7816,
       "pais": "",
-      "ciudad_referencia": "PANAMA",
+      "ciudad_referencia": "TONGA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261010_0000147"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261010_0000150"
     },
     "usgs": {
-      "id": "us6000u1dh",
-      "fecha_hora_utc": "2026-10-10T07:47:00.391000+00:00",
-      "magnitud": 4.2,
-      "profundidad_km": 10.0,
-      "latitud": 17.8191,
-      "longitud": -92.7794,
+      "id": "us6000u1dm",
+      "fecha_hora_utc": "2026-10-10T08:38:50.674000+00:00",
+      "magnitud": 4.5,
+      "profundidad_km": 79.424,
+      "latitud": -15.397,
+      "longitud": -173.7816,
       "pais": "",
-      "ciudad_referencia": "4 km W of Aquiles Serdán 1ra. Sección, Mexico",
+      "ciudad_referencia": "61 km N of Hihifo, Tonga",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1dh"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1dm"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-10T08:55:14.311589+00:00"
+    "hora_consulta_utc": "2026-10-10T08:59:10.990236+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-10T08:55:14.311589+00:00",
-  "combined_after_dedup": 2340
+  "updated_utc": "2026-10-10T08:59:10.990236+00:00",
+  "combined_after_dedup": 2341
 }
