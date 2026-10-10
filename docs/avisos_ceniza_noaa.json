@@ -1,5 +1,19 @@
 [
   {
+    "volcan": "Fuego",
+    "pais": "Guatemala",
+    "codigo_vaac": "FUEG",
+    "fecha_hora_utc_texto": "1253 UTC",
+    "id_archivo": "2026J101253",
+    "url_aviso": "https://www.ospo.noaa.gov/VAAC/ARCH26/FUEG/2026J101253.html",
+    "url_xml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/xml_files/FVXX20_20261010_1253.xml",
+    "url_grafico": "https://www.ospo.noaa.gov/VAAC/ARCH26/GFX/FUEG1183.jpg",
+    "url_kml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/kml_files/FUEGO_ASH_202610101253.kml",
+    "vaac": "Washington",
+    "tipo": "VAA",
+    "fuente": "NOAA Washington VAAC"
+  },
+  {
     "volcan": "Sangay",
     "pais": "Ecuador",
     "codigo_vaac": "SANGAY3",
@@ -233,34 +247,6 @@
     "url_xml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/xml_files/FVXX24_20261009_1539.xml",
     "url_grafico": "https://www.ospo.noaa.gov/VAAC/ARCH26/GFX/PURA0599.jpg",
     "url_kml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/kml_files/PURACE_ASH_202610091539.kml",
-    "vaac": "Washington",
-    "tipo": "VAA",
-    "fuente": "NOAA Washington VAAC"
-  },
-  {
-    "volcan": "Fuego",
-    "pais": "Guatemala",
-    "codigo_vaac": "FUEG",
-    "fecha_hora_utc_texto": "1305 UTC",
-    "id_archivo": "2026J091305",
-    "url_aviso": "https://www.ospo.noaa.gov/VAAC/ARCH26/FUEG/2026J091305.html",
-    "url_xml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/xml_files/FVXX20_20261009_1305.xml",
-    "url_grafico": "https://www.ospo.noaa.gov/VAAC/ARCH26/GFX/PURA0599.jpg",
-    "url_kml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/kml_files/FUEGO_ASH_202610091305.kml",
-    "vaac": "Washington",
-    "tipo": "VAA",
-    "fuente": "NOAA Washington VAAC"
-  },
-  {
-    "volcan": "Fuego",
-    "pais": "Guatemala",
-    "codigo_vaac": "FUEG",
-    "fecha_hora_utc_texto": "1258 UTC",
-    "id_archivo": "2026J091258",
-    "url_aviso": "https://www.ospo.noaa.gov/VAAC/ARCH26/FUEG/2026J091258.html",
-    "url_xml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/xml_files/FVXX20_20261009_1258.xml",
-    "url_grafico": "",
-    "url_kml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/kml_files/FUEGO_ASH_202610091258.kml",
     "vaac": "Washington",
     "tipo": "VAA",
     "fuente": "NOAA Washington VAAC"
