@@ -1,5 +1,19 @@
 [
   {
+    "volcan": "Puracé",
+    "pais": "Colombia",
+    "codigo_vaac": "PURA",
+    "fecha_hora_utc_texto": "1453 UTC",
+    "id_archivo": "2026J101453",
+    "url_aviso": "https://www.ospo.noaa.gov/VAAC/ARCH26/PURA/2026J101453.html",
+    "url_xml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/xml_files/FVXX24_20261010_1453.xml",
+    "url_grafico": "https://www.ospo.noaa.gov/VAAC/ARCH26/GFX/PURA0603.jpg",
+    "url_kml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/kml_files/PURACE_ASH_202610101453.kml",
+    "vaac": "Washington",
+    "tipo": "VAA",
+    "fuente": "NOAA Washington VAAC"
+  },
+  {
     "volcan": "Fuego",
     "pais": "Guatemala",
     "codigo_vaac": "FUEG",
