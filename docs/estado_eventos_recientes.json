@@ -12177,7 +12177,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-727",
     "fecha_primera_recepcion": "2026-10-10T19:20:15.079996+00:00",
-    "fecha_ultima_observacion": "2026-10-11T10:25:12.065794+00:00"
+    "fecha_ultima_observacion": "2026-10-11T10:30:17.134729+00:00"
   },
   "EMSC:20261010_0000338": {
     "id": "20261010_0000338",
@@ -13760,5 +13760,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261011_0000162",
     "fecha_primera_recepcion": "2026-10-11T10:15:16.844083+00:00",
     "fecha_ultima_observacion": "2026-10-11T10:25:12.065794+00:00"
+  },
+  "EMSC:20261011_0000167": {
+    "id": "20261011_0000167",
+    "fecha_hora_utc": "2026-10-11T10:17:12+00:00",
+    "magnitud": 3.9,
+    "profundidad_km": 10.0,
+    "latitud": -0.0,
+    "longitud": 100.2,
+    "pais": "",
+    "ciudad_referencia": "NORTHERN SUMATRA, INDONESIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261011_0000167",
+    "fecha_primera_recepcion": "2026-10-11T10:30:17.134729+00:00",
+    "fecha_ultima_observacion": "2026-10-11T10:30:17.134729+00:00"
+  },
+  "USGS:us6000u1jv": {
+    "id": "us6000u1jv",
+    "fecha_hora_utc": "2026-10-11T10:05:41.414000+00:00",
+    "magnitud": 4.6,
+    "profundidad_km": 512.919,
+    "latitud": -20.3859,
+    "longitud": -177.6638,
+    "pais": "",
+    "ciudad_referencia": "260 km WNW of Houma, Tonga",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1jv",
+    "fecha_primera_recepcion": "2026-10-11T10:30:17.134729+00:00",
+    "fecha_ultima_observacion": "2026-10-11T10:30:17.134729+00:00"
   }
 }
