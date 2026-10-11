@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-11T23:05:13.558569+00:00",
+  "actualizado_utc": "2026-10-11T23:10:16.469497+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 40,
   "actualizacion_minutos": 5,
   "igp": 40,
-  "emsc": 2454,
+  "emsc": 2455,
   "usgs": 482,
-  "duplicados_eliminados": 482,
-  "eventos_publicados": 2494,
-  "evento_mas_reciente_utc": "2026-10-11T22:57:16+00:00",
+  "duplicados_eliminados": 481,
+  "eventos_publicados": 2496,
+  "evento_mas_reciente_utc": "2026-10-11T23:04:16+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 27,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-11T19:41:03+00:00",
-      "antiguedad_evento_mas_reciente_min": 204.2
+      "antiguedad_evento_mas_reciente_min": 209.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2454,
-      "eventos_recibidos": 2455,
+      "eventos_validos": 2455,
+      "eventos_recibidos": 2456,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-11T22:57:16+00:00",
-      "antiguedad_evento_mas_reciente_min": 8.0
+      "evento_mas_reciente_utc": "2026-10-11T23:04:16+00:00",
+      "antiguedad_evento_mas_reciente_min": 6.0
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 485,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-10-11T21:34:53.822000+00:00",
-      "antiguedad_evento_mas_reciente_min": 90.3
+      "antiguedad_evento_mas_reciente_min": 95.4
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-730"
     },
     "emsc": {
-      "id": "20261011_0000362",
-      "fecha_hora_utc": "2026-10-11T22:57:16+00:00",
-      "magnitud": 4.3,
-      "profundidad_km": 10.0,
-      "latitud": 7.4495,
-      "longitud": -80.4202,
+      "id": "20261011_0000364",
+      "fecha_hora_utc": "2026-10-11T23:04:16+00:00",
+      "magnitud": 2.6,
+      "profundidad_km": 82.7,
+      "latitud": -36.14,
+      "longitud": -71.94,
       "pais": "",
-      "ciudad_referencia": "PANAMA",
+      "ciudad_referencia": "MAULE, CHILE",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261011_0000362"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261011_0000364"
     },
     "usgs": {
       "id": "us6000u1mj",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-11T23:05:13.558569+00:00"
+    "hora_consulta_utc": "2026-10-11T23:10:16.469497+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-11T23:05:13.558569+00:00",
-  "combined_after_dedup": 2494
+  "updated_utc": "2026-10-11T23:10:16.469497+00:00",
+  "combined_after_dedup": 2496
 }

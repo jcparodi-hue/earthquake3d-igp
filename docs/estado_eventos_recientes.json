@@ -14991,7 +14991,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1mj",
     "fecha_primera_recepcion": "2026-10-11T21:55:11.854268+00:00",
-    "fecha_ultima_observacion": "2026-10-11T23:05:13.558569+00:00"
+    "fecha_ultima_observacion": "2026-10-11T23:10:16.469497+00:00"
   },
   "EMSC:20261011_0000351": {
     "id": "20261011_0000351",
@@ -15061,7 +15061,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-730",
     "fecha_primera_recepcion": "2026-10-11T22:35:15.140846+00:00",
-    "fecha_ultima_observacion": "2026-10-11T23:05:13.558569+00:00"
+    "fecha_ultima_observacion": "2026-10-11T23:10:16.469497+00:00"
   },
   "EMSC:20261011_0000356": {
     "id": "20261011_0000356",
@@ -15118,5 +15118,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261011_0000362",
     "fecha_primera_recepcion": "2026-10-11T23:05:13.558569+00:00",
     "fecha_ultima_observacion": "2026-10-11T23:05:13.558569+00:00"
+  },
+  "EMSC:20261011_0000364": {
+    "id": "20261011_0000364",
+    "fecha_hora_utc": "2026-10-11T23:04:16+00:00",
+    "magnitud": 2.6,
+    "profundidad_km": 82.7,
+    "latitud": -36.14,
+    "longitud": -71.94,
+    "pais": "",
+    "ciudad_referencia": "MAULE, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261011_0000364",
+    "fecha_primera_recepcion": "2026-10-11T23:10:16.469497+00:00",
+    "fecha_ultima_observacion": "2026-10-11T23:10:16.469497+00:00"
   }
 }
