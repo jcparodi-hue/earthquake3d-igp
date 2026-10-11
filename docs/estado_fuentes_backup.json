@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-11T20:35:13.419562+00:00",
+  "actualizado_utc": "2026-10-11T20:40:14.951456+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 39,
   "actualizacion_minutos": 5,
@@ -18,7 +18,7 @@
       "eventos_recibidos": 26,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-11T13:43:01+00:00",
-      "antiguedad_evento_mas_reciente_min": 412.2
+      "antiguedad_evento_mas_reciente_min": 417.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -27,7 +27,7 @@
       "eventos_recibidos": 2433,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-11T20:28:31+00:00",
-      "antiguedad_evento_mas_reciente_min": 6.7
+      "antiguedad_evento_mas_reciente_min": 11.7
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 480,
       "invalidos_rechazados": 1,
       "evento_mas_reciente_utc": "2026-10-11T20:25:56.622000+00:00",
-      "antiguedad_evento_mas_reciente_min": 9.3
+      "antiguedad_evento_mas_reciente_min": 14.3
     }
   },
   "ultimo_evento": {
@@ -56,9 +56,9 @@
       "id": "20261011_0000322",
       "fecha_hora_utc": "2026-10-11T20:28:31+00:00",
       "magnitud": 2.9,
-      "profundidad_km": 112.4,
-      "latitud": -29.31,
-      "longitud": -69.76,
+      "profundidad_km": 115.6,
+      "latitud": -29.29,
+      "longitud": -69.8,
       "pais": "",
       "ciudad_referencia": "SAN JUAN, ARGENTINA",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-11T20:35:13.419562+00:00"
+    "hora_consulta_utc": "2026-10-11T20:40:14.951456+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-11T20:35:13.419562+00:00",
+  "updated_utc": "2026-10-11T20:40:14.951456+00:00",
   "combined_after_dedup": 2474
 }
