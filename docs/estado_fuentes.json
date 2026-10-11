@@ -1,13 +1,13 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-11T00:45:15.165529+00:00",
+  "actualizado_utc": "2026-10-11T00:50:14.305126+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 37,
   "actualizacion_minutos": 5,
   "igp": 37,
   "emsc": 2362,
-  "usgs": 479,
-  "duplicados_eliminados": 470,
+  "usgs": 480,
+  "duplicados_eliminados": 471,
   "eventos_publicados": 2408,
   "evento_mas_reciente_utc": "2026-10-11T00:40:27.623235+00:00",
   "salud_fuentes": {
@@ -18,7 +18,7 @@
       "eventos_recibidos": 24,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-10T18:14:29+00:00",
-      "antiguedad_evento_mas_reciente_min": 390.8
+      "antiguedad_evento_mas_reciente_min": 395.8
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -27,16 +27,16 @@
       "eventos_recibidos": 2363,
       "invalidos_rechazados": 1,
       "evento_mas_reciente_utc": "2026-10-11T00:40:27.623235+00:00",
-      "antiguedad_evento_mas_reciente_min": 4.8
+      "antiguedad_evento_mas_reciente_min": 9.8
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 479,
-      "eventos_recibidos": 481,
+      "eventos_validos": 480,
+      "eventos_recibidos": 482,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-10-10T23:42:03.290000+00:00",
-      "antiguedad_evento_mas_reciente_min": 63.2
+      "evento_mas_reciente_utc": "2026-10-11T00:06:09.289000+00:00",
+      "antiguedad_evento_mas_reciente_min": 44.1
     }
   },
   "ultimo_evento": {
@@ -65,24 +65,24 @@
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261011_0000009"
     },
     "usgs": {
-      "id": "aka2026ucrphh",
-      "fecha_hora_utc": "2026-10-10T23:42:03.290000+00:00",
-      "magnitud": 3.1,
-      "profundidad_km": 113.1,
-      "latitud": 62.871,
-      "longitud": -151.02,
+      "id": "us6000u1hj",
+      "fecha_hora_utc": "2026-10-11T00:06:09.289000+00:00",
+      "magnitud": 4.6,
+      "profundidad_km": 10.0,
+      "latitud": 7.8093,
+      "longitud": -81.472,
       "pais": "",
-      "ciudad_referencia": "43 km NNW of Petersville, Alaska",
+      "ciudad_referencia": "18 km WNW of Río Grande, Panama",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ucrphh"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1hj"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-11T00:45:15.165529+00:00"
+    "hora_consulta_utc": "2026-10-11T00:50:14.305126+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-11T00:45:15.165529+00:00",
+  "updated_utc": "2026-10-11T00:50:14.305126+00:00",
   "combined_after_dedup": 2408
 }
