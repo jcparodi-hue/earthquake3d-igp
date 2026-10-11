@@ -12177,7 +12177,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-727",
     "fecha_primera_recepcion": "2026-10-10T19:20:15.079996+00:00",
-    "fecha_ultima_observacion": "2026-10-11T13:25:14.407614+00:00"
+    "fecha_ultima_observacion": "2026-10-11T13:30:18.978479+00:00"
   },
   "EMSC:20261010_0000338": {
     "id": "20261010_0000338",
@@ -14095,7 +14095,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026udsseu",
     "fecha_primera_recepcion": "2026-10-11T13:20:17.723801+00:00",
-    "fecha_ultima_observacion": "2026-10-11T13:25:14.407614+00:00"
+    "fecha_ultima_observacion": "2026-10-11T13:30:18.978479+00:00"
   },
   "EMSC:20261011_0000203": {
     "id": "20261011_0000203",
@@ -14110,5 +14110,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261011_0000203",
     "fecha_primera_recepcion": "2026-10-11T13:25:14.407614+00:00",
     "fecha_ultima_observacion": "2026-10-11T13:25:14.407614+00:00"
+  },
+  "EMSC:20261011_0000204": {
+    "id": "20261011_0000204",
+    "fecha_hora_utc": "2026-10-11T13:23:56.316234+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 311.4,
+    "latitud": -37.8087,
+    "longitud": 175.9978,
+    "pais": "",
+    "ciudad_referencia": "NORTH ISLAND OF NEW ZEALAND",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261011_0000204",
+    "fecha_primera_recepcion": "2026-10-11T13:30:18.978479+00:00",
+    "fecha_ultima_observacion": "2026-10-11T13:30:18.978479+00:00"
   }
 }
