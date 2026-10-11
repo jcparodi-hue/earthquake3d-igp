@@ -1,33 +1,33 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-11T14:05:14.965346+00:00",
+  "actualizado_utc": "2026-10-11T14:10:17.336782+00:00",
   "periodo_mundial_dias": 10,
-  "igp_historico": 37,
+  "igp_historico": 39,
   "actualizacion_minutos": 5,
-  "igp": 37,
-  "emsc": 2413,
+  "igp": 39,
+  "emsc": 2412,
   "usgs": 480,
-  "duplicados_eliminados": 474,
+  "duplicados_eliminados": 475,
   "eventos_publicados": 2456,
   "evento_mas_reciente_utc": "2026-10-11T13:49:43+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 37,
-      "eventos_recibidos": 24,
+      "eventos_validos": 39,
+      "eventos_recibidos": 26,
       "invalidos_rechazados": 0,
-      "evento_mas_reciente_utc": "2026-10-10T18:14:29+00:00",
-      "antiguedad_evento_mas_reciente_min": 1190.8
+      "evento_mas_reciente_utc": "2026-10-11T13:43:01+00:00",
+      "antiguedad_evento_mas_reciente_min": 27.3
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2413,
-      "eventos_recibidos": 2413,
+      "eventos_validos": 2412,
+      "eventos_recibidos": 2412,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-11T13:49:43+00:00",
-      "antiguedad_evento_mas_reciente_min": 15.5
+      "antiguedad_evento_mas_reciente_min": 20.6
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,21 +36,21 @@
       "eventos_recibidos": 481,
       "invalidos_rechazados": 1,
       "evento_mas_reciente_utc": "2026-10-11T13:42:59.788000+00:00",
-      "antiguedad_evento_mas_reciente_min": 22.3
+      "antiguedad_evento_mas_reciente_min": 27.3
     }
   },
   "ultimo_evento": {
     "igp": {
-      "id": "2026-727",
-      "fecha_hora_utc": "2026-10-10T18:14:29+00:00",
-      "magnitud": 3.5,
-      "profundidad_km": 42.0,
-      "latitud": -16.61,
-      "longitud": -72.66,
+      "id": "2026-729",
+      "fecha_hora_utc": "2026-10-11T13:43:01+00:00",
+      "magnitud": 5.1,
+      "profundidad_km": 47.0,
+      "latitud": -16.78,
+      "longitud": -72.56,
       "pais": "Perú",
-      "ciudad_referencia": "5 km al E de Camaná, Camaná - Arequipa",
+      "ciudad_referencia": "16 km al SO de Quilca, Camaná - Arequipa",
       "fuente": "IGP",
-      "url": "https://ultimosismo.igp.gob.pe/evento/2026-727"
+      "url": "https://ultimosismo.igp.gob.pe/evento/2026-729"
     },
     "emsc": {
       "id": "20261011_0000214",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-11T14:05:14.965346+00:00"
+    "hora_consulta_utc": "2026-10-11T14:10:17.336782+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-11T14:05:14.965346+00:00",
+  "updated_utc": "2026-10-11T14:10:17.336782+00:00",
   "combined_after_dedup": 2456
 }
