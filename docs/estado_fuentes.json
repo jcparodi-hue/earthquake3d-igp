@@ -1,14 +1,14 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-11T22:58:25.387019+00:00",
+  "actualizado_utc": "2026-10-11T23:00:20.992963+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 40,
   "actualizacion_minutos": 5,
   "igp": 40,
-  "emsc": 2453,
+  "emsc": 2452,
   "usgs": 482,
   "duplicados_eliminados": 481,
-  "eventos_publicados": 2494,
+  "eventos_publicados": 2493,
   "evento_mas_reciente_utc": "2026-10-11T22:45:12+00:00",
   "salud_fuentes": {
     "igp": {
@@ -18,16 +18,16 @@
       "eventos_recibidos": 27,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-11T19:41:03+00:00",
-      "antiguedad_evento_mas_reciente_min": 197.4
+      "antiguedad_evento_mas_reciente_min": 199.3
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2453,
-      "eventos_recibidos": 2454,
+      "eventos_validos": 2452,
+      "eventos_recibidos": 2453,
       "invalidos_rechazados": 1,
       "evento_mas_reciente_utc": "2026-10-11T22:45:12+00:00",
-      "antiguedad_evento_mas_reciente_min": 13.2
+      "antiguedad_evento_mas_reciente_min": 15.1
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -35,8 +35,8 @@
       "eventos_validos": 482,
       "eventos_recibidos": 485,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-11T21:34:53.418000+00:00",
-      "antiguedad_evento_mas_reciente_min": 83.5
+      "evento_mas_reciente_utc": "2026-10-11T21:34:53.822000+00:00",
+      "antiguedad_evento_mas_reciente_min": 85.5
     }
   },
   "ultimo_evento": {
@@ -66,13 +66,13 @@
     },
     "usgs": {
       "id": "us6000u1mj",
-      "fecha_hora_utc": "2026-10-11T21:34:53.418000+00:00",
+      "fecha_hora_utc": "2026-10-11T21:34:53.822000+00:00",
       "magnitud": 5.3,
-      "profundidad_km": 103.618,
-      "latitud": 0.5266,
-      "longitud": 121.6986,
+      "profundidad_km": 110.467,
+      "latitud": 0.49,
+      "longitud": 121.7071,
       "pais": "",
-      "ciudad_referencia": "151 km W of Gorontalo, Indonesia",
+      "ciudad_referencia": "150 km W of Gorontalo, Indonesia",
       "fuente": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1mj"
     }
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-11T22:58:25.387019+00:00"
+    "hora_consulta_utc": "2026-10-11T23:00:20.992963+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-11T22:58:25.387019+00:00",
-  "combined_after_dedup": 2494
+  "updated_utc": "2026-10-11T23:00:20.992963+00:00",
+  "combined_after_dedup": 2493
 }
