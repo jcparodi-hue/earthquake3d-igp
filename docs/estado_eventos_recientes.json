@@ -14991,7 +14991,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1mj",
     "fecha_primera_recepcion": "2026-10-11T21:55:11.854268+00:00",
-    "fecha_ultima_observacion": "2026-10-11T23:45:16.287134+00:00"
+    "fecha_ultima_observacion": "2026-10-11T23:50:15.540513+00:00"
   },
   "EMSC:20261011_0000351": {
     "id": "20261011_0000351",
@@ -15061,7 +15061,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-730",
     "fecha_primera_recepcion": "2026-10-11T22:35:15.140846+00:00",
-    "fecha_ultima_observacion": "2026-10-11T23:45:16.287134+00:00"
+    "fecha_ultima_observacion": "2026-10-11T23:50:15.540513+00:00"
   },
   "EMSC:20261011_0000356": {
     "id": "20261011_0000356",
@@ -15174,5 +15174,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261011_0000371",
     "fecha_primera_recepcion": "2026-10-11T23:45:16.287134+00:00",
     "fecha_ultima_observacion": "2026-10-11T23:45:16.287134+00:00"
+  },
+  "EMSC:20261011_0000375": {
+    "id": "20261011_0000375",
+    "fecha_hora_utc": "2026-10-11T23:41:08+00:00",
+    "magnitud": 4.3,
+    "profundidad_km": 53.0,
+    "latitud": 13.4587,
+    "longitud": -88.9213,
+    "pais": "",
+    "ciudad_referencia": "EL SALVADOR",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261011_0000375",
+    "fecha_primera_recepcion": "2026-10-11T23:50:15.540513+00:00",
+    "fecha_ultima_observacion": "2026-10-11T23:50:15.540513+00:00"
   }
 }
