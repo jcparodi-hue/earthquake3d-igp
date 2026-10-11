@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-11T14:15:17.629616+00:00",
+  "actualizado_utc": "2026-10-11T14:20:15.172256+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 39,
   "actualizacion_minutos": 5,
   "igp": 39,
-  "emsc": 2413,
-  "usgs": 480,
-  "duplicados_eliminados": 475,
-  "eventos_publicados": 2457,
-  "evento_mas_reciente_utc": "2026-10-11T14:07:24.840000+00:00",
+  "emsc": 2412,
+  "usgs": 479,
+  "duplicados_eliminados": 474,
+  "eventos_publicados": 2456,
+  "evento_mas_reciente_utc": "2026-10-11T14:07:19.120000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 26,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-11T13:43:01+00:00",
-      "antiguedad_evento_mas_reciente_min": 32.3
+      "antiguedad_evento_mas_reciente_min": 37.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2413,
-      "eventos_recibidos": 2413,
+      "eventos_validos": 2412,
+      "eventos_recibidos": 2412,
       "invalidos_rechazados": 0,
-      "evento_mas_reciente_utc": "2026-10-11T14:07:24.840000+00:00",
-      "antiguedad_evento_mas_reciente_min": 7.9
+      "evento_mas_reciente_utc": "2026-10-11T14:07:19.120000+00:00",
+      "antiguedad_evento_mas_reciente_min": 12.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 480,
-      "eventos_recibidos": 481,
+      "eventos_validos": 479,
+      "eventos_recibidos": 480,
       "invalidos_rechazados": 1,
       "evento_mas_reciente_utc": "2026-10-11T13:42:59.788000+00:00",
-      "antiguedad_evento_mas_reciente_min": 32.3
+      "antiguedad_evento_mas_reciente_min": 37.3
     }
   },
   "ultimo_evento": {
@@ -54,13 +54,13 @@
     },
     "emsc": {
       "id": "20261011_0000218",
-      "fecha_hora_utc": "2026-10-11T14:07:24.840000+00:00",
-      "magnitud": 6.1,
-      "profundidad_km": 60.0,
-      "latitud": -7.0419,
-      "longitud": 155.7243,
+      "fecha_hora_utc": "2026-10-11T14:07:19.120000+00:00",
+      "magnitud": 6.2,
+      "profundidad_km": 10.0,
+      "latitud": -6.939,
+      "longitud": 155.674,
       "pais": "",
-      "ciudad_referencia": "SOLOMON ISLANDS",
+      "ciudad_referencia": "BOUGAINVILLE REGION, P.N.G.",
       "fuente": "EMSC",
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261011_0000218"
     },
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-11T14:15:17.629616+00:00"
+    "hora_consulta_utc": "2026-10-11T14:20:15.172256+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-11T14:15:17.629616+00:00",
-  "combined_after_dedup": 2457
+  "updated_utc": "2026-10-11T14:20:15.172256+00:00",
+  "combined_after_dedup": 2456
 }
