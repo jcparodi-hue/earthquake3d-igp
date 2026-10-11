@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-11T10:35:33.416164+00:00",
+  "actualizado_utc": "2026-10-11T10:40:15.772003+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 37,
   "actualizacion_minutos": 5,
   "igp": 37,
-  "emsc": 2400,
+  "emsc": 2403,
   "usgs": 478,
   "duplicados_eliminados": 473,
-  "eventos_publicados": 2442,
-  "evento_mas_reciente_utc": "2026-10-11T10:17:12+00:00",
+  "eventos_publicados": 2445,
+  "evento_mas_reciente_utc": "2026-10-11T10:23:05.100000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 24,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-10T18:14:29+00:00",
-      "antiguedad_evento_mas_reciente_min": 981.1
+      "antiguedad_evento_mas_reciente_min": 985.8
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2400,
-      "eventos_recibidos": 2401,
+      "eventos_validos": 2403,
+      "eventos_recibidos": 2404,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-11T10:17:12+00:00",
-      "antiguedad_evento_mas_reciente_min": 18.4
+      "evento_mas_reciente_utc": "2026-10-11T10:23:05.100000+00:00",
+      "antiguedad_evento_mas_reciente_min": 17.2
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 480,
       "invalidos_rechazados": 2,
       "evento_mas_reciente_utc": "2026-10-11T10:05:41.414000+00:00",
-      "antiguedad_evento_mas_reciente_min": 29.9
+      "antiguedad_evento_mas_reciente_min": 34.6
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-727"
     },
     "emsc": {
-      "id": "20261011_0000167",
-      "fecha_hora_utc": "2026-10-11T10:17:12+00:00",
-      "magnitud": 3.9,
-      "profundidad_km": 10.0,
-      "latitud": -0.0,
-      "longitud": 100.2,
+      "id": "20261011_0000165",
+      "fecha_hora_utc": "2026-10-11T10:23:05.100000+00:00",
+      "magnitud": 2.5,
+      "profundidad_km": 15.0,
+      "latitud": 39.553,
+      "longitud": 20.656,
       "pais": "",
-      "ciudad_referencia": "NORTHERN SUMATRA, INDONESIA",
+      "ciudad_referencia": "GREECE",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261011_0000167"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261011_0000165"
     },
     "usgs": {
       "id": "us6000u1jv",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-11T10:35:33.416164+00:00"
+    "hora_consulta_utc": "2026-10-11T10:40:15.772003+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-11T10:35:33.416164+00:00",
-  "combined_after_dedup": 2442
+  "updated_utc": "2026-10-11T10:40:15.772003+00:00",
+  "combined_after_dedup": 2445
 }
