@@ -15411,7 +15411,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-731",
     "fecha_primera_recepcion": "2026-10-12T01:45:15.845149+00:00",
-    "fecha_ultima_observacion": "2026-10-12T13:50:18.485997+00:00"
+    "fecha_ultima_observacion": "2026-10-12T13:55:18.203259+00:00"
   },
   "EMSC:20261012_0000026": {
     "id": "20261012_0000026",
@@ -16672,5 +16672,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261012_0000246",
     "fecha_primera_recepcion": "2026-10-12T13:45:19.306284+00:00",
     "fecha_ultima_observacion": "2026-10-12T13:50:18.485997+00:00"
+  },
+  "EMSC:20261012_0000249": {
+    "id": "20261012_0000249",
+    "fecha_hora_utc": "2026-10-12T13:47:49+00:00",
+    "magnitud": 4.0,
+    "profundidad_km": 10.0,
+    "latitud": 7.7297,
+    "longitud": -81.5713,
+    "pais": "",
+    "ciudad_referencia": "PANAMA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261012_0000249",
+    "fecha_primera_recepcion": "2026-10-12T13:55:18.203259+00:00",
+    "fecha_ultima_observacion": "2026-10-12T13:55:18.203259+00:00"
+  },
+  "USGS:us6000u1rv": {
+    "id": "us6000u1rv",
+    "fecha_hora_utc": "2026-10-12T13:05:41.141000+00:00",
+    "magnitud": 3.5,
+    "profundidad_km": 35.0,
+    "latitud": 54.4548,
+    "longitud": -159.9069,
+    "pais": "",
+    "ciudad_referencia": "105 km SSE of Sand Point, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1rv",
+    "fecha_primera_recepcion": "2026-10-12T13:55:18.203259+00:00",
+    "fecha_ultima_observacion": "2026-10-12T13:55:18.203259+00:00"
   }
 }
