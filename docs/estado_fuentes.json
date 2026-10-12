@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-12T22:05:15.934457+00:00",
+  "actualizado_utc": "2026-10-12T22:10:16.539513+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 42,
   "actualizacion_minutos": 5,
   "igp": 42,
-  "emsc": 2540,
-  "usgs": 499,
-  "duplicados_eliminados": 497,
-  "eventos_publicados": 2584,
-  "evento_mas_reciente_utc": "2026-10-12T21:57:23+00:00",
+  "emsc": 2541,
+  "usgs": 500,
+  "duplicados_eliminados": 498,
+  "eventos_publicados": 2585,
+  "evento_mas_reciente_utc": "2026-10-12T22:01:31+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 23,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-12T09:57:21+00:00",
-      "antiguedad_evento_mas_reciente_min": 727.9
+      "antiguedad_evento_mas_reciente_min": 732.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2540,
-      "eventos_recibidos": 2541,
+      "eventos_validos": 2541,
+      "eventos_recibidos": 2542,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-12T21:57:23+00:00",
-      "antiguedad_evento_mas_reciente_min": 7.9
+      "evento_mas_reciente_utc": "2026-10-12T22:01:31+00:00",
+      "antiguedad_evento_mas_reciente_min": 8.8
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 499,
-      "eventos_recibidos": 500,
+      "eventos_validos": 500,
+      "eventos_recibidos": 501,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-12T21:43:30.599000+00:00",
-      "antiguedad_evento_mas_reciente_min": 21.8
+      "evento_mas_reciente_utc": "2026-10-12T21:48:54.934000+00:00",
+      "antiguedad_evento_mas_reciente_min": 21.4
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-732"
     },
     "emsc": {
-      "id": "20261012_0000415",
-      "fecha_hora_utc": "2026-10-12T21:57:23+00:00",
-      "magnitud": 3.9,
-      "profundidad_km": 7.0,
-      "latitud": 7.6367,
-      "longitud": -81.1093,
+      "id": "20261012_0000416",
+      "fecha_hora_utc": "2026-10-12T22:01:31+00:00",
+      "magnitud": 3.7,
+      "profundidad_km": 11.0,
+      "latitud": 28.19,
+      "longitud": 104.81,
       "pais": "",
-      "ciudad_referencia": "PANAMA",
+      "ciudad_referencia": "EASTERN SICHUAN, CHINA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261012_0000415"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261012_0000416"
     },
     "usgs": {
-      "id": "us6000u1w6",
-      "fecha_hora_utc": "2026-10-12T21:43:30.599000+00:00",
+      "id": "us6000u1w7",
+      "fecha_hora_utc": "2026-10-12T21:48:54.934000+00:00",
       "magnitud": 4.5,
       "profundidad_km": 10.0,
-      "latitud": 7.8364,
-      "longitud": -81.5458,
+      "latitud": 7.9345,
+      "longitud": -81.4443,
       "pais": "",
-      "ciudad_referencia": "19 km SSW of Zapotillo, Panama",
+      "ciudad_referencia": "6 km WSW of Calidonia, Panama",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1w6"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1w7"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-12T22:05:15.934457+00:00"
+    "hora_consulta_utc": "2026-10-12T22:10:16.539513+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-12T22:05:15.934457+00:00",
-  "combined_after_dedup": 2584
+  "updated_utc": "2026-10-12T22:10:16.539513+00:00",
+  "combined_after_dedup": 2585
 }
