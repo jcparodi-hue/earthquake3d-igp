@@ -1,5 +1,19 @@
 [
   {
+    "volcan": "Fuego",
+    "pais": "Guatemala",
+    "codigo_vaac": "FUEG",
+    "fecha_hora_utc_texto": "1722 UTC",
+    "id_archivo": "2026J121722",
+    "url_aviso": "https://www.ospo.noaa.gov/VAAC/ARCH26/FUEG/2026J121722.html",
+    "url_xml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/xml_files/FVXX20_20261012_1722.xml",
+    "url_grafico": "https://www.ospo.noaa.gov/VAAC/ARCH26/GFX/SANT0596.jpg",
+    "url_kml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/kml_files/FUEGO_ASH_202610121722.kml",
+    "vaac": "Washington",
+    "tipo": "VAA",
+    "fuente": "NOAA Washington VAAC"
+  },
+  {
     "volcan": "Santa María",
     "pais": "Guatemala",
     "codigo_vaac": "SANTAMA",
