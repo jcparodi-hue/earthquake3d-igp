@@ -17175,7 +17175,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-732",
     "fecha_primera_recepcion": "2026-10-12T17:49:31.463795+00:00",
-    "fecha_ultima_observacion": "2026-10-12T20:20:20.700939+00:00"
+    "fecha_ultima_observacion": "2026-10-12T20:25:16.405453+00:00"
   },
   "EMSC:20261012_0000346": {
     "id": "20261012_0000346",
@@ -17329,7 +17329,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1us",
     "fecha_primera_recepcion": "2026-10-12T19:10:17.375452+00:00",
-    "fecha_ultima_observacion": "2026-10-12T20:20:20.700939+00:00"
+    "fecha_ultima_observacion": "2026-10-12T20:25:16.405453+00:00"
   },
   "EMSC:20261012_0000365": {
     "id": "20261012_0000365",
@@ -17428,5 +17428,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261012_0000379",
     "fecha_primera_recepcion": "2026-10-12T20:15:16.079150+00:00",
     "fecha_ultima_observacion": "2026-10-12T20:20:20.700939+00:00"
+  },
+  "EMSC:20261012_0000383": {
+    "id": "20261012_0000383",
+    "fecha_hora_utc": "2026-10-12T20:21:26.550000+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 28.1,
+    "latitud": 19.1685,
+    "longitud": -155.4875,
+    "pais": "",
+    "ciudad_referencia": "ISLAND OF HAWAII, HAWAII",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261012_0000383",
+    "fecha_primera_recepcion": "2026-10-12T20:25:16.405453+00:00",
+    "fecha_ultima_observacion": "2026-10-12T20:25:16.405453+00:00"
   }
 }
