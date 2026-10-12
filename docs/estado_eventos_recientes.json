@@ -15411,7 +15411,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-731",
     "fecha_primera_recepcion": "2026-10-12T01:45:15.845149+00:00",
-    "fecha_ultima_observacion": "2026-10-12T08:45:15.670985+00:00"
+    "fecha_ultima_observacion": "2026-10-12T08:50:15.704843+00:00"
   },
   "EMSC:20261012_0000026": {
     "id": "20261012_0000026",
@@ -16210,5 +16210,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261012_0000161",
     "fecha_primera_recepcion": "2026-10-12T08:45:15.670985+00:00",
     "fecha_ultima_observacion": "2026-10-12T08:45:15.670985+00:00"
+  },
+  "EMSC:20261012_0000164": {
+    "id": "20261012_0000164",
+    "fecha_hora_utc": "2026-10-12T08:45:59+00:00",
+    "magnitud": 4.4,
+    "profundidad_km": 208.4,
+    "latitud": 29.5355,
+    "longitud": 78.8466,
+    "pais": "",
+    "ciudad_referencia": "UTTARANCHAL-UTTAR PRADESH, INDIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261012_0000164",
+    "fecha_primera_recepcion": "2026-10-12T08:50:15.704843+00:00",
+    "fecha_ultima_observacion": "2026-10-12T08:50:15.704843+00:00"
+  },
+  "USGS:us6000u1qw": {
+    "id": "us6000u1qw",
+    "fecha_hora_utc": "2026-10-12T08:24:12.617000+00:00",
+    "magnitud": 2.8,
+    "profundidad_km": 6.254,
+    "latitud": 31.6322,
+    "longitud": -104.4693,
+    "pais": "",
+    "ciudad_referencia": "60 km S of Whites City, New Mexico",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1qw",
+    "fecha_primera_recepcion": "2026-10-12T08:50:15.704843+00:00",
+    "fecha_ultima_observacion": "2026-10-12T08:50:15.704843+00:00"
   }
 }
