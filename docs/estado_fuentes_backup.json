@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-12T17:00:22.979592+00:00",
+  "actualizado_utc": "2026-10-12T17:05:16.115635+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 41,
   "actualizacion_minutos": 5,
@@ -9,7 +9,7 @@
   "usgs": 502,
   "duplicados_eliminados": 499,
   "eventos_publicados": 2579,
-  "evento_mas_reciente_utc": "2026-10-12T16:43:21+00:00",
+  "evento_mas_reciente_utc": "2026-10-12T17:00:56.189000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 22,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-11T22:44:46+00:00",
-      "antiguedad_evento_mas_reciente_min": 1095.6
+      "antiguedad_evento_mas_reciente_min": 1100.5
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,8 +26,8 @@
       "eventos_validos": 2535,
       "eventos_recibidos": 2535,
       "invalidos_rechazados": 0,
-      "evento_mas_reciente_utc": "2026-10-12T16:43:21+00:00",
-      "antiguedad_evento_mas_reciente_min": 17.0
+      "evento_mas_reciente_utc": "2026-10-12T17:00:56.189000+00:00",
+      "antiguedad_evento_mas_reciente_min": 4.3
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 503,
       "invalidos_rechazados": 1,
       "evento_mas_reciente_utc": "2026-10-12T15:44:33.749000+00:00",
-      "antiguedad_evento_mas_reciente_min": 75.8
+      "antiguedad_evento_mas_reciente_min": 80.7
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-731"
     },
     "emsc": {
-      "id": "20261012_0000318",
-      "fecha_hora_utc": "2026-10-12T16:43:21+00:00",
-      "magnitud": 2.7,
-      "profundidad_km": 10.0,
-      "latitud": 9.6253,
-      "longitud": -83.8415,
+      "id": "20261012_0000323",
+      "fecha_hora_utc": "2026-10-12T17:00:56.189000+00:00",
+      "magnitud": 2.6,
+      "profundidad_km": 5.3,
+      "latitud": 51.5816,
+      "longitud": 16.1247,
       "pais": "",
-      "ciudad_referencia": "COSTA RICA",
+      "ciudad_referencia": "POLAND",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261012_0000318"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261012_0000323"
     },
     "usgs": {
       "id": "us6000u1sn",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-12T17:00:22.979592+00:00"
+    "hora_consulta_utc": "2026-10-12T17:05:16.115635+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-12T17:00:22.979592+00:00",
+  "updated_utc": "2026-10-12T17:05:16.115635+00:00",
   "combined_after_dedup": 2579
 }
