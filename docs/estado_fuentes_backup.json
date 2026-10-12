@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-12T02:55:14.982906+00:00",
+  "actualizado_utc": "2026-10-12T03:00:20.232529+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 41,
   "actualizacion_minutos": 5,
   "igp": 41,
-  "emsc": 2483,
+  "emsc": 2484,
   "usgs": 490,
   "duplicados_eliminados": 487,
-  "eventos_publicados": 2527,
-  "evento_mas_reciente_utc": "2026-10-12T02:53:50.088000+00:00",
+  "eventos_publicados": 2528,
+  "evento_mas_reciente_utc": "2026-10-12T02:53:48.400000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 27,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-11T22:44:46+00:00",
-      "antiguedad_evento_mas_reciente_min": 250.5
+      "antiguedad_evento_mas_reciente_min": 255.6
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2483,
-      "eventos_recibidos": 2484,
+      "eventos_validos": 2484,
+      "eventos_recibidos": 2485,
       "invalidos_rechazados": 1,
       "evento_mas_reciente_utc": "2026-10-12T02:41:30+00:00",
-      "antiguedad_evento_mas_reciente_min": 13.7
+      "antiguedad_evento_mas_reciente_min": 18.8
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -35,8 +35,8 @@
       "eventos_validos": 490,
       "eventos_recibidos": 493,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-12T02:53:50.088000+00:00",
-      "antiguedad_evento_mas_reciente_min": 1.4
+      "evento_mas_reciente_utc": "2026-10-12T02:53:48.400000+00:00",
+      "antiguedad_evento_mas_reciente_min": 6.5
     }
   },
   "ultimo_evento": {
@@ -66,13 +66,13 @@
     },
     "usgs": {
       "id": "aka2026ueuacx",
-      "fecha_hora_utc": "2026-10-12T02:53:50.088000+00:00",
-      "magnitud": 2.6,
-      "profundidad_km": 31.9,
-      "latitud": 61.954,
-      "longitud": -147.699,
+      "fecha_hora_utc": "2026-10-12T02:53:48.400000+00:00",
+      "magnitud": 2.8,
+      "profundidad_km": 7.4,
+      "latitud": 61.982,
+      "longitud": -147.652,
       "pais": "",
-      "ciudad_referencia": "16 km N of Glacier View, Alaska",
+      "ciudad_referencia": "19 km N of Glacier View, Alaska",
       "fuente": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ueuacx"
     }
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-12T02:55:14.982906+00:00"
+    "hora_consulta_utc": "2026-10-12T03:00:20.232529+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-12T02:55:14.982906+00:00",
-  "combined_after_dedup": 2527
+  "updated_utc": "2026-10-12T03:00:20.232529+00:00",
+  "combined_after_dedup": 2528
 }
