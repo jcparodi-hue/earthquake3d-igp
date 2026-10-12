@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-12T07:25:16.410978+00:00",
+  "actualizado_utc": "2026-10-12T07:30:23.174574+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 41,
   "actualizacion_minutos": 5,
   "igp": 41,
-  "emsc": 2502,
-  "usgs": 493,
+  "emsc": 2505,
+  "usgs": 494,
   "duplicados_eliminados": 496,
-  "eventos_publicados": 2540,
-  "evento_mas_reciente_utc": "2026-10-12T07:16:33+00:00",
+  "eventos_publicados": 2544,
+  "evento_mas_reciente_utc": "2026-10-12T07:25:42.912000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 26,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-11T22:44:46+00:00",
-      "antiguedad_evento_mas_reciente_min": 520.5
+      "antiguedad_evento_mas_reciente_min": 525.6
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2502,
-      "eventos_recibidos": 2503,
+      "eventos_validos": 2505,
+      "eventos_recibidos": 2506,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-12T07:16:33+00:00",
+      "evento_mas_reciente_utc": "2026-10-12T07:21:39.560000+00:00",
       "antiguedad_evento_mas_reciente_min": 8.7
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 493,
-      "eventos_recibidos": 496,
+      "eventos_validos": 494,
+      "eventos_recibidos": 497,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-12T05:38:55.294000+00:00",
-      "antiguedad_evento_mas_reciente_min": 106.4
+      "evento_mas_reciente_utc": "2026-10-12T07:25:42.912000+00:00",
+      "antiguedad_evento_mas_reciente_min": 4.7
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-731"
     },
     "emsc": {
-      "id": "20261012_0000127",
-      "fecha_hora_utc": "2026-10-12T07:16:33+00:00",
-      "magnitud": 4.7,
-      "profundidad_km": 15.0,
-      "latitud": 8.5054,
-      "longitud": -82.6938,
+      "id": "20261012_0000130",
+      "fecha_hora_utc": "2026-10-12T07:21:39.560000+00:00",
+      "magnitud": 3.4,
+      "profundidad_km": 27.0,
+      "latitud": 35.8652,
+      "longitud": 30.833,
       "pais": "",
-      "ciudad_referencia": "PANAMA-COSTA RICA BORDER REGION",
+      "ciudad_referencia": "EASTERN MEDITERRANEAN SEA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261012_0000127"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261012_0000130"
     },
     "usgs": {
-      "id": "us6000u1q4",
-      "fecha_hora_utc": "2026-10-12T05:38:55.294000+00:00",
-      "magnitud": 3.0,
-      "profundidad_km": 10.051,
-      "latitud": 34.978,
-      "longitud": -97.7877,
+      "id": "aka2026ufdbwh",
+      "fecha_hora_utc": "2026-10-12T07:25:42.912000+00:00",
+      "magnitud": 2.5,
+      "profundidad_km": 24.9,
+      "latitud": 55.351,
+      "longitud": -158.929,
       "pais": "",
-      "ciudad_referencia": "7 km N of Alex, Oklahoma",
+      "ciudad_referencia": "63 km SSE of Perryville, Alaska",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1q4"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ufdbwh"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-12T07:25:16.410978+00:00"
+    "hora_consulta_utc": "2026-10-12T07:30:23.174574+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-12T07:25:16.410978+00:00",
-  "combined_after_dedup": 2540
+  "updated_utc": "2026-10-12T07:30:23.174574+00:00",
+  "combined_after_dedup": 2544
 }

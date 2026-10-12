@@ -15411,7 +15411,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-731",
     "fecha_primera_recepcion": "2026-10-12T01:45:15.845149+00:00",
-    "fecha_ultima_observacion": "2026-10-12T07:25:16.410978+00:00"
+    "fecha_ultima_observacion": "2026-10-12T07:30:23.174574+00:00"
   },
   "EMSC:20261012_0000026": {
     "id": "20261012_0000026",
@@ -16042,5 +16042,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261012_0000127",
     "fecha_primera_recepcion": "2026-10-12T07:25:16.410978+00:00",
     "fecha_ultima_observacion": "2026-10-12T07:25:16.410978+00:00"
+  },
+  "EMSC:20261012_0000130": {
+    "id": "20261012_0000130",
+    "fecha_hora_utc": "2026-10-12T07:21:39.560000+00:00",
+    "magnitud": 3.4,
+    "profundidad_km": 27.0,
+    "latitud": 35.8652,
+    "longitud": 30.833,
+    "pais": "",
+    "ciudad_referencia": "EASTERN MEDITERRANEAN SEA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261012_0000130",
+    "fecha_primera_recepcion": "2026-10-12T07:30:23.174574+00:00",
+    "fecha_ultima_observacion": "2026-10-12T07:30:23.174574+00:00"
+  },
+  "USGS:aka2026ufdbwh": {
+    "id": "aka2026ufdbwh",
+    "fecha_hora_utc": "2026-10-12T07:25:42.912000+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 24.9,
+    "latitud": 55.351,
+    "longitud": -158.929,
+    "pais": "",
+    "ciudad_referencia": "63 km SSE of Perryville, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ufdbwh",
+    "fecha_primera_recepcion": "2026-10-12T07:30:23.174574+00:00",
+    "fecha_ultima_observacion": "2026-10-12T07:30:23.174574+00:00"
   }
 }
