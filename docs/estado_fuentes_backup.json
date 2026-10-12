@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-12T23:40:16.909684+00:00",
+  "actualizado_utc": "2026-10-12T23:45:16.492906+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 42,
   "actualizacion_minutos": 5,
@@ -9,7 +9,7 @@
   "usgs": 506,
   "duplicados_eliminados": 502,
   "eventos_publicados": 2588,
-  "evento_mas_reciente_utc": "2026-10-12T23:35:48.306000+00:00",
+  "evento_mas_reciente_utc": "2026-10-12T23:39:09+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 22,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-12T09:57:21+00:00",
-      "antiguedad_evento_mas_reciente_min": 822.9
+      "antiguedad_evento_mas_reciente_min": 827.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,8 +26,8 @@
       "eventos_validos": 2542,
       "eventos_recibidos": 2543,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-12T23:33:19+00:00",
-      "antiguedad_evento_mas_reciente_min": 7.0
+      "evento_mas_reciente_utc": "2026-10-12T23:39:09+00:00",
+      "antiguedad_evento_mas_reciente_min": 6.1
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 507,
       "invalidos_rechazados": 1,
       "evento_mas_reciente_utc": "2026-10-12T23:35:48.306000+00:00",
-      "antiguedad_evento_mas_reciente_min": 4.5
+      "antiguedad_evento_mas_reciente_min": 9.5
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-732"
     },
     "emsc": {
-      "id": "20261012_0000439",
-      "fecha_hora_utc": "2026-10-12T23:33:19+00:00",
+      "id": "20261012_0000441",
+      "fecha_hora_utc": "2026-10-12T23:39:09+00:00",
       "magnitud": 4.4,
-      "profundidad_km": 10.0,
-      "latitud": 7.6775,
-      "longitud": -81.4965,
+      "profundidad_km": 12.0,
+      "latitud": 9.0599,
+      "longitud": -82.2768,
       "pais": "",
-      "ciudad_referencia": "PANAMA",
+      "ciudad_referencia": "PANAMA-COSTA RICA BORDER REGION",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261012_0000439"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261012_0000441"
     },
     "usgs": {
       "id": "aka2026ugjlay",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-12T23:40:16.909684+00:00"
+    "hora_consulta_utc": "2026-10-12T23:45:16.492906+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-12T23:40:16.909684+00:00",
+  "updated_utc": "2026-10-12T23:45:16.492906+00:00",
   "combined_after_dedup": 2588
 }
