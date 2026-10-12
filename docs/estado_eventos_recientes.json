@@ -17175,7 +17175,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-732",
     "fecha_primera_recepcion": "2026-10-12T17:49:31.463795+00:00",
-    "fecha_ultima_observacion": "2026-10-12T18:55:16.133074+00:00"
+    "fecha_ultima_observacion": "2026-10-12T19:00:22.290757+00:00"
   },
   "EMSC:20261012_0000346": {
     "id": "20261012_0000346",
@@ -17274,5 +17274,33 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ut",
     "fecha_primera_recepcion": "2026-10-12T18:55:16.133074+00:00",
     "fecha_ultima_observacion": "2026-10-12T18:55:16.133074+00:00"
+  },
+  "EMSC:20261012_0000360": {
+    "id": "20261012_0000360",
+    "fecha_hora_utc": "2026-10-12T18:53:05+00:00",
+    "magnitud": 3.6,
+    "profundidad_km": 10.0,
+    "latitud": 7.6959,
+    "longitud": -81.4525,
+    "pais": "",
+    "ciudad_referencia": "PANAMA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261012_0000360",
+    "fecha_primera_recepcion": "2026-10-12T19:00:22.290757+00:00",
+    "fecha_ultima_observacion": "2026-10-12T19:00:22.290757+00:00"
+  },
+  "USGS:us6000u1uv": {
+    "id": "us6000u1uv",
+    "fecha_hora_utc": "2026-10-12T18:30:19.138000+00:00",
+    "magnitud": 4.6,
+    "profundidad_km": 10.0,
+    "latitud": -16.5382,
+    "longitud": 67.0,
+    "pais": "",
+    "ciudad_referencia": "Mid-Indian Ridge",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1uv",
+    "fecha_primera_recepcion": "2026-10-12T19:00:22.290757+00:00",
+    "fecha_ultima_observacion": "2026-10-12T19:00:22.290757+00:00"
   }
 }
