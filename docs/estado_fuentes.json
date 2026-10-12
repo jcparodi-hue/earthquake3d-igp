@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-12T10:35:13.958185+00:00",
+  "actualizado_utc": "2026-10-12T10:40:16.783189+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 41,
   "actualizacion_minutos": 5,
   "igp": 41,
-  "emsc": 2503,
+  "emsc": 2502,
   "usgs": 495,
   "duplicados_eliminados": 494,
-  "eventos_publicados": 2545,
-  "evento_mas_reciente_utc": "2026-10-12T10:29:01+00:00",
+  "eventos_publicados": 2544,
+  "evento_mas_reciente_utc": "2026-10-12T10:29:00+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 25,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-11T22:44:46+00:00",
-      "antiguedad_evento_mas_reciente_min": 710.5
+      "antiguedad_evento_mas_reciente_min": 715.5
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2503,
-      "eventos_recibidos": 2504,
+      "eventos_validos": 2502,
+      "eventos_recibidos": 2503,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-12T10:29:01+00:00",
-      "antiguedad_evento_mas_reciente_min": 6.2
+      "evento_mas_reciente_utc": "2026-10-12T10:29:00+00:00",
+      "antiguedad_evento_mas_reciente_min": 11.3
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 498,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-10-12T09:12:55.060000+00:00",
-      "antiguedad_evento_mas_reciente_min": 82.3
+      "antiguedad_evento_mas_reciente_min": 87.4
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261012_0000188",
-      "fecha_hora_utc": "2026-10-12T10:29:01+00:00",
+      "fecha_hora_utc": "2026-10-12T10:29:00+00:00",
       "magnitud": 3.5,
-      "profundidad_km": 99.0,
-      "latitud": -33.65,
-      "longitud": -70.22,
+      "profundidad_km": 102.5,
+      "latitud": -33.61,
+      "longitud": -70.23,
       "pais": "",
       "ciudad_referencia": "REGION METROPOLITANA, CHILE",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-12T10:35:13.958185+00:00"
+    "hora_consulta_utc": "2026-10-12T10:40:16.783189+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-12T10:35:13.958185+00:00",
-  "combined_after_dedup": 2545
+  "updated_utc": "2026-10-12T10:40:16.783189+00:00",
+  "combined_after_dedup": 2544
 }
