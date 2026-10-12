@@ -15411,7 +15411,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-731",
     "fecha_primera_recepcion": "2026-10-12T01:45:15.845149+00:00",
-    "fecha_ultima_observacion": "2026-10-12T12:55:14.320054+00:00"
+    "fecha_ultima_observacion": "2026-10-12T13:06:13.528140+00:00"
   },
   "EMSC:20261012_0000026": {
     "id": "20261012_0000026",
@@ -16615,7 +16615,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ufnapa",
     "fecha_primera_recepcion": "2026-10-12T12:30:19.096899+00:00",
-    "fecha_ultima_observacion": "2026-10-12T12:55:14.320054+00:00"
+    "fecha_ultima_observacion": "2026-10-12T13:06:13.528140+00:00"
   },
   "EMSC:20261012_0000227": {
     "id": "20261012_0000227",
@@ -16630,5 +16630,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261012_0000227",
     "fecha_primera_recepcion": "2026-10-12T12:50:19.096929+00:00",
     "fecha_ultima_observacion": "2026-10-12T12:55:14.320054+00:00"
+  },
+  "EMSC:20261012_0000232": {
+    "id": "20261012_0000232",
+    "fecha_hora_utc": "2026-10-12T12:52:22+00:00",
+    "magnitud": 2.6,
+    "profundidad_km": 99.8,
+    "latitud": -33.62,
+    "longitud": -70.25,
+    "pais": "",
+    "ciudad_referencia": "REGION METROPOLITANA, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261012_0000232",
+    "fecha_primera_recepcion": "2026-10-12T13:06:13.528140+00:00",
+    "fecha_ultima_observacion": "2026-10-12T13:06:13.528140+00:00"
   }
 }
