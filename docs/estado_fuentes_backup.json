@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-13T06:20:19.902288+00:00",
+  "actualizado_utc": "2026-10-13T06:25:16.541479+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 42,
   "actualizacion_minutos": 5,
@@ -9,7 +9,7 @@
   "usgs": 513,
   "duplicados_eliminados": 507,
   "eventos_publicados": 2654,
-  "evento_mas_reciente_utc": "2026-10-13T05:53:01+00:00",
+  "evento_mas_reciente_utc": "2026-10-13T06:15:00+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 22,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-12T09:57:21+00:00",
-      "antiguedad_evento_mas_reciente_min": 1223.0
+      "antiguedad_evento_mas_reciente_min": 1227.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,8 +26,8 @@
       "eventos_validos": 2606,
       "eventos_recibidos": 2607,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-13T05:53:01+00:00",
-      "antiguedad_evento_mas_reciente_min": 27.3
+      "evento_mas_reciente_utc": "2026-10-13T06:15:00+00:00",
+      "antiguedad_evento_mas_reciente_min": 10.3
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 514,
       "invalidos_rechazados": 1,
       "evento_mas_reciente_utc": "2026-10-13T05:44:46.919000+00:00",
-      "antiguedad_evento_mas_reciente_min": 35.5
+      "antiguedad_evento_mas_reciente_min": 40.5
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-732"
     },
     "emsc": {
-      "id": "20261013_0000125",
-      "fecha_hora_utc": "2026-10-13T05:53:01+00:00",
-      "magnitud": 2.8,
-      "profundidad_km": 24.0,
-      "latitud": 13.182,
-      "longitud": -89.81,
+      "id": "20261013_0000128",
+      "fecha_hora_utc": "2026-10-13T06:15:00+00:00",
+      "magnitud": 2.5,
+      "profundidad_km": 11.0,
+      "latitud": 8.8395,
+      "longitud": -84.0773,
       "pais": "",
-      "ciudad_referencia": "OFFSHORE EL SALVADOR",
+      "ciudad_referencia": "OFF COAST OF COSTA RICA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261013_0000125"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261013_0000128"
     },
     "usgs": {
       "id": "us6000u1z5",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-13T06:20:19.902288+00:00"
+    "hora_consulta_utc": "2026-10-13T06:25:16.541479+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-13T06:20:19.902288+00:00",
+  "updated_utc": "2026-10-13T06:25:16.541479+00:00",
   "combined_after_dedup": 2654
 }
