@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-13T08:30:20.452750+00:00",
+  "actualizado_utc": "2026-10-13T08:35:14.547920+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 42,
   "actualizacion_minutos": 5,
   "igp": 42,
-  "emsc": 2620,
-  "usgs": 516,
-  "duplicados_eliminados": 506,
+  "emsc": 2621,
+  "usgs": 517,
+  "duplicados_eliminados": 508,
   "eventos_publicados": 2672,
-  "evento_mas_reciente_utc": "2026-10-13T08:28:51.439000+00:00",
+  "evento_mas_reciente_utc": "2026-10-13T08:28:51.577194+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 22,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-12T09:57:21+00:00",
-      "antiguedad_evento_mas_reciente_min": 1353.0
+      "antiguedad_evento_mas_reciente_min": 1357.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2620,
-      "eventos_recibidos": 2621,
+      "eventos_validos": 2621,
+      "eventos_recibidos": 2622,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-13T08:26:35+00:00",
-      "antiguedad_evento_mas_reciente_min": 3.8
+      "evento_mas_reciente_utc": "2026-10-13T08:28:51.577194+00:00",
+      "antiguedad_evento_mas_reciente_min": 6.4
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 516,
-      "eventos_recibidos": 517,
+      "eventos_validos": 517,
+      "eventos_recibidos": 518,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-13T08:28:51.439000+00:00",
-      "antiguedad_evento_mas_reciente_min": 1.5
+      "evento_mas_reciente_utc": "2026-10-13T08:28:51.577000+00:00",
+      "antiguedad_evento_mas_reciente_min": 6.4
     }
   },
   "ultimo_evento": {
@@ -53,26 +53,26 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-732"
     },
     "emsc": {
-      "id": "20261013_0000170",
-      "fecha_hora_utc": "2026-10-13T08:26:35+00:00",
-      "magnitud": 4.2,
-      "profundidad_km": 5.0,
-      "latitud": 7.7209,
-      "longitud": -81.4033,
+      "id": "20261013_0000171",
+      "fecha_hora_utc": "2026-10-13T08:28:51.577194+00:00",
+      "magnitud": 3.0,
+      "profundidad_km": 98.9,
+      "latitud": 62.296,
+      "longitud": -151.351,
       "pais": "",
-      "ciudad_referencia": "PANAMA",
+      "ciudad_referencia": "CENTRAL ALASKA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261013_0000170"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261013_0000171"
     },
     "usgs": {
       "id": "aka2026uhbeyn",
-      "fecha_hora_utc": "2026-10-13T08:28:51.439000+00:00",
-      "magnitud": 2.9,
-      "profundidad_km": 97.4,
-      "latitud": 62.308,
-      "longitud": -151.406,
+      "fecha_hora_utc": "2026-10-13T08:28:51.577000+00:00",
+      "magnitud": 3.0,
+      "profundidad_km": 98.9,
+      "latitud": 62.296,
+      "longitud": -151.351,
       "pais": "",
-      "ciudad_referencia": "35 km N of Skwentna, Alaska",
+      "ciudad_referencia": "34 km N of Skwentna, Alaska",
       "fuente": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uhbeyn"
     }
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-13T08:30:20.452750+00:00"
+    "hora_consulta_utc": "2026-10-13T08:35:14.547920+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-13T08:30:20.452750+00:00",
+  "updated_utc": "2026-10-13T08:35:14.547920+00:00",
   "combined_after_dedup": 2672
 }
