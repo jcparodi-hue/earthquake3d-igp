@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-13T09:00:23.183230+00:00",
+  "actualizado_utc": "2026-10-13T09:05:15.882895+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 42,
   "actualizacion_minutos": 5,
   "igp": 42,
-  "emsc": 2622,
+  "emsc": 2620,
   "usgs": 518,
   "duplicados_eliminados": 509,
-  "eventos_publicados": 2673,
-  "evento_mas_reciente_utc": "2026-10-13T08:54:02+00:00",
+  "eventos_publicados": 2671,
+  "evento_mas_reciente_utc": "2026-10-13T08:54:22+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 22,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-12T09:57:21+00:00",
-      "antiguedad_evento_mas_reciente_min": 1383.0
+      "antiguedad_evento_mas_reciente_min": 1387.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2622,
-      "eventos_recibidos": 2623,
+      "eventos_validos": 2620,
+      "eventos_recibidos": 2621,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-13T08:54:02+00:00",
-      "antiguedad_evento_mas_reciente_min": 6.4
+      "evento_mas_reciente_utc": "2026-10-13T08:54:22+00:00",
+      "antiguedad_evento_mas_reciente_min": 10.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 519,
       "invalidos_rechazados": 1,
       "evento_mas_reciente_utc": "2026-10-13T08:38:28.325000+00:00",
-      "antiguedad_evento_mas_reciente_min": 21.9
+      "antiguedad_evento_mas_reciente_min": 26.8
     }
   },
   "ultimo_evento": {
@@ -54,13 +54,13 @@
     },
     "emsc": {
       "id": "20261013_0000182",
-      "fecha_hora_utc": "2026-10-13T08:54:02+00:00",
-      "magnitud": 3.9,
-      "profundidad_km": 5.0,
-      "latitud": 7.699,
-      "longitud": -81.5822,
+      "fecha_hora_utc": "2026-10-13T08:54:22+00:00",
+      "magnitud": 3.5,
+      "profundidad_km": 10.0,
+      "latitud": 8.5662,
+      "longitud": -82.5593,
       "pais": "",
-      "ciudad_referencia": "PANAMA",
+      "ciudad_referencia": "PANAMA-COSTA RICA BORDER REGION",
       "fuente": "EMSC",
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261013_0000182"
     },
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-13T09:00:23.183230+00:00"
+    "hora_consulta_utc": "2026-10-13T09:05:15.882895+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-13T09:00:23.183230+00:00",
-  "combined_after_dedup": 2673
+  "updated_utc": "2026-10-13T09:05:15.882895+00:00",
+  "combined_after_dedup": 2671
 }
