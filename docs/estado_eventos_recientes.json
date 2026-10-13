@@ -17175,7 +17175,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-732",
     "fecha_primera_recepcion": "2026-10-12T17:49:31.463795+00:00",
-    "fecha_ultima_observacion": "2026-10-13T02:55:14.440238+00:00"
+    "fecha_ultima_observacion": "2026-10-13T02:56:31.488744+00:00"
   },
   "EMSC:20261012_0000346": {
     "id": "20261012_0000346",
@@ -18043,7 +18043,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1xk",
     "fecha_primera_recepcion": "2026-10-13T02:15:15.374886+00:00",
-    "fecha_ultima_observacion": "2026-10-13T02:55:14.440238+00:00"
+    "fecha_ultima_observacion": "2026-10-13T02:56:31.488744+00:00"
   },
   "EMSC:20261013_0000044": {
     "id": "20261013_0000044",
@@ -18100,5 +18100,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261013_0000058",
     "fecha_primera_recepcion": "2026-10-13T02:50:19.327859+00:00",
     "fecha_ultima_observacion": "2026-10-13T02:55:14.440238+00:00"
+  },
+  "EMSC:20261013_0000060": {
+    "id": "20261013_0000060",
+    "fecha_hora_utc": "2026-10-13T02:46:29+00:00",
+    "magnitud": 2.8,
+    "profundidad_km": 10.0,
+    "latitud": -7.88,
+    "longitud": 120.86,
+    "pais": "",
+    "ciudad_referencia": "FLORES SEA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261013_0000060",
+    "fecha_primera_recepcion": "2026-10-13T02:56:31.488744+00:00",
+    "fecha_ultima_observacion": "2026-10-13T02:56:31.488744+00:00"
   }
 }
