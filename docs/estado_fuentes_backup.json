@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-13T12:35:15.336013+00:00",
+  "actualizado_utc": "2026-10-13T12:37:06.629963+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 42,
   "actualizacion_minutos": 5,
@@ -9,7 +9,7 @@
   "usgs": 519,
   "duplicados_eliminados": 507,
   "eventos_publicados": 2671,
-  "evento_mas_reciente_utc": "2026-10-13T12:23:08.920000+00:00",
+  "evento_mas_reciente_utc": "2026-10-13T12:23:08.210000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 22,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-12T09:57:21+00:00",
-      "antiguedad_evento_mas_reciente_min": 1597.9
+      "antiguedad_evento_mas_reciente_min": 1599.8
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,8 +26,8 @@
       "eventos_validos": 2617,
       "eventos_recibidos": 2618,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-13T12:23:08.920000+00:00",
-      "antiguedad_evento_mas_reciente_min": 12.1
+      "evento_mas_reciente_utc": "2026-10-13T12:23:08.210000+00:00",
+      "antiguedad_evento_mas_reciente_min": 14.0
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 520,
       "invalidos_rechazados": 1,
       "evento_mas_reciente_utc": "2026-10-13T12:23:07+00:00",
-      "antiguedad_evento_mas_reciente_min": 12.1
+      "antiguedad_evento_mas_reciente_min": 14.0
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261013_0000241",
-      "fecha_hora_utc": "2026-10-13T12:23:08.920000+00:00",
+      "fecha_hora_utc": "2026-10-13T12:23:08.210000+00:00",
       "magnitud": 6.2,
-      "profundidad_km": 8.0,
-      "latitud": -0.3069,
-      "longitud": -19.38,
+      "profundidad_km": 2.2,
+      "latitud": -0.3208,
+      "longitud": -19.414,
       "pais": "",
       "ciudad_referencia": "CENTRAL MID-ATLANTIC RIDGE",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-13T12:35:15.336013+00:00"
+    "hora_consulta_utc": "2026-10-13T12:37:06.629963+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-13T12:35:15.336013+00:00",
+  "updated_utc": "2026-10-13T12:37:06.629963+00:00",
   "combined_after_dedup": 2671
 }
