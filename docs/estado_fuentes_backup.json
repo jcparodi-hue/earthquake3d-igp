@@ -1,12 +1,12 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-13T19:50:20.106120+00:00",
+  "actualizado_utc": "2026-10-13T19:55:16.332226+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 42,
   "actualizacion_minutos": 5,
   "igp": 42,
-  "emsc": 2656,
-  "usgs": 532,
+  "emsc": 2655,
+  "usgs": 533,
   "duplicados_eliminados": 515,
   "eventos_publicados": 2715,
   "evento_mas_reciente_utc": "2026-10-13T19:32:47+00:00",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 22,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-12T09:57:21+00:00",
-      "antiguedad_evento_mas_reciente_min": 2033.0
+      "antiguedad_evento_mas_reciente_min": 2037.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2656,
-      "eventos_recibidos": 2659,
+      "eventos_validos": 2655,
+      "eventos_recibidos": 2658,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-10-13T19:32:47+00:00",
-      "antiguedad_evento_mas_reciente_min": 17.6
+      "antiguedad_evento_mas_reciente_min": 22.5
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 532,
-      "eventos_recibidos": 535,
+      "eventos_validos": 533,
+      "eventos_recibidos": 536,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-13T19:27:58.210000+00:00",
-      "antiguedad_evento_mas_reciente_min": 22.4
+      "evento_mas_reciente_utc": "2026-10-13T19:27:58.120000+00:00",
+      "antiguedad_evento_mas_reciente_min": 27.3
     }
   },
   "ultimo_evento": {
@@ -66,11 +66,11 @@
     },
     "usgs": {
       "id": "hv75055482",
-      "fecha_hora_utc": "2026-10-13T19:27:58.210000+00:00",
-      "magnitud": 2.7,
-      "profundidad_km": 33.7000007629395,
-      "latitud": 19.3131675720215,
-      "longitud": -155.007171630859,
+      "fecha_hora_utc": "2026-10-13T19:27:58.120000+00:00",
+      "magnitud": 2.72,
+      "profundidad_km": 34.29,
+      "latitud": 19.3101666666667,
+      "longitud": -155.000166666667,
       "pais": "",
       "ciudad_referencia": "19 km SSW of Leilani Estates, Hawaii",
       "fuente": "USGS",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-13T19:50:20.106120+00:00"
+    "hora_consulta_utc": "2026-10-13T19:55:16.332226+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-13T19:50:20.106120+00:00",
+  "updated_utc": "2026-10-13T19:55:16.332226+00:00",
   "combined_after_dedup": 2715
 }
