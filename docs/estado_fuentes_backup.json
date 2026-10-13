@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-13T05:10:18.065867+00:00",
+  "actualizado_utc": "2026-10-13T05:15:15.367011+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 42,
   "actualizacion_minutos": 5,
   "igp": 42,
-  "emsc": 2594,
-  "usgs": 512,
+  "emsc": 2595,
+  "usgs": 513,
   "duplicados_eliminados": 507,
-  "eventos_publicados": 2641,
-  "evento_mas_reciente_utc": "2026-10-13T05:03:35+00:00",
+  "eventos_publicados": 2643,
+  "evento_mas_reciente_utc": "2026-10-13T05:10:29.153000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 22,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-12T09:57:21+00:00",
-      "antiguedad_evento_mas_reciente_min": 1153.0
+      "antiguedad_evento_mas_reciente_min": 1157.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2594,
-      "eventos_recibidos": 2595,
+      "eventos_validos": 2595,
+      "eventos_recibidos": 2596,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-13T05:03:35+00:00",
-      "antiguedad_evento_mas_reciente_min": 6.7
+      "evento_mas_reciente_utc": "2026-10-13T05:03:39+00:00",
+      "antiguedad_evento_mas_reciente_min": 11.6
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 512,
-      "eventos_recibidos": 513,
+      "eventos_validos": 513,
+      "eventos_recibidos": 514,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-13T04:00:15.768000+00:00",
-      "antiguedad_evento_mas_reciente_min": 70.0
+      "evento_mas_reciente_utc": "2026-10-13T05:10:29.153000+00:00",
+      "antiguedad_evento_mas_reciente_min": 4.8
     }
   },
   "ultimo_evento": {
@@ -54,35 +54,35 @@
     },
     "emsc": {
       "id": "20261013_0000105",
-      "fecha_hora_utc": "2026-10-13T05:03:35+00:00",
-      "magnitud": 3.8,
-      "profundidad_km": 5.0,
-      "latitud": 9.0412,
-      "longitud": -82.2307,
+      "fecha_hora_utc": "2026-10-13T05:03:39+00:00",
+      "magnitud": 3.6,
+      "profundidad_km": 3.0,
+      "latitud": 9.1413,
+      "longitud": -82.5586,
       "pais": "",
       "ciudad_referencia": "PANAMA-COSTA RICA BORDER REGION",
       "fuente": "EMSC",
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261013_0000105"
     },
     "usgs": {
-      "id": "us6000u1ye",
-      "fecha_hora_utc": "2026-10-13T04:00:15.768000+00:00",
-      "magnitud": 5.1,
-      "profundidad_km": 10.0,
-      "latitud": -9.4473,
-      "longitud": 113.8887,
+      "id": "aka2026uguozn",
+      "fecha_hora_utc": "2026-10-13T05:10:29.153000+00:00",
+      "magnitud": 2.5,
+      "profundidad_km": 86.4,
+      "latitud": 60.389,
+      "longitud": -152.228,
       "pais": "",
-      "ciudad_referencia": "119 km SSW of Gambiran Satu, Indonesia",
+      "ciudad_referencia": "48 km NW of Ninilchik, Alaska",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1ye"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uguozn"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-13T05:10:18.065867+00:00"
+    "hora_consulta_utc": "2026-10-13T05:15:15.367011+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-13T05:10:18.065867+00:00",
-  "combined_after_dedup": 2641
+  "updated_utc": "2026-10-13T05:15:15.367011+00:00",
+  "combined_after_dedup": 2643
 }
