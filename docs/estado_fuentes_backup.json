@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-13T22:48:31.969164+00:00",
+  "actualizado_utc": "2026-10-13T22:50:16.323123+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 42,
   "actualizacion_minutos": 5,
   "igp": 42,
-  "emsc": 2658,
+  "emsc": 2659,
   "usgs": 534,
   "duplicados_eliminados": 517,
-  "eventos_publicados": 2717,
-  "evento_mas_reciente_utc": "2026-10-13T22:28:47.080000+00:00",
+  "eventos_publicados": 2718,
+  "evento_mas_reciente_utc": "2026-10-13T22:38:16+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 22,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-12T09:57:21+00:00",
-      "antiguedad_evento_mas_reciente_min": 2211.2
+      "antiguedad_evento_mas_reciente_min": 2212.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2658,
-      "eventos_recibidos": 2661,
+      "eventos_validos": 2659,
+      "eventos_recibidos": 2662,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-13T22:28:47.080000+00:00",
-      "antiguedad_evento_mas_reciente_min": 19.7
+      "evento_mas_reciente_utc": "2026-10-13T22:38:16+00:00",
+      "antiguedad_evento_mas_reciente_min": 12.0
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 537,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-10-13T21:24:20.893000+00:00",
-      "antiguedad_evento_mas_reciente_min": 84.2
+      "antiguedad_evento_mas_reciente_min": 85.9
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-732"
     },
     "emsc": {
-      "id": "20261013_0000432",
-      "fecha_hora_utc": "2026-10-13T22:28:47.080000+00:00",
-      "magnitud": 2.5,
-      "profundidad_km": 11.7,
-      "latitud": 39.2262,
-      "longitud": 28.9808,
+      "id": "20261013_0000436",
+      "fecha_hora_utc": "2026-10-13T22:38:16+00:00",
+      "magnitud": 3.6,
+      "profundidad_km": 21.0,
+      "latitud": -0.74,
+      "longitud": 126.82,
       "pais": "",
-      "ciudad_referencia": "WESTERN TURKEY",
+      "ciudad_referencia": "MOLUCCA SEA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261013_0000432"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261013_0000436"
     },
     "usgs": {
       "id": "us6000u25i",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-13T22:48:31.969164+00:00"
+    "hora_consulta_utc": "2026-10-13T22:50:16.323123+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-13T22:48:31.969164+00:00",
-  "combined_after_dedup": 2717
+  "updated_utc": "2026-10-13T22:50:16.323123+00:00",
+  "combined_after_dedup": 2718
 }
