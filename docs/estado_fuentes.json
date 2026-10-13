@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-13T02:10:15.480819+00:00",
+  "actualizado_utc": "2026-10-13T02:15:15.374886+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 42,
   "actualizacion_minutos": 5,
   "igp": 42,
-  "emsc": 2557,
-  "usgs": 504,
-  "duplicados_eliminados": 501,
-  "eventos_publicados": 2602,
-  "evento_mas_reciente_utc": "2026-10-13T02:00:42+00:00",
+  "emsc": 2568,
+  "usgs": 505,
+  "duplicados_eliminados": 502,
+  "eventos_publicados": 2613,
+  "evento_mas_reciente_utc": "2026-10-13T02:12:14+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 22,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-12T09:57:21+00:00",
-      "antiguedad_evento_mas_reciente_min": 972.9
+      "antiguedad_evento_mas_reciente_min": 977.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2557,
-      "eventos_recibidos": 2558,
+      "eventos_validos": 2568,
+      "eventos_recibidos": 2569,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-13T02:00:42+00:00",
-      "antiguedad_evento_mas_reciente_min": 9.6
+      "evento_mas_reciente_utc": "2026-10-13T02:12:14+00:00",
+      "antiguedad_evento_mas_reciente_min": 3.0
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 504,
-      "eventos_recibidos": 505,
+      "eventos_validos": 505,
+      "eventos_recibidos": 506,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-10-13T01:09:08.590000+00:00",
-      "antiguedad_evento_mas_reciente_min": 61.1
+      "evento_mas_reciente_utc": "2026-10-13T01:44:23.964000+00:00",
+      "antiguedad_evento_mas_reciente_min": 30.9
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-732"
     },
     "emsc": {
-      "id": "20261013_0000035",
-      "fecha_hora_utc": "2026-10-13T02:00:42+00:00",
-      "magnitud": 3.2,
-      "profundidad_km": 215.1,
-      "latitud": -23.97,
-      "longitud": -67.12,
+      "id": "20261013_0000040",
+      "fecha_hora_utc": "2026-10-13T02:12:14+00:00",
+      "magnitud": 3.9,
+      "profundidad_km": 10.0,
+      "latitud": 8.1776,
+      "longitud": -81.3191,
       "pais": "",
-      "ciudad_referencia": "SALTA, ARGENTINA",
+      "ciudad_referencia": "PANAMA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261013_0000035"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261013_0000040"
     },
     "usgs": {
-      "id": "hv75055022",
-      "fecha_hora_utc": "2026-10-13T01:09:08.590000+00:00",
-      "magnitud": 3.13,
-      "profundidad_km": 6.06,
-      "latitud": 19.3611666666667,
-      "longitud": -155.080333333333,
+      "id": "us6000u1xk",
+      "fecha_hora_utc": "2026-10-13T01:44:23.964000+00:00",
+      "magnitud": 4.0,
+      "profundidad_km": 25.568,
+      "latitud": -36.1819,
+      "longitud": -73.4058,
       "pais": "",
-      "ciudad_referencia": "12 km SSE of Fern Forest, Hawaii",
+      "ciudad_referencia": "62 km NW of Tomé, Chile",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75055022"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1xk"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-13T02:10:15.480819+00:00"
+    "hora_consulta_utc": "2026-10-13T02:15:15.374886+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-13T02:10:15.480819+00:00",
-  "combined_after_dedup": 2602
+  "updated_utc": "2026-10-13T02:15:15.374886+00:00",
+  "combined_after_dedup": 2613
 }
