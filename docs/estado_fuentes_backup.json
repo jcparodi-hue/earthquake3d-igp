@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-14T11:55:18.389253+00:00",
+  "actualizado_utc": "2026-10-14T12:00:21.501041+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 43,
   "actualizacion_minutos": 5,
@@ -9,7 +9,7 @@
   "usgs": 537,
   "duplicados_eliminados": 521,
   "eventos_publicados": 2752,
-  "evento_mas_reciente_utc": "2026-10-14T11:53:26.090000+00:00",
+  "evento_mas_reciente_utc": "2026-10-14T11:53:26.013000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 20,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-14T03:31:19+00:00",
-      "antiguedad_evento_mas_reciente_min": 504.0
+      "antiguedad_evento_mas_reciente_min": 509.0
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -27,7 +27,7 @@
       "eventos_recibidos": 2696,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-10-14T11:44:06+00:00",
-      "antiguedad_evento_mas_reciente_min": 11.2
+      "antiguedad_evento_mas_reciente_min": 16.3
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -35,8 +35,8 @@
       "eventos_validos": 537,
       "eventos_recibidos": 540,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-14T11:53:26.090000+00:00",
-      "antiguedad_evento_mas_reciente_min": 1.9
+      "evento_mas_reciente_utc": "2026-10-14T11:53:26.013000+00:00",
+      "antiguedad_evento_mas_reciente_min": 6.9
     }
   },
   "ultimo_evento": {
@@ -66,13 +66,13 @@
     },
     "usgs": {
       "id": "aka2026ujebcw",
-      "fecha_hora_utc": "2026-10-14T11:53:26.090000+00:00",
+      "fecha_hora_utc": "2026-10-14T11:53:26.013000+00:00",
       "magnitud": 2.9,
-      "profundidad_km": 18.1,
-      "latitud": 61.876,
-      "longitud": -147.404,
+      "profundidad_km": 16.8,
+      "latitud": 61.878,
+      "longitud": -147.425,
       "pais": "",
-      "ciudad_referencia": "14 km WSW of Eureka Roadhouse, Alaska",
+      "ciudad_referencia": "14 km ENE of Glacier View, Alaska",
       "fuente": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ujebcw"
     }
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-14T11:55:18.389253+00:00"
+    "hora_consulta_utc": "2026-10-14T12:00:21.501041+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-14T11:55:18.389253+00:00",
+  "updated_utc": "2026-10-14T12:00:21.501041+00:00",
   "combined_after_dedup": 2752
 }
