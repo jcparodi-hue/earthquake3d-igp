@@ -1,5 +1,19 @@
 [
   {
+    "volcan": "Puracé",
+    "pais": "Colombia",
+    "codigo_vaac": "PURA",
+    "fecha_hora_utc_texto": "0709 UTC",
+    "id_archivo": "2026J140709",
+    "url_aviso": "https://www.ospo.noaa.gov/VAAC/ARCH26/PURA/2026J140709.html",
+    "url_xml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/xml_files/FVXX24_20261014_0709.xml",
+    "url_grafico": "https://www.ospo.noaa.gov/VAAC/ARCH26/GFX/PURA0618.jpg",
+    "url_kml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/kml_files/PURACE_ASH_202610140709.kml",
+    "vaac": "Washington",
+    "tipo": "VAA",
+    "fuente": "NOAA Washington VAAC"
+  },
+  {
     "volcan": "Sangay",
     "pais": "Ecuador",
     "codigo_vaac": "SANGAY3",
@@ -289,20 +303,6 @@
     "url_xml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/xml_files/FVXX22_20261013_0902.xml",
     "url_grafico": "https://www.ospo.noaa.gov/VAAC/ARCH26/GFX/SANT0597.jpg",
     "url_kml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/kml_files/SANTAMARIA_ASH_202610130902.kml",
-    "vaac": "Washington",
-    "tipo": "VAA",
-    "fuente": "NOAA Washington VAAC"
-  },
-  {
-    "volcan": "Puracé",
-    "pais": "Colombia",
-    "codigo_vaac": "PURA",
-    "fecha_hora_utc_texto": "0723 UTC",
-    "id_archivo": "2026J130723",
-    "url_aviso": "https://www.ospo.noaa.gov/VAAC/ARCH26/PURA/2026J130723.html",
-    "url_xml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/xml_files/FVXX24_20261013_0723.xml",
-    "url_grafico": "https://www.ospo.noaa.gov/VAAC/ARCH26/GFX/PURA0614.jpg",
-    "url_kml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/kml_files/PURACE_ASH_202610130723.kml",
     "vaac": "Washington",
     "tipo": "VAA",
     "fuente": "NOAA Washington VAAC"
