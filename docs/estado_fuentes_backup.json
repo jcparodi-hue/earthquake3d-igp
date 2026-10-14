@@ -1,14 +1,14 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-14T23:35:15.566913+00:00",
+  "actualizado_utc": "2026-10-14T23:40:17.093044+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 43,
   "actualizacion_minutos": 5,
   "igp": 43,
-  "emsc": 2756,
+  "emsc": 2754,
   "usgs": 539,
-  "duplicados_eliminados": 516,
-  "eventos_publicados": 2822,
+  "duplicados_eliminados": 515,
+  "eventos_publicados": 2821,
   "evento_mas_reciente_utc": "2026-10-14T23:21:20+00:00",
   "salud_fuentes": {
     "igp": {
@@ -18,16 +18,16 @@
       "eventos_recibidos": 18,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-14T03:31:19+00:00",
-      "antiguedad_evento_mas_reciente_min": 1203.9
+      "antiguedad_evento_mas_reciente_min": 1209.0
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2756,
-      "eventos_recibidos": 2759,
+      "eventos_validos": 2754,
+      "eventos_recibidos": 2757,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-10-14T23:21:20+00:00",
-      "antiguedad_evento_mas_reciente_min": 13.9
+      "antiguedad_evento_mas_reciente_min": 19.0
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -35,8 +35,8 @@
       "eventos_validos": 539,
       "eventos_recibidos": 542,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-14T20:34:46.590000+00:00",
-      "antiguedad_evento_mas_reciente_min": 180.5
+      "evento_mas_reciente_utc": "2026-10-14T23:20:59.714000+00:00",
+      "antiguedad_evento_mas_reciente_min": 19.3
     }
   },
   "ultimo_evento": {
@@ -65,24 +65,24 @@
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261014_0000410"
     },
     "usgs": {
-      "id": "us6000u2c6",
-      "fecha_hora_utc": "2026-10-14T20:34:46.590000+00:00",
-      "magnitud": 4.1,
-      "profundidad_km": 49.57,
-      "latitud": -0.3599,
-      "longitud": -80.2447,
+      "id": "us6000u2d6",
+      "fecha_hora_utc": "2026-10-14T23:20:59.714000+00:00",
+      "magnitud": 4.5,
+      "profundidad_km": 183.497,
+      "latitud": 54.0004,
+      "longitud": 158.1848,
       "pais": "",
-      "ciudad_referencia": "33 km NE of Bahía de Caráquez, Ecuador",
+      "ciudad_referencia": "82 km SSW of Mil’kovo, Russia",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2c6"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2d6"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-14T23:35:15.566913+00:00"
+    "hora_consulta_utc": "2026-10-14T23:40:17.093044+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-14T23:35:15.566913+00:00",
-  "combined_after_dedup": 2822
+  "updated_utc": "2026-10-14T23:40:17.093044+00:00",
+  "combined_after_dedup": 2821
 }
