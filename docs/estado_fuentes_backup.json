@@ -1,13 +1,13 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-14T08:13:56.038495+00:00",
+  "actualizado_utc": "2026-10-14T08:15:17.126306+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 43,
   "actualizacion_minutos": 5,
   "igp": 43,
-  "emsc": 2692,
+  "emsc": 2691,
   "usgs": 540,
-  "duplicados_eliminados": 527,
+  "duplicados_eliminados": 526,
   "eventos_publicados": 2748,
   "evento_mas_reciente_utc": "2026-10-14T07:51:03+00:00",
   "salud_fuentes": {
@@ -15,19 +15,19 @@
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
       "eventos_validos": 43,
-      "eventos_recibidos": 23,
+      "eventos_recibidos": 22,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-14T03:31:19+00:00",
-      "antiguedad_evento_mas_reciente_min": 282.6
+      "antiguedad_evento_mas_reciente_min": 284.0
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2692,
-      "eventos_recibidos": 2695,
+      "eventos_validos": 2691,
+      "eventos_recibidos": 2694,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-10-14T07:51:03+00:00",
-      "antiguedad_evento_mas_reciente_min": 22.9
+      "antiguedad_evento_mas_reciente_min": 24.2
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 543,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-10-14T06:27:06.453000+00:00",
-      "antiguedad_evento_mas_reciente_min": 106.8
+      "antiguedad_evento_mas_reciente_min": 108.2
     }
   },
   "ultimo_evento": {
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-14T08:13:56.038495+00:00"
+    "hora_consulta_utc": "2026-10-14T08:15:17.126306+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-14T08:13:56.038495+00:00",
+  "updated_utc": "2026-10-14T08:15:17.126306+00:00",
   "combined_after_dedup": 2748
 }
