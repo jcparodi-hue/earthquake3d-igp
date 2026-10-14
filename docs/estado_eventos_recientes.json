@@ -17175,7 +17175,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-732",
     "fecha_primera_recepcion": "2026-10-12T17:49:31.463795+00:00",
-    "fecha_ultima_observacion": "2026-10-14T03:30:20.473773+00:00"
+    "fecha_ultima_observacion": "2026-10-14T03:35:15.667547+00:00"
   },
   "EMSC:20261012_0000346": {
     "id": "20261012_0000346",
@@ -20577,7 +20577,7 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261014_0000051",
     "fecha_primera_recepcion": "2026-10-14T03:30:20.473773+00:00",
-    "fecha_ultima_observacion": "2026-10-14T03:30:20.473773+00:00"
+    "fecha_ultima_observacion": "2026-10-14T03:35:15.667547+00:00"
   },
   "USGS:us6000u273": {
     "id": "us6000u273",
@@ -20592,5 +20592,19 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u273",
     "fecha_primera_recepcion": "2026-10-14T03:30:20.473773+00:00",
     "fecha_ultima_observacion": "2026-10-14T03:30:20.473773+00:00"
+  },
+  "USGS:us6000u272": {
+    "id": "us6000u272",
+    "fecha_hora_utc": "2026-10-14T03:11:09.258000+00:00",
+    "magnitud": 4.9,
+    "profundidad_km": 44.914,
+    "latitud": -20.3552,
+    "longitud": -70.2699,
+    "pais": "",
+    "ciudad_referencia": "16 km WSW of La Tirana, Chile",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u272",
+    "fecha_primera_recepcion": "2026-10-14T03:35:15.667547+00:00",
+    "fecha_ultima_observacion": "2026-10-14T03:35:15.667547+00:00"
   }
 }

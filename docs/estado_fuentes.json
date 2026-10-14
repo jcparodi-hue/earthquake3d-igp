@@ -1,13 +1,13 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-14T03:30:20.473773+00:00",
+  "actualizado_utc": "2026-10-14T03:35:15.667547+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 42,
   "actualizacion_minutos": 5,
   "igp": 42,
   "emsc": 2664,
-  "usgs": 535,
-  "duplicados_eliminados": 518,
+  "usgs": 536,
+  "duplicados_eliminados": 519,
   "eventos_publicados": 2723,
   "evento_mas_reciente_utc": "2026-10-14T03:23:37.028969+00:00",
   "salud_fuentes": {
@@ -18,7 +18,7 @@
       "eventos_recibidos": 22,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-12T09:57:21+00:00",
-      "antiguedad_evento_mas_reciente_min": 2493.0
+      "antiguedad_evento_mas_reciente_min": 2497.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -27,16 +27,16 @@
       "eventos_recibidos": 2667,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-10-14T03:23:37.028969+00:00",
-      "antiguedad_evento_mas_reciente_min": 6.7
+      "antiguedad_evento_mas_reciente_min": 11.6
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 535,
-      "eventos_recibidos": 538,
+      "eventos_validos": 536,
+      "eventos_recibidos": 539,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-14T03:02:14.593000+00:00",
-      "antiguedad_evento_mas_reciente_min": 28.1
+      "evento_mas_reciente_utc": "2026-10-14T03:11:09.258000+00:00",
+      "antiguedad_evento_mas_reciente_min": 24.1
     }
   },
   "ultimo_evento": {
@@ -65,24 +65,24 @@
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261014_0000051"
     },
     "usgs": {
-      "id": "us6000u273",
-      "fecha_hora_utc": "2026-10-14T03:02:14.593000+00:00",
-      "magnitud": 4.8,
-      "profundidad_km": 10.0,
-      "latitud": 5.0056,
-      "longitud": -27.5843,
+      "id": "us6000u272",
+      "fecha_hora_utc": "2026-10-14T03:11:09.258000+00:00",
+      "magnitud": 4.9,
+      "profundidad_km": 44.914,
+      "latitud": -20.3552,
+      "longitud": -70.2699,
       "pais": "",
-      "ciudad_referencia": "North Atlantic Ocean",
+      "ciudad_referencia": "16 km WSW of La Tirana, Chile",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u273"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u272"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-14T03:30:20.473773+00:00"
+    "hora_consulta_utc": "2026-10-14T03:35:15.667547+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-14T03:30:20.473773+00:00",
+  "updated_utc": "2026-10-14T03:35:15.667547+00:00",
   "combined_after_dedup": 2723
 }
