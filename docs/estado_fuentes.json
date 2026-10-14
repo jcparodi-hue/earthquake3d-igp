@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-14T20:05:13.986327+00:00",
+  "actualizado_utc": "2026-10-14T20:10:18.377248+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 43,
   "actualizacion_minutos": 5,
   "igp": 43,
-  "emsc": 2745,
+  "emsc": 2744,
   "usgs": 536,
   "duplicados_eliminados": 520,
-  "eventos_publicados": 2804,
-  "evento_mas_reciente_utc": "2026-10-14T19:54:39.032000+00:00",
+  "eventos_publicados": 2803,
+  "evento_mas_reciente_utc": "2026-10-14T19:54:40.223000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 20,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-14T03:31:19+00:00",
-      "antiguedad_evento_mas_reciente_min": 993.9
+      "antiguedad_evento_mas_reciente_min": 999.0
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2745,
-      "eventos_recibidos": 2748,
+      "eventos_validos": 2744,
+      "eventos_recibidos": 2747,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-14T19:54:39.032000+00:00",
-      "antiguedad_evento_mas_reciente_min": 10.6
+      "evento_mas_reciente_utc": "2026-10-14T19:54:40.223000+00:00",
+      "antiguedad_evento_mas_reciente_min": 15.6
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -35,8 +35,8 @@
       "eventos_validos": 536,
       "eventos_recibidos": 539,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-14T19:54:39.032000+00:00",
-      "antiguedad_evento_mas_reciente_min": 10.6
+      "evento_mas_reciente_utc": "2026-10-14T19:54:40.223000+00:00",
+      "antiguedad_evento_mas_reciente_min": 15.6
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261014_0000354",
-      "fecha_hora_utc": "2026-10-14T19:54:39.032000+00:00",
-      "magnitud": 3.1,
-      "profundidad_km": 0.0,
-      "latitud": 38.7365,
-      "longitud": -118.6558,
+      "fecha_hora_utc": "2026-10-14T19:54:40.223000+00:00",
+      "magnitud": 3.0,
+      "profundidad_km": 10.2,
+      "latitud": 38.7308,
+      "longitud": -118.6531,
       "pais": "",
       "ciudad_referencia": "NEVADA",
       "fuente": "EMSC",
@@ -66,13 +66,13 @@
     },
     "usgs": {
       "id": "nn00925751",
-      "fecha_hora_utc": "2026-10-14T19:54:39.032000+00:00",
-      "magnitud": 3.12,
-      "profundidad_km": 0.0335,
-      "latitud": 38.7365,
-      "longitud": -118.6558,
+      "fecha_hora_utc": "2026-10-14T19:54:40.223000+00:00",
+      "magnitud": 3.04,
+      "profundidad_km": 10.1811,
+      "latitud": 38.7308,
+      "longitud": -118.6531,
       "pais": "",
-      "ciudad_referencia": "13 km NE of Walker Lake, Nevada",
+      "ciudad_referencia": "12 km NE of Walker Lake, Nevada",
       "fuente": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925751"
     }
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-14T20:05:13.986327+00:00"
+    "hora_consulta_utc": "2026-10-14T20:10:18.377248+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-14T20:05:13.986327+00:00",
-  "combined_after_dedup": 2804
+  "updated_utc": "2026-10-14T20:10:18.377248+00:00",
+  "combined_after_dedup": 2803
 }
