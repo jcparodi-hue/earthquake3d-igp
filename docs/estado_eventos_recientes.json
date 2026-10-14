@@ -20941,7 +20941,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-733",
     "fecha_primera_recepcion": "2026-10-14T06:50:18.363397+00:00",
-    "fecha_ultima_observacion": "2026-10-14T22:15:19.335247+00:00"
+    "fecha_ultima_observacion": "2026-10-14T22:20:18.097569+00:00"
   },
   "EMSC:20261014_0000118": {
     "id": "20261014_0000118",
@@ -22355,6 +22355,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261014_0000392",
     "fecha_primera_recepcion": "2026-10-14T22:10:18.561261+00:00",
-    "fecha_ultima_observacion": "2026-10-14T22:15:19.335247+00:00"
+    "fecha_ultima_observacion": "2026-10-14T22:20:18.097569+00:00"
+  },
+  "USGS:us6000u2c6": {
+    "id": "us6000u2c6",
+    "fecha_hora_utc": "2026-10-14T20:34:46.590000+00:00",
+    "magnitud": 4.1,
+    "profundidad_km": 49.57,
+    "latitud": -0.3599,
+    "longitud": -80.2447,
+    "pais": "",
+    "ciudad_referencia": "33 km NE of Bahía de Caráquez, Ecuador",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2c6",
+    "fecha_primera_recepcion": "2026-10-14T22:20:18.097569+00:00",
+    "fecha_ultima_observacion": "2026-10-14T22:20:18.097569+00:00"
   }
 }
