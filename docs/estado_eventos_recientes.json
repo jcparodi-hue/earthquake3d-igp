@@ -20941,7 +20941,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-733",
     "fecha_primera_recepcion": "2026-10-14T06:50:18.363397+00:00",
-    "fecha_ultima_observacion": "2026-10-14T09:00:24.609407+00:00"
+    "fecha_ultima_observacion": "2026-10-14T09:05:16.494779+00:00"
   },
   "EMSC:20261014_0000118": {
     "id": "20261014_0000118",
@@ -21152,5 +21152,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261014_0000149",
     "fecha_primera_recepcion": "2026-10-14T09:00:24.609407+00:00",
     "fecha_ultima_observacion": "2026-10-14T09:00:24.609407+00:00"
+  },
+  "EMSC:20261014_0000151": {
+    "id": "20261014_0000151",
+    "fecha_hora_utc": "2026-10-14T09:00:04.330000+00:00",
+    "magnitud": 2.8,
+    "profundidad_km": 17.0,
+    "latitud": 47.42,
+    "longitud": -121.8522,
+    "pais": "",
+    "ciudad_referencia": "WASHINGTON",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261014_0000151",
+    "fecha_primera_recepcion": "2026-10-14T09:05:16.494779+00:00",
+    "fecha_ultima_observacion": "2026-10-14T09:05:16.494779+00:00"
+  },
+  "USGS:uw714119552": {
+    "id": "uw714119552",
+    "fecha_hora_utc": "2026-10-14T09:00:04.330000+00:00",
+    "magnitud": 2.75310623645782,
+    "profundidad_km": 16.9899997711182,
+    "latitud": 47.4199981689453,
+    "longitud": -121.852165222168,
+    "pais": "",
+    "ciudad_referencia": "6 km WSW of Wilderness Rim, Washington",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714119552",
+    "fecha_primera_recepcion": "2026-10-14T09:05:16.494779+00:00",
+    "fecha_ultima_observacion": "2026-10-14T09:05:16.494779+00:00"
   }
 }
