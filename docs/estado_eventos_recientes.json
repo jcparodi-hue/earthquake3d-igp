@@ -20941,7 +20941,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-733",
     "fecha_primera_recepcion": "2026-10-14T06:50:18.363397+00:00",
-    "fecha_ultima_observacion": "2026-10-14T19:55:17.683121+00:00"
+    "fecha_ultima_observacion": "2026-10-14T19:59:33.400608+00:00"
   },
   "EMSC:20261014_0000118": {
     "id": "20261014_0000118",
@@ -22118,5 +22118,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261014_0000352",
     "fecha_primera_recepcion": "2026-10-14T19:45:17.324261+00:00",
     "fecha_ultima_observacion": "2026-10-14T19:55:17.683121+00:00"
+  },
+  "EMSC:20261014_0000354": {
+    "id": "20261014_0000354",
+    "fecha_hora_utc": "2026-10-14T19:54:39.032000+00:00",
+    "magnitud": 3.1,
+    "profundidad_km": 0.0,
+    "latitud": 38.7365,
+    "longitud": -118.6558,
+    "pais": "",
+    "ciudad_referencia": "NEVADA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261014_0000354",
+    "fecha_primera_recepcion": "2026-10-14T19:59:33.400608+00:00",
+    "fecha_ultima_observacion": "2026-10-14T19:59:33.400608+00:00"
+  },
+  "USGS:nn00925751": {
+    "id": "nn00925751",
+    "fecha_hora_utc": "2026-10-14T19:54:39.032000+00:00",
+    "magnitud": 3.12,
+    "profundidad_km": 0.0335,
+    "latitud": 38.7365,
+    "longitud": -118.6558,
+    "pais": "",
+    "ciudad_referencia": "13 km NE of Walker Lake, Nevada",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925751",
+    "fecha_primera_recepcion": "2026-10-14T19:59:33.400608+00:00",
+    "fecha_ultima_observacion": "2026-10-14T19:59:33.400608+00:00"
   }
 }
