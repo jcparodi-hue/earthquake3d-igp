@@ -17175,7 +17175,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-732",
     "fecha_primera_recepcion": "2026-10-12T17:49:31.463795+00:00",
-    "fecha_ultima_observacion": "2026-10-14T06:25:16.064811+00:00"
+    "fecha_ultima_observacion": "2026-10-14T06:30:19.896696+00:00"
   },
   "EMSC:20261012_0000346": {
     "id": "20261012_0000346",
@@ -20899,6 +20899,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261014_0000113",
     "fecha_primera_recepcion": "2026-10-14T06:25:16.064811+00:00",
-    "fecha_ultima_observacion": "2026-10-14T06:25:16.064811+00:00"
+    "fecha_ultima_observacion": "2026-10-14T06:30:19.896696+00:00"
+  },
+  "USGS:us6000u27j": {
+    "id": "us6000u27j",
+    "fecha_hora_utc": "2026-10-14T05:09:35.397000+00:00",
+    "magnitud": 4.7,
+    "profundidad_km": 10.0,
+    "latitud": 7.5657,
+    "longitud": -80.6021,
+    "pais": "",
+    "ciudad_referencia": "10 km S of La Mesa, Panama",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u27j",
+    "fecha_primera_recepcion": "2026-10-14T06:30:19.896696+00:00",
+    "fecha_ultima_observacion": "2026-10-14T06:30:19.896696+00:00"
   }
 }
