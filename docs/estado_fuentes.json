@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-14T05:25:14.875659+00:00",
+  "actualizado_utc": "2026-10-14T05:30:18.830930+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 42,
   "actualizacion_minutos": 5,
   "igp": 42,
-  "emsc": 2679,
-  "usgs": 538,
-  "duplicados_eliminados": 521,
-  "eventos_publicados": 2738,
-  "evento_mas_reciente_utc": "2026-10-14T05:02:55.892261+00:00",
+  "emsc": 2681,
+  "usgs": 539,
+  "duplicados_eliminados": 522,
+  "eventos_publicados": 2740,
+  "evento_mas_reciente_utc": "2026-10-14T05:21:14+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 22,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-12T09:57:21+00:00",
-      "antiguedad_evento_mas_reciente_min": 2607.9
+      "antiguedad_evento_mas_reciente_min": 2613.0
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2679,
-      "eventos_recibidos": 2682,
+      "eventos_validos": 2681,
+      "eventos_recibidos": 2684,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-14T05:02:55.892261+00:00",
-      "antiguedad_evento_mas_reciente_min": 22.3
+      "evento_mas_reciente_utc": "2026-10-14T05:21:14+00:00",
+      "antiguedad_evento_mas_reciente_min": 9.1
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 538,
-      "eventos_recibidos": 541,
+      "eventos_validos": 539,
+      "eventos_recibidos": 542,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-14T03:53:48.898000+00:00",
-      "antiguedad_evento_mas_reciente_min": 91.4
+      "evento_mas_reciente_utc": "2026-10-14T04:50:59.720000+00:00",
+      "antiguedad_evento_mas_reciente_min": 39.3
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-732"
     },
     "emsc": {
-      "id": "20261014_0000086",
-      "fecha_hora_utc": "2026-10-14T05:02:55.892261+00:00",
-      "magnitud": 2.5,
-      "profundidad_km": 14.1,
-      "latitud": 39.1653,
-      "longitud": 23.7277,
+      "id": "20261014_0000087",
+      "fecha_hora_utc": "2026-10-14T05:21:14+00:00",
+      "magnitud": 3.3,
+      "profundidad_km": 17.0,
+      "latitud": 44.65,
+      "longitud": 91.02,
       "pais": "",
-      "ciudad_referencia": "AEGEAN SEA",
+      "ciudad_referencia": "NORTHERN XINJIANG, CHINA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261014_0000086"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261014_0000087"
     },
     "usgs": {
-      "id": "aka2026uioapb",
-      "fecha_hora_utc": "2026-10-14T03:53:48.898000+00:00",
-      "magnitud": 3.2,
-      "profundidad_km": 65.6,
-      "latitud": 60.996,
-      "longitud": -151.068,
+      "id": "us6000u27i",
+      "fecha_hora_utc": "2026-10-14T04:50:59.720000+00:00",
+      "magnitud": 3.4,
+      "profundidad_km": 49.214,
+      "latitud": 54.9935,
+      "longitud": -160.4145,
       "pais": "",
-      "ciudad_referencia": "8 km SSE of Tyonek, Alaska",
+      "ciudad_referencia": "38 km S of Sand Point, Alaska",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uioapb"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u27i"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-14T05:25:14.875659+00:00"
+    "hora_consulta_utc": "2026-10-14T05:30:18.830930+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-14T05:25:14.875659+00:00",
-  "combined_after_dedup": 2738
+  "updated_utc": "2026-10-14T05:30:18.830930+00:00",
+  "combined_after_dedup": 2740
 }

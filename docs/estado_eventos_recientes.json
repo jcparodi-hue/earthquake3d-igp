@@ -17175,7 +17175,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-732",
     "fecha_primera_recepcion": "2026-10-12T17:49:31.463795+00:00",
-    "fecha_ultima_observacion": "2026-10-14T05:25:14.875659+00:00"
+    "fecha_ultima_observacion": "2026-10-14T05:30:18.830930+00:00"
   },
   "EMSC:20261012_0000346": {
     "id": "20261012_0000346",
@@ -20802,5 +20802,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261014_0000086",
     "fecha_primera_recepcion": "2026-10-14T05:24:45.802323+00:00",
     "fecha_ultima_observacion": "2026-10-14T05:25:14.875659+00:00"
+  },
+  "EMSC:20261014_0000087": {
+    "id": "20261014_0000087",
+    "fecha_hora_utc": "2026-10-14T05:21:14+00:00",
+    "magnitud": 3.3,
+    "profundidad_km": 17.0,
+    "latitud": 44.65,
+    "longitud": 91.02,
+    "pais": "",
+    "ciudad_referencia": "NORTHERN XINJIANG, CHINA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261014_0000087",
+    "fecha_primera_recepcion": "2026-10-14T05:30:18.830930+00:00",
+    "fecha_ultima_observacion": "2026-10-14T05:30:18.830930+00:00"
+  },
+  "USGS:us6000u27i": {
+    "id": "us6000u27i",
+    "fecha_hora_utc": "2026-10-14T04:50:59.720000+00:00",
+    "magnitud": 3.4,
+    "profundidad_km": 49.214,
+    "latitud": 54.9935,
+    "longitud": -160.4145,
+    "pais": "",
+    "ciudad_referencia": "38 km S of Sand Point, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u27i",
+    "fecha_primera_recepcion": "2026-10-14T05:30:18.830930+00:00",
+    "fecha_ultima_observacion": "2026-10-14T05:30:18.830930+00:00"
   }
 }
