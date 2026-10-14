@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-14T21:21:36.429846+00:00",
+  "actualizado_utc": "2026-10-14T21:25:16.987282+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 43,
   "actualizacion_minutos": 5,
   "igp": 43,
-  "emsc": 2758,
+  "emsc": 2762,
   "usgs": 536,
   "duplicados_eliminados": 519,
-  "eventos_publicados": 2818,
-  "evento_mas_reciente_utc": "2026-10-14T21:00:12+00:00",
+  "eventos_publicados": 2822,
+  "evento_mas_reciente_utc": "2026-10-14T21:18:29+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 19,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-14T03:31:19+00:00",
-      "antiguedad_evento_mas_reciente_min": 1070.3
+      "antiguedad_evento_mas_reciente_min": 1074.0
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2758,
-      "eventos_recibidos": 2761,
+      "eventos_validos": 2762,
+      "eventos_recibidos": 2765,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-14T21:00:12+00:00",
-      "antiguedad_evento_mas_reciente_min": 21.4
+      "evento_mas_reciente_utc": "2026-10-14T21:18:29+00:00",
+      "antiguedad_evento_mas_reciente_min": 6.8
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 539,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-10-14T20:10:09.470000+00:00",
-      "antiguedad_evento_mas_reciente_min": 71.4
+      "antiguedad_evento_mas_reciente_min": 75.1
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-733"
     },
     "emsc": {
-      "id": "20261014_0000374",
-      "fecha_hora_utc": "2026-10-14T21:00:12+00:00",
-      "magnitud": 3.0,
-      "profundidad_km": 10.0,
-      "latitud": -8.12,
-      "longitud": 120.59,
+      "id": "20261014_0000379",
+      "fecha_hora_utc": "2026-10-14T21:18:29+00:00",
+      "magnitud": 2.9,
+      "profundidad_km": 9.3,
+      "latitud": 40.0825,
+      "longitud": 27.6363,
       "pais": "",
-      "ciudad_referencia": "FLORES REGION, INDONESIA",
+      "ciudad_referencia": "WESTERN TURKEY",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261014_0000374"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261014_0000379"
     },
     "usgs": {
       "id": "pr71536713",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-14T21:21:36.429846+00:00"
+    "hora_consulta_utc": "2026-10-14T21:25:16.987282+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-14T21:21:36.429846+00:00",
-  "combined_after_dedup": 2818
+  "updated_utc": "2026-10-14T21:25:16.987282+00:00",
+  "combined_after_dedup": 2822
 }
