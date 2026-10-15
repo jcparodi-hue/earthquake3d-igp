@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-15T14:05:18.533364+00:00",
+  "actualizado_utc": "2026-10-15T14:05:46.538696+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 44,
   "actualizacion_minutos": 5,
@@ -9,7 +9,7 @@
   "usgs": 541,
   "duplicados_eliminados": 516,
   "eventos_publicados": 2799,
-  "evento_mas_reciente_utc": "2026-10-15T14:02:45.431000+00:00",
+  "evento_mas_reciente_utc": "2026-10-15T14:02:45.435000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 17,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-15T01:16:04+00:00",
-      "antiguedad_evento_mas_reciente_min": 769.2
+      "antiguedad_evento_mas_reciente_min": 769.7
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -27,7 +27,7 @@
       "eventos_recibidos": 2733,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-10-15T13:51:00+00:00",
-      "antiguedad_evento_mas_reciente_min": 14.3
+      "antiguedad_evento_mas_reciente_min": 14.8
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -35,8 +35,8 @@
       "eventos_validos": 541,
       "eventos_recibidos": 544,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-15T14:02:45.431000+00:00",
-      "antiguedad_evento_mas_reciente_min": 2.6
+      "evento_mas_reciente_utc": "2026-10-15T14:02:45.435000+00:00",
+      "antiguedad_evento_mas_reciente_min": 3.0
     }
   },
   "ultimo_evento": {
@@ -66,11 +66,11 @@
     },
     "usgs": {
       "id": "aka2026ulejvq",
-      "fecha_hora_utc": "2026-10-15T14:02:45.431000+00:00",
-      "magnitud": 2.8,
-      "profundidad_km": 107.6,
-      "latitud": 64.155,
-      "longitud": -148.006,
+      "fecha_hora_utc": "2026-10-15T14:02:45.435000+00:00",
+      "magnitud": 2.9,
+      "profundidad_km": 107.8,
+      "latitud": 64.16,
+      "longitud": -148.0,
       "pais": "",
       "ciudad_referencia": "56 km ENE of Ferry, Alaska",
       "fuente": "USGS",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-15T14:05:18.533364+00:00"
+    "hora_consulta_utc": "2026-10-15T14:05:46.538696+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-15T14:05:18.533364+00:00",
+  "updated_utc": "2026-10-15T14:05:46.538696+00:00",
   "combined_after_dedup": 2799
 }
