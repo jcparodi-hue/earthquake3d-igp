@@ -22663,7 +22663,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-734",
     "fecha_primera_recepcion": "2026-10-15T01:50:15.399353+00:00",
-    "fecha_ultima_observacion": "2026-10-15T03:55:13.264840+00:00"
+    "fecha_ultima_observacion": "2026-10-15T04:00:23.335511+00:00"
   },
   "EMSC:20261015_0000024": {
     "id": "20261015_0000024",
@@ -22835,17 +22835,17 @@
   },
   "EMSC:20261015_0000047": {
     "id": "20261015_0000047",
-    "fecha_hora_utc": "2026-10-15T03:42:20.800000+00:00",
+    "fecha_hora_utc": "2026-10-15T03:42:21+00:00",
     "magnitud": 2.5,
-    "profundidad_km": 5.0,
-    "latitud": 37.8108,
-    "longitud": 36.1952,
+    "profundidad_km": 7.0,
+    "latitud": 37.7962,
+    "longitud": 36.1958,
     "pais": "",
     "ciudad_referencia": "CENTRAL TURKEY",
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261015_0000047",
     "fecha_primera_recepcion": "2026-10-15T03:50:16.488137+00:00",
-    "fecha_ultima_observacion": "2026-10-15T03:55:13.264840+00:00"
+    "fecha_ultima_observacion": "2026-10-15T04:00:23.335511+00:00"
   },
   "USGS:us6000u2ec": {
     "id": "us6000u2ec",
@@ -22860,5 +22860,19 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ec",
     "fecha_primera_recepcion": "2026-10-15T03:55:13.264840+00:00",
     "fecha_ultima_observacion": "2026-10-15T03:55:13.264840+00:00"
+  },
+  "USGS:aka2026ukkezk": {
+    "id": "aka2026ukkezk",
+    "fecha_hora_utc": "2026-10-15T03:57:25.616000+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 125.6,
+    "latitud": 63.018,
+    "longitud": -151.033,
+    "pais": "",
+    "ciudad_referencia": "59 km NNW of Petersville, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ukkezk",
+    "fecha_primera_recepcion": "2026-10-15T04:00:23.335511+00:00",
+    "fecha_ultima_observacion": "2026-10-15T04:00:23.335511+00:00"
   }
 }
