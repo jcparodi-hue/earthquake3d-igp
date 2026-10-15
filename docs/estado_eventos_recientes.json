@@ -22663,7 +22663,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-734",
     "fecha_primera_recepcion": "2026-10-15T01:50:15.399353+00:00",
-    "fecha_ultima_observacion": "2026-10-15T08:45:16.794652+00:00"
+    "fecha_ultima_observacion": "2026-10-15T08:50:17.060667+00:00"
   },
   "EMSC:20261015_0000024": {
     "id": "20261015_0000024",
@@ -23196,5 +23196,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261015_0000094",
     "fecha_primera_recepcion": "2026-10-15T08:30:24.882181+00:00",
     "fecha_ultima_observacion": "2026-10-15T08:45:16.794652+00:00"
+  },
+  "EMSC:20261015_0000099": {
+    "id": "20261015_0000099",
+    "fecha_hora_utc": "2026-10-15T08:45:07+00:00",
+    "magnitud": 2.6,
+    "profundidad_km": 86.0,
+    "latitud": -39.2,
+    "longitud": -72.31,
+    "pais": "",
+    "ciudad_referencia": "ARAUCANIA, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261015_0000099",
+    "fecha_primera_recepcion": "2026-10-15T08:50:17.060667+00:00",
+    "fecha_ultima_observacion": "2026-10-15T08:50:17.060667+00:00"
+  },
+  "USGS:aka2026ukttxq": {
+    "id": "aka2026ukttxq",
+    "fecha_hora_utc": "2026-10-15T08:44:32.859000+00:00",
+    "magnitud": 2.8,
+    "profundidad_km": 109.8,
+    "latitud": 59.707,
+    "longitud": -153.098,
+    "pais": "",
+    "ciudad_referencia": "57 km E of Pedro Bay, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ukttxq",
+    "fecha_primera_recepcion": "2026-10-15T08:50:17.060667+00:00",
+    "fecha_ultima_observacion": "2026-10-15T08:50:17.060667+00:00"
   }
 }
