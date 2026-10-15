@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-15T01:10:19.019496+00:00",
+  "actualizado_utc": "2026-10-15T01:15:19.423515+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 43,
   "actualizacion_minutos": 5,
   "igp": 43,
   "emsc": 2760,
-  "usgs": 541,
-  "duplicados_eliminados": 517,
+  "usgs": 542,
+  "duplicados_eliminados": 518,
   "eventos_publicados": 2827,
-  "evento_mas_reciente_utc": "2026-10-15T00:59:25+00:00",
+  "evento_mas_reciente_utc": "2026-10-15T01:09:22.750000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 17,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-14T03:31:19+00:00",
-      "antiguedad_evento_mas_reciente_min": 1299.0
+      "antiguedad_evento_mas_reciente_min": 1304.0
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2760,
       "eventos_recibidos": 2763,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-15T00:59:25+00:00",
-      "antiguedad_evento_mas_reciente_min": 10.9
+      "evento_mas_reciente_utc": "2026-10-15T01:09:22.750000+00:00",
+      "antiguedad_evento_mas_reciente_min": 5.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 541,
-      "eventos_recibidos": 544,
+      "eventos_validos": 542,
+      "eventos_recibidos": 545,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-14T23:24:41.550000+00:00",
-      "antiguedad_evento_mas_reciente_min": 105.6
+      "evento_mas_reciente_utc": "2026-10-15T01:09:22.750000+00:00",
+      "antiguedad_evento_mas_reciente_min": 5.9
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-733"
     },
     "emsc": {
-      "id": "20261015_0000012",
-      "fecha_hora_utc": "2026-10-15T00:59:25+00:00",
-      "magnitud": 2.6,
-      "profundidad_km": 92.0,
-      "latitud": -20.96,
-      "longitud": -69.19,
+      "id": "20261015_0000013",
+      "fecha_hora_utc": "2026-10-15T01:09:22.750000+00:00",
+      "magnitud": 2.7,
+      "profundidad_km": 16.9,
+      "latitud": 47.4208,
+      "longitud": -121.8615,
       "pais": "",
-      "ciudad_referencia": "TARAPACA, CHILE",
+      "ciudad_referencia": "WASHINGTON",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261015_0000012"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261015_0000013"
     },
     "usgs": {
-      "id": "pr71536748",
-      "fecha_hora_utc": "2026-10-14T23:24:41.550000+00:00",
-      "magnitud": 3.1,
-      "profundidad_km": 73.78,
-      "latitud": 18.6636666666667,
-      "longitud": -66.282,
+      "id": "uw714120202",
+      "fecha_hora_utc": "2026-10-15T01:09:22.750000+00:00",
+      "magnitud": 2.72188603878021,
+      "profundidad_km": 16.9400005340576,
+      "latitud": 47.4208335876465,
+      "longitud": -121.861503601074,
       "pais": "",
-      "ciudad_referencia": "22 km NNE of Brenas, Puerto Rico",
+      "ciudad_referencia": "7 km WSW of Wilderness Rim, Washington",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71536748"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714120202"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-15T01:10:19.019496+00:00"
+    "hora_consulta_utc": "2026-10-15T01:15:19.423515+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-15T01:10:19.019496+00:00",
+  "updated_utc": "2026-10-15T01:15:19.423515+00:00",
   "combined_after_dedup": 2827
 }
