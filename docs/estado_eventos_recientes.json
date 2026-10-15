@@ -20941,7 +20941,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-733",
     "fecha_primera_recepcion": "2026-10-14T06:50:18.363397+00:00",
-    "fecha_ultima_observacion": "2026-10-15T00:00:24.396523+00:00"
+    "fecha_ultima_observacion": "2026-10-15T00:05:16.679059+00:00"
   },
   "EMSC:20261014_0000118": {
     "id": "20261014_0000118",
@@ -22485,17 +22485,17 @@
   },
   "EMSC:20261014_0000418": {
     "id": "20261014_0000418",
-    "fecha_hora_utc": "2026-10-14T23:36:15.600000+00:00",
+    "fecha_hora_utc": "2026-10-14T23:36:15.380000+00:00",
     "magnitud": 2.6,
-    "profundidad_km": 20.7,
-    "latitud": 36.7508,
-    "longitud": 28.9698,
+    "profundidad_km": 33.1,
+    "latitud": 36.6773,
+    "longitud": 29.0002,
     "pais": "",
-    "ciudad_referencia": "DODECANESE IS.-TURKEY BORDER REG",
+    "ciudad_referencia": "WESTERN TURKEY",
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261014_0000418",
     "fecha_primera_recepcion": "2026-10-14T23:45:20.159590+00:00",
-    "fecha_ultima_observacion": "2026-10-15T00:00:24.396523+00:00"
+    "fecha_ultima_observacion": "2026-10-15T00:05:16.679059+00:00"
   },
   "USGS:pr71536748": {
     "id": "pr71536748",
@@ -22509,6 +22509,6 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71536748",
     "fecha_primera_recepcion": "2026-10-14T23:45:20.159590+00:00",
-    "fecha_ultima_observacion": "2026-10-15T00:00:24.396523+00:00"
+    "fecha_ultima_observacion": "2026-10-15T00:05:16.679059+00:00"
   }
 }
