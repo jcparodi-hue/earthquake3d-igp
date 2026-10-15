@@ -22663,7 +22663,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-734",
     "fecha_primera_recepcion": "2026-10-15T01:50:15.399353+00:00",
-    "fecha_ultima_observacion": "2026-10-15T11:50:18.246267+00:00"
+    "fecha_ultima_observacion": "2026-10-15T11:55:18.720711+00:00"
   },
   "EMSC:20261015_0000024": {
     "id": "20261015_0000024",
@@ -23448,5 +23448,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261015_0000140",
     "fecha_primera_recepcion": "2026-10-15T11:45:19.320094+00:00",
     "fecha_ultima_observacion": "2026-10-15T11:50:18.246267+00:00"
+  },
+  "EMSC:20261015_0000145": {
+    "id": "20261015_0000145",
+    "fecha_hora_utc": "2026-10-15T11:48:53.463000+00:00",
+    "magnitud": 2.7,
+    "profundidad_km": 4.1,
+    "latitud": 39.4828,
+    "longitud": -116.9232,
+    "pais": "",
+    "ciudad_referencia": "NEVADA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261015_0000145",
+    "fecha_primera_recepcion": "2026-10-15T11:55:18.720711+00:00",
+    "fecha_ultima_observacion": "2026-10-15T11:55:18.720711+00:00"
+  },
+  "USGS:nn00925803": {
+    "id": "nn00925803",
+    "fecha_hora_utc": "2026-10-15T11:48:53.463000+00:00",
+    "magnitud": 2.73,
+    "profundidad_km": 4.0662,
+    "latitud": 39.4828,
+    "longitud": -116.9232,
+    "pais": "",
+    "ciudad_referencia": "12 km E of Austin, Nevada",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925803",
+    "fecha_primera_recepcion": "2026-10-15T11:55:18.720711+00:00",
+    "fecha_ultima_observacion": "2026-10-15T11:55:18.720711+00:00"
   }
 }
