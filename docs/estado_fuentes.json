@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-15T04:43:25.502322+00:00",
+  "actualizado_utc": "2026-10-15T04:45:21.773511+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 44,
   "actualizacion_minutos": 5,
@@ -18,7 +18,7 @@
       "eventos_recibidos": 18,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-15T01:16:04+00:00",
-      "antiguedad_evento_mas_reciente_min": 207.4
+      "antiguedad_evento_mas_reciente_min": 209.3
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -27,7 +27,7 @@
       "eventos_recibidos": 2766,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-10-15T04:25:12+00:00",
-      "antiguedad_evento_mas_reciente_min": 18.2
+      "antiguedad_evento_mas_reciente_min": 20.2
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 541,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-10-15T03:57:25.574000+00:00",
-      "antiguedad_evento_mas_reciente_min": 46.0
+      "antiguedad_evento_mas_reciente_min": 47.9
     }
   },
   "ultimo_evento": {
@@ -55,10 +55,10 @@
     "emsc": {
       "id": "20261015_0000059",
       "fecha_hora_utc": "2026-10-15T04:25:12+00:00",
-      "magnitud": 2.8,
-      "profundidad_km": 41.9,
+      "magnitud": 2.6,
+      "profundidad_km": 44.0,
       "latitud": -29.04,
-      "longitud": -71.45,
+      "longitud": -71.46,
       "pais": "",
       "ciudad_referencia": "ATACAMA, CHILE",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-15T04:43:25.502322+00:00"
+    "hora_consulta_utc": "2026-10-15T04:45:21.773511+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-15T04:43:25.502322+00:00",
+  "updated_utc": "2026-10-15T04:45:21.773511+00:00",
   "combined_after_dedup": 2828
 }
