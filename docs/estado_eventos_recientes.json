@@ -24259,7 +24259,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-735",
     "fecha_primera_recepcion": "2026-10-15T20:05:16.232918+00:00",
-    "fecha_ultima_observacion": "2026-10-15T20:55:17.034737+00:00"
+    "fecha_ultima_observacion": "2026-10-15T21:00:23.038511+00:00"
   },
   "EMSC:20261015_0000279": {
     "id": "20261015_0000279",
@@ -24371,6 +24371,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261015_0000290",
     "fecha_primera_recepcion": "2026-10-15T20:50:19.944148+00:00",
-    "fecha_ultima_observacion": "2026-10-15T20:55:17.034737+00:00"
+    "fecha_ultima_observacion": "2026-10-15T21:00:23.038511+00:00"
+  },
+  "USGS:us6000u2kz": {
+    "id": "us6000u2kz",
+    "fecha_hora_utc": "2026-10-15T20:39:25.755000+00:00",
+    "magnitud": 4.5,
+    "profundidad_km": 59.487,
+    "latitud": 13.9013,
+    "longitud": -91.8178,
+    "pais": "",
+    "ciudad_referencia": "44 km SSE of Champerico, Guatemala",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2kz",
+    "fecha_primera_recepcion": "2026-10-15T21:00:23.038511+00:00",
+    "fecha_ultima_observacion": "2026-10-15T21:00:23.038511+00:00"
   }
 }
