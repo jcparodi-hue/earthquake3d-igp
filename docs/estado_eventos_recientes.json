@@ -22663,7 +22663,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-734",
     "fecha_primera_recepcion": "2026-10-15T01:50:15.399353+00:00",
-    "fecha_ultima_observacion": "2026-10-15T13:25:51.953831+00:00"
+    "fecha_ultima_observacion": "2026-10-15T13:30:23.998494+00:00"
   },
   "EMSC:20261015_0000024": {
     "id": "20261015_0000024",
@@ -23588,5 +23588,33 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ulcmta",
     "fecha_primera_recepcion": "2026-10-15T13:10:21.391684+00:00",
     "fecha_ultima_observacion": "2026-10-15T13:25:51.953831+00:00"
+  },
+  "EMSC:20261015_0000161": {
+    "id": "20261015_0000161",
+    "fecha_hora_utc": "2026-10-15T13:25:49+00:00",
+    "magnitud": 2.6,
+    "profundidad_km": 10.0,
+    "latitud": -25.828,
+    "longitud": 29.206,
+    "pais": "",
+    "ciudad_referencia": "SOUTH AFRICA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261015_0000161",
+    "fecha_primera_recepcion": "2026-10-15T13:30:23.998494+00:00",
+    "fecha_ultima_observacion": "2026-10-15T13:30:23.998494+00:00"
+  },
+  "USGS:us6000u2hp": {
+    "id": "us6000u2hp",
+    "fecha_hora_utc": "2026-10-15T13:06:51.678000+00:00",
+    "magnitud": 5.2,
+    "profundidad_km": 10.0,
+    "latitud": -13.8878,
+    "longitud": 166.0921,
+    "pais": "",
+    "ciudad_referencia": "157 km W of Sola, Vanuatu",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2hp",
+    "fecha_primera_recepcion": "2026-10-15T13:30:23.998494+00:00",
+    "fecha_ultima_observacion": "2026-10-15T13:30:23.998494+00:00"
   }
 }
