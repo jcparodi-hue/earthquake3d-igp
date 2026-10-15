@@ -22663,7 +22663,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-734",
     "fecha_primera_recepcion": "2026-10-15T01:50:15.399353+00:00",
-    "fecha_ultima_observacion": "2026-10-15T04:00:23.335511+00:00"
+    "fecha_ultima_observacion": "2026-10-15T04:05:14.465486+00:00"
   },
   "EMSC:20261015_0000024": {
     "id": "20261015_0000024",
@@ -22863,16 +22863,30 @@
   },
   "USGS:aka2026ukkezk": {
     "id": "aka2026ukkezk",
-    "fecha_hora_utc": "2026-10-15T03:57:25.616000+00:00",
+    "fecha_hora_utc": "2026-10-15T03:57:25.574000+00:00",
     "magnitud": 2.5,
-    "profundidad_km": 125.6,
-    "latitud": 63.018,
-    "longitud": -151.033,
+    "profundidad_km": 126.0,
+    "latitud": 63.017,
+    "longitud": -151.036,
     "pais": "",
     "ciudad_referencia": "59 km NNW of Petersville, Alaska",
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ukkezk",
     "fecha_primera_recepcion": "2026-10-15T04:00:23.335511+00:00",
-    "fecha_ultima_observacion": "2026-10-15T04:00:23.335511+00:00"
+    "fecha_ultima_observacion": "2026-10-15T04:05:14.465486+00:00"
+  },
+  "EMSC:20261015_0000052": {
+    "id": "20261015_0000052",
+    "fecha_hora_utc": "2026-10-15T03:57:59+00:00",
+    "magnitud": 3.3,
+    "profundidad_km": 93.0,
+    "latitud": 1.43,
+    "longitud": 128.21,
+    "pais": "",
+    "ciudad_referencia": "HALMAHERA, INDONESIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261015_0000052",
+    "fecha_primera_recepcion": "2026-10-15T04:05:14.465486+00:00",
+    "fecha_ultima_observacion": "2026-10-15T04:05:14.465486+00:00"
   }
 }

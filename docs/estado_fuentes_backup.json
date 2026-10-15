@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-15T04:00:23.335511+00:00",
+  "actualizado_utc": "2026-10-15T04:05:14.465486+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 44,
   "actualizacion_minutos": 5,
   "igp": 44,
-  "emsc": 2761,
-  "usgs": 538,
-  "duplicados_eliminados": 516,
-  "eventos_publicados": 2827,
-  "evento_mas_reciente_utc": "2026-10-15T03:57:25.616000+00:00",
+  "emsc": 2763,
+  "usgs": 539,
+  "duplicados_eliminados": 517,
+  "eventos_publicados": 2829,
+  "evento_mas_reciente_utc": "2026-10-15T03:57:59+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 18,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-15T01:16:04+00:00",
-      "antiguedad_evento_mas_reciente_min": 164.3
+      "antiguedad_evento_mas_reciente_min": 169.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2761,
-      "eventos_recibidos": 2764,
+      "eventos_validos": 2763,
+      "eventos_recibidos": 2766,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-15T03:42:21+00:00",
-      "antiguedad_evento_mas_reciente_min": 18.0
+      "evento_mas_reciente_utc": "2026-10-15T03:57:59+00:00",
+      "antiguedad_evento_mas_reciente_min": 7.3
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 538,
-      "eventos_recibidos": 541,
+      "eventos_validos": 539,
+      "eventos_recibidos": 542,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-15T03:57:25.616000+00:00",
-      "antiguedad_evento_mas_reciente_min": 3.0
+      "evento_mas_reciente_utc": "2026-10-15T03:57:25.574000+00:00",
+      "antiguedad_evento_mas_reciente_min": 7.8
     }
   },
   "ultimo_evento": {
@@ -53,24 +53,24 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-734"
     },
     "emsc": {
-      "id": "20261015_0000047",
-      "fecha_hora_utc": "2026-10-15T03:42:21+00:00",
-      "magnitud": 2.5,
-      "profundidad_km": 7.0,
-      "latitud": 37.7962,
-      "longitud": 36.1958,
+      "id": "20261015_0000052",
+      "fecha_hora_utc": "2026-10-15T03:57:59+00:00",
+      "magnitud": 3.3,
+      "profundidad_km": 93.0,
+      "latitud": 1.43,
+      "longitud": 128.21,
       "pais": "",
-      "ciudad_referencia": "CENTRAL TURKEY",
+      "ciudad_referencia": "HALMAHERA, INDONESIA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261015_0000047"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261015_0000052"
     },
     "usgs": {
       "id": "aka2026ukkezk",
-      "fecha_hora_utc": "2026-10-15T03:57:25.616000+00:00",
+      "fecha_hora_utc": "2026-10-15T03:57:25.574000+00:00",
       "magnitud": 2.5,
-      "profundidad_km": 125.6,
-      "latitud": 63.018,
-      "longitud": -151.033,
+      "profundidad_km": 126.0,
+      "latitud": 63.017,
+      "longitud": -151.036,
       "pais": "",
       "ciudad_referencia": "59 km NNW of Petersville, Alaska",
       "fuente": "USGS",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-15T04:00:23.335511+00:00"
+    "hora_consulta_utc": "2026-10-15T04:05:14.465486+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-15T04:00:23.335511+00:00",
-  "combined_after_dedup": 2827
+  "updated_utc": "2026-10-15T04:05:14.465486+00:00",
+  "combined_after_dedup": 2829
 }
