@@ -22663,7 +22663,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-734",
     "fecha_primera_recepcion": "2026-10-15T01:50:15.399353+00:00",
-    "fecha_ultima_observacion": "2026-10-15T11:15:16.468264+00:00"
+    "fecha_ultima_observacion": "2026-10-15T11:20:20.807781+00:00"
   },
   "EMSC:20261015_0000024": {
     "id": "20261015_0000024",
@@ -23381,16 +23381,30 @@
   },
   "USGS:aka2026ukynnb": {
     "id": "aka2026ukynnb",
-    "fecha_hora_utc": "2026-10-15T11:07:01.416000+00:00",
+    "fecha_hora_utc": "2026-10-15T11:07:01.800000+00:00",
     "magnitud": 5.6,
-    "profundidad_km": 0.8,
-    "latitud": 64.229,
-    "longitud": -152.703,
+    "profundidad_km": 4.5,
+    "latitud": 64.22,
+    "longitud": -152.746,
     "pais": "",
     "ciudad_referencia": "43 km NNW of Lake Minchumina, Alaska",
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ukynnb",
     "fecha_primera_recepcion": "2026-10-15T11:10:19.957527+00:00",
-    "fecha_ultima_observacion": "2026-10-15T11:15:16.468264+00:00"
+    "fecha_ultima_observacion": "2026-10-15T11:20:20.807781+00:00"
+  },
+  "EMSC:20261015_0000134": {
+    "id": "20261015_0000134",
+    "fecha_hora_utc": "2026-10-15T11:03:22+00:00",
+    "magnitud": 3.6,
+    "profundidad_km": 12.0,
+    "latitud": 7.3712,
+    "longitud": -82.3035,
+    "pais": "",
+    "ciudad_referencia": "SOUTH OF PANAMA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261015_0000134",
+    "fecha_primera_recepcion": "2026-10-15T11:20:20.807781+00:00",
+    "fecha_ultima_observacion": "2026-10-15T11:20:20.807781+00:00"
   }
 }
