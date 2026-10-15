@@ -22663,7 +22663,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-734",
     "fecha_primera_recepcion": "2026-10-15T01:50:15.399353+00:00",
-    "fecha_ultima_observacion": "2026-10-15T03:30:19.992859+00:00"
+    "fecha_ultima_observacion": "2026-10-15T03:35:15.160403+00:00"
   },
   "EMSC:20261015_0000024": {
     "id": "20261015_0000024",
@@ -22790,5 +22790,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261015_0000040",
     "fecha_primera_recepcion": "2026-10-15T03:10:21.153993+00:00",
     "fecha_ultima_observacion": "2026-10-15T03:30:19.992859+00:00"
+  },
+  "EMSC:20261015_0000042": {
+    "id": "20261015_0000042",
+    "fecha_hora_utc": "2026-10-15T03:30:57.550000+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 13.2,
+    "latitud": 33.8088,
+    "longitud": -116.9645,
+    "pais": "",
+    "ciudad_referencia": "SOUTHERN CALIFORNIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261015_0000042",
+    "fecha_primera_recepcion": "2026-10-15T03:35:15.160403+00:00",
+    "fecha_ultima_observacion": "2026-10-15T03:35:15.160403+00:00"
+  },
+  "USGS:ci41347743": {
+    "id": "ci41347743",
+    "fecha_hora_utc": "2026-10-15T03:30:57.550000+00:00",
+    "magnitud": 2.95263779141459,
+    "profundidad_km": 13.1999998092651,
+    "latitud": 33.8088340759277,
+    "longitud": -116.964500427246,
+    "pais": "",
+    "ciudad_referencia": "3 km N of San Jacinto, CA",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347743",
+    "fecha_primera_recepcion": "2026-10-15T03:35:15.160403+00:00",
+    "fecha_ultima_observacion": "2026-10-15T03:35:15.160403+00:00"
   }
 }
