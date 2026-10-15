@@ -1,24 +1,24 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-15T01:45:15.697045+00:00",
+  "actualizado_utc": "2026-10-15T01:50:15.399353+00:00",
   "periodo_mundial_dias": 10,
-  "igp_historico": 43,
+  "igp_historico": 44,
   "actualizacion_minutos": 5,
-  "igp": 43,
+  "igp": 44,
   "emsc": 2758,
   "usgs": 540,
-  "duplicados_eliminados": 517,
+  "duplicados_eliminados": 518,
   "eventos_publicados": 2824,
-  "evento_mas_reciente_utc": "2026-10-15T01:38:18+00:00",
+  "evento_mas_reciente_utc": "2026-10-15T01:38:21.650000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 43,
-      "eventos_recibidos": 17,
+      "eventos_validos": 44,
+      "eventos_recibidos": 18,
       "invalidos_rechazados": 0,
-      "evento_mas_reciente_utc": "2026-10-14T03:31:19+00:00",
-      "antiguedad_evento_mas_reciente_min": 1333.9
+      "evento_mas_reciente_utc": "2026-10-15T01:16:04+00:00",
+      "antiguedad_evento_mas_reciente_min": 34.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,8 +26,8 @@
       "eventos_validos": 2758,
       "eventos_recibidos": 2761,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-15T01:38:18+00:00",
-      "antiguedad_evento_mas_reciente_min": 7.0
+      "evento_mas_reciente_utc": "2026-10-15T01:38:21.650000+00:00",
+      "antiguedad_evento_mas_reciente_min": 11.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,29 +36,29 @@
       "eventos_recibidos": 543,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-10-15T01:09:22.750000+00:00",
-      "antiguedad_evento_mas_reciente_min": 35.9
+      "antiguedad_evento_mas_reciente_min": 40.9
     }
   },
   "ultimo_evento": {
     "igp": {
-      "id": "2026-733",
-      "fecha_hora_utc": "2026-10-14T03:31:19+00:00",
-      "magnitud": 3.9,
-      "profundidad_km": 86.0,
-      "latitud": -10.12,
-      "longitud": -77.98,
+      "id": "2026-734",
+      "fecha_hora_utc": "2026-10-15T01:16:04+00:00",
+      "magnitud": 3.6,
+      "profundidad_km": 84.0,
+      "latitud": -11.9,
+      "longitud": -76.71,
       "pais": "Perú",
-      "ciudad_referencia": "20 km al E de Huarmey, Huarmey - Áncash",
+      "ciudad_referencia": "4 km al N de Chosica, Lima - Lima",
       "fuente": "IGP",
-      "url": "https://ultimosismo.igp.gob.pe/evento/2026-733"
+      "url": "https://ultimosismo.igp.gob.pe/evento/2026-734"
     },
     "emsc": {
       "id": "20261015_0000022",
-      "fecha_hora_utc": "2026-10-15T01:38:18+00:00",
+      "fecha_hora_utc": "2026-10-15T01:38:21.650000+00:00",
       "magnitud": 3.3,
-      "profundidad_km": 9.3,
-      "latitud": 36.9058,
-      "longitud": 40.623,
+      "profundidad_km": 35.0,
+      "latitud": 36.9692,
+      "longitud": 40.6727,
       "pais": "",
       "ciudad_referencia": "SYRIA",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-15T01:45:15.697045+00:00"
+    "hora_consulta_utc": "2026-10-15T01:50:15.399353+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-15T01:45:15.697045+00:00",
+  "updated_utc": "2026-10-15T01:50:15.399353+00:00",
   "combined_after_dedup": 2824
 }
