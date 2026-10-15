@@ -22663,7 +22663,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-734",
     "fecha_primera_recepcion": "2026-10-15T01:50:15.399353+00:00",
-    "fecha_ultima_observacion": "2026-10-15T12:55:16.654251+00:00"
+    "fecha_ultima_observacion": "2026-10-15T13:00:25.218765+00:00"
   },
   "EMSC:20261015_0000024": {
     "id": "20261015_0000024",
@@ -23503,7 +23503,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ulaxcs",
     "fecha_primera_recepcion": "2026-10-15T12:25:18.198676+00:00",
-    "fecha_ultima_observacion": "2026-10-15T12:55:16.654251+00:00"
+    "fecha_ultima_observacion": "2026-10-15T13:00:25.218765+00:00"
   },
   "EMSC:20261015_0000150": {
     "id": "20261015_0000150",
@@ -23532,5 +23532,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261015_0000152",
     "fecha_primera_recepcion": "2026-10-15T12:50:21.343908+00:00",
     "fecha_ultima_observacion": "2026-10-15T12:55:16.654251+00:00"
+  },
+  "EMSC:20261015_0000154": {
+    "id": "20261015_0000154",
+    "fecha_hora_utc": "2026-10-15T12:48:34+00:00",
+    "magnitud": 3.1,
+    "profundidad_km": 25.0,
+    "latitud": -32.31,
+    "longitud": -71.81,
+    "pais": "",
+    "ciudad_referencia": "OFFSHORE VALPARAISO, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261015_0000154",
+    "fecha_primera_recepcion": "2026-10-15T13:00:25.218765+00:00",
+    "fecha_ultima_observacion": "2026-10-15T13:00:25.218765+00:00"
   }
 }
