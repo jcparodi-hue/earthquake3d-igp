@@ -24581,7 +24581,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-736",
     "fecha_primera_recepcion": "2026-10-15T23:05:18.340908+00:00",
-    "fecha_ultima_observacion": "2026-10-16T04:55:17.269846+00:00"
+    "fecha_ultima_observacion": "2026-10-16T05:00:23.856685+00:00"
   },
   "EMSC:20261015_0000331": {
     "id": "20261015_0000331",
@@ -25072,5 +25072,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261016_0000049",
     "fecha_primera_recepcion": "2026-10-16T04:50:18.567972+00:00",
     "fecha_ultima_observacion": "2026-10-16T04:55:17.269846+00:00"
+  },
+  "EMSC:20261016_0000051": {
+    "id": "20261016_0000051",
+    "fecha_hora_utc": "2026-10-16T04:48:38+00:00",
+    "magnitud": 3.5,
+    "profundidad_km": 158.0,
+    "latitud": -8.24,
+    "longitud": 119.57,
+    "pais": "",
+    "ciudad_referencia": "FLORES REGION, INDONESIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261016_0000051",
+    "fecha_primera_recepcion": "2026-10-16T05:00:23.856685+00:00",
+    "fecha_ultima_observacion": "2026-10-16T05:00:23.856685+00:00"
+  },
+  "USGS:us6000u2n4": {
+    "id": "us6000u2n4",
+    "fecha_hora_utc": "2026-10-16T04:42:40.890000+00:00",
+    "magnitud": 4.7,
+    "profundidad_km": 10.0,
+    "latitud": 13.934,
+    "longitud": -92.8623,
+    "pais": "",
+    "ciudad_referencia": "95 km SW of Brisas Barra de Suchiate, Mexico",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2n4",
+    "fecha_primera_recepcion": "2026-10-16T05:00:23.856685+00:00",
+    "fecha_ultima_observacion": "2026-10-16T05:00:23.856685+00:00"
   }
 }
