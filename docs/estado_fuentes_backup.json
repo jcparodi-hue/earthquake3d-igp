@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-16T05:25:18.126272+00:00",
+  "actualizado_utc": "2026-10-16T05:30:23.810769+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 46,
   "actualizacion_minutos": 5,
   "igp": 46,
-  "emsc": 2814,
-  "usgs": 557,
-  "duplicados_eliminados": 527,
-  "eventos_publicados": 2890,
-  "evento_mas_reciente_utc": "2026-10-16T05:17:37+00:00",
+  "emsc": 2815,
+  "usgs": 558,
+  "duplicados_eliminados": 528,
+  "eventos_publicados": 2891,
+  "evento_mas_reciente_utc": "2026-10-16T05:26:37.324022+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 17,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-15T20:08:22+00:00",
-      "antiguedad_evento_mas_reciente_min": 556.9
+      "antiguedad_evento_mas_reciente_min": 562.0
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2814,
-      "eventos_recibidos": 2817,
+      "eventos_validos": 2815,
+      "eventos_recibidos": 2818,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-16T05:17:37+00:00",
-      "antiguedad_evento_mas_reciente_min": 7.7
+      "evento_mas_reciente_utc": "2026-10-16T05:26:37.324022+00:00",
+      "antiguedad_evento_mas_reciente_min": 3.8
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 557,
-      "eventos_recibidos": 560,
+      "eventos_validos": 558,
+      "eventos_recibidos": 561,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-16T04:42:40.890000+00:00",
-      "antiguedad_evento_mas_reciente_min": 42.6
+      "evento_mas_reciente_utc": "2026-10-16T05:26:37.324000+00:00",
+      "antiguedad_evento_mas_reciente_min": 3.8
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-736"
     },
     "emsc": {
-      "id": "20261016_0000055",
-      "fecha_hora_utc": "2026-10-16T05:17:37+00:00",
-      "magnitud": 3.1,
-      "profundidad_km": 17.0,
-      "latitud": 11.932,
-      "longitud": -88.087,
+      "id": "20261016_0000056",
+      "fecha_hora_utc": "2026-10-16T05:26:37.324022+00:00",
+      "magnitud": 3.3,
+      "profundidad_km": 65.7,
+      "latitud": 57.241,
+      "longitud": -155.573,
       "pais": "",
-      "ciudad_referencia": "OFF COAST OF CENTRAL AMERICA",
+      "ciudad_referencia": "ALASKA PENINSULA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261016_0000055"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261016_0000056"
     },
     "usgs": {
-      "id": "us6000u2n4",
-      "fecha_hora_utc": "2026-10-16T04:42:40.890000+00:00",
-      "magnitud": 4.7,
-      "profundidad_km": 10.0,
-      "latitud": 13.934,
-      "longitud": -92.8623,
+      "id": "aka2026umjevu",
+      "fecha_hora_utc": "2026-10-16T05:26:37.324000+00:00",
+      "magnitud": 3.3,
+      "profundidad_km": 65.7,
+      "latitud": 57.241,
+      "longitud": -155.573,
       "pais": "",
-      "ciudad_referencia": "95 km SW of Brisas Barra de Suchiate, Mexico",
+      "ciudad_referencia": "76 km WSW of Karluk, Alaska",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2n4"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026umjevu"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-16T05:25:18.126272+00:00"
+    "hora_consulta_utc": "2026-10-16T05:30:23.810769+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-16T05:25:18.126272+00:00",
-  "combined_after_dedup": 2890
+  "updated_utc": "2026-10-16T05:30:23.810769+00:00",
+  "combined_after_dedup": 2891
 }
