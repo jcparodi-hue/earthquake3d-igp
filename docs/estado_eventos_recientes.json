@@ -24581,7 +24581,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-736",
     "fecha_primera_recepcion": "2026-10-15T23:05:18.340908+00:00",
-    "fecha_ultima_observacion": "2026-10-16T06:36:08.778374+00:00"
+    "fecha_ultima_observacion": "2026-10-16T06:40:20.027228+00:00"
   },
   "EMSC:20261015_0000331": {
     "id": "20261015_0000331",
@@ -25254,5 +25254,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261016_0000067",
     "fecha_primera_recepcion": "2026-10-16T06:30:22.313485+00:00",
     "fecha_ultima_observacion": "2026-10-16T06:36:08.778374+00:00"
+  },
+  "EMSC:20261016_0000068": {
+    "id": "20261016_0000068",
+    "fecha_hora_utc": "2026-10-16T06:35:39.710035+00:00",
+    "magnitud": 3.2,
+    "profundidad_km": 3.6,
+    "latitud": 57.659,
+    "longitud": -155.79,
+    "pais": "",
+    "ciudad_referencia": "ALASKA PENINSULA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261016_0000068",
+    "fecha_primera_recepcion": "2026-10-16T06:40:20.027228+00:00",
+    "fecha_ultima_observacion": "2026-10-16T06:40:20.027228+00:00"
+  },
+  "USGS:aka2026umlmsg": {
+    "id": "aka2026umlmsg",
+    "fecha_hora_utc": "2026-10-16T06:35:39.710000+00:00",
+    "magnitud": 3.2,
+    "profundidad_km": 3.6,
+    "latitud": 57.659,
+    "longitud": -155.79,
+    "pais": "",
+    "ciudad_referencia": "80 km W of Karluk, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026umlmsg",
+    "fecha_primera_recepcion": "2026-10-16T06:40:20.027228+00:00",
+    "fecha_ultima_observacion": "2026-10-16T06:40:20.027228+00:00"
   }
 }
