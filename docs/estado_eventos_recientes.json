@@ -24581,7 +24581,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-736",
     "fecha_primera_recepcion": "2026-10-15T23:05:18.340908+00:00",
-    "fecha_ultima_observacion": "2026-10-16T00:20:19.943586+00:00"
+    "fecha_ultima_observacion": "2026-10-16T00:25:14.760144+00:00"
   },
   "EMSC:20261015_0000331": {
     "id": "20261015_0000331",
@@ -24697,16 +24697,30 @@
   },
   "USGS:aka2026ulyxqn": {
     "id": "aka2026ulyxqn",
-    "fecha_hora_utc": "2026-10-16T00:18:27.690000+00:00",
-    "magnitud": 2.5,
-    "profundidad_km": 61.3,
-    "latitud": 57.86,
-    "longitud": -154.304,
+    "fecha_hora_utc": "2026-10-16T00:18:28.188000+00:00",
+    "magnitud": 2.6,
+    "profundidad_km": 59.0,
+    "latitud": 57.863,
+    "longitud": -154.343,
     "pais": "",
     "ciudad_referencia": "33 km NNE of Karluk, Alaska",
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ulyxqn",
     "fecha_primera_recepcion": "2026-10-16T00:20:19.943586+00:00",
-    "fecha_ultima_observacion": "2026-10-16T00:20:19.943586+00:00"
+    "fecha_ultima_observacion": "2026-10-16T00:25:14.760144+00:00"
+  },
+  "EMSC:20261016_0000002": {
+    "id": "20261016_0000002",
+    "fecha_hora_utc": "2026-10-16T00:14:31+00:00",
+    "magnitud": 3.8,
+    "profundidad_km": 5.0,
+    "latitud": 7.6081,
+    "longitud": -80.7155,
+    "pais": "",
+    "ciudad_referencia": "PANAMA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261016_0000002",
+    "fecha_primera_recepcion": "2026-10-16T00:25:14.760144+00:00",
+    "fecha_ultima_observacion": "2026-10-16T00:25:14.760144+00:00"
   }
 }
