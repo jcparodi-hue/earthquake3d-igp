@@ -24581,7 +24581,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-736",
     "fecha_primera_recepcion": "2026-10-15T23:05:18.340908+00:00",
-    "fecha_ultima_observacion": "2026-10-16T11:50:48.652147+00:00"
+    "fecha_ultima_observacion": "2026-10-16T11:55:15.683802+00:00"
   },
   "EMSC:20261015_0000331": {
     "id": "20261015_0000331",
@@ -25771,6 +25771,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261016_0000125",
     "fecha_primera_recepcion": "2026-10-16T11:50:48.652147+00:00",
-    "fecha_ultima_observacion": "2026-10-16T11:50:48.652147+00:00"
+    "fecha_ultima_observacion": "2026-10-16T11:55:15.683802+00:00"
+  },
+  "USGS:us6000u2ph": {
+    "id": "us6000u2ph",
+    "fecha_hora_utc": "2026-10-16T11:39:44.878000+00:00",
+    "magnitud": 4.8,
+    "profundidad_km": 108.908,
+    "latitud": 15.2777,
+    "longitud": -92.7881,
+    "pais": "",
+    "ciudad_referencia": "7 km WSW of Soconusco, Mexico",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ph",
+    "fecha_primera_recepcion": "2026-10-16T11:55:15.683802+00:00",
+    "fecha_ultima_observacion": "2026-10-16T11:55:15.683802+00:00"
   }
 }
