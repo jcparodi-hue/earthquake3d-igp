@@ -1,5 +1,19 @@
 [
   {
+    "volcan": "Sthelen",
+    "pais": "",
+    "codigo_vaac": "STHELEN",
+    "fecha_hora_utc_texto": "0639 UTC",
+    "id_archivo": "2026J160639",
+    "url_aviso": "https://www.ospo.noaa.gov/VAAC/ARCH26/STHELEN/2026J160639.html",
+    "url_xml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/xml_files/FVXX26_20261016_0639.xml",
+    "url_grafico": "https://www.ospo.noaa.gov/VAAC/ARCH26/GFX/STHELEN0003.jpg",
+    "url_kml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/kml_files/ST.HELENS_ASH_202610160639.kml",
+    "vaac": "Washington",
+    "tipo": "VAA",
+    "fuente": "NOAA Washington VAAC"
+  },
+  {
     "volcan": "Reventador",
     "pais": "Ecuador",
     "codigo_vaac": "REVE",
