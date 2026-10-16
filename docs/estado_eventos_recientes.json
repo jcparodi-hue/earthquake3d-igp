@@ -24581,7 +24581,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-736",
     "fecha_primera_recepcion": "2026-10-15T23:05:18.340908+00:00",
-    "fecha_ultima_observacion": "2026-10-16T23:00:22.892696+00:00"
+    "fecha_ultima_observacion": "2026-10-16T23:04:58.503422+00:00"
   },
   "EMSC:20261015_0000331": {
     "id": "20261015_0000331",
@@ -26710,5 +26710,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261016_0000290",
     "fecha_primera_recepcion": "2026-10-16T22:50:21.466919+00:00",
     "fecha_ultima_observacion": "2026-10-16T23:00:22.892696+00:00"
+  },
+  "EMSC:20261016_0000292": {
+    "id": "20261016_0000292",
+    "fecha_hora_utc": "2026-10-16T22:57:31+00:00",
+    "magnitud": 3.8,
+    "profundidad_km": 12.0,
+    "latitud": 7.5843,
+    "longitud": -80.9967,
+    "pais": "",
+    "ciudad_referencia": "PANAMA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261016_0000292",
+    "fecha_primera_recepcion": "2026-10-16T23:04:58.503422+00:00",
+    "fecha_ultima_observacion": "2026-10-16T23:04:58.503422+00:00"
+  },
+  "USGS:us6000u2wn": {
+    "id": "us6000u2wn",
+    "fecha_hora_utc": "2026-10-16T22:41:03.562000+00:00",
+    "magnitud": 4.6,
+    "profundidad_km": 10.0,
+    "latitud": 7.6127,
+    "longitud": -80.9354,
+    "pais": "",
+    "ciudad_referencia": "12 km SSE of Tebario, Panama",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2wn",
+    "fecha_primera_recepcion": "2026-10-16T23:04:58.503422+00:00",
+    "fecha_ultima_observacion": "2026-10-16T23:04:58.503422+00:00"
   }
 }
