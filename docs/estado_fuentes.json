@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-16T22:25:17.690599+00:00",
+  "actualizado_utc": "2026-10-16T22:30:22.467475+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 46,
   "actualizacion_minutos": 5,
   "igp": 46,
   "emsc": 2850,
-  "usgs": 550,
-  "duplicados_eliminados": 519,
+  "usgs": 549,
+  "duplicados_eliminados": 518,
   "eventos_publicados": 2927,
-  "evento_mas_reciente_utc": "2026-10-16T21:57:30+00:00",
+  "evento_mas_reciente_utc": "2026-10-16T22:22:43+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 17,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-15T20:08:22+00:00",
-      "antiguedad_evento_mas_reciente_min": 1576.9
+      "antiguedad_evento_mas_reciente_min": 1582.0
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2850,
       "eventos_recibidos": 2853,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-16T21:57:30+00:00",
-      "antiguedad_evento_mas_reciente_min": 27.8
+      "evento_mas_reciente_utc": "2026-10-16T22:22:43+00:00",
+      "antiguedad_evento_mas_reciente_min": 7.7
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 550,
-      "eventos_recibidos": 554,
+      "eventos_validos": 549,
+      "eventos_recibidos": 553,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-10-16T21:39:06.775000+00:00",
-      "antiguedad_evento_mas_reciente_min": 46.2
+      "antiguedad_evento_mas_reciente_min": 51.3
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-736"
     },
     "emsc": {
-      "id": "20261016_0000283",
-      "fecha_hora_utc": "2026-10-16T21:57:30+00:00",
-      "magnitud": 3.2,
-      "profundidad_km": 16.0,
-      "latitud": -9.09,
-      "longitud": 121.85,
+      "id": "20261016_0000286",
+      "fecha_hora_utc": "2026-10-16T22:22:43+00:00",
+      "magnitud": 2.9,
+      "profundidad_km": 103.8,
+      "latitud": -19.93,
+      "longitud": -69.3,
       "pais": "",
-      "ciudad_referencia": "SAVU SEA",
+      "ciudad_referencia": "TARAPACA, CHILE",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261016_0000283"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261016_0000286"
     },
     "usgs": {
       "id": "aka2026unpnov",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-16T22:25:17.690599+00:00"
+    "hora_consulta_utc": "2026-10-16T22:30:22.467475+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-16T22:25:17.690599+00:00",
+  "updated_utc": "2026-10-16T22:30:22.467475+00:00",
   "combined_after_dedup": 2927
 }
