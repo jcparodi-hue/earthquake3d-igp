@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-16T06:25:17.859976+00:00",
+  "actualizado_utc": "2026-10-16T06:30:22.313485+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 46,
   "actualizacion_minutos": 5,
   "igp": 46,
   "emsc": 2818,
-  "usgs": 557,
+  "usgs": 556,
   "duplicados_eliminados": 527,
-  "eventos_publicados": 2894,
-  "evento_mas_reciente_utc": "2026-10-16T06:12:20.400000+00:00",
+  "eventos_publicados": 2893,
+  "evento_mas_reciente_utc": "2026-10-16T06:17:47+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 17,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-15T20:08:22+00:00",
-      "antiguedad_evento_mas_reciente_min": 616.9
+      "antiguedad_evento_mas_reciente_min": 622.0
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2818,
       "eventos_recibidos": 2821,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-16T06:12:20.400000+00:00",
-      "antiguedad_evento_mas_reciente_min": 13.0
+      "evento_mas_reciente_utc": "2026-10-16T06:17:47+00:00",
+      "antiguedad_evento_mas_reciente_min": 12.6
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 557,
-      "eventos_recibidos": 560,
+      "eventos_validos": 556,
+      "eventos_recibidos": 559,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-10-16T05:26:37.323000+00:00",
-      "antiguedad_evento_mas_reciente_min": 58.7
+      "antiguedad_evento_mas_reciente_min": 63.7
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-736"
     },
     "emsc": {
-      "id": "20261016_0000065",
-      "fecha_hora_utc": "2026-10-16T06:12:20.400000+00:00",
-      "magnitud": 2.5,
-      "profundidad_km": 15.0,
-      "latitud": 40.818,
-      "longitud": 20.677,
+      "id": "20261016_0000067",
+      "fecha_hora_utc": "2026-10-16T06:17:47+00:00",
+      "magnitud": 2.7,
+      "profundidad_km": 39.0,
+      "latitud": -8.01,
+      "longitud": 120.93,
       "pais": "",
-      "ciudad_referencia": "ALBANIA",
+      "ciudad_referencia": "FLORES REGION, INDONESIA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261016_0000065"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261016_0000067"
     },
     "usgs": {
       "id": "aka2026umjevu",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-16T06:25:17.859976+00:00"
+    "hora_consulta_utc": "2026-10-16T06:30:22.313485+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-16T06:25:17.859976+00:00",
-  "combined_after_dedup": 2894
+  "updated_utc": "2026-10-16T06:30:22.313485+00:00",
+  "combined_after_dedup": 2893
 }
