@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-16T12:40:21.664363+00:00",
+  "actualizado_utc": "2026-10-16T12:45:22.145115+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 46,
   "actualizacion_minutos": 5,
   "igp": 46,
-  "emsc": 2819,
-  "usgs": 560,
+  "emsc": 2821,
+  "usgs": 561,
   "duplicados_eliminados": 532,
-  "eventos_publicados": 2893,
-  "evento_mas_reciente_utc": "2026-10-16T12:29:21+00:00",
+  "eventos_publicados": 2896,
+  "evento_mas_reciente_utc": "2026-10-16T12:37:21.527000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 17,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-15T20:08:22+00:00",
-      "antiguedad_evento_mas_reciente_min": 992.0
+      "antiguedad_evento_mas_reciente_min": 997.0
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2819,
-      "eventos_recibidos": 2822,
+      "eventos_validos": 2821,
+      "eventos_recibidos": 2824,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-16T12:29:21+00:00",
-      "antiguedad_evento_mas_reciente_min": 11.0
+      "evento_mas_reciente_utc": "2026-10-16T12:35:14+00:00",
+      "antiguedad_evento_mas_reciente_min": 10.1
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 560,
-      "eventos_recibidos": 563,
+      "eventos_validos": 561,
+      "eventos_recibidos": 564,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-16T11:57:19.839000+00:00",
-      "antiguedad_evento_mas_reciente_min": 43.0
+      "evento_mas_reciente_utc": "2026-10-16T12:37:21.527000+00:00",
+      "antiguedad_evento_mas_reciente_min": 8.0
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-736"
     },
     "emsc": {
-      "id": "20261016_0000136",
-      "fecha_hora_utc": "2026-10-16T12:29:21+00:00",
-      "magnitud": 2.7,
-      "profundidad_km": 115.0,
-      "latitud": -31.83,
-      "longitud": -70.19,
+      "id": "20261016_0000139",
+      "fecha_hora_utc": "2026-10-16T12:35:14+00:00",
+      "magnitud": 2.9,
+      "profundidad_km": 99.0,
+      "latitud": -31.36,
+      "longitud": -68.64,
       "pais": "",
       "ciudad_referencia": "SAN JUAN, ARGENTINA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261016_0000136"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261016_0000139"
     },
     "usgs": {
-      "id": "us6000u2pl",
-      "fecha_hora_utc": "2026-10-16T11:57:19.839000+00:00",
-      "magnitud": 4.9,
-      "profundidad_km": 10.0,
-      "latitud": 12.328,
-      "longitud": 144.1189,
+      "id": "aka2026umxofr",
+      "fecha_hora_utc": "2026-10-16T12:37:21.527000+00:00",
+      "magnitud": 2.6,
+      "profundidad_km": 116.6,
+      "latitud": 59.378,
+      "longitud": -153.581,
       "pais": "",
-      "ciudad_referencia": "119 km SSW of Merizo Village, Guam",
+      "ciudad_referencia": "54 km SSE of Pedro Bay, Alaska",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2pl"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026umxofr"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-16T12:40:21.664363+00:00"
+    "hora_consulta_utc": "2026-10-16T12:45:22.145115+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-16T12:40:21.664363+00:00",
-  "combined_after_dedup": 2893
+  "updated_utc": "2026-10-16T12:45:22.145115+00:00",
+  "combined_after_dedup": 2896
 }
