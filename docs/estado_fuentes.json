@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-16T19:50:20.985427+00:00",
+  "actualizado_utc": "2026-10-16T19:55:16.435772+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 46,
   "actualizacion_minutos": 5,
   "igp": 46,
-  "emsc": 2865,
-  "usgs": 553,
+  "emsc": 2864,
+  "usgs": 554,
   "duplicados_eliminados": 529,
   "eventos_publicados": 2935,
-  "evento_mas_reciente_utc": "2026-10-16T19:43:57+00:00",
+  "evento_mas_reciente_utc": "2026-10-16T19:51:25.806000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 17,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-15T20:08:22+00:00",
-      "antiguedad_evento_mas_reciente_min": 1422.0
+      "antiguedad_evento_mas_reciente_min": 1426.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2865,
-      "eventos_recibidos": 2868,
+      "eventos_validos": 2864,
+      "eventos_recibidos": 2867,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-10-16T19:43:57+00:00",
-      "antiguedad_evento_mas_reciente_min": 6.4
+      "antiguedad_evento_mas_reciente_min": 11.3
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 553,
-      "eventos_recibidos": 557,
+      "eventos_validos": 554,
+      "eventos_recibidos": 558,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-16T17:24:27.859000+00:00",
-      "antiguedad_evento_mas_reciente_min": 145.9
+      "evento_mas_reciente_utc": "2026-10-16T19:51:25.806000+00:00",
+      "antiguedad_evento_mas_reciente_min": 3.8
     }
   },
   "ultimo_evento": {
@@ -65,24 +65,24 @@
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261016_0000260"
     },
     "usgs": {
-      "id": "aka2026unhdgy",
-      "fecha_hora_utc": "2026-10-16T17:24:27.859000+00:00",
-      "magnitud": 3.0,
-      "profundidad_km": 46.6,
-      "latitud": 62.157,
-      "longitud": -150.452,
+      "id": "aka2026unmasv",
+      "fecha_hora_utc": "2026-10-16T19:51:25.806000+00:00",
+      "magnitud": 2.6,
+      "profundidad_km": 11.1,
+      "latitud": 61.591,
+      "longitud": -146.393,
       "pais": "",
-      "ciudad_referencia": "21 km SSW of Trapper Creek, Alaska",
+      "ciudad_referencia": "48 km SSE of Nelchina, Alaska",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026unhdgy"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026unmasv"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-16T19:50:20.985427+00:00"
+    "hora_consulta_utc": "2026-10-16T19:55:16.435772+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-16T19:50:20.985427+00:00",
+  "updated_utc": "2026-10-16T19:55:16.435772+00:00",
   "combined_after_dedup": 2935
 }
