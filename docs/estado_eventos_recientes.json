@@ -28361,7 +28361,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-740",
     "fecha_primera_recepcion": "2026-10-17T16:55:16.060752+00:00",
-    "fecha_ultima_observacion": "2026-10-17T22:25:19.540178+00:00"
+    "fecha_ultima_observacion": "2026-10-17T22:30:22.383922+00:00"
   },
   "EMSC:20261017_0000217": {
     "id": "20261017_0000217",
@@ -28838,5 +28838,33 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u326",
     "fecha_primera_recepcion": "2026-10-17T22:25:19.540178+00:00",
     "fecha_ultima_observacion": "2026-10-17T22:25:19.540178+00:00"
+  },
+  "EMSC:20261017_0000271": {
+    "id": "20261017_0000271",
+    "fecha_hora_utc": "2026-10-17T22:21:56+00:00",
+    "magnitud": 3.8,
+    "profundidad_km": 10.0,
+    "latitud": 7.4965,
+    "longitud": -80.5723,
+    "pais": "",
+    "ciudad_referencia": "PANAMA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261017_0000271",
+    "fecha_primera_recepcion": "2026-10-17T22:30:22.383922+00:00",
+    "fecha_ultima_observacion": "2026-10-17T22:30:22.383922+00:00"
+  },
+  "USGS:tx2026umexzb": {
+    "id": "tx2026umexzb",
+    "fecha_hora_utc": "2026-10-17T22:11:42.130000+00:00",
+    "magnitud": 3.1,
+    "profundidad_km": 6.543,
+    "latitud": 32.172,
+    "longitud": -101.863,
+    "pais": "",
+    "ciudad_referencia": "8 km NW of Stanton, Texas",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026umexzb",
+    "fecha_primera_recepcion": "2026-10-17T22:30:22.383922+00:00",
+    "fecha_ultima_observacion": "2026-10-17T22:30:22.383922+00:00"
   }
 }
