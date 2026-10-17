@@ -27353,7 +27353,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-738",
     "fecha_primera_recepcion": "2026-10-17T06:15:20.154877+00:00",
-    "fecha_ultima_observacion": "2026-10-17T07:35:17.012368+00:00"
+    "fecha_ultima_observacion": "2026-10-17T07:40:18.359400+00:00"
   },
   "EMSC:20261017_0000073": {
     "id": "20261017_0000073",
@@ -27508,5 +27508,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261017_0000093",
     "fecha_primera_recepcion": "2026-10-17T07:30:19.240319+00:00",
     "fecha_ultima_observacion": "2026-10-17T07:35:17.012368+00:00"
+  },
+  "EMSC:20261017_0000098": {
+    "id": "20261017_0000098",
+    "fecha_hora_utc": "2026-10-17T07:31:31+00:00",
+    "magnitud": 2.9,
+    "profundidad_km": 7.0,
+    "latitud": 14.378,
+    "longitud": -90.08,
+    "pais": "",
+    "ciudad_referencia": "GUATEMALA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261017_0000098",
+    "fecha_primera_recepcion": "2026-10-17T07:40:18.359400+00:00",
+    "fecha_ultima_observacion": "2026-10-17T07:40:18.359400+00:00"
+  },
+  "USGS:us6000u2yw": {
+    "id": "us6000u2yw",
+    "fecha_hora_utc": "2026-10-17T07:20:48.242000+00:00",
+    "magnitud": 4.5,
+    "profundidad_km": 10.0,
+    "latitud": -8.1086,
+    "longitud": 120.2824,
+    "pais": "",
+    "ciudad_referencia": "59 km NNW of Ruteng, Indonesia",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2yw",
+    "fecha_primera_recepcion": "2026-10-17T07:40:18.359400+00:00",
+    "fecha_ultima_observacion": "2026-10-17T07:40:18.359400+00:00"
   }
 }
