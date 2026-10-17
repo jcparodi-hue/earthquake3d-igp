@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-17T05:15:16.732062+00:00",
+  "actualizado_utc": "2026-10-17T05:16:08.359133+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 46,
   "actualizacion_minutos": 5,
@@ -9,7 +9,7 @@
   "usgs": 538,
   "duplicados_eliminados": 512,
   "eventos_publicados": 2915,
-  "evento_mas_reciente_utc": "2026-10-17T05:07:02.490000+00:00",
+  "evento_mas_reciente_utc": "2026-10-17T05:07:02.610000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 16,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-15T20:08:22+00:00",
-      "antiguedad_evento_mas_reciente_min": 1986.9
+      "antiguedad_evento_mas_reciente_min": 1987.8
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,8 +26,8 @@
       "eventos_validos": 2843,
       "eventos_recibidos": 2846,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-17T05:07:02.490000+00:00",
-      "antiguedad_evento_mas_reciente_min": 8.2
+      "evento_mas_reciente_utc": "2026-10-17T05:07:02.610000+00:00",
+      "antiguedad_evento_mas_reciente_min": 9.1
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 542,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-10-17T04:19:05.244000+00:00",
-      "antiguedad_evento_mas_reciente_min": 56.2
+      "antiguedad_evento_mas_reciente_min": 57.1
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261017_0000062",
-      "fecha_hora_utc": "2026-10-17T05:07:02.490000+00:00",
+      "fecha_hora_utc": "2026-10-17T05:07:02.610000+00:00",
       "magnitud": 5.9,
       "profundidad_km": 35.0,
-      "latitud": 28.163,
-      "longitud": 66.3613,
+      "latitud": 28.154,
+      "longitud": 66.3567,
       "pais": "",
       "ciudad_referencia": "PAKISTAN",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-17T05:15:16.732062+00:00"
+    "hora_consulta_utc": "2026-10-17T05:16:08.359133+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-17T05:15:16.732062+00:00",
+  "updated_utc": "2026-10-17T05:16:08.359133+00:00",
   "combined_after_dedup": 2915
 }
