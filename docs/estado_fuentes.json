@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-17T19:05:18.539320+00:00",
+  "actualizado_utc": "2026-10-17T19:10:21.119116+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 50,
   "actualizacion_minutos": 5,
   "igp": 50,
-  "emsc": 2842,
+  "emsc": 2843,
   "usgs": 531,
   "duplicados_eliminados": 513,
-  "eventos_publicados": 2910,
-  "evento_mas_reciente_utc": "2026-10-17T18:50:05+00:00",
+  "eventos_publicados": 2911,
+  "evento_mas_reciente_utc": "2026-10-17T19:03:09+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 18,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-17T15:19:09+00:00",
-      "antiguedad_evento_mas_reciente_min": 226.2
+      "antiguedad_evento_mas_reciente_min": 231.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2842,
-      "eventos_recibidos": 2845,
+      "eventos_validos": 2843,
+      "eventos_recibidos": 2846,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-17T18:50:05+00:00",
-      "antiguedad_evento_mas_reciente_min": 15.2
+      "evento_mas_reciente_utc": "2026-10-17T19:03:09+00:00",
+      "antiguedad_evento_mas_reciente_min": 7.2
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 535,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-10-17T16:52:45.164000+00:00",
-      "antiguedad_evento_mas_reciente_min": 132.6
+      "antiguedad_evento_mas_reciente_min": 137.6
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-740"
     },
     "emsc": {
-      "id": "20261017_0000231",
-      "fecha_hora_utc": "2026-10-17T18:50:05+00:00",
-      "magnitud": 3.2,
-      "profundidad_km": 13.0,
-      "latitud": 43.02,
-      "longitud": 84.72,
+      "id": "20261017_0000233",
+      "fecha_hora_utc": "2026-10-17T19:03:09+00:00",
+      "magnitud": 2.9,
+      "profundidad_km": 23.1,
+      "latitud": -34.44,
+      "longitud": -72.3,
       "pais": "",
-      "ciudad_referencia": "NORTHERN XINJIANG, CHINA",
+      "ciudad_referencia": "OFFSHORE O'HIGGINS, CHILE",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261017_0000231"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261017_0000233"
     },
     "usgs": {
       "id": "us6000u30x",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-17T19:05:18.539320+00:00"
+    "hora_consulta_utc": "2026-10-17T19:10:21.119116+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-17T19:05:18.539320+00:00",
-  "combined_after_dedup": 2910
+  "updated_utc": "2026-10-17T19:10:21.119116+00:00",
+  "combined_after_dedup": 2911
 }
