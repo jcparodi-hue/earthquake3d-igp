@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-17T04:30:20.929707+00:00",
+  "actualizado_utc": "2026-10-17T04:35:17.109491+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 46,
   "actualizacion_minutos": 5,
   "igp": 46,
-  "emsc": 2840,
-  "usgs": 539,
-  "duplicados_eliminados": 514,
-  "eventos_publicados": 2911,
-  "evento_mas_reciente_utc": "2026-10-17T04:19:01+00:00",
+  "emsc": 2843,
+  "usgs": 540,
+  "duplicados_eliminados": 515,
+  "eventos_publicados": 2914,
+  "evento_mas_reciente_utc": "2026-10-17T04:32:04.430171+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 17,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-15T20:08:22+00:00",
-      "antiguedad_evento_mas_reciente_min": 1942.0
+      "antiguedad_evento_mas_reciente_min": 1946.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2840,
-      "eventos_recibidos": 2843,
+      "eventos_validos": 2843,
+      "eventos_recibidos": 2846,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-17T04:19:01+00:00",
-      "antiguedad_evento_mas_reciente_min": 11.3
+      "evento_mas_reciente_utc": "2026-10-17T04:32:04.430171+00:00",
+      "antiguedad_evento_mas_reciente_min": 3.2
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 539,
-      "eventos_recibidos": 543,
+      "eventos_validos": 540,
+      "eventos_recibidos": 544,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-17T03:37:39.230000+00:00",
-      "antiguedad_evento_mas_reciente_min": 52.7
+      "evento_mas_reciente_utc": "2026-10-17T04:19:05.244000+00:00",
+      "antiguedad_evento_mas_reciente_min": 16.2
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-736"
     },
     "emsc": {
-      "id": "20261017_0000048",
-      "fecha_hora_utc": "2026-10-17T04:19:01+00:00",
-      "magnitud": 2.9,
-      "profundidad_km": 16.0,
-      "latitud": 12.83,
-      "longitud": -88.989,
+      "id": "20261017_0000051",
+      "fecha_hora_utc": "2026-10-17T04:32:04.430171+00:00",
+      "magnitud": 3.3,
+      "profundidad_km": 33.9,
+      "latitud": -38.8484,
+      "longitud": 178.0095,
       "pais": "",
-      "ciudad_referencia": "OFFSHORE EL SALVADOR",
+      "ciudad_referencia": "OFF E. COAST OF N. ISLAND, N.Z.",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261017_0000048"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261017_0000051"
     },
     "usgs": {
-      "id": "uw714121212",
-      "fecha_hora_utc": "2026-10-17T03:37:39.230000+00:00",
-      "magnitud": 3.09,
-      "profundidad_km": 37.85,
-      "latitud": 47.9165,
-      "longitud": -124.116,
+      "id": "us6000u2xs",
+      "fecha_hora_utc": "2026-10-17T04:19:05.244000+00:00",
+      "magnitud": 4.8,
+      "profundidad_km": 439.394,
+      "latitud": -16.0441,
+      "longitud": -177.7283,
       "pais": "",
-      "ciudad_referencia": "20 km E of Forks, Washington",
+      "ciudad_referencia": "196 km SSE of Alo, Wallis and Futuna",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714121212"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2xs"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-17T04:30:20.929707+00:00"
+    "hora_consulta_utc": "2026-10-17T04:35:17.109491+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-17T04:30:20.929707+00:00",
-  "combined_after_dedup": 2911
+  "updated_utc": "2026-10-17T04:35:17.109491+00:00",
+  "combined_after_dedup": 2914
 }

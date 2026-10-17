@@ -24581,7 +24581,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-736",
     "fecha_primera_recepcion": "2026-10-15T23:05:18.340908+00:00",
-    "fecha_ultima_observacion": "2026-10-17T04:30:20.929707+00:00"
+    "fecha_ultima_observacion": "2026-10-17T04:35:17.109491+00:00"
   },
   "EMSC:20261015_0000331": {
     "id": "20261015_0000331",
@@ -27172,5 +27172,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261017_0000048",
     "fecha_primera_recepcion": "2026-10-17T04:30:20.929707+00:00",
     "fecha_ultima_observacion": "2026-10-17T04:30:20.929707+00:00"
+  },
+  "EMSC:20261017_0000051": {
+    "id": "20261017_0000051",
+    "fecha_hora_utc": "2026-10-17T04:32:04.430171+00:00",
+    "magnitud": 3.3,
+    "profundidad_km": 33.9,
+    "latitud": -38.8484,
+    "longitud": 178.0095,
+    "pais": "",
+    "ciudad_referencia": "OFF E. COAST OF N. ISLAND, N.Z.",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261017_0000051",
+    "fecha_primera_recepcion": "2026-10-17T04:35:17.109491+00:00",
+    "fecha_ultima_observacion": "2026-10-17T04:35:17.109491+00:00"
+  },
+  "USGS:us6000u2xs": {
+    "id": "us6000u2xs",
+    "fecha_hora_utc": "2026-10-17T04:19:05.244000+00:00",
+    "magnitud": 4.8,
+    "profundidad_km": 439.394,
+    "latitud": -16.0441,
+    "longitud": -177.7283,
+    "pais": "",
+    "ciudad_referencia": "196 km SSE of Alo, Wallis and Futuna",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2xs",
+    "fecha_primera_recepcion": "2026-10-17T04:35:17.109491+00:00",
+    "fecha_ultima_observacion": "2026-10-17T04:35:17.109491+00:00"
   }
 }
