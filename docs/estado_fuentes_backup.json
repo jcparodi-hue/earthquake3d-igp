@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-17T20:55:15.526551+00:00",
+  "actualizado_utc": "2026-10-17T21:00:24.444524+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 50,
   "actualizacion_minutos": 5,
   "igp": 50,
-  "emsc": 2839,
-  "usgs": 531,
-  "duplicados_eliminados": 515,
-  "eventos_publicados": 2905,
-  "evento_mas_reciente_utc": "2026-10-17T20:32:30+00:00",
+  "emsc": 2838,
+  "usgs": 530,
+  "duplicados_eliminados": 514,
+  "eventos_publicados": 2904,
+  "evento_mas_reciente_utc": "2026-10-17T20:32:25+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 17,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-17T15:19:09+00:00",
-      "antiguedad_evento_mas_reciente_min": 336.1
+      "antiguedad_evento_mas_reciente_min": 341.3
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2839,
-      "eventos_recibidos": 2842,
+      "eventos_validos": 2838,
+      "eventos_recibidos": 2841,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-17T20:32:30+00:00",
-      "antiguedad_evento_mas_reciente_min": 22.8
+      "evento_mas_reciente_utc": "2026-10-17T20:32:25+00:00",
+      "antiguedad_evento_mas_reciente_min": 28.0
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 531,
-      "eventos_recibidos": 536,
+      "eventos_validos": 530,
+      "eventos_recibidos": 535,
       "invalidos_rechazados": 5,
       "evento_mas_reciente_utc": "2026-10-17T20:11:11.204000+00:00",
-      "antiguedad_evento_mas_reciente_min": 44.1
+      "antiguedad_evento_mas_reciente_min": 49.2
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261017_0000253",
-      "fecha_hora_utc": "2026-10-17T20:32:30+00:00",
-      "magnitud": 3.6,
-      "profundidad_km": 168.4,
-      "latitud": 33.9381,
-      "longitud": 73.2593,
+      "fecha_hora_utc": "2026-10-17T20:32:25+00:00",
+      "magnitud": 3.4,
+      "profundidad_km": 130.0,
+      "latitud": 34.724,
+      "longitud": 73.267,
       "pais": "",
       "ciudad_referencia": "PAKISTAN",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-17T20:55:15.526551+00:00"
+    "hora_consulta_utc": "2026-10-17T21:00:24.444524+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-17T20:55:15.526551+00:00",
-  "combined_after_dedup": 2905
+  "updated_utc": "2026-10-17T21:00:24.444524+00:00",
+  "combined_after_dedup": 2904
 }
