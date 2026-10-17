@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-17T00:05:20.908861+00:00",
+  "actualizado_utc": "2026-10-17T00:10:20.979650+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 46,
   "actualizacion_minutos": 5,
   "igp": 46,
-  "emsc": 2851,
-  "usgs": 551,
-  "duplicados_eliminados": 521,
-  "eventos_publicados": 2927,
-  "evento_mas_reciente_utc": "2026-10-16T23:57:51.200000+00:00",
+  "emsc": 2852,
+  "usgs": 552,
+  "duplicados_eliminados": 522,
+  "eventos_publicados": 2928,
+  "evento_mas_reciente_utc": "2026-10-17T00:02:10.540000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 17,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-15T20:08:22+00:00",
-      "antiguedad_evento_mas_reciente_min": 1677.0
+      "antiguedad_evento_mas_reciente_min": 1682.0
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2851,
-      "eventos_recibidos": 2854,
+      "eventos_validos": 2852,
+      "eventos_recibidos": 2855,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-16T23:57:51.200000+00:00",
-      "antiguedad_evento_mas_reciente_min": 7.5
+      "evento_mas_reciente_utc": "2026-10-17T00:02:10.540000+00:00",
+      "antiguedad_evento_mas_reciente_min": 8.2
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 551,
-      "eventos_recibidos": 555,
+      "eventos_validos": 552,
+      "eventos_recibidos": 556,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-16T22:41:03.562000+00:00",
-      "antiguedad_evento_mas_reciente_min": 84.3
+      "evento_mas_reciente_utc": "2026-10-16T23:35:03.465000+00:00",
+      "antiguedad_evento_mas_reciente_min": 35.3
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-736"
     },
     "emsc": {
-      "id": "20261016_0000300",
-      "fecha_hora_utc": "2026-10-16T23:57:51.200000+00:00",
-      "magnitud": 4.2,
-      "profundidad_km": 5.0,
-      "latitud": 38.27,
-      "longitud": 20.67,
+      "id": "20261017_0000001",
+      "fecha_hora_utc": "2026-10-17T00:02:10.540000+00:00",
+      "magnitud": 2.5,
+      "profundidad_km": 5.6,
+      "latitud": 19.3782,
+      "longitud": -155.5027,
       "pais": "",
-      "ciudad_referencia": "GREECE",
+      "ciudad_referencia": "ISLAND OF HAWAII, HAWAII",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261016_0000300"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261017_0000001"
     },
     "usgs": {
-      "id": "us6000u2wn",
-      "fecha_hora_utc": "2026-10-16T22:41:03.562000+00:00",
-      "magnitud": 4.6,
-      "profundidad_km": 10.0,
-      "latitud": 7.6127,
-      "longitud": -80.9354,
+      "id": "us6000u2wr",
+      "fecha_hora_utc": "2026-10-16T23:35:03.465000+00:00",
+      "magnitud": 2.5,
+      "profundidad_km": 5.767,
+      "latitud": 32.381,
+      "longitud": -104.4685,
       "pais": "",
-      "ciudad_referencia": "12 km SSE of Tebario, Panama",
+      "ciudad_referencia": "22 km W of Carlsbad, New Mexico",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2wn"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2wr"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-17T00:05:20.908861+00:00"
+    "hora_consulta_utc": "2026-10-17T00:10:20.979650+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-17T00:05:20.908861+00:00",
-  "combined_after_dedup": 2927
+  "updated_utc": "2026-10-17T00:10:20.979650+00:00",
+  "combined_after_dedup": 2928
 }
