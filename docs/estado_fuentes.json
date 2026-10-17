@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-17T05:20:15.929242+00:00",
+  "actualizado_utc": "2026-10-17T05:25:18.908118+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 46,
   "actualizacion_minutos": 5,
   "igp": 46,
-  "emsc": 2843,
-  "usgs": 538,
-  "duplicados_eliminados": 512,
-  "eventos_publicados": 2915,
-  "evento_mas_reciente_utc": "2026-10-17T05:06:59.900000+00:00",
+  "emsc": 2845,
+  "usgs": 539,
+  "duplicados_eliminados": 513,
+  "eventos_publicados": 2917,
+  "evento_mas_reciente_utc": "2026-10-17T05:17:07.515955+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 16,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-15T20:08:22+00:00",
-      "antiguedad_evento_mas_reciente_min": 1991.9
+      "antiguedad_evento_mas_reciente_min": 1996.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2843,
-      "eventos_recibidos": 2846,
+      "eventos_validos": 2845,
+      "eventos_recibidos": 2848,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-17T05:06:59.900000+00:00",
-      "antiguedad_evento_mas_reciente_min": 13.3
+      "evento_mas_reciente_utc": "2026-10-17T05:17:07.515955+00:00",
+      "antiguedad_evento_mas_reciente_min": 8.2
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 538,
-      "eventos_recibidos": 542,
+      "eventos_validos": 539,
+      "eventos_recibidos": 543,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-17T04:19:05.244000+00:00",
-      "antiguedad_evento_mas_reciente_min": 61.2
+      "evento_mas_reciente_utc": "2026-10-17T05:06:57.657000+00:00",
+      "antiguedad_evento_mas_reciente_min": 18.4
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-736"
     },
     "emsc": {
-      "id": "20261017_0000062",
-      "fecha_hora_utc": "2026-10-17T05:06:59.900000+00:00",
-      "magnitud": 5.6,
-      "profundidad_km": 17.0,
-      "latitud": 28.0953,
-      "longitud": 66.2328,
+      "id": "20261017_0000063",
+      "fecha_hora_utc": "2026-10-17T05:17:07.515955+00:00",
+      "magnitud": 3.3,
+      "profundidad_km": 10.0,
+      "latitud": -40.481,
+      "longitud": 179.7696,
       "pais": "",
-      "ciudad_referencia": "PAKISTAN",
+      "ciudad_referencia": "OFF E. COAST OF N. ISLAND, N.Z.",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261017_0000062"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261017_0000063"
     },
     "usgs": {
-      "id": "us6000u2xs",
-      "fecha_hora_utc": "2026-10-17T04:19:05.244000+00:00",
-      "magnitud": 4.8,
-      "profundidad_km": 439.394,
-      "latitud": -16.0441,
-      "longitud": -177.7283,
+      "id": "us6000u2y1",
+      "fecha_hora_utc": "2026-10-17T05:06:57.657000+00:00",
+      "magnitud": 5.7,
+      "profundidad_km": 10.0,
+      "latitud": 28.0179,
+      "longitud": 66.1708,
       "pais": "",
-      "ciudad_referencia": "196 km SSE of Alo, Wallis and Futuna",
+      "ciudad_referencia": "48 km WNW of Khuzdar, Pakistan",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2xs"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2y1"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-17T05:20:15.929242+00:00"
+    "hora_consulta_utc": "2026-10-17T05:25:18.908118+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-17T05:20:15.929242+00:00",
-  "combined_after_dedup": 2915
+  "updated_utc": "2026-10-17T05:25:18.908118+00:00",
+  "combined_after_dedup": 2917
 }
