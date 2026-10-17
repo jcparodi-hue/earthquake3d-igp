@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-17T09:05:19.436619+00:00",
+  "actualizado_utc": "2026-10-17T09:10:19.150481+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 48,
   "actualizacion_minutos": 5,
   "igp": 48,
   "emsc": 2850,
-  "usgs": 545,
-  "duplicados_eliminados": 518,
+  "usgs": 544,
+  "duplicados_eliminados": 517,
   "eventos_publicados": 2925,
-  "evento_mas_reciente_utc": "2026-10-17T08:58:43+00:00",
+  "evento_mas_reciente_utc": "2026-10-17T08:59:06+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 16,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-17T04:28:10+00:00",
-      "antiguedad_evento_mas_reciente_min": 277.2
+      "antiguedad_evento_mas_reciente_min": 282.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2850,
       "eventos_recibidos": 2853,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-17T08:58:43+00:00",
-      "antiguedad_evento_mas_reciente_min": 6.6
+      "evento_mas_reciente_utc": "2026-10-17T08:59:06+00:00",
+      "antiguedad_evento_mas_reciente_min": 11.2
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 545,
-      "eventos_recibidos": 549,
+      "eventos_validos": 544,
+      "eventos_recibidos": 548,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-10-17T08:45:01.761000+00:00",
-      "antiguedad_evento_mas_reciente_min": 20.3
+      "antiguedad_evento_mas_reciente_min": 25.3
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261017_0000116",
-      "fecha_hora_utc": "2026-10-17T08:58:43+00:00",
-      "magnitud": 4.4,
+      "fecha_hora_utc": "2026-10-17T08:59:06+00:00",
+      "magnitud": 3.9,
       "profundidad_km": 10.0,
-      "latitud": 7.4352,
-      "longitud": -80.5475,
+      "latitud": 8.3871,
+      "longitud": -81.7576,
       "pais": "",
       "ciudad_referencia": "PANAMA",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-17T09:05:19.436619+00:00"
+    "hora_consulta_utc": "2026-10-17T09:10:19.150481+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-17T09:05:19.436619+00:00",
+  "updated_utc": "2026-10-17T09:10:19.150481+00:00",
   "combined_after_dedup": 2925
 }
