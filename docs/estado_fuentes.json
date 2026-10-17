@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-17T14:35:19.685809+00:00",
+  "actualizado_utc": "2026-10-17T14:40:19.560078+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 49,
   "actualizacion_minutos": 5,
   "igp": 49,
-  "emsc": 2859,
+  "emsc": 2860,
   "usgs": 542,
   "duplicados_eliminados": 519,
-  "eventos_publicados": 2931,
-  "evento_mas_reciente_utc": "2026-10-17T14:12:47+00:00",
+  "eventos_publicados": 2932,
+  "evento_mas_reciente_utc": "2026-10-17T14:19:44+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 17,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-17T10:53:14+00:00",
-      "antiguedad_evento_mas_reciente_min": 222.1
+      "antiguedad_evento_mas_reciente_min": 227.1
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2859,
-      "eventos_recibidos": 2862,
+      "eventos_validos": 2860,
+      "eventos_recibidos": 2863,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-17T14:12:47+00:00",
-      "antiguedad_evento_mas_reciente_min": 22.5
+      "evento_mas_reciente_utc": "2026-10-17T14:19:44+00:00",
+      "antiguedad_evento_mas_reciente_min": 20.6
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 546,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-10-17T13:59:34.575000+00:00",
-      "antiguedad_evento_mas_reciente_min": 35.8
+      "antiguedad_evento_mas_reciente_min": 40.7
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-739"
     },
     "emsc": {
-      "id": "20261017_0000177",
-      "fecha_hora_utc": "2026-10-17T14:12:47+00:00",
+      "id": "20261017_0000191",
+      "fecha_hora_utc": "2026-10-17T14:19:44+00:00",
       "magnitud": 3.1,
-      "profundidad_km": 136.7,
-      "latitud": -21.31,
-      "longitud": -68.37,
+      "profundidad_km": 1.0,
+      "latitud": 7.9,
+      "longitud": 127.12,
       "pais": "",
-      "ciudad_referencia": "ANTOFAGASTA, CHILE",
+      "ciudad_referencia": "PHILIPPINE ISLANDS REGION",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261017_0000177"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261017_0000191"
     },
     "usgs": {
       "id": "us6000u309",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-17T14:35:19.685809+00:00"
+    "hora_consulta_utc": "2026-10-17T14:40:19.560078+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-17T14:35:19.685809+00:00",
-  "combined_after_dedup": 2931
+  "updated_utc": "2026-10-17T14:40:19.560078+00:00",
+  "combined_after_dedup": 2932
 }
