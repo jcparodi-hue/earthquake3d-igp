@@ -28095,7 +28095,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-739",
     "fecha_primera_recepcion": "2026-10-17T14:00:23.143413+00:00",
-    "fecha_ultima_observacion": "2026-10-17T14:15:20.666753+00:00"
+    "fecha_ultima_observacion": "2026-10-17T14:18:23.209452+00:00"
   },
   "EMSC:20261017_0000174": {
     "id": "20261017_0000174",
@@ -28124,5 +28124,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261017_0000176",
     "fecha_primera_recepcion": "2026-10-17T14:15:20.666753+00:00",
     "fecha_ultima_observacion": "2026-10-17T14:15:20.666753+00:00"
+  },
+  "EMSC:20261017_0000177": {
+    "id": "20261017_0000177",
+    "fecha_hora_utc": "2026-10-17T14:12:47+00:00",
+    "magnitud": 3.1,
+    "profundidad_km": 136.7,
+    "latitud": -21.31,
+    "longitud": -68.37,
+    "pais": "",
+    "ciudad_referencia": "ANTOFAGASTA, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261017_0000177",
+    "fecha_primera_recepcion": "2026-10-17T14:18:23.209452+00:00",
+    "fecha_ultima_observacion": "2026-10-17T14:18:23.209452+00:00"
+  },
+  "USGS:us6000u309": {
+    "id": "us6000u309",
+    "fecha_hora_utc": "2026-10-17T13:59:34.575000+00:00",
+    "magnitud": 5.2,
+    "profundidad_km": 10.0,
+    "latitud": 14.0469,
+    "longitud": -92.8552,
+    "pais": "",
+    "ciudad_referencia": "86 km SW of Brisas Barra de Suchiate, Mexico",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u309",
+    "fecha_primera_recepcion": "2026-10-17T14:18:23.209452+00:00",
+    "fecha_ultima_observacion": "2026-10-17T14:18:23.209452+00:00"
   }
 }
