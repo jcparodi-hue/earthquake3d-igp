@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-17T03:50:17.605909+00:00",
+  "actualizado_utc": "2026-10-17T03:55:17.450484+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 46,
   "actualizacion_minutos": 5,
   "igp": 46,
-  "emsc": 2835,
-  "usgs": 539,
-  "duplicados_eliminados": 513,
-  "eventos_publicados": 2907,
-  "evento_mas_reciente_utc": "2026-10-17T03:37:39.130000+00:00",
+  "emsc": 2836,
+  "usgs": 540,
+  "duplicados_eliminados": 514,
+  "eventos_publicados": 2908,
+  "evento_mas_reciente_utc": "2026-10-17T03:37:39.280000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 17,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-15T20:08:22+00:00",
-      "antiguedad_evento_mas_reciente_min": 1901.9
+      "antiguedad_evento_mas_reciente_min": 1906.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2835,
-      "eventos_recibidos": 2838,
+      "eventos_validos": 2836,
+      "eventos_recibidos": 2839,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-17T03:37:39.130000+00:00",
-      "antiguedad_evento_mas_reciente_min": 12.6
+      "evento_mas_reciente_utc": "2026-10-17T03:37:39.280000+00:00",
+      "antiguedad_evento_mas_reciente_min": 17.6
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 539,
-      "eventos_recibidos": 543,
+      "eventos_validos": 540,
+      "eventos_recibidos": 544,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-17T03:37:39.130000+00:00",
-      "antiguedad_evento_mas_reciente_min": 12.6
+      "evento_mas_reciente_utc": "2026-10-17T03:37:39.280000+00:00",
+      "antiguedad_evento_mas_reciente_min": 17.6
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261017_0000036",
-      "fecha_hora_utc": "2026-10-17T03:37:39.130000+00:00",
-      "magnitud": 3.3,
-      "profundidad_km": 39.0,
-      "latitud": 47.9143,
-      "longitud": -124.1298,
+      "fecha_hora_utc": "2026-10-17T03:37:39.280000+00:00",
+      "magnitud": 3.2,
+      "profundidad_km": 37.7,
+      "latitud": 47.9213,
+      "longitud": -124.1137,
       "pais": "",
       "ciudad_referencia": "OLYMPIC PENINSULA, WASHINGTON",
       "fuente": "EMSC",
@@ -66,13 +66,13 @@
     },
     "usgs": {
       "id": "uw714121212",
-      "fecha_hora_utc": "2026-10-17T03:37:39.130000+00:00",
-      "magnitud": 3.27076458930969,
-      "profundidad_km": 38.9900016784668,
-      "latitud": 47.9143333435059,
-      "longitud": -124.129837036133,
+      "fecha_hora_utc": "2026-10-17T03:37:39.280000+00:00",
+      "magnitud": 3.17,
+      "profundidad_km": 37.67,
+      "latitud": 47.9213333333333,
+      "longitud": -124.113666666667,
       "pais": "",
-      "ciudad_referencia": "19 km ESE of Forks, Washington",
+      "ciudad_referencia": "20 km E of Forks, Washington",
       "fuente": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714121212"
     }
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-17T03:50:17.605909+00:00"
+    "hora_consulta_utc": "2026-10-17T03:55:17.450484+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-17T03:50:17.605909+00:00",
-  "combined_after_dedup": 2907
+  "updated_utc": "2026-10-17T03:55:17.450484+00:00",
+  "combined_after_dedup": 2908
 }

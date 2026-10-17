@@ -24581,7 +24581,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-736",
     "fecha_primera_recepcion": "2026-10-15T23:05:18.340908+00:00",
-    "fecha_ultima_observacion": "2026-10-17T03:50:17.605909+00:00"
+    "fecha_ultima_observacion": "2026-10-17T03:55:17.450484+00:00"
   },
   "EMSC:20261015_0000331": {
     "id": "20261015_0000331",
@@ -27091,30 +27091,30 @@
   },
   "EMSC:20261017_0000036": {
     "id": "20261017_0000036",
-    "fecha_hora_utc": "2026-10-17T03:37:39.130000+00:00",
-    "magnitud": 3.3,
-    "profundidad_km": 39.0,
-    "latitud": 47.9143,
-    "longitud": -124.1298,
+    "fecha_hora_utc": "2026-10-17T03:37:39.280000+00:00",
+    "magnitud": 3.2,
+    "profundidad_km": 37.7,
+    "latitud": 47.9213,
+    "longitud": -124.1137,
     "pais": "",
     "ciudad_referencia": "OLYMPIC PENINSULA, WASHINGTON",
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261017_0000036",
     "fecha_primera_recepcion": "2026-10-17T03:45:17.727558+00:00",
-    "fecha_ultima_observacion": "2026-10-17T03:50:17.605909+00:00"
+    "fecha_ultima_observacion": "2026-10-17T03:55:17.450484+00:00"
   },
   "USGS:uw714121212": {
     "id": "uw714121212",
-    "fecha_hora_utc": "2026-10-17T03:37:39.130000+00:00",
-    "magnitud": 3.27076458930969,
-    "profundidad_km": 38.9900016784668,
-    "latitud": 47.9143333435059,
-    "longitud": -124.129837036133,
+    "fecha_hora_utc": "2026-10-17T03:37:39.280000+00:00",
+    "magnitud": 3.17,
+    "profundidad_km": 37.67,
+    "latitud": 47.9213333333333,
+    "longitud": -124.113666666667,
     "pais": "",
-    "ciudad_referencia": "19 km ESE of Forks, Washington",
+    "ciudad_referencia": "20 km E of Forks, Washington",
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714121212",
     "fecha_primera_recepcion": "2026-10-17T03:45:17.727558+00:00",
-    "fecha_ultima_observacion": "2026-10-17T03:50:17.605909+00:00"
+    "fecha_ultima_observacion": "2026-10-17T03:55:17.450484+00:00"
   }
 }
