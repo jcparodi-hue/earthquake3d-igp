@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-17T18:25:18.718117+00:00",
+  "actualizado_utc": "2026-10-17T18:29:18.346994+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 50,
   "actualizacion_minutos": 5,
   "igp": 50,
-  "emsc": 2848,
-  "usgs": 533,
-  "duplicados_eliminados": 514,
-  "eventos_publicados": 2917,
-  "evento_mas_reciente_utc": "2026-10-17T18:03:44+00:00",
+  "emsc": 2850,
+  "usgs": 534,
+  "duplicados_eliminados": 515,
+  "eventos_publicados": 2919,
+  "evento_mas_reciente_utc": "2026-10-17T18:22:22+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 18,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-17T15:19:09+00:00",
-      "antiguedad_evento_mas_reciente_min": 186.2
+      "antiguedad_evento_mas_reciente_min": 190.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2848,
-      "eventos_recibidos": 2851,
+      "eventos_validos": 2850,
+      "eventos_recibidos": 2853,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-17T18:03:44+00:00",
-      "antiguedad_evento_mas_reciente_min": 21.6
+      "evento_mas_reciente_utc": "2026-10-17T18:22:22+00:00",
+      "antiguedad_evento_mas_reciente_min": 6.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 533,
-      "eventos_recibidos": 537,
+      "eventos_validos": 534,
+      "eventos_recibidos": 538,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-17T16:41:36.132000+00:00",
-      "antiguedad_evento_mas_reciente_min": 103.7
+      "evento_mas_reciente_utc": "2026-10-17T16:52:45.164000+00:00",
+      "antiguedad_evento_mas_reciente_min": 96.6
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-740"
     },
     "emsc": {
-      "id": "20261017_0000223",
-      "fecha_hora_utc": "2026-10-17T18:03:44+00:00",
-      "magnitud": 2.7,
-      "profundidad_km": 4.0,
-      "latitud": 9.3306,
-      "longitud": -84.4484,
+      "id": "20261017_0000226",
+      "fecha_hora_utc": "2026-10-17T18:22:22+00:00",
+      "magnitud": 2.8,
+      "profundidad_km": 19.0,
+      "latitud": 8.6262,
+      "longitud": -84.4489,
       "pais": "",
-      "ciudad_referencia": "COSTA RICA",
+      "ciudad_referencia": "OFF COAST OF COSTA RICA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261017_0000223"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261017_0000226"
     },
     "usgs": {
-      "id": "aka2026upbssm",
-      "fecha_hora_utc": "2026-10-17T16:41:36.132000+00:00",
-      "magnitud": 2.5,
-      "profundidad_km": 53.4,
-      "latitud": 57.306,
-      "longitud": -154.908,
+      "id": "us6000u30x",
+      "fecha_hora_utc": "2026-10-17T16:52:45.164000+00:00",
+      "magnitud": 4.6,
+      "profundidad_km": 189.462,
+      "latitud": -21.1752,
+      "longitud": -67.2144,
       "pais": "",
-      "ciudad_referencia": "39 km SW of Karluk, Alaska",
+      "ciudad_referencia": "88 km SSW of Uyuni, Bolivia",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026upbssm"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u30x"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-17T18:25:18.718117+00:00"
+    "hora_consulta_utc": "2026-10-17T18:29:18.346994+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-17T18:25:18.718117+00:00",
-  "combined_after_dedup": 2917
+  "updated_utc": "2026-10-17T18:29:18.346994+00:00",
+  "combined_after_dedup": 2919
 }

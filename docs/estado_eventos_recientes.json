@@ -28361,7 +28361,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-740",
     "fecha_primera_recepcion": "2026-10-17T16:55:16.060752+00:00",
-    "fecha_ultima_observacion": "2026-10-17T18:25:18.718117+00:00"
+    "fecha_ultima_observacion": "2026-10-17T18:29:18.346994+00:00"
   },
   "EMSC:20261017_0000217": {
     "id": "20261017_0000217",
@@ -28432,5 +28432,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261017_0000223",
     "fecha_primera_recepcion": "2026-10-17T18:10:18.207808+00:00",
     "fecha_ultima_observacion": "2026-10-17T18:25:18.718117+00:00"
+  },
+  "EMSC:20261017_0000226": {
+    "id": "20261017_0000226",
+    "fecha_hora_utc": "2026-10-17T18:22:22+00:00",
+    "magnitud": 2.8,
+    "profundidad_km": 19.0,
+    "latitud": 8.6262,
+    "longitud": -84.4489,
+    "pais": "",
+    "ciudad_referencia": "OFF COAST OF COSTA RICA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261017_0000226",
+    "fecha_primera_recepcion": "2026-10-17T18:29:18.346994+00:00",
+    "fecha_ultima_observacion": "2026-10-17T18:29:18.346994+00:00"
+  },
+  "USGS:us6000u30x": {
+    "id": "us6000u30x",
+    "fecha_hora_utc": "2026-10-17T16:52:45.164000+00:00",
+    "magnitud": 4.6,
+    "profundidad_km": 189.462,
+    "latitud": -21.1752,
+    "longitud": -67.2144,
+    "pais": "",
+    "ciudad_referencia": "88 km SSW of Uyuni, Bolivia",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u30x",
+    "fecha_primera_recepcion": "2026-10-17T18:29:18.346994+00:00",
+    "fecha_ultima_observacion": "2026-10-17T18:29:18.346994+00:00"
   }
 }
