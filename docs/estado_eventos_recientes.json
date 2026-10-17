@@ -27353,7 +27353,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-738",
     "fecha_primera_recepcion": "2026-10-17T06:15:20.154877+00:00",
-    "fecha_ultima_observacion": "2026-10-17T12:40:17.501678+00:00"
+    "fecha_ultima_observacion": "2026-10-17T12:45:19.209337+00:00"
   },
   "EMSC:20261017_0000073": {
     "id": "20261017_0000073",
@@ -27997,6 +27997,20 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2zv",
     "fecha_primera_recepcion": "2026-10-17T12:20:21.695230+00:00",
-    "fecha_ultima_observacion": "2026-10-17T12:40:17.501678+00:00"
+    "fecha_ultima_observacion": "2026-10-17T12:45:19.209337+00:00"
+  },
+  "EMSC:20261017_0000155": {
+    "id": "20261017_0000155",
+    "fecha_hora_utc": "2026-10-17T12:27:21+00:00",
+    "magnitud": 3.5,
+    "profundidad_km": 9.0,
+    "latitud": 13.992,
+    "longitud": -93.013,
+    "pais": "",
+    "ciudad_referencia": "OFF COAST OF CHIAPAS, MEXICO",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261017_0000155",
+    "fecha_primera_recepcion": "2026-10-17T12:45:19.209337+00:00",
+    "fecha_ultima_observacion": "2026-10-17T12:45:19.209337+00:00"
   }
 }
