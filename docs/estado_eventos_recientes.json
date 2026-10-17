@@ -24581,7 +24581,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-736",
     "fecha_primera_recepcion": "2026-10-15T23:05:18.340908+00:00",
-    "fecha_ultima_observacion": "2026-10-17T01:17:04.701684+00:00"
+    "fecha_ultima_observacion": "2026-10-17T01:20:16.618632+00:00"
   },
   "EMSC:20261015_0000331": {
     "id": "20261015_0000331",
@@ -26891,6 +26891,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261017_0000006",
     "fecha_primera_recepcion": "2026-10-17T01:15:17.964663+00:00",
-    "fecha_ultima_observacion": "2026-10-17T01:17:04.701684+00:00"
+    "fecha_ultima_observacion": "2026-10-17T01:20:16.618632+00:00"
+  },
+  "USGS:us6000u2x7": {
+    "id": "us6000u2x7",
+    "fecha_hora_utc": "2026-10-17T01:03:00.020000+00:00",
+    "magnitud": 4.9,
+    "profundidad_km": 10.0,
+    "latitud": 14.0576,
+    "longitud": -93.2479,
+    "pais": "",
+    "ciudad_referencia": "115 km SW of Puerto Madero, Mexico",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2x7",
+    "fecha_primera_recepcion": "2026-10-17T01:20:16.618632+00:00",
+    "fecha_ultima_observacion": "2026-10-17T01:20:16.618632+00:00"
   }
 }
