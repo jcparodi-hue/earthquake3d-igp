@@ -1,13 +1,13 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-18T20:35:17.545918+00:00",
+  "actualizado_utc": "2026-10-18T20:40:22.539993+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 50,
   "actualizacion_minutos": 5,
   "igp": 50,
   "emsc": 2845,
-  "usgs": 521,
-  "duplicados_eliminados": 504,
+  "usgs": 522,
+  "duplicados_eliminados": 505,
   "eventos_publicados": 2912,
   "evento_mas_reciente_utc": "2026-10-18T20:28:04+00:00",
   "salud_fuentes": {
@@ -18,7 +18,7 @@
       "eventos_recibidos": 16,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-17T15:19:09+00:00",
-      "antiguedad_evento_mas_reciente_min": 1756.1
+      "antiguedad_evento_mas_reciente_min": 1761.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -27,16 +27,16 @@
       "eventos_recibidos": 2850,
       "invalidos_rechazados": 5,
       "evento_mas_reciente_utc": "2026-10-18T20:28:04+00:00",
-      "antiguedad_evento_mas_reciente_min": 7.2
+      "antiguedad_evento_mas_reciente_min": 12.3
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 521,
-      "eventos_recibidos": 528,
+      "eventos_validos": 522,
+      "eventos_recibidos": 529,
       "invalidos_rechazados": 7,
-      "evento_mas_reciente_utc": "2026-10-18T19:32:28.734000+00:00",
-      "antiguedad_evento_mas_reciente_min": 62.8
+      "evento_mas_reciente_utc": "2026-10-18T20:02:48.202000+00:00",
+      "antiguedad_evento_mas_reciente_min": 37.6
     }
   },
   "ultimo_evento": {
@@ -65,24 +65,24 @@
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261018_0000243"
     },
     "usgs": {
-      "id": "us6000u37h",
-      "fecha_hora_utc": "2026-10-18T19:32:28.734000+00:00",
-      "magnitud": 5.2,
-      "profundidad_km": 10.0,
-      "latitud": -21.541,
-      "longitud": -174.2956,
+      "id": "us6000u37m",
+      "fecha_hora_utc": "2026-10-18T20:02:48.202000+00:00",
+      "magnitud": 2.5,
+      "profundidad_km": 4.454,
+      "latitud": 31.9755,
+      "longitud": -103.2863,
       "pais": "",
-      "ciudad_referencia": "71 km ESE of ‘Ohonua, Tonga",
+      "ciudad_referencia": "17 km SSW of Jal, New Mexico",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u37h"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u37m"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-18T20:35:17.545918+00:00"
+    "hora_consulta_utc": "2026-10-18T20:40:22.539993+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-18T20:35:17.545918+00:00",
+  "updated_utc": "2026-10-18T20:40:22.539993+00:00",
   "combined_after_dedup": 2912
 }
