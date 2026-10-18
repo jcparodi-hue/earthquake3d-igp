@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-18T16:05:19.408909+00:00",
+  "actualizado_utc": "2026-10-18T16:10:21.928395+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 50,
   "actualizacion_minutos": 5,
   "igp": 50,
-  "emsc": 2850,
+  "emsc": 2852,
   "usgs": 521,
   "duplicados_eliminados": 502,
-  "eventos_publicados": 2919,
-  "evento_mas_reciente_utc": "2026-10-18T15:55:25+00:00",
+  "eventos_publicados": 2921,
+  "evento_mas_reciente_utc": "2026-10-18T16:03:10+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 16,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-17T15:19:09+00:00",
-      "antiguedad_evento_mas_reciente_min": 1486.2
+      "antiguedad_evento_mas_reciente_min": 1491.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2850,
-      "eventos_recibidos": 2853,
+      "eventos_validos": 2852,
+      "eventos_recibidos": 2855,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-18T15:55:25+00:00",
-      "antiguedad_evento_mas_reciente_min": 9.9
+      "evento_mas_reciente_utc": "2026-10-18T16:03:10+00:00",
+      "antiguedad_evento_mas_reciente_min": 7.2
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 526,
       "invalidos_rechazados": 5,
       "evento_mas_reciente_utc": "2026-10-18T15:35:47.580000+00:00",
-      "antiguedad_evento_mas_reciente_min": 29.5
+      "antiguedad_evento_mas_reciente_min": 34.6
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-740"
     },
     "emsc": {
-      "id": "20261018_0000182",
-      "fecha_hora_utc": "2026-10-18T15:55:25+00:00",
-      "magnitud": 2.8,
-      "profundidad_km": 39.0,
-      "latitud": -7.44,
-      "longitud": 106.7,
+      "id": "20261018_0000185",
+      "fecha_hora_utc": "2026-10-18T16:03:10+00:00",
+      "magnitud": 2.7,
+      "profundidad_km": 26.0,
+      "latitud": -9.72,
+      "longitud": 121.85,
       "pais": "",
-      "ciudad_referencia": "JAVA, INDONESIA",
+      "ciudad_referencia": "SAVU SEA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261018_0000182"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261018_0000185"
     },
     "usgs": {
       "id": "us6000u36d",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-18T16:05:19.408909+00:00"
+    "hora_consulta_utc": "2026-10-18T16:10:21.928395+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-18T16:05:19.408909+00:00",
-  "combined_after_dedup": 2919
+  "updated_utc": "2026-10-18T16:10:21.928395+00:00",
+  "combined_after_dedup": 2921
 }
