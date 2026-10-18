@@ -28361,7 +28361,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-740",
     "fecha_primera_recepcion": "2026-10-17T16:55:16.060752+00:00",
-    "fecha_ultima_observacion": "2026-10-18T01:30:22.392394+00:00"
+    "fecha_ultima_observacion": "2026-10-18T01:35:20.368140+00:00"
   },
   "EMSC:20261017_0000217": {
     "id": "20261017_0000217",
@@ -29131,6 +29131,20 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u32r",
     "fecha_primera_recepcion": "2026-10-18T01:15:00.326987+00:00",
-    "fecha_ultima_observacion": "2026-10-18T01:30:22.392394+00:00"
+    "fecha_ultima_observacion": "2026-10-18T01:35:20.368140+00:00"
+  },
+  "EMSC:20261018_0000012": {
+    "id": "20261018_0000012",
+    "fecha_hora_utc": "2026-10-18T01:20:19+00:00",
+    "magnitud": 2.7,
+    "profundidad_km": 5.1,
+    "latitud": 38.0947,
+    "longitud": 37.441,
+    "pais": "",
+    "ciudad_referencia": "CENTRAL TURKEY",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261018_0000012",
+    "fecha_primera_recepcion": "2026-10-18T01:35:20.368140+00:00",
+    "fecha_ultima_observacion": "2026-10-18T01:35:20.368140+00:00"
   }
 }

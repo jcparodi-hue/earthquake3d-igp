@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-18T01:30:22.392394+00:00",
+  "actualizado_utc": "2026-10-18T01:35:20.368140+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 50,
   "actualizacion_minutos": 5,
   "igp": 50,
-  "emsc": 2855,
+  "emsc": 2856,
   "usgs": 530,
   "duplicados_eliminados": 513,
-  "eventos_publicados": 2922,
-  "evento_mas_reciente_utc": "2026-10-18T00:59:02+00:00",
+  "eventos_publicados": 2923,
+  "evento_mas_reciente_utc": "2026-10-18T01:20:19+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 17,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-17T15:19:09+00:00",
-      "antiguedad_evento_mas_reciente_min": 611.2
+      "antiguedad_evento_mas_reciente_min": 616.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2855,
-      "eventos_recibidos": 2858,
+      "eventos_validos": 2856,
+      "eventos_recibidos": 2859,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-18T00:59:02+00:00",
-      "antiguedad_evento_mas_reciente_min": 31.3
+      "evento_mas_reciente_utc": "2026-10-18T01:20:19+00:00",
+      "antiguedad_evento_mas_reciente_min": 15.0
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 535,
       "invalidos_rechazados": 5,
       "evento_mas_reciente_utc": "2026-10-18T00:28:29.111000+00:00",
-      "antiguedad_evento_mas_reciente_min": 61.9
+      "antiguedad_evento_mas_reciente_min": 66.9
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-740"
     },
     "emsc": {
-      "id": "20261018_0000011",
-      "fecha_hora_utc": "2026-10-18T00:59:02+00:00",
-      "magnitud": 3.2,
-      "profundidad_km": 20.0,
-      "latitud": 8.3033,
-      "longitud": -84.1517,
+      "id": "20261018_0000012",
+      "fecha_hora_utc": "2026-10-18T01:20:19+00:00",
+      "magnitud": 2.7,
+      "profundidad_km": 5.1,
+      "latitud": 38.0947,
+      "longitud": 37.441,
       "pais": "",
-      "ciudad_referencia": "OFF COAST OF COSTA RICA",
+      "ciudad_referencia": "CENTRAL TURKEY",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261018_0000011"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261018_0000012"
     },
     "usgs": {
       "id": "us6000u32r",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-18T01:30:22.392394+00:00"
+    "hora_consulta_utc": "2026-10-18T01:35:20.368140+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-18T01:30:22.392394+00:00",
-  "combined_after_dedup": 2922
+  "updated_utc": "2026-10-18T01:35:20.368140+00:00",
+  "combined_after_dedup": 2923
 }
