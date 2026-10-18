@@ -28361,7 +28361,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-740",
     "fecha_primera_recepcion": "2026-10-17T16:55:16.060752+00:00",
-    "fecha_ultima_observacion": "2026-10-18T15:50:22.621632+00:00"
+    "fecha_ultima_observacion": "2026-10-18T15:55:16.061095+00:00"
   },
   "EMSC:20261017_0000217": {
     "id": "20261017_0000217",
@@ -30181,6 +30181,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261018_0000181",
     "fecha_primera_recepcion": "2026-10-18T15:50:22.621632+00:00",
-    "fecha_ultima_observacion": "2026-10-18T15:50:22.621632+00:00"
+    "fecha_ultima_observacion": "2026-10-18T15:55:16.061095+00:00"
+  },
+  "USGS:us6000u36d": {
+    "id": "us6000u36d",
+    "fecha_hora_utc": "2026-10-18T15:35:47.580000+00:00",
+    "magnitud": 4.7,
+    "profundidad_km": 149.951,
+    "latitud": 17.2531,
+    "longitud": -63.0065,
+    "pais": "",
+    "ciudad_referencia": "20 km SW of Sandy Point Town, Saint Kitts and Nevis",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u36d",
+    "fecha_primera_recepcion": "2026-10-18T15:55:16.061095+00:00",
+    "fecha_ultima_observacion": "2026-10-18T15:55:16.061095+00:00"
   }
 }
