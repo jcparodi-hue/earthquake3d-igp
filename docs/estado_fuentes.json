@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-18T04:10:21.880355+00:00",
+  "actualizado_utc": "2026-10-18T04:15:20.679539+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 50,
   "actualizacion_minutos": 5,
   "igp": 50,
   "emsc": 2875,
-  "usgs": 529,
-  "duplicados_eliminados": 512,
+  "usgs": 528,
+  "duplicados_eliminados": 511,
   "eventos_publicados": 2942,
-  "evento_mas_reciente_utc": "2026-10-18T04:05:46.647967+00:00",
+  "evento_mas_reciente_utc": "2026-10-18T04:06:19+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 17,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-17T15:19:09+00:00",
-      "antiguedad_evento_mas_reciente_min": 771.2
+      "antiguedad_evento_mas_reciente_min": 776.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2875,
       "eventos_recibidos": 2878,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-18T04:05:46.647967+00:00",
-      "antiguedad_evento_mas_reciente_min": 4.6
+      "evento_mas_reciente_utc": "2026-10-18T04:06:19+00:00",
+      "antiguedad_evento_mas_reciente_min": 9.0
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 529,
-      "eventos_recibidos": 534,
+      "eventos_validos": 528,
+      "eventos_recibidos": 533,
       "invalidos_rechazados": 5,
       "evento_mas_reciente_utc": "2026-10-18T04:05:46.635000+00:00",
-      "antiguedad_evento_mas_reciente_min": 4.6
+      "antiguedad_evento_mas_reciente_min": 9.6
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-740"
     },
     "emsc": {
-      "id": "20261018_0000048",
-      "fecha_hora_utc": "2026-10-18T04:05:46.647967+00:00",
+      "id": "20261018_0000050",
+      "fecha_hora_utc": "2026-10-18T04:06:19+00:00",
       "magnitud": 2.8,
-      "profundidad_km": 28.7,
-      "latitud": 57.73,
-      "longitud": -153.989,
+      "profundidad_km": 108.0,
+      "latitud": -31.64,
+      "longitud": -66.85,
       "pais": "",
-      "ciudad_referencia": "KODIAK ISLAND REGION, ALASKA",
+      "ciudad_referencia": "LA RIOJA, ARGENTINA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261018_0000048"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261018_0000050"
     },
     "usgs": {
       "id": "aka2026upynvp",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-18T04:10:21.880355+00:00"
+    "hora_consulta_utc": "2026-10-18T04:15:20.679539+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-18T04:10:21.880355+00:00",
+  "updated_utc": "2026-10-18T04:15:20.679539+00:00",
   "combined_after_dedup": 2942
 }
