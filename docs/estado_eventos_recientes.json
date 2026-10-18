@@ -28361,7 +28361,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-740",
     "fecha_primera_recepcion": "2026-10-17T16:55:16.060752+00:00",
-    "fecha_ultima_observacion": "2026-10-18T10:05:19.063906+00:00"
+    "fecha_ultima_observacion": "2026-10-18T10:08:47.932045+00:00"
   },
   "EMSC:20261017_0000217": {
     "id": "20261017_0000217",
@@ -29635,7 +29635,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u34h",
     "fecha_primera_recepcion": "2026-10-18T08:25:17.655814+00:00",
-    "fecha_ultima_observacion": "2026-10-18T10:05:19.063906+00:00"
+    "fecha_ultima_observacion": "2026-10-18T10:08:47.932045+00:00"
   },
   "EMSC:20261018_0000094": {
     "id": "20261018_0000094",
@@ -29748,5 +29748,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261018_0000109",
     "fecha_primera_recepcion": "2026-10-18T10:00:25.577027+00:00",
     "fecha_ultima_observacion": "2026-10-18T10:05:19.063906+00:00"
+  },
+  "EMSC:20261018_0000113": {
+    "id": "20261018_0000113",
+    "fecha_hora_utc": "2026-10-18T10:02:28+00:00",
+    "magnitud": 3.8,
+    "profundidad_km": 99.9,
+    "latitud": 27.5365,
+    "longitud": 83.6143,
+    "pais": "",
+    "ciudad_referencia": "NEPAL-INDIA BORDER REGION",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261018_0000113",
+    "fecha_primera_recepcion": "2026-10-18T10:08:47.932045+00:00",
+    "fecha_ultima_observacion": "2026-10-18T10:08:47.932045+00:00"
   }
 }
