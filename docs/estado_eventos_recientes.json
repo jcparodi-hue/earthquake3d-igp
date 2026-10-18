@@ -28361,7 +28361,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-740",
     "fecha_primera_recepcion": "2026-10-17T16:55:16.060752+00:00",
-    "fecha_ultima_observacion": "2026-10-18T22:40:22.801834+00:00"
+    "fecha_ultima_observacion": "2026-10-18T22:45:19.069979+00:00"
   },
   "EMSC:20261017_0000217": {
     "id": "20261017_0000217",
@@ -30825,6 +30825,20 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u38b",
     "fecha_primera_recepcion": "2026-10-18T22:25:16.921715+00:00",
-    "fecha_ultima_observacion": "2026-10-18T22:40:22.801834+00:00"
+    "fecha_ultima_observacion": "2026-10-18T22:45:19.069979+00:00"
+  },
+  "EMSC:20261018_0000273": {
+    "id": "20261018_0000273",
+    "fecha_hora_utc": "2026-10-18T22:31:44.240000+00:00",
+    "magnitud": 5.2,
+    "profundidad_km": 10.0,
+    "latitud": -5.36,
+    "longitud": 152.637,
+    "pais": "",
+    "ciudad_referencia": "NEW BRITAIN REGION, P.N.G.",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261018_0000273",
+    "fecha_primera_recepcion": "2026-10-18T22:45:19.069979+00:00",
+    "fecha_ultima_observacion": "2026-10-18T22:45:19.069979+00:00"
   }
 }
