@@ -28361,7 +28361,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-740",
     "fecha_primera_recepcion": "2026-10-17T16:55:16.060752+00:00",
-    "fecha_ultima_observacion": "2026-10-18T14:30:23.030533+00:00"
+    "fecha_ultima_observacion": "2026-10-18T14:35:16.540224+00:00"
   },
   "EMSC:20261017_0000217": {
     "id": "20261017_0000217",
@@ -30083,6 +30083,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261018_0000164",
     "fecha_primera_recepcion": "2026-10-18T14:18:20.339617+00:00",
-    "fecha_ultima_observacion": "2026-10-18T14:30:23.030533+00:00"
+    "fecha_ultima_observacion": "2026-10-18T14:35:16.540224+00:00"
+  },
+  "USGS:aka2026uqthqx": {
+    "id": "aka2026uqthqx",
+    "fecha_hora_utc": "2026-10-18T14:28:15.002000+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 145.4,
+    "latitud": 60.274,
+    "longitud": -153.053,
+    "pais": "",
+    "ciudad_referencia": "70 km E of Port Alsworth, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uqthqx",
+    "fecha_primera_recepcion": "2026-10-18T14:35:16.540224+00:00",
+    "fecha_ultima_observacion": "2026-10-18T14:35:16.540224+00:00"
   }
 }
