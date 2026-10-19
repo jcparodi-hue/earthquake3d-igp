@@ -32183,7 +32183,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-742",
     "fecha_primera_recepcion": "2026-10-19T14:05:20.328293+00:00",
-    "fecha_ultima_observacion": "2026-10-19T16:20:20.872170+00:00"
+    "fecha_ultima_observacion": "2026-10-19T16:25:17.042440+00:00"
   },
   "EMSC:20261019_0000187": {
     "id": "20261019_0000187",
@@ -32365,7 +32365,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3d2",
     "fecha_primera_recepcion": "2026-10-19T16:00:29.526319+00:00",
-    "fecha_ultima_observacion": "2026-10-19T16:20:20.872170+00:00"
+    "fecha_ultima_observacion": "2026-10-19T16:25:17.042440+00:00"
   },
   "EMSC:20261019_0000233": {
     "id": "20261019_0000233",
@@ -32408,5 +32408,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000237",
     "fecha_primera_recepcion": "2026-10-19T16:15:19.398572+00:00",
     "fecha_ultima_observacion": "2026-10-19T16:20:20.872170+00:00"
+  },
+  "EMSC:20261019_0000240": {
+    "id": "20261019_0000240",
+    "fecha_hora_utc": "2026-10-19T16:12:09+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 33.0,
+    "latitud": 12.447,
+    "longitud": -87.798,
+    "pais": "",
+    "ciudad_referencia": "NEAR COAST OF NICARAGUA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000240",
+    "fecha_primera_recepcion": "2026-10-19T16:25:17.042440+00:00",
+    "fecha_ultima_observacion": "2026-10-19T16:25:17.042440+00:00"
   }
 }
