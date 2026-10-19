@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-19T03:30:23.276205+00:00",
+  "actualizado_utc": "2026-10-19T03:35:19.287346+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 51,
   "actualizacion_minutos": 5,
   "igp": 51,
-  "emsc": 2860,
+  "emsc": 2862,
   "usgs": 522,
   "duplicados_eliminados": 509,
-  "eventos_publicados": 2924,
-  "evento_mas_reciente_utc": "2026-10-19T03:14:50.130000+00:00",
+  "eventos_publicados": 2926,
+  "evento_mas_reciente_utc": "2026-10-19T03:31:30.320000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 17,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-18T23:01:10+00:00",
-      "antiguedad_evento_mas_reciente_min": 269.2
+      "antiguedad_evento_mas_reciente_min": 274.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2860,
-      "eventos_recibidos": 2864,
+      "eventos_validos": 2862,
+      "eventos_recibidos": 2866,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-19T03:14:50.130000+00:00",
-      "antiguedad_evento_mas_reciente_min": 15.6
+      "evento_mas_reciente_utc": "2026-10-19T03:31:30.320000+00:00",
+      "antiguedad_evento_mas_reciente_min": 3.8
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 529,
       "invalidos_rechazados": 7,
       "evento_mas_reciente_utc": "2026-10-19T00:52:37.998000+00:00",
-      "antiguedad_evento_mas_reciente_min": 157.8
+      "antiguedad_evento_mas_reciente_min": 162.7
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-741"
     },
     "emsc": {
-      "id": "20261019_0000037",
-      "fecha_hora_utc": "2026-10-19T03:14:50.130000+00:00",
-      "magnitud": 2.6,
-      "profundidad_km": 10.9,
-      "latitud": 38.7199,
-      "longitud": 20.5705,
+      "id": "20261019_0000040",
+      "fecha_hora_utc": "2026-10-19T03:31:30.320000+00:00",
+      "magnitud": 3.5,
+      "profundidad_km": 10.0,
+      "latitud": 37.2455,
+      "longitud": -1.9914,
       "pais": "",
-      "ciudad_referencia": "GREECE",
+      "ciudad_referencia": "SPAIN",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000037"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000040"
     },
     "usgs": {
       "id": "tx2026uogbla",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-19T03:30:23.276205+00:00"
+    "hora_consulta_utc": "2026-10-19T03:35:19.287346+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-19T03:30:23.276205+00:00",
-  "combined_after_dedup": 2924
+  "updated_utc": "2026-10-19T03:35:19.287346+00:00",
+  "combined_after_dedup": 2926
 }
