@@ -32183,7 +32183,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-742",
     "fecha_primera_recepcion": "2026-10-19T14:05:20.328293+00:00",
-    "fecha_ultima_observacion": "2026-10-19T18:40:20.375224+00:00"
+    "fecha_ultima_observacion": "2026-10-19T18:44:38.435729+00:00"
   },
   "EMSC:20261019_0000187": {
     "id": "20261019_0000187",
@@ -32719,17 +32719,17 @@
   },
   "EMSC:20261019_0000284": {
     "id": "20261019_0000284",
-    "fecha_hora_utc": "2026-10-19T18:31:41+00:00",
-    "magnitud": 3.0,
-    "profundidad_km": 117.6,
-    "latitud": 26.4967,
-    "longitud": 96.2886,
+    "fecha_hora_utc": "2026-10-19T18:31:43+00:00",
+    "magnitud": 3.2,
+    "profundidad_km": 103.0,
+    "latitud": 26.531,
+    "longitud": 96.201,
     "pais": "",
     "ciudad_referencia": "MYANMAR",
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000284",
     "fecha_primera_recepcion": "2026-10-19T18:40:20.375224+00:00",
-    "fecha_ultima_observacion": "2026-10-19T18:40:20.375224+00:00"
+    "fecha_ultima_observacion": "2026-10-19T18:44:38.435729+00:00"
   },
   "USGS:tx2026upoxoa": {
     "id": "tx2026upoxoa",
@@ -32744,5 +32744,19 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026upoxoa",
     "fecha_primera_recepcion": "2026-10-19T18:40:20.375224+00:00",
     "fecha_ultima_observacion": "2026-10-19T18:40:20.375224+00:00"
+  },
+  "USGS:us6000u3g6": {
+    "id": "us6000u3g6",
+    "fecha_hora_utc": "2026-10-19T18:27:46.554000+00:00",
+    "magnitud": 4.8,
+    "profundidad_km": 156.799,
+    "latitud": -15.6727,
+    "longitud": -174.5697,
+    "pais": "",
+    "ciudad_referencia": "88 km WNW of Hihifo, Tonga",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3g6",
+    "fecha_primera_recepcion": "2026-10-19T18:44:38.435729+00:00",
+    "fecha_ultima_observacion": "2026-10-19T18:44:38.435729+00:00"
   }
 }
