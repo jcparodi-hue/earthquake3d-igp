@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-19T06:20:18.839582+00:00",
+  "actualizado_utc": "2026-10-19T06:25:22.036627+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 51,
   "actualizacion_minutos": 5,
@@ -9,7 +9,7 @@
   "usgs": 525,
   "duplicados_eliminados": 509,
   "eventos_publicados": 2919,
-  "evento_mas_reciente_utc": "2026-10-19T05:56:37+00:00",
+  "evento_mas_reciente_utc": "2026-10-19T06:18:09+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 16,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-18T23:01:10+00:00",
-      "antiguedad_evento_mas_reciente_min": 439.1
+      "antiguedad_evento_mas_reciente_min": 444.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,8 +26,8 @@
       "eventos_validos": 2852,
       "eventos_recibidos": 2856,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-19T05:56:37+00:00",
-      "antiguedad_evento_mas_reciente_min": 23.7
+      "evento_mas_reciente_utc": "2026-10-19T06:18:09+00:00",
+      "antiguedad_evento_mas_reciente_min": 7.2
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 532,
       "invalidos_rechazados": 7,
       "evento_mas_reciente_utc": "2026-10-19T05:18:36.003000+00:00",
-      "antiguedad_evento_mas_reciente_min": 61.7
+      "antiguedad_evento_mas_reciente_min": 66.8
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-741"
     },
     "emsc": {
-      "id": "20261019_0000064",
-      "fecha_hora_utc": "2026-10-19T05:56:37+00:00",
+      "id": "20261019_0000066",
+      "fecha_hora_utc": "2026-10-19T06:18:09+00:00",
       "magnitud": 2.7,
-      "profundidad_km": 97.4,
-      "latitud": -22.74,
-      "longitud": -68.98,
+      "profundidad_km": 34.0,
+      "latitud": 8.0267,
+      "longitud": -83.2198,
       "pais": "",
-      "ciudad_referencia": "ANTOFAGASTA, CHILE",
+      "ciudad_referencia": "COSTA RICA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000064"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000066"
     },
     "usgs": {
       "id": "us6000u3a8",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-19T06:20:18.839582+00:00"
+    "hora_consulta_utc": "2026-10-19T06:25:22.036627+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-19T06:20:18.839582+00:00",
+  "updated_utc": "2026-10-19T06:25:22.036627+00:00",
   "combined_after_dedup": 2919
 }
