@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-19T17:20:20.869399+00:00",
+  "actualizado_utc": "2026-10-19T17:25:19.812575+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 52,
   "actualizacion_minutos": 5,
   "igp": 52,
-  "emsc": 2887,
-  "usgs": 524,
-  "duplicados_eliminados": 508,
-  "eventos_publicados": 2955,
-  "evento_mas_reciente_utc": "2026-10-19T17:05:39+00:00",
+  "emsc": 2890,
+  "usgs": 525,
+  "duplicados_eliminados": 509,
+  "eventos_publicados": 2958,
+  "evento_mas_reciente_utc": "2026-10-19T17:20:31+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 16,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-19T12:08:10+00:00",
-      "antiguedad_evento_mas_reciente_min": 312.2
+      "antiguedad_evento_mas_reciente_min": 317.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2887,
-      "eventos_recibidos": 2891,
+      "eventos_validos": 2890,
+      "eventos_recibidos": 2894,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-19T17:05:39+00:00",
-      "antiguedad_evento_mas_reciente_min": 14.7
+      "evento_mas_reciente_utc": "2026-10-19T17:20:31+00:00",
+      "antiguedad_evento_mas_reciente_min": 4.8
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 524,
-      "eventos_recibidos": 531,
+      "eventos_validos": 525,
+      "eventos_recibidos": 532,
       "invalidos_rechazados": 7,
       "evento_mas_reciente_utc": "2026-10-19T16:27:45.503000+00:00",
-      "antiguedad_evento_mas_reciente_min": 52.6
+      "antiguedad_evento_mas_reciente_min": 57.6
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-742"
     },
     "emsc": {
-      "id": "20261019_0000256",
-      "fecha_hora_utc": "2026-10-19T17:05:39+00:00",
-      "magnitud": 3.5,
-      "profundidad_km": 55.0,
-      "latitud": 7.7583,
-      "longitud": -80.9753,
+      "id": "20261019_0000259",
+      "fecha_hora_utc": "2026-10-19T17:20:31+00:00",
+      "magnitud": 3.1,
+      "profundidad_km": 42.2,
+      "latitud": -36.52,
+      "longitud": -72.89,
       "pais": "",
-      "ciudad_referencia": "PANAMA",
+      "ciudad_referencia": "BIO-BIO, CHILE",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000256"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000259"
     },
     "usgs": {
       "id": "us6000u3de",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-19T17:20:20.869399+00:00"
+    "hora_consulta_utc": "2026-10-19T17:25:19.812575+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-19T17:20:20.869399+00:00",
-  "combined_after_dedup": 2955
+  "updated_utc": "2026-10-19T17:25:19.812575+00:00",
+  "combined_after_dedup": 2958
 }
