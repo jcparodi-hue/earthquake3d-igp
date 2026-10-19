@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-19T16:05:22.806282+00:00",
+  "actualizado_utc": "2026-10-19T16:09:45.924585+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 52,
   "actualizacion_minutos": 5,
   "igp": 52,
   "emsc": 2877,
-  "usgs": 522,
-  "duplicados_eliminados": 507,
+  "usgs": 521,
+  "duplicados_eliminados": 506,
   "eventos_publicados": 2944,
-  "evento_mas_reciente_utc": "2026-10-19T15:56:10+00:00",
+  "evento_mas_reciente_utc": "2026-10-19T16:00:29+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 16,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-19T12:08:10+00:00",
-      "antiguedad_evento_mas_reciente_min": 237.2
+      "antiguedad_evento_mas_reciente_min": 241.6
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2877,
       "eventos_recibidos": 2881,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-19T15:56:10+00:00",
-      "antiguedad_evento_mas_reciente_min": 9.2
+      "evento_mas_reciente_utc": "2026-10-19T16:00:29+00:00",
+      "antiguedad_evento_mas_reciente_min": 9.3
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 522,
-      "eventos_recibidos": 529,
+      "eventos_validos": 521,
+      "eventos_recibidos": 528,
       "invalidos_rechazados": 7,
       "evento_mas_reciente_utc": "2026-10-19T15:35:36.914000+00:00",
-      "antiguedad_evento_mas_reciente_min": 29.8
+      "antiguedad_evento_mas_reciente_min": 34.2
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-742"
     },
     "emsc": {
-      "id": "20261019_0000233",
-      "fecha_hora_utc": "2026-10-19T15:56:10+00:00",
-      "magnitud": 3.1,
-      "profundidad_km": 90.0,
-      "latitud": -29.73,
-      "longitud": -68.66,
+      "id": "20261019_0000236",
+      "fecha_hora_utc": "2026-10-19T16:00:29+00:00",
+      "magnitud": 3.0,
+      "profundidad_km": 196.1,
+      "latitud": -24.09,
+      "longitud": -67.22,
       "pais": "",
-      "ciudad_referencia": "SAN JUAN, ARGENTINA",
+      "ciudad_referencia": "SALTA, ARGENTINA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000233"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000236"
     },
     "usgs": {
       "id": "us6000u3d2",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-19T16:05:22.806282+00:00"
+    "hora_consulta_utc": "2026-10-19T16:09:45.924585+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-19T16:05:22.806282+00:00",
+  "updated_utc": "2026-10-19T16:09:45.924585+00:00",
   "combined_after_dedup": 2944
 }
