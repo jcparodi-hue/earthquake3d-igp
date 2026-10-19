@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-19T19:40:24.208915+00:00",
+  "actualizado_utc": "2026-10-19T19:45:32.976386+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 52,
   "actualizacion_minutos": 5,
   "igp": 52,
-  "emsc": 2883,
-  "usgs": 523,
-  "duplicados_eliminados": 503,
-  "eventos_publicados": 2955,
-  "evento_mas_reciente_utc": "2026-10-19T19:27:54+00:00",
+  "emsc": 2881,
+  "usgs": 522,
+  "duplicados_eliminados": 502,
+  "eventos_publicados": 2953,
+  "evento_mas_reciente_utc": "2026-10-19T19:31:29+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 16,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-19T12:08:10+00:00",
-      "antiguedad_evento_mas_reciente_min": 452.2
+      "antiguedad_evento_mas_reciente_min": 457.4
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2883,
-      "eventos_recibidos": 2888,
+      "eventos_validos": 2881,
+      "eventos_recibidos": 2886,
       "invalidos_rechazados": 5,
-      "evento_mas_reciente_utc": "2026-10-19T19:27:54+00:00",
-      "antiguedad_evento_mas_reciente_min": 12.5
+      "evento_mas_reciente_utc": "2026-10-19T19:31:29+00:00",
+      "antiguedad_evento_mas_reciente_min": 14.1
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 523,
-      "eventos_recibidos": 529,
+      "eventos_validos": 522,
+      "eventos_recibidos": 528,
       "invalidos_rechazados": 6,
       "evento_mas_reciente_utc": "2026-10-19T18:55:37.471000+00:00",
-      "antiguedad_evento_mas_reciente_min": 44.8
+      "antiguedad_evento_mas_reciente_min": 49.9
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-742"
     },
     "emsc": {
-      "id": "20261019_0000307",
-      "fecha_hora_utc": "2026-10-19T19:27:54+00:00",
+      "id": "20261019_0000311",
+      "fecha_hora_utc": "2026-10-19T19:31:29+00:00",
       "magnitud": 2.7,
-      "profundidad_km": 226.1,
-      "latitud": -21.87,
-      "longitud": -67.71,
+      "profundidad_km": 10.0,
+      "latitud": -8.29,
+      "longitud": 120.63,
       "pais": "",
-      "ciudad_referencia": "POTOSI, BOLIVIA",
+      "ciudad_referencia": "FLORES REGION, INDONESIA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000307"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000311"
     },
     "usgs": {
       "id": "us6000u3ge",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-19T19:40:24.208915+00:00"
+    "hora_consulta_utc": "2026-10-19T19:45:32.976386+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-19T19:40:24.208915+00:00",
-  "combined_after_dedup": 2955
+  "updated_utc": "2026-10-19T19:45:32.976386+00:00",
+  "combined_after_dedup": 2953
 }
