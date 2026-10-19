@@ -32183,7 +32183,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-742",
     "fecha_primera_recepcion": "2026-10-19T14:05:20.328293+00:00",
-    "fecha_ultima_observacion": "2026-10-19T17:30:23.413810+00:00"
+    "fecha_ultima_observacion": "2026-10-19T17:35:18.097159+00:00"
   },
   "EMSC:20261019_0000187": {
     "id": "20261019_0000187",
@@ -32562,5 +32562,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000261",
     "fecha_primera_recepcion": "2026-10-19T17:30:23.413810+00:00",
     "fecha_ultima_observacion": "2026-10-19T17:30:23.413810+00:00"
+  },
+  "EMSC:20261019_0000267": {
+    "id": "20261019_0000267",
+    "fecha_hora_utc": "2026-10-19T17:27:58.731776+00:00",
+    "magnitud": 4.0,
+    "profundidad_km": 19.1,
+    "latitud": -40.5333,
+    "longitud": 176.4058,
+    "pais": "",
+    "ciudad_referencia": "NORTH ISLAND OF NEW ZEALAND",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000267",
+    "fecha_primera_recepcion": "2026-10-19T17:35:18.097159+00:00",
+    "fecha_ultima_observacion": "2026-10-19T17:35:18.097159+00:00"
+  },
+  "USGS:us6000u3fl": {
+    "id": "us6000u3fl",
+    "fecha_hora_utc": "2026-10-19T17:25:28.209000+00:00",
+    "magnitud": 3.3,
+    "profundidad_km": 6.52,
+    "latitud": 32.759,
+    "longitud": -103.4715,
+    "pais": "",
+    "ciudad_referencia": "23 km SSW of Lovington, New Mexico",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3fl",
+    "fecha_primera_recepcion": "2026-10-19T17:35:18.097159+00:00",
+    "fecha_ultima_observacion": "2026-10-19T17:35:18.097159+00:00"
   }
 }
