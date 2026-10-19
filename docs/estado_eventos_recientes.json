@@ -32897,7 +32897,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-744",
     "fecha_primera_recepcion": "2026-10-19T19:50:23.515157+00:00",
-    "fecha_ultima_observacion": "2026-10-19T23:00:32.157664+00:00"
+    "fecha_ultima_observacion": "2026-10-19T23:05:17.422526+00:00"
   },
   "EMSC:20261019_0000313": {
     "id": "20261019_0000313",
@@ -33108,5 +33108,33 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3i2",
     "fecha_primera_recepcion": "2026-10-19T22:35:19.941390+00:00",
     "fecha_ultima_observacion": "2026-10-19T23:00:32.157664+00:00"
+  },
+  "EMSC:20261019_0000358": {
+    "id": "20261019_0000358",
+    "fecha_hora_utc": "2026-10-19T23:02:15.260013+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 107.1,
+    "latitud": 62.891,
+    "longitud": -150.916,
+    "pais": "",
+    "ciudad_referencia": "CENTRAL ALASKA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000358",
+    "fecha_primera_recepcion": "2026-10-19T23:05:17.422526+00:00",
+    "fecha_ultima_observacion": "2026-10-19T23:05:17.422526+00:00"
+  },
+  "USGS:aka2026utglwb": {
+    "id": "aka2026utglwb",
+    "fecha_hora_utc": "2026-10-19T23:02:15.260000+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 107.1,
+    "latitud": 62.891,
+    "longitud": -150.916,
+    "pais": "",
+    "ciudad_referencia": "44 km N of Petersville, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026utglwb",
+    "fecha_primera_recepcion": "2026-10-19T23:05:17.422526+00:00",
+    "fecha_ultima_observacion": "2026-10-19T23:05:17.422526+00:00"
   }
 }
