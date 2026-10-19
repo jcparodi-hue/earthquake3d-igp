@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-19T22:30:26.970441+00:00",
+  "actualizado_utc": "2026-10-19T22:35:19.941390+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 54,
   "actualizacion_minutos": 5,
   "igp": 54,
-  "emsc": 2860,
-  "usgs": 512,
-  "duplicados_eliminados": 492,
-  "eventos_publicados": 2934,
-  "evento_mas_reciente_utc": "2026-10-19T21:37:40.668761+00:00",
+  "emsc": 2861,
+  "usgs": 513,
+  "duplicados_eliminados": 493,
+  "eventos_publicados": 2935,
+  "evento_mas_reciente_utc": "2026-10-19T21:43:36.577000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 18,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-19T16:41:54+00:00",
-      "antiguedad_evento_mas_reciente_min": 348.5
+      "antiguedad_evento_mas_reciente_min": 353.4
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2860,
-      "eventos_recibidos": 2865,
+      "eventos_validos": 2861,
+      "eventos_recibidos": 2866,
       "invalidos_rechazados": 5,
-      "evento_mas_reciente_utc": "2026-10-19T21:37:40.668761+00:00",
-      "antiguedad_evento_mas_reciente_min": 52.8
+      "evento_mas_reciente_utc": "2026-10-19T21:43:36.577000+00:00",
+      "antiguedad_evento_mas_reciente_min": 51.7
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 512,
-      "eventos_recibidos": 518,
+      "eventos_validos": 513,
+      "eventos_recibidos": 519,
       "invalidos_rechazados": 6,
-      "evento_mas_reciente_utc": "2026-10-19T21:11:38.453000+00:00",
-      "antiguedad_evento_mas_reciente_min": 78.8
+      "evento_mas_reciente_utc": "2026-10-19T21:43:36.577000+00:00",
+      "antiguedad_evento_mas_reciente_min": 51.7
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-744"
     },
     "emsc": {
-      "id": "20261019_0000347",
-      "fecha_hora_utc": "2026-10-19T21:37:40.668761+00:00",
-      "magnitud": 3.0,
-      "profundidad_km": 60.0,
-      "latitud": -41.8008,
-      "longitud": 172.697,
+      "id": "20261019_0000351",
+      "fecha_hora_utc": "2026-10-19T21:43:36.577000+00:00",
+      "magnitud": 4.5,
+      "profundidad_km": 102.1,
+      "latitud": 48.4485,
+      "longitud": 153.6468,
       "pais": "",
-      "ciudad_referencia": "SOUTH ISLAND OF NEW ZEALAND",
+      "ciudad_referencia": "KURIL ISLANDS",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000347"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000351"
     },
     "usgs": {
-      "id": "aka2026utctzh",
-      "fecha_hora_utc": "2026-10-19T21:11:38.453000+00:00",
-      "magnitud": 2.8,
-      "profundidad_km": 12.6,
-      "latitud": 61.732,
-      "longitud": -146.171,
+      "id": "us6000u3i2",
+      "fecha_hora_utc": "2026-10-19T21:43:36.577000+00:00",
+      "magnitud": 4.5,
+      "profundidad_km": 102.09,
+      "latitud": 48.4485,
+      "longitud": 153.6468,
       "pais": "",
-      "ciudad_referencia": "39 km S of Tolsona, Alaska",
+      "ciudad_referencia": "Kuril Islands",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026utctzh"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3i2"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-19T22:30:26.970441+00:00"
+    "hora_consulta_utc": "2026-10-19T22:35:19.941390+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-19T22:30:26.970441+00:00",
-  "combined_after_dedup": 2934
+  "updated_utc": "2026-10-19T22:35:19.941390+00:00",
+  "combined_after_dedup": 2935
 }
