@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-19T18:55:21.394092+00:00",
+  "actualizado_utc": "2026-10-19T19:05:19.000506+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 52,
   "actualizacion_minutos": 5,
   "igp": 52,
-  "emsc": 2888,
-  "usgs": 519,
-  "duplicados_eliminados": 503,
-  "eventos_publicados": 2956,
-  "evento_mas_reciente_utc": "2026-10-19T18:38:28+00:00",
+  "emsc": 2884,
+  "usgs": 520,
+  "duplicados_eliminados": 502,
+  "eventos_publicados": 2954,
+  "evento_mas_reciente_utc": "2026-10-19T18:52:41.470000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 16,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-19T12:08:10+00:00",
-      "antiguedad_evento_mas_reciente_min": 407.2
+      "antiguedad_evento_mas_reciente_min": 417.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2888,
-      "eventos_recibidos": 2892,
+      "eventos_validos": 2884,
+      "eventos_recibidos": 2888,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-19T18:38:28+00:00",
-      "antiguedad_evento_mas_reciente_min": 16.9
+      "evento_mas_reciente_utc": "2026-10-19T18:52:41.470000+00:00",
+      "antiguedad_evento_mas_reciente_min": 12.6
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 519,
-      "eventos_recibidos": 526,
+      "eventos_validos": 520,
+      "eventos_recibidos": 527,
       "invalidos_rechazados": 7,
       "evento_mas_reciente_utc": "2026-10-19T18:27:46.554000+00:00",
-      "antiguedad_evento_mas_reciente_min": 27.6
+      "antiguedad_evento_mas_reciente_min": 37.5
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-742"
     },
     "emsc": {
-      "id": "20261019_0000290",
-      "fecha_hora_utc": "2026-10-19T18:38:28+00:00",
-      "magnitud": 3.3,
-      "profundidad_km": 21.0,
-      "latitud": 7.8097,
-      "longitud": -80.6328,
+      "id": "20261019_0000293",
+      "fecha_hora_utc": "2026-10-19T18:52:41.470000+00:00",
+      "magnitud": 5.7,
+      "profundidad_km": 35.0,
+      "latitud": -14.0354,
+      "longitud": 165.5807,
       "pais": "",
-      "ciudad_referencia": "PANAMA",
+      "ciudad_referencia": "VANUATU",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000290"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000293"
     },
     "usgs": {
       "id": "us6000u3g6",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-19T18:55:21.394092+00:00"
+    "hora_consulta_utc": "2026-10-19T19:05:19.000506+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-19T18:55:21.394092+00:00",
-  "combined_after_dedup": 2956
+  "updated_utc": "2026-10-19T19:05:19.000506+00:00",
+  "combined_after_dedup": 2954
 }
