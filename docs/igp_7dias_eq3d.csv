@@ -1,4 +1,5 @@
 YEAR, MON, DAY, HOUR, MIN, DEP, MAG, LAT, LONG, URL   // IGP history + EMSC-RTS + USGS, global rolling 10 days
+2026,10,19,19,40,20.0,3.2,-38.780000,-75.160000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000313
 2026,10,19,19,31,10.0,2.7,-8.290000,120.630000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000311
 2026,10,19,19,27,226.1,2.7,-21.870000,-67.710000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000307
 2026,10,19,19,20,21.0,2.9,8.828400,-83.148600,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000304
@@ -36,6 +37,7 @@ YEAR, MON, DAY, HOUR, MIN, DEP, MAG, LAT, LONG, URL   // IGP history + EMSC-RTS 
 2026,10,19,17,01,233.2,2.6,-22.650000,-67.420000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000257
 2026,10,19,17,00,15.0,3.6,-38.830000,-75.280000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000254
 2026,10,19,16,46,102.0,2.6,-31.416000,-68.791000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000271
+2026,10,19,16,41,145.0,4.5,-7.810000,-74.630000,10,https://ultimosismo.igp.gob.pe/evento/2026-744
 2026,10,19,16,40,16.0,3.7,7.430500,-80.540700,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000253
 2026,10,19,16,35,10.0,3.0,9.083300,-82.218600,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000251
 2026,10,19,16,31,6.0,3.8,7.494300,-80.221900,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000249
@@ -63,7 +65,7 @@ YEAR, MON, DAY, HOUR, MIN, DEP, MAG, LAT, LONG, URL   // IGP history + EMSC-RTS 
 2026,10,19,15,07,12.0,3.2,-8.200000,115.590000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000219
 2026,10,19,15,00,10.0,3.7,-3.500000,140.070000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000215
 2026,10,19,14,56,17.2,3.4,37.627700,21.117100,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000213
-2026,10,19,14,54,16.0,3.7,-4.520000,-77.890000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000214
+2026,10,19,14,54,16.0,3.7,-4.520000,-77.890000,10,https://ultimosismo.igp.gob.pe/evento/2026-743
 2026,10,19,14,49,10.0,2.5,11.151000,-86.297600,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000211
 2026,10,19,14,47,109.7,4.6,14.453600,-91.373000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000235
 2026,10,19,14,44,1.1,5.3,64.617000,-17.477000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000208
@@ -2523,8 +2525,8 @@ YEAR, MON, DAY, HOUR, MIN, DEP, MAG, LAT, LONG, URL   // IGP history + EMSC-RTS 
 2026,10,10,22,46,10.0,2.9,-8.280000,120.600000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261010_0000401
 2026,10,10,22,46,127.2,2.8,-31.770000,-70.100000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261010_0000399
 2026,10,10,22,40,10.0,3.9,2.110000,128.520000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261010_0000396
-2026,10,10,22,38,17.4,3.2,16.543000,-95.236000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261010_0000429
 2026,10,10,22,38,0.0,3.9,28.532000,84.942000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261010_0000469
+2026,10,10,22,38,17.4,3.2,16.543000,-95.236000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261010_0000429
 2026,10,10,22,38,14.0,3.3,18.780000,120.910000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261010_0000402
 2026,10,10,22,35,5.0,4.0,7.700300,-81.366100,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261010_0000394
 2026,10,10,22,33,10.0,4.1,35.370000,26.710000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261010_0000393
@@ -2913,9 +2915,6 @@ YEAR, MON, DAY, HOUR, MIN, DEP, MAG, LAT, LONG, URL   // IGP history + EMSC-RTS 
 2026,10,9,20,14,4.0,4.8,8.371800,-82.445200,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000350
 2026,10,9,20,04,19.0,3.4,41.210000,83.710000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000300
 2026,10,9,20,03,106.0,2.7,-21.030000,-68.840000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000296
-2026,10,9,19,49,12.0,3.7,34.688800,34.112700,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000303
-2026,10,9,19,48,6.2,5.2,7.726100,-81.287400,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000294
-2026,10,9,19,46,35.0,4.9,7.568400,-80.121900,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261009_0000299
 2026,10,9,10,55,107.0,4.2,-16.270000,-72.260000,10,https://ultimosismo.igp.gob.pe/evento/2026-726
 2026,10,9,05,16,15.0,3.7,-4.370000,-77.990000,10,https://ultimosismo.igp.gob.pe/evento/2026-725
 2026,10,8,06,42,14.0,3.5,-15.680000,-72.090000,10,https://ultimosismo.igp.gob.pe/evento/2026-724
