@@ -30965,7 +30965,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-741",
     "fecha_primera_recepcion": "2026-10-18T23:40:21.111422+00:00",
-    "fecha_ultima_observacion": "2026-10-19T00:35:17.453900+00:00"
+    "fecha_ultima_observacion": "2026-10-19T00:40:21.624348+00:00"
   },
   "EMSC:20261018_0000285": {
     "id": "20261018_0000285",
@@ -31063,6 +31063,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000004",
     "fecha_primera_recepcion": "2026-10-19T00:30:26.806880+00:00",
-    "fecha_ultima_observacion": "2026-10-19T00:35:17.453900+00:00"
+    "fecha_ultima_observacion": "2026-10-19T00:40:21.624348+00:00"
+  },
+  "USGS:us6000u38y": {
+    "id": "us6000u38y",
+    "fecha_hora_utc": "2026-10-18T23:59:22.511000+00:00",
+    "magnitud": 4.4,
+    "profundidad_km": 10.0,
+    "latitud": 21.1202,
+    "longitud": 104.1567,
+    "pais": "",
+    "ciudad_referencia": "33 km SE of Sơn La, Vietnam",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u38y",
+    "fecha_primera_recepcion": "2026-10-19T00:40:21.624348+00:00",
+    "fecha_ultima_observacion": "2026-10-19T00:40:21.624348+00:00"
   }
 }
