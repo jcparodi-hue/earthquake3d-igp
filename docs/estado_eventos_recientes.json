@@ -30965,7 +30965,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-741",
     "fecha_primera_recepcion": "2026-10-18T23:40:21.111422+00:00",
-    "fecha_ultima_observacion": "2026-10-19T00:00:29.033305+00:00"
+    "fecha_ultima_observacion": "2026-10-19T00:05:21.730853+00:00"
   },
   "EMSC:20261018_0000285": {
     "id": "20261018_0000285",
@@ -31007,6 +31007,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261018_0000287",
     "fecha_primera_recepcion": "2026-10-19T00:00:29.033305+00:00",
-    "fecha_ultima_observacion": "2026-10-19T00:00:29.033305+00:00"
+    "fecha_ultima_observacion": "2026-10-19T00:05:21.730853+00:00"
+  },
+  "USGS:us6000u38u": {
+    "id": "us6000u38u",
+    "fecha_hora_utc": "2026-10-18T23:30:43.709000+00:00",
+    "magnitud": 4.4,
+    "profundidad_km": 444.195,
+    "latitud": -28.3596,
+    "longitud": -179.9252,
+    "pais": "",
+    "ciudad_referencia": "Kermadec Islands region",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u38u",
+    "fecha_primera_recepcion": "2026-10-19T00:05:21.730853+00:00",
+    "fecha_ultima_observacion": "2026-10-19T00:05:21.730853+00:00"
   }
 }
