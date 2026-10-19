@@ -32183,7 +32183,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-742",
     "fecha_primera_recepcion": "2026-10-19T14:05:20.328293+00:00",
-    "fecha_ultima_observacion": "2026-10-19T15:10:20.280397+00:00"
+    "fecha_ultima_observacion": "2026-10-19T15:15:17.587598+00:00"
   },
   "EMSC:20261019_0000187": {
     "id": "20261019_0000187",
@@ -32281,7 +32281,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ct",
     "fecha_primera_recepcion": "2026-10-19T15:00:27.910107+00:00",
-    "fecha_ultima_observacion": "2026-10-19T15:10:20.280397+00:00"
+    "fecha_ultima_observacion": "2026-10-19T15:15:17.587598+00:00"
   },
   "EMSC:20261019_0000215": {
     "id": "20261019_0000215",
@@ -32296,5 +32296,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000215",
     "fecha_primera_recepcion": "2026-10-19T15:10:20.280397+00:00",
     "fecha_ultima_observacion": "2026-10-19T15:10:20.280397+00:00"
+  },
+  "EMSC:20261019_0000219": {
+    "id": "20261019_0000219",
+    "fecha_hora_utc": "2026-10-19T15:07:46+00:00",
+    "magnitud": 3.2,
+    "profundidad_km": 12.0,
+    "latitud": -8.2,
+    "longitud": 115.59,
+    "pais": "",
+    "ciudad_referencia": "BALI REGION, INDONESIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000219",
+    "fecha_primera_recepcion": "2026-10-19T15:15:17.587598+00:00",
+    "fecha_ultima_observacion": "2026-10-19T15:15:17.587598+00:00"
   }
 }
