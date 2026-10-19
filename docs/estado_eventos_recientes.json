@@ -32183,7 +32183,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-742",
     "fecha_primera_recepcion": "2026-10-19T14:05:20.328293+00:00",
-    "fecha_ultima_observacion": "2026-10-19T18:20:23.667991+00:00"
+    "fecha_ultima_observacion": "2026-10-19T18:30:27.215253+00:00"
   },
   "EMSC:20261019_0000187": {
     "id": "20261019_0000187",
@@ -32687,6 +32687,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000278",
     "fecha_primera_recepcion": "2026-10-19T18:20:23.667991+00:00",
-    "fecha_ultima_observacion": "2026-10-19T18:20:23.667991+00:00"
+    "fecha_ultima_observacion": "2026-10-19T18:30:27.215253+00:00"
+  },
+  "USGS:tx2026upolzm": {
+    "id": "tx2026upolzm",
+    "fecha_hora_utc": "2026-10-19T18:11:05.285000+00:00",
+    "magnitud": 2.8,
+    "profundidad_km": 7.6892,
+    "latitud": 31.981,
+    "longitud": -103.299,
+    "pais": "",
+    "ciudad_referencia": "17 km SW of Jal, New Mexico",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026upolzm",
+    "fecha_primera_recepcion": "2026-10-19T18:30:27.215253+00:00",
+    "fecha_ultima_observacion": "2026-10-19T18:30:27.215253+00:00"
   }
 }
