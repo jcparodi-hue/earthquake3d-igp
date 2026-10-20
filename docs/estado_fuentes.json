@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-20T09:12:30.986529+00:00",
+  "actualizado_utc": "2026-10-20T09:15:26.151078+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 54,
   "actualizacion_minutos": 5,
   "igp": 54,
-  "emsc": 2800,
+  "emsc": 2803,
   "usgs": 502,
   "duplicados_eliminados": 483,
-  "eventos_publicados": 2873,
-  "evento_mas_reciente_utc": "2026-10-20T08:44:30+00:00",
+  "eventos_publicados": 2876,
+  "evento_mas_reciente_utc": "2026-10-20T09:05:03+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 18,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-19T16:41:54+00:00",
-      "antiguedad_evento_mas_reciente_min": 990.6
+      "antiguedad_evento_mas_reciente_min": 993.5
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2800,
-      "eventos_recibidos": 2804,
+      "eventos_validos": 2803,
+      "eventos_recibidos": 2807,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-20T08:44:30+00:00",
-      "antiguedad_evento_mas_reciente_min": 28.0
+      "evento_mas_reciente_utc": "2026-10-20T09:05:03+00:00",
+      "antiguedad_evento_mas_reciente_min": 10.4
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 507,
       "invalidos_rechazados": 5,
       "evento_mas_reciente_utc": "2026-10-20T08:40:25.660000+00:00",
-      "antiguedad_evento_mas_reciente_min": 32.1
+      "antiguedad_evento_mas_reciente_min": 35.0
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-744"
     },
     "emsc": {
-      "id": "20261020_0000102",
-      "fecha_hora_utc": "2026-10-20T08:44:30+00:00",
-      "magnitud": 3.3,
-      "profundidad_km": 227.0,
-      "latitud": -27.07,
-      "longitud": -66.59,
+      "id": "20261020_0000110",
+      "fecha_hora_utc": "2026-10-20T09:05:03+00:00",
+      "magnitud": 2.8,
+      "profundidad_km": 2.0,
+      "latitud": 8.6264,
+      "longitud": -84.5523,
       "pais": "",
-      "ciudad_referencia": "CATAMARCA, ARGENTINA",
+      "ciudad_referencia": "OFF COAST OF COSTA RICA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261020_0000102"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261020_0000110"
     },
     "usgs": {
       "id": "hv75061271",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-20T09:12:30.986529+00:00"
+    "hora_consulta_utc": "2026-10-20T09:15:26.151078+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-20T09:12:30.986529+00:00",
-  "combined_after_dedup": 2873
+  "updated_utc": "2026-10-20T09:15:26.151078+00:00",
+  "combined_after_dedup": 2876
 }
