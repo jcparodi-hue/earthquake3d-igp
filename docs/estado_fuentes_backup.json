@@ -1,14 +1,14 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-20T05:05:22.157788+00:00",
+  "actualizado_utc": "2026-10-20T05:13:28.157234+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 54,
   "actualizacion_minutos": 5,
   "igp": 54,
-  "emsc": 2819,
-  "usgs": 504,
+  "emsc": 2816,
+  "usgs": 503,
   "duplicados_eliminados": 484,
-  "eventos_publicados": 2893,
+  "eventos_publicados": 2889,
   "evento_mas_reciente_utc": "2026-10-20T04:56:52+00:00",
   "salud_fuentes": {
     "igp": {
@@ -18,25 +18,25 @@
       "eventos_recibidos": 18,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-19T16:41:54+00:00",
-      "antiguedad_evento_mas_reciente_min": 743.5
+      "antiguedad_evento_mas_reciente_min": 751.6
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2819,
-      "eventos_recibidos": 2823,
+      "eventos_validos": 2816,
+      "eventos_recibidos": 2820,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-10-20T04:56:52+00:00",
-      "antiguedad_evento_mas_reciente_min": 8.5
+      "antiguedad_evento_mas_reciente_min": 16.6
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 504,
-      "eventos_recibidos": 509,
+      "eventos_validos": 503,
+      "eventos_recibidos": 508,
       "invalidos_rechazados": 5,
       "evento_mas_reciente_utc": "2026-10-20T04:46:41.200000+00:00",
-      "antiguedad_evento_mas_reciente_min": 18.7
+      "antiguedad_evento_mas_reciente_min": 26.8
     }
   },
   "ultimo_evento": {
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-20T05:05:22.157788+00:00"
+    "hora_consulta_utc": "2026-10-20T05:13:28.157234+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-20T05:05:22.157788+00:00",
-  "combined_after_dedup": 2893
+  "updated_utc": "2026-10-20T05:13:28.157234+00:00",
+  "combined_after_dedup": 2889
 }
