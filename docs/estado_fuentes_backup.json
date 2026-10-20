@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-20T16:30:29.201422+00:00",
+  "actualizado_utc": "2026-10-20T16:35:21.994526+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 54,
   "actualizacion_minutos": 5,
@@ -9,7 +9,7 @@
   "usgs": 493,
   "duplicados_eliminados": 474,
   "eventos_publicados": 2844,
-  "evento_mas_reciente_utc": "2026-10-20T16:23:04.060000+00:00",
+  "evento_mas_reciente_utc": "2026-10-20T16:32:23.488199+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 18,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-19T16:41:54+00:00",
-      "antiguedad_evento_mas_reciente_min": 1428.6
+      "antiguedad_evento_mas_reciente_min": 1433.5
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,8 +26,8 @@
       "eventos_validos": 2771,
       "eventos_recibidos": 2775,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-20T16:23:04.060000+00:00",
-      "antiguedad_evento_mas_reciente_min": 7.4
+      "evento_mas_reciente_utc": "2026-10-20T16:32:23.488199+00:00",
+      "antiguedad_evento_mas_reciente_min": 3.0
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -35,8 +35,8 @@
       "eventos_validos": 493,
       "eventos_recibidos": 498,
       "invalidos_rechazados": 5,
-      "evento_mas_reciente_utc": "2026-10-20T16:23:04.060000+00:00",
-      "antiguedad_evento_mas_reciente_min": 7.4
+      "evento_mas_reciente_utc": "2026-10-20T16:31:23.620000+00:00",
+      "antiguedad_evento_mas_reciente_min": 4.0
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-744"
     },
     "emsc": {
-      "id": "20261020_0000230",
-      "fecha_hora_utc": "2026-10-20T16:23:04.060000+00:00",
-      "magnitud": 2.5,
-      "profundidad_km": 0.5,
-      "latitud": 38.7867,
-      "longitud": -122.7717,
+      "id": "20261020_0000233",
+      "fecha_hora_utc": "2026-10-20T16:32:23.488199+00:00",
+      "magnitud": 3.1,
+      "profundidad_km": 242.5,
+      "latitud": -36.3456,
+      "longitud": 178.4588,
       "pais": "",
-      "ciudad_referencia": "NORTHERN CALIFORNIA",
+      "ciudad_referencia": "OFF E. COAST OF N. ISLAND, N.Z.",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261020_0000230"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261020_0000233"
     },
     "usgs": {
-      "id": "nc75452571",
-      "fecha_hora_utc": "2026-10-20T16:23:04.060000+00:00",
-      "magnitud": 2.51,
-      "profundidad_km": 0.469999998807907,
-      "latitud": 38.7866668701172,
-      "longitud": -122.771667480469,
+      "id": "hv75061376",
+      "fecha_hora_utc": "2026-10-20T16:31:23.620000+00:00",
+      "magnitud": 3.08,
+      "profundidad_km": 33.3800010681152,
+      "latitud": 19.0769996643066,
+      "longitud": -155.414993286133,
       "pais": "",
-      "ciudad_referencia": "2 km NW of The Geysers, CA",
+      "ciudad_referencia": "15 km SSE of Pāhala, Hawaii",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452571"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75061376"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-20T16:30:29.201422+00:00"
+    "hora_consulta_utc": "2026-10-20T16:35:21.994526+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-20T16:30:29.201422+00:00",
+  "updated_utc": "2026-10-20T16:35:21.994526+00:00",
   "combined_after_dedup": 2844
 }

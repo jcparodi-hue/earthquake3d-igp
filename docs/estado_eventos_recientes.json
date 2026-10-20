@@ -32897,7 +32897,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-744",
     "fecha_primera_recepcion": "2026-10-19T19:50:23.515157+00:00",
-    "fecha_ultima_observacion": "2026-10-20T16:30:29.201422+00:00"
+    "fecha_ultima_observacion": "2026-10-20T16:35:21.994526+00:00"
   },
   "EMSC:20261019_0000313": {
     "id": "20261019_0000313",
@@ -34536,5 +34536,33 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452571",
     "fecha_primera_recepcion": "2026-10-20T16:30:29.201422+00:00",
     "fecha_ultima_observacion": "2026-10-20T16:30:29.201422+00:00"
+  },
+  "EMSC:20261020_0000233": {
+    "id": "20261020_0000233",
+    "fecha_hora_utc": "2026-10-20T16:32:23.488199+00:00",
+    "magnitud": 3.1,
+    "profundidad_km": 242.5,
+    "latitud": -36.3456,
+    "longitud": 178.4588,
+    "pais": "",
+    "ciudad_referencia": "OFF E. COAST OF N. ISLAND, N.Z.",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261020_0000233",
+    "fecha_primera_recepcion": "2026-10-20T16:35:21.994526+00:00",
+    "fecha_ultima_observacion": "2026-10-20T16:35:21.994526+00:00"
+  },
+  "USGS:hv75061376": {
+    "id": "hv75061376",
+    "fecha_hora_utc": "2026-10-20T16:31:23.620000+00:00",
+    "magnitud": 3.08,
+    "profundidad_km": 33.3800010681152,
+    "latitud": 19.0769996643066,
+    "longitud": -155.414993286133,
+    "pais": "",
+    "ciudad_referencia": "15 km SSE of Pāhala, Hawaii",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75061376",
+    "fecha_primera_recepcion": "2026-10-20T16:35:21.994526+00:00",
+    "fecha_ultima_observacion": "2026-10-20T16:35:21.994526+00:00"
   }
 }
