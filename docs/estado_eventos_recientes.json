@@ -32897,7 +32897,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-744",
     "fecha_primera_recepcion": "2026-10-19T19:50:23.515157+00:00",
-    "fecha_ultima_observacion": "2026-10-20T10:00:28.210148+00:00"
+    "fecha_ultima_observacion": "2026-10-20T10:05:22.044062+00:00"
   },
   "EMSC:20261019_0000313": {
     "id": "20261019_0000313",
@@ -34045,7 +34045,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452441",
     "fecha_primera_recepcion": "2026-10-20T09:35:24.074451+00:00",
-    "fecha_ultima_observacion": "2026-10-20T10:00:28.210148+00:00"
+    "fecha_ultima_observacion": "2026-10-20T10:05:22.044062+00:00"
   },
   "EMSC:20261020_0000118": {
     "id": "20261020_0000118",
@@ -34074,5 +34074,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261020_0000123",
     "fecha_primera_recepcion": "2026-10-20T10:00:28.210148+00:00",
     "fecha_ultima_observacion": "2026-10-20T10:00:28.210148+00:00"
+  },
+  "EMSC:20261020_0000126": {
+    "id": "20261020_0000126",
+    "fecha_hora_utc": "2026-10-20T09:56:38+00:00",
+    "magnitud": 3.6,
+    "profundidad_km": 10.0,
+    "latitud": -10.24,
+    "longitud": 123.71,
+    "pais": "",
+    "ciudad_referencia": "TIMOR REGION, INDONESIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261020_0000126",
+    "fecha_primera_recepcion": "2026-10-20T10:05:22.044062+00:00",
+    "fecha_ultima_observacion": "2026-10-20T10:05:22.044062+00:00"
   }
 }
