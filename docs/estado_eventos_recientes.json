@@ -32897,7 +32897,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-744",
     "fecha_primera_recepcion": "2026-10-19T19:50:23.515157+00:00",
-    "fecha_ultima_observacion": "2026-10-20T20:55:16.689311+00:00"
+    "fecha_ultima_observacion": "2026-10-20T21:00:28.776198+00:00"
   },
   "EMSC:20261019_0000313": {
     "id": "20261019_0000313",
@@ -34942,5 +34942,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261020_0000303",
     "fecha_primera_recepcion": "2026-10-20T20:54:19.537093+00:00",
     "fecha_ultima_observacion": "2026-10-20T20:55:16.689311+00:00"
+  },
+  "EMSC:20261020_0000305": {
+    "id": "20261020_0000305",
+    "fecha_hora_utc": "2026-10-20T20:46:54.391000+00:00",
+    "magnitud": 2.6,
+    "profundidad_km": 5.0,
+    "latitud": 28.8955,
+    "longitud": -98.9727,
+    "pais": "",
+    "ciudad_referencia": "SOUTHERN TEXAS",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261020_0000305",
+    "fecha_primera_recepcion": "2026-10-20T21:00:28.776198+00:00",
+    "fecha_ultima_observacion": "2026-10-20T21:00:28.776198+00:00"
+  },
+  "USGS:us6000u3pz": {
+    "id": "us6000u3pz",
+    "fecha_hora_utc": "2026-10-20T20:46:54.391000+00:00",
+    "magnitud": 2.6,
+    "profundidad_km": 5.0,
+    "latitud": 28.8955,
+    "longitud": -98.9727,
+    "pais": "",
+    "ciudad_referencia": "11 km E of Pearsall, Texas",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3pz",
+    "fecha_primera_recepcion": "2026-10-20T21:00:28.776198+00:00",
+    "fecha_ultima_observacion": "2026-10-20T21:00:28.776198+00:00"
   }
 }

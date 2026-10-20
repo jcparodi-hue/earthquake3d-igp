@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-20T20:55:16.689311+00:00",
+  "actualizado_utc": "2026-10-20T21:00:28.776198+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 54,
   "actualizacion_minutos": 5,
   "igp": 54,
-  "emsc": 2753,
-  "usgs": 504,
-  "duplicados_eliminados": 482,
-  "eventos_publicados": 2829,
-  "evento_mas_reciente_utc": "2026-10-20T20:44:39+00:00",
+  "emsc": 2754,
+  "usgs": 505,
+  "duplicados_eliminados": 483,
+  "eventos_publicados": 2830,
+  "evento_mas_reciente_utc": "2026-10-20T20:46:54.391000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 17,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-19T16:41:54+00:00",
-      "antiguedad_evento_mas_reciente_min": 1693.4
+      "antiguedad_evento_mas_reciente_min": 1698.6
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2753,
-      "eventos_recibidos": 2757,
+      "eventos_validos": 2754,
+      "eventos_recibidos": 2758,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-20T20:44:39+00:00",
-      "antiguedad_evento_mas_reciente_min": 10.6
+      "evento_mas_reciente_utc": "2026-10-20T20:46:54.391000+00:00",
+      "antiguedad_evento_mas_reciente_min": 13.6
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 504,
-      "eventos_recibidos": 509,
+      "eventos_validos": 505,
+      "eventos_recibidos": 510,
       "invalidos_rechazados": 5,
-      "evento_mas_reciente_utc": "2026-10-20T20:03:26.613000+00:00",
-      "antiguedad_evento_mas_reciente_min": 51.8
+      "evento_mas_reciente_utc": "2026-10-20T20:46:54.391000+00:00",
+      "antiguedad_evento_mas_reciente_min": 13.6
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-744"
     },
     "emsc": {
-      "id": "20261020_0000303",
-      "fecha_hora_utc": "2026-10-20T20:44:39+00:00",
+      "id": "20261020_0000305",
+      "fecha_hora_utc": "2026-10-20T20:46:54.391000+00:00",
       "magnitud": 2.6,
-      "profundidad_km": 24.0,
-      "latitud": -32.23,
-      "longitud": -71.84,
+      "profundidad_km": 5.0,
+      "latitud": 28.8955,
+      "longitud": -98.9727,
       "pais": "",
-      "ciudad_referencia": "OFFSHORE VALPARAISO, CHILE",
+      "ciudad_referencia": "SOUTHERN TEXAS",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261020_0000303"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261020_0000305"
     },
     "usgs": {
-      "id": "us6000u3pq",
-      "fecha_hora_utc": "2026-10-20T20:03:26.613000+00:00",
-      "magnitud": 4.9,
-      "profundidad_km": 10.0,
-      "latitud": -14.0479,
-      "longitud": 165.6598,
+      "id": "us6000u3pz",
+      "fecha_hora_utc": "2026-10-20T20:46:54.391000+00:00",
+      "magnitud": 2.6,
+      "profundidad_km": 5.0,
+      "latitud": 28.8955,
+      "longitud": -98.9727,
       "pais": "",
-      "ciudad_referencia": "187 km NW of Port-Olry, Vanuatu",
+      "ciudad_referencia": "11 km E of Pearsall, Texas",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3pq"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3pz"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-20T20:55:16.689311+00:00"
+    "hora_consulta_utc": "2026-10-20T21:00:28.776198+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-20T20:55:16.689311+00:00",
-  "combined_after_dedup": 2829
+  "updated_utc": "2026-10-20T21:00:28.776198+00:00",
+  "combined_after_dedup": 2830
 }
