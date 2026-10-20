@@ -1,5 +1,19 @@
 [
   {
+    "volcan": "Fuego",
+    "pais": "Guatemala",
+    "codigo_vaac": "FUEG",
+    "fecha_hora_utc_texto": "1357 UTC",
+    "id_archivo": "2026J201357",
+    "url_aviso": "https://www.ospo.noaa.gov/VAAC/ARCH26/FUEG/2026J201357.html",
+    "url_xml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/xml_files/FVXX22_20261020_1357.xml",
+    "url_grafico": "https://www.ospo.noaa.gov/VAAC/ARCH26/GFX/FUEG1217.jpg",
+    "url_kml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/kml_files/FUEGO_ASH_202610201357.kml",
+    "vaac": "Washington",
+    "tipo": "VAA",
+    "fuente": "NOAA Washington VAAC"
+  },
+  {
     "volcan": "Popocatépetl",
     "pais": "México",
     "codigo_vaac": "POPO",
@@ -233,20 +247,6 @@
     "url_xml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/xml_files/FVXX21_20261019_1424.xml",
     "url_grafico": "https://www.ospo.noaa.gov/VAAC/ARCH26/GFX/REVE1096.jpg",
     "url_kml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/kml_files/REVENTADOR_ASH_202610191424.kml",
-    "vaac": "Washington",
-    "tipo": "VAA",
-    "fuente": "NOAA Washington VAAC"
-  },
-  {
-    "volcan": "Puracé",
-    "pais": "Colombia",
-    "codigo_vaac": "PURA",
-    "fecha_hora_utc_texto": "1352 UTC",
-    "id_archivo": "2026J191352",
-    "url_aviso": "https://www.ospo.noaa.gov/VAAC/ARCH26/PURA/2026J191352.html",
-    "url_xml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/xml_files/FVXX24_20261019_1352.xml",
-    "url_grafico": "https://www.ospo.noaa.gov/VAAC/ARCH26/GFX/PURA0641.jpg",
-    "url_kml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/kml_files/PURACE_ASH_202610191352.kml",
     "vaac": "Washington",
     "tipo": "VAA",
     "fuente": "NOAA Washington VAAC"
