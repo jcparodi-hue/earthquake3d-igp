@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-20T02:45:23.809721+00:00",
+  "actualizado_utc": "2026-10-20T02:50:24.153701+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 54,
   "actualizacion_minutos": 5,
   "igp": 54,
-  "emsc": 2836,
-  "usgs": 503,
-  "duplicados_eliminados": 484,
-  "eventos_publicados": 2909,
-  "evento_mas_reciente_utc": "2026-10-20T02:05:55+00:00",
+  "emsc": 2835,
+  "usgs": 502,
+  "duplicados_eliminados": 483,
+  "eventos_publicados": 2908,
+  "evento_mas_reciente_utc": "2026-10-20T02:40:33+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 18,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-19T16:41:54+00:00",
-      "antiguedad_evento_mas_reciente_min": 603.5
+      "antiguedad_evento_mas_reciente_min": 608.5
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2836,
-      "eventos_recibidos": 2841,
+      "eventos_validos": 2835,
+      "eventos_recibidos": 2840,
       "invalidos_rechazados": 5,
-      "evento_mas_reciente_utc": "2026-10-20T02:05:55+00:00",
-      "antiguedad_evento_mas_reciente_min": 39.5
+      "evento_mas_reciente_utc": "2026-10-20T02:40:33+00:00",
+      "antiguedad_evento_mas_reciente_min": 9.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 503,
-      "eventos_recibidos": 509,
+      "eventos_validos": 502,
+      "eventos_recibidos": 508,
       "invalidos_rechazados": 6,
       "evento_mas_reciente_utc": "2026-10-20T00:56:32.769000+00:00",
-      "antiguedad_evento_mas_reciente_min": 108.9
+      "antiguedad_evento_mas_reciente_min": 113.9
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-744"
     },
     "emsc": {
-      "id": "20261020_0000021",
-      "fecha_hora_utc": "2026-10-20T02:05:55+00:00",
-      "magnitud": 3.7,
-      "profundidad_km": 10.0,
-      "latitud": 22.577,
-      "longitud": 96.323,
+      "id": "20261020_0000026",
+      "fecha_hora_utc": "2026-10-20T02:40:33+00:00",
+      "magnitud": 3.1,
+      "profundidad_km": 43.7,
+      "latitud": -29.23,
+      "longitud": -71.71,
       "pais": "",
-      "ciudad_referencia": "MYANMAR",
+      "ciudad_referencia": "OFFSHORE COQUIMBO, CHILE",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261020_0000021"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261020_0000026"
     },
     "usgs": {
       "id": "us6000u3j5",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-20T02:45:23.809721+00:00"
+    "hora_consulta_utc": "2026-10-20T02:50:24.153701+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-20T02:45:23.809721+00:00",
-  "combined_after_dedup": 2909
+  "updated_utc": "2026-10-20T02:50:24.153701+00:00",
+  "combined_after_dedup": 2908
 }
