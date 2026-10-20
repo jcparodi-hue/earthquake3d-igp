@@ -32897,7 +32897,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-744",
     "fecha_primera_recepcion": "2026-10-19T19:50:23.515157+00:00",
-    "fecha_ultima_observacion": "2026-10-20T00:30:24.644736+00:00"
+    "fecha_ultima_observacion": "2026-10-20T00:35:20.037829+00:00"
   },
   "EMSC:20261019_0000313": {
     "id": "20261019_0000313",
@@ -33275,6 +33275,20 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026utivid",
     "fecha_primera_recepcion": "2026-10-20T00:20:22.199551+00:00",
-    "fecha_ultima_observacion": "2026-10-20T00:30:24.644736+00:00"
+    "fecha_ultima_observacion": "2026-10-20T00:35:20.037829+00:00"
+  },
+  "EMSC:20261020_0000004": {
+    "id": "20261020_0000004",
+    "fecha_hora_utc": "2026-10-20T00:13:05.166000+00:00",
+    "magnitud": 2.8,
+    "profundidad_km": 159.1,
+    "latitud": 58.463,
+    "longitud": -155.7592,
+    "pais": "",
+    "ciudad_referencia": "ALASKA PENINSULA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261020_0000004",
+    "fecha_primera_recepcion": "2026-10-20T00:35:20.037829+00:00",
+    "fecha_ultima_observacion": "2026-10-20T00:35:20.037829+00:00"
   }
 }
