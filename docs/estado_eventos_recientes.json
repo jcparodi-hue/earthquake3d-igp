@@ -32897,7 +32897,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-744",
     "fecha_primera_recepcion": "2026-10-19T19:50:23.515157+00:00",
-    "fecha_ultima_observacion": "2026-10-20T07:35:17.336128+00:00"
+    "fecha_ultima_observacion": "2026-10-20T07:45:21.689787+00:00"
   },
   "EMSC:20261019_0000313": {
     "id": "20261019_0000313",
@@ -33878,5 +33878,33 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3kg",
     "fecha_primera_recepcion": "2026-10-20T07:35:17.336128+00:00",
     "fecha_ultima_observacion": "2026-10-20T07:35:17.336128+00:00"
+  },
+  "EMSC:20261020_0000085": {
+    "id": "20261020_0000085",
+    "fecha_hora_utc": "2026-10-20T07:39:03.400000+00:00",
+    "magnitud": 3.1,
+    "profundidad_km": 4.6,
+    "latitud": 40.881,
+    "longitud": -125.1302,
+    "pais": "",
+    "ciudad_referencia": "OFFSHORE NORTHERN CALIFORNIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261020_0000085",
+    "fecha_primera_recepcion": "2026-10-20T07:45:21.689787+00:00",
+    "fecha_ultima_observacion": "2026-10-20T07:45:21.689787+00:00"
+  },
+  "USGS:nc75452406": {
+    "id": "nc75452406",
+    "fecha_hora_utc": "2026-10-20T07:39:03.400000+00:00",
+    "magnitud": 3.1,
+    "profundidad_km": 4.63000011444092,
+    "latitud": 40.8810005187988,
+    "longitud": -125.130165100098,
+    "pais": "",
+    "ciudad_referencia": "80 km WNW of Ferndale, CA",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452406",
+    "fecha_primera_recepcion": "2026-10-20T07:45:21.689787+00:00",
+    "fecha_ultima_observacion": "2026-10-20T07:45:21.689787+00:00"
   }
 }

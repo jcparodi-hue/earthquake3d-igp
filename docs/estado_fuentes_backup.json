@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-20T07:35:17.336128+00:00",
+  "actualizado_utc": "2026-10-20T07:45:21.689787+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 54,
   "actualizacion_minutos": 5,
   "igp": 54,
   "emsc": 2811,
-  "usgs": 498,
-  "duplicados_eliminados": 480,
+  "usgs": 499,
+  "duplicados_eliminados": 481,
   "eventos_publicados": 2883,
-  "evento_mas_reciente_utc": "2026-10-20T07:18:20+00:00",
+  "evento_mas_reciente_utc": "2026-10-20T07:39:03.400000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 18,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-19T16:41:54+00:00",
-      "antiguedad_evento_mas_reciente_min": 893.4
+      "antiguedad_evento_mas_reciente_min": 903.5
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2811,
       "eventos_recibidos": 2815,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-20T07:18:20+00:00",
-      "antiguedad_evento_mas_reciente_min": 17.0
+      "evento_mas_reciente_utc": "2026-10-20T07:39:03.400000+00:00",
+      "antiguedad_evento_mas_reciente_min": 6.3
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 498,
-      "eventos_recibidos": 503,
+      "eventos_validos": 499,
+      "eventos_recibidos": 504,
       "invalidos_rechazados": 5,
-      "evento_mas_reciente_utc": "2026-10-20T07:09:08.960000+00:00",
-      "antiguedad_evento_mas_reciente_min": 26.1
+      "evento_mas_reciente_utc": "2026-10-20T07:39:03.400000+00:00",
+      "antiguedad_evento_mas_reciente_min": 6.3
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-744"
     },
     "emsc": {
-      "id": "20261020_0000081",
-      "fecha_hora_utc": "2026-10-20T07:18:20+00:00",
+      "id": "20261020_0000085",
+      "fecha_hora_utc": "2026-10-20T07:39:03.400000+00:00",
       "magnitud": 3.1,
-      "profundidad_km": 219.1,
-      "latitud": -23.88,
-      "longitud": -67.42,
+      "profundidad_km": 4.6,
+      "latitud": 40.881,
+      "longitud": -125.1302,
       "pais": "",
-      "ciudad_referencia": "ANTOFAGASTA, CHILE",
+      "ciudad_referencia": "OFFSHORE NORTHERN CALIFORNIA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261020_0000081"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261020_0000085"
     },
     "usgs": {
-      "id": "us6000u3kg",
-      "fecha_hora_utc": "2026-10-20T07:09:08.960000+00:00",
-      "magnitud": 4.9,
-      "profundidad_km": 250.025,
-      "latitud": 18.8377,
-      "longitud": 145.5173,
+      "id": "nc75452406",
+      "fecha_hora_utc": "2026-10-20T07:39:03.400000+00:00",
+      "magnitud": 3.1,
+      "profundidad_km": 4.63000011444092,
+      "latitud": 40.8810005187988,
+      "longitud": -125.130165100098,
       "pais": "",
-      "ciudad_referencia": "Pagan region, Northern Mariana Islands",
+      "ciudad_referencia": "80 km WNW of Ferndale, CA",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3kg"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452406"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-20T07:35:17.336128+00:00"
+    "hora_consulta_utc": "2026-10-20T07:45:21.689787+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-20T07:35:17.336128+00:00",
+  "updated_utc": "2026-10-20T07:45:21.689787+00:00",
   "combined_after_dedup": 2883
 }
