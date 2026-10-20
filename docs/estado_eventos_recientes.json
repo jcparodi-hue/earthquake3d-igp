@@ -32897,7 +32897,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-744",
     "fecha_primera_recepcion": "2026-10-19T19:50:23.515157+00:00",
-    "fecha_ultima_observacion": "2026-10-20T06:55:26.963409+00:00"
+    "fecha_ultima_observacion": "2026-10-20T07:00:26.583896+00:00"
   },
   "EMSC:20261019_0000313": {
     "id": "20261019_0000313",
@@ -33766,5 +33766,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261020_0000070",
     "fecha_primera_recepcion": "2026-10-20T06:50:22.695232+00:00",
     "fecha_ultima_observacion": "2026-10-20T06:55:26.963409+00:00"
+  },
+  "EMSC:20261020_0000075": {
+    "id": "20261020_0000075",
+    "fecha_hora_utc": "2026-10-20T06:53:20+00:00",
+    "magnitud": 2.9,
+    "profundidad_km": 1.0,
+    "latitud": 8.3074,
+    "longitud": -83.8878,
+    "pais": "",
+    "ciudad_referencia": "COSTA RICA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261020_0000075",
+    "fecha_primera_recepcion": "2026-10-20T07:00:26.583896+00:00",
+    "fecha_ultima_observacion": "2026-10-20T07:00:26.583896+00:00"
+  },
+  "USGS:us6000u3ka": {
+    "id": "us6000u3ka",
+    "fecha_hora_utc": "2026-10-20T06:41:23.116000+00:00",
+    "magnitud": 5.1,
+    "profundidad_km": 10.0,
+    "latitud": 37.9037,
+    "longitud": 95.6436,
+    "pais": "",
+    "ciudad_referencia": "263 km WSW of Yanglong, China",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ka",
+    "fecha_primera_recepcion": "2026-10-20T07:00:26.583896+00:00",
+    "fecha_ultima_observacion": "2026-10-20T07:00:26.583896+00:00"
   }
 }
