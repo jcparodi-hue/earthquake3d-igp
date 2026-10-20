@@ -32897,7 +32897,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-744",
     "fecha_primera_recepcion": "2026-10-19T19:50:23.515157+00:00",
-    "fecha_ultima_observacion": "2026-10-20T18:10:26.607249+00:00"
+    "fecha_ultima_observacion": "2026-10-20T18:15:25.556991+00:00"
   },
   "EMSC:20261019_0000313": {
     "id": "20261019_0000313",
@@ -34633,7 +34633,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3nl",
     "fecha_primera_recepcion": "2026-10-20T17:26:00.104863+00:00",
-    "fecha_ultima_observacion": "2026-10-20T18:10:26.607249+00:00"
+    "fecha_ultima_observacion": "2026-10-20T18:15:25.556991+00:00"
   },
   "EMSC:20261020_0000251": {
     "id": "20261020_0000251",
@@ -34662,5 +34662,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261020_0000262",
     "fecha_primera_recepcion": "2026-10-20T18:10:26.607249+00:00",
     "fecha_ultima_observacion": "2026-10-20T18:10:26.607249+00:00"
+  },
+  "EMSC:20261020_0000263": {
+    "id": "20261020_0000263",
+    "fecha_hora_utc": "2026-10-20T18:07:19.530000+00:00",
+    "magnitud": 5.2,
+    "profundidad_km": 7.0,
+    "latitud": 37.9806,
+    "longitud": -26.1664,
+    "pais": "",
+    "ciudad_referencia": "AZORES ISLANDS, PORTUGAL",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261020_0000263",
+    "fecha_primera_recepcion": "2026-10-20T18:15:25.556991+00:00",
+    "fecha_ultima_observacion": "2026-10-20T18:15:25.556991+00:00"
   }
 }
