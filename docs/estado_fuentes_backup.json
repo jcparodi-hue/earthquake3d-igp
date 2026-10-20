@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-20T01:05:20.436354+00:00",
+  "actualizado_utc": "2026-10-20T01:20:22.200477+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 54,
   "actualizacion_minutos": 5,
   "igp": 54,
   "emsc": 2843,
-  "usgs": 507,
-  "duplicados_eliminados": 487,
+  "usgs": 506,
+  "duplicados_eliminados": 486,
   "eventos_publicados": 2917,
-  "evento_mas_reciente_utc": "2026-10-20T00:38:28.053000+00:00",
+  "evento_mas_reciente_utc": "2026-10-20T01:09:43+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 18,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-19T16:41:54+00:00",
-      "antiguedad_evento_mas_reciente_min": 503.4
+      "antiguedad_evento_mas_reciente_min": 518.5
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2843,
       "eventos_recibidos": 2848,
       "invalidos_rechazados": 5,
-      "evento_mas_reciente_utc": "2026-10-20T00:38:28.053000+00:00",
-      "antiguedad_evento_mas_reciente_min": 26.9
+      "evento_mas_reciente_utc": "2026-10-20T01:09:43+00:00",
+      "antiguedad_evento_mas_reciente_min": 10.7
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 507,
-      "eventos_recibidos": 513,
+      "eventos_validos": 506,
+      "eventos_recibidos": 512,
       "invalidos_rechazados": 6,
-      "evento_mas_reciente_utc": "2026-10-20T00:38:28.053000+00:00",
-      "antiguedad_evento_mas_reciente_min": 26.9
+      "evento_mas_reciente_utc": "2026-10-20T00:38:28.008000+00:00",
+      "antiguedad_evento_mas_reciente_min": 41.9
     }
   },
   "ultimo_evento": {
@@ -53,26 +53,26 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-744"
     },
     "emsc": {
-      "id": "20261020_0000007",
-      "fecha_hora_utc": "2026-10-20T00:38:28.053000+00:00",
-      "magnitud": 5.0,
-      "profundidad_km": 10.0,
-      "latitud": -14.0128,
-      "longitud": 165.5179,
+      "id": "20261020_0000012",
+      "fecha_hora_utc": "2026-10-20T01:09:43+00:00",
+      "magnitud": 3.2,
+      "profundidad_km": 31.5,
+      "latitud": -27.9,
+      "longitud": -71.17,
       "pais": "",
-      "ciudad_referencia": "VANUATU",
+      "ciudad_referencia": "OFFSHORE ATACAMA, CHILE",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261020_0000007"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261020_0000012"
     },
     "usgs": {
       "id": "us6000u3j1",
-      "fecha_hora_utc": "2026-10-20T00:38:28.053000+00:00",
+      "fecha_hora_utc": "2026-10-20T00:38:28.008000+00:00",
       "magnitud": 5.0,
       "profundidad_km": 10.0,
-      "latitud": -14.0128,
-      "longitud": 165.5179,
+      "latitud": -13.9476,
+      "longitud": 165.5285,
       "pais": "",
-      "ciudad_referencia": "202 km NW of Port-Olry, Vanuatu",
+      "ciudad_referencia": "205 km NW of Port-Olry, Vanuatu",
       "fuente": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3j1"
     }
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-20T01:05:20.436354+00:00"
+    "hora_consulta_utc": "2026-10-20T01:20:22.200477+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-20T01:05:20.436354+00:00",
+  "updated_utc": "2026-10-20T01:20:22.200477+00:00",
   "combined_after_dedup": 2917
 }
