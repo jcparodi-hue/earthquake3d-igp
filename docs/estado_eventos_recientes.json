@@ -32897,7 +32897,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-744",
     "fecha_primera_recepcion": "2026-10-19T19:50:23.515157+00:00",
-    "fecha_ultima_observacion": "2026-10-20T07:00:26.583896+00:00"
+    "fecha_ultima_observacion": "2026-10-20T07:05:21.246241+00:00"
   },
   "EMSC:20261019_0000313": {
     "id": "20261019_0000313",
@@ -33794,5 +33794,33 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ka",
     "fecha_primera_recepcion": "2026-10-20T07:00:26.583896+00:00",
     "fecha_ultima_observacion": "2026-10-20T07:00:26.583896+00:00"
+  },
+  "EMSC:20261020_0000076": {
+    "id": "20261020_0000076",
+    "fecha_hora_utc": "2026-10-20T06:55:40.243000+00:00",
+    "magnitud": 3.1,
+    "profundidad_km": 9.3,
+    "latitud": 28.9002,
+    "longitud": -98.2901,
+    "pais": "",
+    "ciudad_referencia": "SOUTHERN TEXAS",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261020_0000076",
+    "fecha_primera_recepcion": "2026-10-20T07:05:21.246241+00:00",
+    "fecha_ultima_observacion": "2026-10-20T07:05:21.246241+00:00"
+  },
+  "USGS:us6000u3kb": {
+    "id": "us6000u3kb",
+    "fecha_hora_utc": "2026-10-20T06:55:40.243000+00:00",
+    "magnitud": 3.1,
+    "profundidad_km": 9.328,
+    "latitud": 28.9002,
+    "longitud": -98.2901,
+    "pais": "",
+    "ciudad_referencia": "19 km ESE of Pleasanton, Texas",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3kb",
+    "fecha_primera_recepcion": "2026-10-20T07:05:21.246241+00:00",
+    "fecha_ultima_observacion": "2026-10-20T07:05:21.246241+00:00"
   }
 }
