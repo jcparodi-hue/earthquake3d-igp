@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-20T03:15:22.232254+00:00",
+  "actualizado_utc": "2026-10-20T03:30:21.036529+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 54,
   "actualizacion_minutos": 5,
   "igp": 54,
-  "emsc": 2831,
-  "usgs": 502,
-  "duplicados_eliminados": 483,
-  "eventos_publicados": 2904,
-  "evento_mas_reciente_utc": "2026-10-20T02:54:15.972000+00:00",
+  "emsc": 2829,
+  "usgs": 504,
+  "duplicados_eliminados": 484,
+  "eventos_publicados": 2903,
+  "evento_mas_reciente_utc": "2026-10-20T03:25:21+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 18,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-19T16:41:54+00:00",
-      "antiguedad_evento_mas_reciente_min": 633.5
+      "antiguedad_evento_mas_reciente_min": 648.5
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2831,
-      "eventos_recibidos": 2836,
+      "eventos_validos": 2829,
+      "eventos_recibidos": 2834,
       "invalidos_rechazados": 5,
-      "evento_mas_reciente_utc": "2026-10-20T02:54:15.972000+00:00",
-      "antiguedad_evento_mas_reciente_min": 21.1
+      "evento_mas_reciente_utc": "2026-10-20T03:25:21+00:00",
+      "antiguedad_evento_mas_reciente_min": 5.0
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 502,
-      "eventos_recibidos": 508,
+      "eventos_validos": 504,
+      "eventos_recibidos": 510,
       "invalidos_rechazados": 6,
-      "evento_mas_reciente_utc": "2026-10-20T02:54:15.972000+00:00",
-      "antiguedad_evento_mas_reciente_min": 21.1
+      "evento_mas_reciente_utc": "2026-10-20T03:05:22.900000+00:00",
+      "antiguedad_evento_mas_reciente_min": 25.0
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-744"
     },
     "emsc": {
-      "id": "20261020_0000030",
-      "fecha_hora_utc": "2026-10-20T02:54:15.972000+00:00",
-      "magnitud": 5.0,
-      "profundidad_km": 129.4,
-      "latitud": 18.2529,
-      "longitud": 146.0345,
+      "id": "20261020_0000035",
+      "fecha_hora_utc": "2026-10-20T03:25:21+00:00",
+      "magnitud": 2.7,
+      "profundidad_km": 37.0,
+      "latitud": -31.98,
+      "longitud": -71.49,
       "pais": "",
-      "ciudad_referencia": "PAGAN REG., N. MARIANA ISLANDS",
+      "ciudad_referencia": "COQUIMBO, CHILE",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261020_0000030"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261020_0000035"
     },
     "usgs": {
-      "id": "us6000u3jd",
-      "fecha_hora_utc": "2026-10-20T02:54:15.972000+00:00",
-      "magnitud": 5.0,
-      "profundidad_km": 129.361,
-      "latitud": 18.2529,
-      "longitud": 146.0345,
+      "id": "pr71537308",
+      "fecha_hora_utc": "2026-10-20T03:05:22.900000+00:00",
+      "magnitud": 2.9,
+      "profundidad_km": 13.63,
+      "latitud": 18.6803333333333,
+      "longitud": -64.5708333333333,
       "pais": "",
-      "ciudad_referencia": "Pagan region, Northern Mariana Islands",
+      "ciudad_referencia": "45 km NNE of Cruz Bay, U.S. Virgin Islands",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3jd"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537308"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-20T03:15:22.232254+00:00"
+    "hora_consulta_utc": "2026-10-20T03:30:21.036529+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-20T03:15:22.232254+00:00",
-  "combined_after_dedup": 2904
+  "updated_utc": "2026-10-20T03:30:21.036529+00:00",
+  "combined_after_dedup": 2903
 }
