@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-20T10:35:17.783249+00:00",
+  "actualizado_utc": "2026-10-20T10:40:23.847075+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 54,
   "actualizacion_minutos": 5,
   "igp": 54,
   "emsc": 2778,
-  "usgs": 499,
-  "duplicados_eliminados": 479,
+  "usgs": 500,
+  "duplicados_eliminados": 480,
   "eventos_publicados": 2852,
-  "evento_mas_reciente_utc": "2026-10-20T10:16:06+00:00",
+  "evento_mas_reciente_utc": "2026-10-20T10:33:32+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 18,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-19T16:41:54+00:00",
-      "antiguedad_evento_mas_reciente_min": 1073.4
+      "antiguedad_evento_mas_reciente_min": 1078.5
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2778,
       "eventos_recibidos": 2782,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-20T10:16:06+00:00",
-      "antiguedad_evento_mas_reciente_min": 19.2
+      "evento_mas_reciente_utc": "2026-10-20T10:33:32+00:00",
+      "antiguedad_evento_mas_reciente_min": 6.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 499,
-      "eventos_recibidos": 504,
+      "eventos_validos": 500,
+      "eventos_recibidos": 505,
       "invalidos_rechazados": 5,
-      "evento_mas_reciente_utc": "2026-10-20T09:33:04.680000+00:00",
-      "antiguedad_evento_mas_reciente_min": 62.2
+      "evento_mas_reciente_utc": "2026-10-20T09:44:42.476000+00:00",
+      "antiguedad_evento_mas_reciente_min": 55.7
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-744"
     },
     "emsc": {
-      "id": "20261020_0000136",
-      "fecha_hora_utc": "2026-10-20T10:16:06+00:00",
-      "magnitud": 3.5,
-      "profundidad_km": 123.0,
-      "latitud": 0.56,
-      "longitud": 98.93,
+      "id": "20261020_0000141",
+      "fecha_hora_utc": "2026-10-20T10:33:32+00:00",
+      "magnitud": 2.5,
+      "profundidad_km": 64.1,
+      "latitud": -34.22,
+      "longitud": -70.15,
       "pais": "",
-      "ciudad_referencia": "NIAS REGION, INDONESIA",
+      "ciudad_referencia": "LIBERTADOR O'HIGGINS, CHILE",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261020_0000136"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261020_0000141"
     },
     "usgs": {
-      "id": "nc75452441",
-      "fecha_hora_utc": "2026-10-20T09:33:04.680000+00:00",
-      "magnitud": 2.68,
-      "profundidad_km": 12.6899995803833,
-      "latitud": 38.031665802002,
-      "longitud": -118.721664428711,
+      "id": "us6000u3la",
+      "fecha_hora_utc": "2026-10-20T09:44:42.476000+00:00",
+      "magnitud": 2.5,
+      "profundidad_km": 9.541,
+      "latitud": 31.6076,
+      "longitud": -104.1102,
       "pais": "",
-      "ciudad_referencia": "32 km SE of Bodie, CA",
+      "ciudad_referencia": "44 km NW of Toyah, Texas",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452441"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3la"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-20T10:35:17.783249+00:00"
+    "hora_consulta_utc": "2026-10-20T10:40:23.847075+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-20T10:35:17.783249+00:00",
+  "updated_utc": "2026-10-20T10:40:23.847075+00:00",
   "combined_after_dedup": 2852
 }

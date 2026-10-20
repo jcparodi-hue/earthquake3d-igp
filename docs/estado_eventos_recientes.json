@@ -32897,7 +32897,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-744",
     "fecha_primera_recepcion": "2026-10-19T19:50:23.515157+00:00",
-    "fecha_ultima_observacion": "2026-10-20T10:35:17.783249+00:00"
+    "fecha_ultima_observacion": "2026-10-20T10:40:23.847075+00:00"
   },
   "EMSC:20261019_0000313": {
     "id": "20261019_0000313",
@@ -34102,5 +34102,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261020_0000136",
     "fecha_primera_recepcion": "2026-10-20T10:25:21.236860+00:00",
     "fecha_ultima_observacion": "2026-10-20T10:35:17.783249+00:00"
+  },
+  "EMSC:20261020_0000141": {
+    "id": "20261020_0000141",
+    "fecha_hora_utc": "2026-10-20T10:33:32+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 64.1,
+    "latitud": -34.22,
+    "longitud": -70.15,
+    "pais": "",
+    "ciudad_referencia": "LIBERTADOR O'HIGGINS, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261020_0000141",
+    "fecha_primera_recepcion": "2026-10-20T10:40:23.847075+00:00",
+    "fecha_ultima_observacion": "2026-10-20T10:40:23.847075+00:00"
+  },
+  "USGS:us6000u3la": {
+    "id": "us6000u3la",
+    "fecha_hora_utc": "2026-10-20T09:44:42.476000+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 9.541,
+    "latitud": 31.6076,
+    "longitud": -104.1102,
+    "pais": "",
+    "ciudad_referencia": "44 km NW of Toyah, Texas",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3la",
+    "fecha_primera_recepcion": "2026-10-20T10:40:23.847075+00:00",
+    "fecha_ultima_observacion": "2026-10-20T10:40:23.847075+00:00"
   }
 }
