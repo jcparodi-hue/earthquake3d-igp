@@ -32897,7 +32897,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-744",
     "fecha_primera_recepcion": "2026-10-19T19:50:23.515157+00:00",
-    "fecha_ultima_observacion": "2026-10-20T09:15:26.151078+00:00"
+    "fecha_ultima_observacion": "2026-10-20T09:25:20.667861+00:00"
   },
   "EMSC:20261019_0000313": {
     "id": "20261019_0000313",
@@ -33990,5 +33990,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261020_0000110",
     "fecha_primera_recepcion": "2026-10-20T09:15:26.151078+00:00",
     "fecha_ultima_observacion": "2026-10-20T09:15:26.151078+00:00"
+  },
+  "EMSC:20261020_0000113": {
+    "id": "20261020_0000113",
+    "fecha_hora_utc": "2026-10-20T09:14:22+00:00",
+    "magnitud": 2.6,
+    "profundidad_km": 10.0,
+    "latitud": 10.8876,
+    "longitud": -86.5585,
+    "pais": "",
+    "ciudad_referencia": "OFF COAST OF COSTA RICA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261020_0000113",
+    "fecha_primera_recepcion": "2026-10-20T09:25:20.667861+00:00",
+    "fecha_ultima_observacion": "2026-10-20T09:25:20.667861+00:00"
+  },
+  "USGS:us6000u3l3": {
+    "id": "us6000u3l3",
+    "fecha_hora_utc": "2026-10-20T08:58:37.177000+00:00",
+    "magnitud": 4.5,
+    "profundidad_km": 417.492,
+    "latitud": -15.1536,
+    "longitud": -178.4627,
+    "pais": "",
+    "ciudad_referencia": "100 km SSW of Alo, Wallis and Futuna",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3l3",
+    "fecha_primera_recepcion": "2026-10-20T09:25:20.667861+00:00",
+    "fecha_ultima_observacion": "2026-10-20T09:25:20.667861+00:00"
   }
 }
