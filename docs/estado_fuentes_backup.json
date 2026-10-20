@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-20T07:50:24.336385+00:00",
+  "actualizado_utc": "2026-10-20T07:55:21.105977+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 54,
   "actualizacion_minutos": 5,
   "igp": 54,
-  "emsc": 2809,
-  "usgs": 498,
-  "duplicados_eliminados": 480,
-  "eventos_publicados": 2881,
-  "evento_mas_reciente_utc": "2026-10-20T07:39:03.400000+00:00",
+  "emsc": 2810,
+  "usgs": 500,
+  "duplicados_eliminados": 482,
+  "eventos_publicados": 2882,
+  "evento_mas_reciente_utc": "2026-10-20T07:52:08.210000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 18,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-19T16:41:54+00:00",
-      "antiguedad_evento_mas_reciente_min": 908.5
+      "antiguedad_evento_mas_reciente_min": 913.5
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2809,
-      "eventos_recibidos": 2813,
+      "eventos_validos": 2810,
+      "eventos_recibidos": 2814,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-20T07:39:03.400000+00:00",
-      "antiguedad_evento_mas_reciente_min": 11.3
+      "evento_mas_reciente_utc": "2026-10-20T07:52:08.210000+00:00",
+      "antiguedad_evento_mas_reciente_min": 3.2
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 498,
-      "eventos_recibidos": 503,
+      "eventos_validos": 500,
+      "eventos_recibidos": 505,
       "invalidos_rechazados": 5,
-      "evento_mas_reciente_utc": "2026-10-20T07:39:03.400000+00:00",
-      "antiguedad_evento_mas_reciente_min": 11.3
+      "evento_mas_reciente_utc": "2026-10-20T07:52:08.210000+00:00",
+      "antiguedad_evento_mas_reciente_min": 3.2
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-744"
     },
     "emsc": {
-      "id": "20261020_0000085",
-      "fecha_hora_utc": "2026-10-20T07:39:03.400000+00:00",
-      "magnitud": 3.1,
-      "profundidad_km": 4.6,
-      "latitud": 40.881,
-      "longitud": -125.1302,
+      "id": "20261020_0000088",
+      "fecha_hora_utc": "2026-10-20T07:52:08.210000+00:00",
+      "magnitud": 2.8,
+      "profundidad_km": 11.3,
+      "latitud": 37.9763,
+      "longitud": -118.669,
       "pais": "",
-      "ciudad_referencia": "OFFSHORE NORTHERN CALIFORNIA",
+      "ciudad_referencia": "CENTRAL CALIFORNIA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261020_0000085"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261020_0000088"
     },
     "usgs": {
-      "id": "nc75452406",
-      "fecha_hora_utc": "2026-10-20T07:39:03.400000+00:00",
-      "magnitud": 3.1,
-      "profundidad_km": 4.63000011444092,
-      "latitud": 40.8810005187988,
-      "longitud": -125.130165100098,
+      "id": "nc75452411",
+      "fecha_hora_utc": "2026-10-20T07:52:08.210000+00:00",
+      "magnitud": 2.84,
+      "profundidad_km": 11.3299999237061,
+      "latitud": 37.9763336181641,
+      "longitud": -118.668998718262,
       "pais": "",
-      "ciudad_referencia": "80 km WNW of Ferndale, CA",
+      "ciudad_referencia": "39 km SSW of Qualeys Camp, NV",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452406"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452411"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-20T07:50:24.336385+00:00"
+    "hora_consulta_utc": "2026-10-20T07:55:21.105977+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-20T07:50:24.336385+00:00",
-  "combined_after_dedup": 2881
+  "updated_utc": "2026-10-20T07:55:21.105977+00:00",
+  "combined_after_dedup": 2882
 }
