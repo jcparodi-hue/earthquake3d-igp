@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-20T03:05:21.002585+00:00",
+  "actualizado_utc": "2026-10-20T03:10:23.151988+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 54,
   "actualizacion_minutos": 5,
   "igp": 54,
   "emsc": 2833,
-  "usgs": 501,
-  "duplicados_eliminados": 482,
+  "usgs": 502,
+  "duplicados_eliminados": 483,
   "eventos_publicados": 2906,
-  "evento_mas_reciente_utc": "2026-10-20T02:50:55+00:00",
+  "evento_mas_reciente_utc": "2026-10-20T02:54:15.972000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 18,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-19T16:41:54+00:00",
-      "antiguedad_evento_mas_reciente_min": 623.5
+      "antiguedad_evento_mas_reciente_min": 628.5
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2833,
       "eventos_recibidos": 2838,
       "invalidos_rechazados": 5,
-      "evento_mas_reciente_utc": "2026-10-20T02:50:55+00:00",
-      "antiguedad_evento_mas_reciente_min": 14.4
+      "evento_mas_reciente_utc": "2026-10-20T02:54:15.972000+00:00",
+      "antiguedad_evento_mas_reciente_min": 16.1
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 501,
-      "eventos_recibidos": 507,
+      "eventos_validos": 502,
+      "eventos_recibidos": 508,
       "invalidos_rechazados": 6,
-      "evento_mas_reciente_utc": "2026-10-20T00:56:32.769000+00:00",
-      "antiguedad_evento_mas_reciente_min": 128.8
+      "evento_mas_reciente_utc": "2026-10-20T02:54:15.972000+00:00",
+      "antiguedad_evento_mas_reciente_min": 16.1
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-744"
     },
     "emsc": {
-      "id": "20261020_0000028",
-      "fecha_hora_utc": "2026-10-20T02:50:55+00:00",
-      "magnitud": 3.2,
-      "profundidad_km": 28.0,
-      "latitud": 11.117,
-      "longitud": -86.93,
+      "id": "20261020_0000030",
+      "fecha_hora_utc": "2026-10-20T02:54:15.972000+00:00",
+      "magnitud": 5.0,
+      "profundidad_km": 129.4,
+      "latitud": 18.2529,
+      "longitud": 146.0345,
       "pais": "",
-      "ciudad_referencia": "NEAR COAST OF NICARAGUA",
+      "ciudad_referencia": "PAGAN REG., N. MARIANA ISLANDS",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261020_0000028"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261020_0000030"
     },
     "usgs": {
-      "id": "us6000u3j5",
-      "fecha_hora_utc": "2026-10-20T00:56:32.769000+00:00",
-      "magnitud": 4.5,
-      "profundidad_km": 10.0,
-      "latitud": 40.6375,
-      "longitud": 84.1295,
+      "id": "us6000u3jd",
+      "fecha_hora_utc": "2026-10-20T02:54:15.972000+00:00",
+      "magnitud": 5.0,
+      "profundidad_km": 129.361,
+      "latitud": 18.2529,
+      "longitud": 146.0345,
       "pais": "",
-      "ciudad_referencia": "156 km SE of Kuqa, China",
+      "ciudad_referencia": "Pagan region, Northern Mariana Islands",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3j5"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3jd"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-20T03:05:21.002585+00:00"
+    "hora_consulta_utc": "2026-10-20T03:10:23.151988+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-20T03:05:21.002585+00:00",
+  "updated_utc": "2026-10-20T03:10:23.151988+00:00",
   "combined_after_dedup": 2906
 }
