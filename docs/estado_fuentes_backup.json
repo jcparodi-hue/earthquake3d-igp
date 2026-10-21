@@ -1,14 +1,14 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-21T06:50:21.680644+00:00",
+  "actualizado_utc": "2026-10-21T06:55:17.798023+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 55,
   "actualizacion_minutos": 5,
   "igp": 55,
-  "emsc": 2719,
+  "emsc": 2718,
   "usgs": 512,
   "duplicados_eliminados": 486,
-  "eventos_publicados": 2800,
+  "eventos_publicados": 2799,
   "evento_mas_reciente_utc": "2026-10-21T06:49:14.300000+00:00",
   "salud_fuentes": {
     "igp": {
@@ -18,16 +18,16 @@
       "eventos_recibidos": 18,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-21T03:12:48+00:00",
-      "antiguedad_evento_mas_reciente_min": 217.6
+      "antiguedad_evento_mas_reciente_min": 222.5
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2719,
-      "eventos_recibidos": 2723,
+      "eventos_validos": 2718,
+      "eventos_recibidos": 2722,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-10-21T06:49:14.300000+00:00",
-      "antiguedad_evento_mas_reciente_min": 1.1
+      "antiguedad_evento_mas_reciente_min": 6.1
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 517,
       "invalidos_rechazados": 5,
       "evento_mas_reciente_utc": "2026-10-21T05:01:30.380000+00:00",
-      "antiguedad_evento_mas_reciente_min": 108.9
+      "antiguedad_evento_mas_reciente_min": 113.8
     }
   },
   "ultimo_evento": {
@@ -55,10 +55,10 @@
     "emsc": {
       "id": "20261021_0000097",
       "fecha_hora_utc": "2026-10-21T06:49:14.300000+00:00",
-      "magnitud": 3.5,
-      "profundidad_km": 5.0,
-      "latitud": 37.73,
-      "longitud": 15.14,
+      "magnitud": 3.6,
+      "profundidad_km": 10.0,
+      "latitud": 37.72,
+      "longitud": 15.13,
       "pais": "",
       "ciudad_referencia": "SICILY, ITALY",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-21T06:50:21.680644+00:00"
+    "hora_consulta_utc": "2026-10-21T06:55:17.798023+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-21T06:50:21.680644+00:00",
-  "combined_after_dedup": 2800
+  "updated_utc": "2026-10-21T06:55:17.798023+00:00",
+  "combined_after_dedup": 2799
 }
