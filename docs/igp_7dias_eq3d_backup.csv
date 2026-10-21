@@ -16,7 +16,7 @@ YEAR, MON, DAY, HOUR, MIN, DEP, MAG, LAT, LONG, URL   // IGP history + EMSC-RTS 
 2026,10,21,11,28,97.5,2.9,60.150000,-152.322000,10,https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uwbjty
 2026,10,21,11,17,20.0,2.8,-8.490000,121.950000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261021_0000149
 2026,10,21,11,02,10.0,3.7,-5.390000,104.660000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261021_0000148
-2026,10,21,11,00,10.0,3.2,8.385600,-82.561300,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261021_0000147
+2026,10,21,11,00,5.0,3.2,7.687300,-81.500300,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261021_0000147
 2026,10,21,10,54,5.0,3.7,7.681500,-81.486300,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261021_0000146
 2026,10,21,10,40,10.0,4.0,13.839000,-93.128000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261021_0000184
 2026,10,21,10,31,83.3,3.6,14.947000,-92.891000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261021_0000185
@@ -2712,7 +2712,6 @@ YEAR, MON, DAY, HOUR, MIN, DEP, MAG, LAT, LONG, URL   // IGP history + EMSC-RTS 
 2026,10,11,14,54,123.8,4.0,14.534000,-93.303000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261011_0000242
 2026,10,11,14,37,12.0,4.1,7.337500,-81.424200,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261011_0000239
 2026,10,11,14,34,10.0,4.2,7.519000,-80.305600,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261011_0000237
-2026,10,11,14,26,10.0,4.0,7.432800,-80.317200,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261011_0000233
 2026,10,11,13,43,47.0,5.1,-16.780000,-72.560000,10,https://ultimosismo.igp.gob.pe/evento/2026-729
 2026,10,11,11,36,16.0,4.5,-15.570000,-75.290000,10,https://ultimosismo.igp.gob.pe/evento/2026-728
 2026,10,10,18,14,42.0,3.5,-16.610000,-72.660000,10,https://ultimosismo.igp.gob.pe/evento/2026-727
