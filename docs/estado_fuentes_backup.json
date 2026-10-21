@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-21T02:05:16.857132+00:00",
+  "actualizado_utc": "2026-10-21T02:10:24.098903+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 54,
   "actualizacion_minutos": 5,
   "igp": 54,
   "emsc": 2724,
   "usgs": 508,
-  "duplicados_eliminados": 483,
-  "eventos_publicados": 2803,
-  "evento_mas_reciente_utc": "2026-10-21T01:58:43.445000+00:00",
+  "duplicados_eliminados": 482,
+  "eventos_publicados": 2804,
+  "evento_mas_reciente_utc": "2026-10-21T02:01:30+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 17,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-19T16:41:54+00:00",
-      "antiguedad_evento_mas_reciente_min": 2003.4
+      "antiguedad_evento_mas_reciente_min": 2008.5
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,8 +26,8 @@
       "eventos_validos": 2724,
       "eventos_recibidos": 2728,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-21T01:45:53+00:00",
-      "antiguedad_evento_mas_reciente_min": 19.4
+      "evento_mas_reciente_utc": "2026-10-21T02:01:30+00:00",
+      "antiguedad_evento_mas_reciente_min": 8.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 513,
       "invalidos_rechazados": 5,
       "evento_mas_reciente_utc": "2026-10-21T01:58:43.445000+00:00",
-      "antiguedad_evento_mas_reciente_min": 6.6
+      "antiguedad_evento_mas_reciente_min": 11.7
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-744"
     },
     "emsc": {
-      "id": "20261021_0000023",
-      "fecha_hora_utc": "2026-10-21T01:45:53+00:00",
-      "magnitud": 3.4,
-      "profundidad_km": 19.0,
-      "latitud": 1.34,
-      "longitud": 126.57,
+      "id": "20261021_0000025",
+      "fecha_hora_utc": "2026-10-21T02:01:30+00:00",
+      "magnitud": 2.9,
+      "profundidad_km": 51.3,
+      "latitud": -25.34,
+      "longitud": -70.34,
       "pais": "",
-      "ciudad_referencia": "MOLUCCA SEA",
+      "ciudad_referencia": "ANTOFAGASTA, CHILE",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261021_0000023"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261021_0000025"
     },
     "usgs": {
       "id": "aka2026uvijkv",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-21T02:05:16.857132+00:00"
+    "hora_consulta_utc": "2026-10-21T02:10:24.098903+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-21T02:05:16.857132+00:00",
-  "combined_after_dedup": 2803
+  "updated_utc": "2026-10-21T02:10:24.098903+00:00",
+  "combined_after_dedup": 2804
 }
