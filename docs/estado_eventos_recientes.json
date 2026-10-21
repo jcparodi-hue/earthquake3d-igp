@@ -35879,7 +35879,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-745",
     "fecha_primera_recepcion": "2026-10-21T06:40:26.989413+00:00",
-    "fecha_ultima_observacion": "2026-10-21T21:00:31.475428+00:00"
+    "fecha_ultima_observacion": "2026-10-21T21:05:30.233340+00:00"
   },
   "EMSC:20261021_0000093": {
     "id": "20261021_0000093",
@@ -36933,17 +36933,17 @@
   },
   "USGS:us6000u3y1": {
     "id": "us6000u3y1",
-    "fecha_hora_utc": "2026-10-21T20:34:49.393000+00:00",
-    "magnitud": 4.8,
-    "profundidad_km": 4.904,
-    "latitud": -19.7211,
-    "longitud": 14.5987,
+    "fecha_hora_utc": "2026-10-21T20:34:50.454000+00:00",
+    "magnitud": 4.9,
+    "profundidad_km": 10.0,
+    "latitud": -19.7855,
+    "longitud": 14.7284,
     "pais": "",
-    "ciudad_referencia": "81 km NNW of Khorixas, Namibia",
+    "ciudad_referencia": "68 km NNW of Khorixas, Namibia",
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3y1",
     "fecha_primera_recepcion": "2026-10-21T20:55:18.256480+00:00",
-    "fecha_ultima_observacion": "2026-10-21T21:00:31.475428+00:00"
+    "fecha_ultima_observacion": "2026-10-21T21:05:30.233340+00:00"
   },
   "EMSC:20261021_0000301": {
     "id": "20261021_0000301",
@@ -36958,5 +36958,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261021_0000301",
     "fecha_primera_recepcion": "2026-10-21T21:00:31.475428+00:00",
     "fecha_ultima_observacion": "2026-10-21T21:00:31.475428+00:00"
+  },
+  "EMSC:20261021_0000303": {
+    "id": "20261021_0000303",
+    "fecha_hora_utc": "2026-10-21T20:55:10+00:00",
+    "magnitud": 2.9,
+    "profundidad_km": 121.5,
+    "latitud": -30.57,
+    "longitud": -69.87,
+    "pais": "",
+    "ciudad_referencia": "SAN JUAN, ARGENTINA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261021_0000303",
+    "fecha_primera_recepcion": "2026-10-21T21:05:30.233340+00:00",
+    "fecha_ultima_observacion": "2026-10-21T21:05:30.233340+00:00"
   }
 }
