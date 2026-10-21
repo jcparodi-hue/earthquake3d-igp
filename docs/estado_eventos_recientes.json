@@ -35879,7 +35879,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-745",
     "fecha_primera_recepcion": "2026-10-21T06:40:26.989413+00:00",
-    "fecha_ultima_observacion": "2026-10-21T22:10:28.083181+00:00"
+    "fecha_ultima_observacion": "2026-10-21T22:15:25.416270+00:00"
   },
   "EMSC:20261021_0000093": {
     "id": "20261021_0000093",
@@ -37059,16 +37059,30 @@
   },
   "EMSC:20261021_0000318": {
     "id": "20261021_0000318",
-    "fecha_hora_utc": "2026-10-21T21:58:49.790000+00:00",
-    "magnitud": 4.6,
-    "profundidad_km": 11.2,
-    "latitud": 56.9715,
-    "longitud": -34.1461,
+    "fecha_hora_utc": "2026-10-21T21:58:48.618000+00:00",
+    "magnitud": 5.0,
+    "profundidad_km": 10.0,
+    "latitud": 56.863,
+    "longitud": -34.1306,
     "pais": "",
     "ciudad_referencia": "REYKJANES RIDGE",
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261021_0000318",
     "fecha_primera_recepcion": "2026-10-21T22:10:28.083181+00:00",
-    "fecha_ultima_observacion": "2026-10-21T22:10:28.083181+00:00"
+    "fecha_ultima_observacion": "2026-10-21T22:15:25.416270+00:00"
+  },
+  "USGS:us6000u3yp": {
+    "id": "us6000u3yp",
+    "fecha_hora_utc": "2026-10-21T21:58:48.618000+00:00",
+    "magnitud": 5.0,
+    "profundidad_km": 10.0,
+    "latitud": 56.863,
+    "longitud": -34.1306,
+    "pais": "",
+    "ciudad_referencia": "Reykjanes Ridge",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3yp",
+    "fecha_primera_recepcion": "2026-10-21T22:15:25.416270+00:00",
+    "fecha_ultima_observacion": "2026-10-21T22:15:25.416270+00:00"
   }
 }
