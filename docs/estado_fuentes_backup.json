@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-21T06:10:22.796858+00:00",
+  "actualizado_utc": "2026-10-21T06:15:22.437238+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 54,
   "actualizacion_minutos": 5,
   "igp": 54,
-  "emsc": 2720,
+  "emsc": 2719,
   "usgs": 512,
   "duplicados_eliminados": 484,
-  "eventos_publicados": 2802,
-  "evento_mas_reciente_utc": "2026-10-21T06:05:12+00:00",
+  "eventos_publicados": 2801,
+  "evento_mas_reciente_utc": "2026-10-21T06:05:10+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 17,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-19T16:41:54+00:00",
-      "antiguedad_evento_mas_reciente_min": 2248.5
+      "antiguedad_evento_mas_reciente_min": 2253.5
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2720,
-      "eventos_recibidos": 2724,
+      "eventos_validos": 2719,
+      "eventos_recibidos": 2723,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-21T06:05:12+00:00",
-      "antiguedad_evento_mas_reciente_min": 5.2
+      "evento_mas_reciente_utc": "2026-10-21T06:05:10+00:00",
+      "antiguedad_evento_mas_reciente_min": 10.2
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 517,
       "invalidos_rechazados": 5,
       "evento_mas_reciente_utc": "2026-10-21T05:01:30.380000+00:00",
-      "antiguedad_evento_mas_reciente_min": 68.9
+      "antiguedad_evento_mas_reciente_min": 73.9
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261021_0000091",
-      "fecha_hora_utc": "2026-10-21T06:05:12+00:00",
-      "magnitud": 3.5,
+      "fecha_hora_utc": "2026-10-21T06:05:10+00:00",
+      "magnitud": 3.4,
       "profundidad_km": 10.0,
-      "latitud": 9.0528,
-      "longitud": -82.2738,
+      "latitud": 8.9495,
+      "longitud": -82.2046,
       "pais": "",
       "ciudad_referencia": "PANAMA-COSTA RICA BORDER REGION",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-21T06:10:22.796858+00:00"
+    "hora_consulta_utc": "2026-10-21T06:15:22.437238+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-21T06:10:22.796858+00:00",
-  "combined_after_dedup": 2802
+  "updated_utc": "2026-10-21T06:15:22.437238+00:00",
+  "combined_after_dedup": 2801
 }
