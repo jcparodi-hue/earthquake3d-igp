@@ -35879,7 +35879,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-745",
     "fecha_primera_recepcion": "2026-10-21T06:40:26.989413+00:00",
-    "fecha_ultima_observacion": "2026-10-21T18:40:21.079514+00:00"
+    "fecha_ultima_observacion": "2026-10-21T18:45:26.855882+00:00"
   },
   "EMSC:20261021_0000093": {
     "id": "20261021_0000093",
@@ -36748,5 +36748,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261021_0000254",
     "fecha_primera_recepcion": "2026-10-21T18:10:27.599880+00:00",
     "fecha_ultima_observacion": "2026-10-21T18:40:21.079514+00:00"
+  },
+  "EMSC:20261021_0000262": {
+    "id": "20261021_0000262",
+    "fecha_hora_utc": "2026-10-21T18:26:53+00:00",
+    "magnitud": 4.4,
+    "profundidad_km": 19.0,
+    "latitud": 7.5838,
+    "longitud": -80.7235,
+    "pais": "",
+    "ciudad_referencia": "PANAMA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261021_0000262",
+    "fecha_primera_recepcion": "2026-10-21T18:45:26.855882+00:00",
+    "fecha_ultima_observacion": "2026-10-21T18:45:26.855882+00:00"
+  },
+  "USGS:us6000u3w6": {
+    "id": "us6000u3w6",
+    "fecha_hora_utc": "2026-10-21T17:19:33.362000+00:00",
+    "magnitud": 4.6,
+    "profundidad_km": 10.0,
+    "latitud": 49.2528,
+    "longitud": 158.0282,
+    "pais": "",
+    "ciudad_referencia": "208 km SE of Severo-Kuril’sk, Russia",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3w6",
+    "fecha_primera_recepcion": "2026-10-21T18:45:26.855882+00:00",
+    "fecha_ultima_observacion": "2026-10-21T18:45:26.855882+00:00"
   }
 }
