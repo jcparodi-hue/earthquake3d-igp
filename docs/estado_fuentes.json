@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-21T07:10:25.468251+00:00",
+  "actualizado_utc": "2026-10-21T07:15:25.083447+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 55,
   "actualizacion_minutos": 5,
   "igp": 55,
   "emsc": 2711,
-  "usgs": 511,
-  "duplicados_eliminados": 484,
+  "usgs": 510,
+  "duplicados_eliminados": 483,
   "eventos_publicados": 2793,
-  "evento_mas_reciente_utc": "2026-10-21T06:49:13.790000+00:00",
+  "evento_mas_reciente_utc": "2026-10-21T07:07:46+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 18,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-21T03:12:48+00:00",
-      "antiguedad_evento_mas_reciente_min": 237.6
+      "antiguedad_evento_mas_reciente_min": 242.6
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2711,
       "eventos_recibidos": 2715,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-21T06:49:13.790000+00:00",
-      "antiguedad_evento_mas_reciente_min": 21.2
+      "evento_mas_reciente_utc": "2026-10-21T07:07:46+00:00",
+      "antiguedad_evento_mas_reciente_min": 7.7
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 511,
-      "eventos_recibidos": 516,
+      "eventos_validos": 510,
+      "eventos_recibidos": 515,
       "invalidos_rechazados": 5,
       "evento_mas_reciente_utc": "2026-10-21T05:01:30.380000+00:00",
-      "antiguedad_evento_mas_reciente_min": 128.9
+      "antiguedad_evento_mas_reciente_min": 133.9
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-745"
     },
     "emsc": {
-      "id": "20261021_0000097",
-      "fecha_hora_utc": "2026-10-21T06:49:13.790000+00:00",
-      "magnitud": 3.7,
-      "profundidad_km": 4.0,
-      "latitud": 37.747,
-      "longitud": 15.041,
+      "id": "20261021_0000102",
+      "fecha_hora_utc": "2026-10-21T07:07:46+00:00",
+      "magnitud": 2.8,
+      "profundidad_km": 2.9,
+      "latitud": 22.7912,
+      "longitud": 91.908,
       "pais": "",
-      "ciudad_referencia": "SICILY, ITALY",
+      "ciudad_referencia": "BANGLADESH",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261021_0000097"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261021_0000102"
     },
     "usgs": {
       "id": "pr71537388",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-21T07:10:25.468251+00:00"
+    "hora_consulta_utc": "2026-10-21T07:15:25.083447+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-21T07:10:25.468251+00:00",
+  "updated_utc": "2026-10-21T07:15:25.083447+00:00",
   "combined_after_dedup": 2793
 }
