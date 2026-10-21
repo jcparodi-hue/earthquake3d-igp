@@ -35879,7 +35879,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-745",
     "fecha_primera_recepcion": "2026-10-21T06:40:26.989413+00:00",
-    "fecha_ultima_observacion": "2026-10-21T16:30:27.680869+00:00"
+    "fecha_ultima_observacion": "2026-10-21T16:35:18.946689+00:00"
   },
   "EMSC:20261021_0000093": {
     "id": "20261021_0000093",
@@ -36622,5 +36622,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261021_0000228",
     "fecha_primera_recepcion": "2026-10-21T16:30:27.680869+00:00",
     "fecha_ultima_observacion": "2026-10-21T16:30:27.680869+00:00"
+  },
+  "EMSC:20261021_0000229": {
+    "id": "20261021_0000229",
+    "fecha_hora_utc": "2026-10-21T16:28:20+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 234.2,
+    "latitud": -23.16,
+    "longitud": -67.13,
+    "pais": "",
+    "ciudad_referencia": "ANTOFAGASTA, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261021_0000229",
+    "fecha_primera_recepcion": "2026-10-21T16:35:18.946689+00:00",
+    "fecha_ultima_observacion": "2026-10-21T16:35:18.946689+00:00"
+  },
+  "USGS:aka2026uwloao": {
+    "id": "aka2026uwloao",
+    "fecha_hora_utc": "2026-10-21T16:33:36.294000+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 5.0,
+    "latitud": 62.296,
+    "longitud": -142.561,
+    "pais": "",
+    "ciudad_referencia": "24 km ESE of Nabesna, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uwloao",
+    "fecha_primera_recepcion": "2026-10-21T16:35:18.946689+00:00",
+    "fecha_ultima_observacion": "2026-10-21T16:35:18.946689+00:00"
   }
 }

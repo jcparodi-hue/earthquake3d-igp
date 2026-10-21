@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-21T16:30:27.680869+00:00",
+  "actualizado_utc": "2026-10-21T16:35:18.946689+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 55,
   "actualizacion_minutos": 5,
   "igp": 55,
-  "emsc": 2670,
-  "usgs": 504,
-  "duplicados_eliminados": 474,
-  "eventos_publicados": 2755,
-  "evento_mas_reciente_utc": "2026-10-21T16:20:46+00:00",
+  "emsc": 2672,
+  "usgs": 506,
+  "duplicados_eliminados": 475,
+  "eventos_publicados": 2758,
+  "evento_mas_reciente_utc": "2026-10-21T16:33:36.294000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 16,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-21T03:12:48+00:00",
-      "antiguedad_evento_mas_reciente_min": 797.7
+      "antiguedad_evento_mas_reciente_min": 802.5
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2670,
-      "eventos_recibidos": 2674,
+      "eventos_validos": 2672,
+      "eventos_recibidos": 2676,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-21T16:20:46+00:00",
-      "antiguedad_evento_mas_reciente_min": 9.7
+      "evento_mas_reciente_utc": "2026-10-21T16:28:20+00:00",
+      "antiguedad_evento_mas_reciente_min": 7.0
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 504,
-      "eventos_recibidos": 509,
+      "eventos_validos": 506,
+      "eventos_recibidos": 511,
       "invalidos_rechazados": 5,
-      "evento_mas_reciente_utc": "2026-10-21T15:55:24.610000+00:00",
-      "antiguedad_evento_mas_reciente_min": 35.1
+      "evento_mas_reciente_utc": "2026-10-21T16:33:36.294000+00:00",
+      "antiguedad_evento_mas_reciente_min": 1.7
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-745"
     },
     "emsc": {
-      "id": "20261021_0000228",
-      "fecha_hora_utc": "2026-10-21T16:20:46+00:00",
-      "magnitud": 2.6,
-      "profundidad_km": 84.0,
-      "latitud": -23.07,
-      "longitud": -68.88,
+      "id": "20261021_0000229",
+      "fecha_hora_utc": "2026-10-21T16:28:20+00:00",
+      "magnitud": 3.0,
+      "profundidad_km": 234.2,
+      "latitud": -23.16,
+      "longitud": -67.13,
       "pais": "",
       "ciudad_referencia": "ANTOFAGASTA, CHILE",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261021_0000228"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261021_0000229"
     },
     "usgs": {
-      "id": "nc75452891",
-      "fecha_hora_utc": "2026-10-21T15:55:24.610000+00:00",
-      "magnitud": 3.13,
-      "profundidad_km": 6.23000001907349,
-      "latitud": 40.8834991455078,
-      "longitud": -120.606163024902,
+      "id": "aka2026uwloao",
+      "fecha_hora_utc": "2026-10-21T16:33:36.294000+00:00",
+      "magnitud": 2.5,
+      "profundidad_km": 5.0,
+      "latitud": 62.296,
+      "longitud": -142.561,
       "pais": "",
-      "ciudad_referencia": "39 km SSW of Likely, CA",
+      "ciudad_referencia": "24 km ESE of Nabesna, Alaska",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452891"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uwloao"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-21T16:30:27.680869+00:00"
+    "hora_consulta_utc": "2026-10-21T16:35:18.946689+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-21T16:30:27.680869+00:00",
-  "combined_after_dedup": 2755
+  "updated_utc": "2026-10-21T16:35:18.946689+00:00",
+  "combined_after_dedup": 2758
 }
