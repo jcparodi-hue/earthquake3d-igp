@@ -35879,7 +35879,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-745",
     "fecha_primera_recepcion": "2026-10-21T06:40:26.989413+00:00",
-    "fecha_ultima_observacion": "2026-10-21T20:53:34.362310+00:00"
+    "fecha_ultima_observacion": "2026-10-21T20:55:18.256480+00:00"
   },
   "EMSC:20261021_0000093": {
     "id": "20261021_0000093",
@@ -36929,6 +36929,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261021_0000296",
     "fecha_primera_recepcion": "2026-10-21T20:50:26.481579+00:00",
-    "fecha_ultima_observacion": "2026-10-21T20:53:34.362310+00:00"
+    "fecha_ultima_observacion": "2026-10-21T20:55:18.256480+00:00"
+  },
+  "USGS:us6000u3y1": {
+    "id": "us6000u3y1",
+    "fecha_hora_utc": "2026-10-21T20:34:49.393000+00:00",
+    "magnitud": 4.8,
+    "profundidad_km": 4.904,
+    "latitud": -19.7211,
+    "longitud": 14.5987,
+    "pais": "",
+    "ciudad_referencia": "81 km NNW of Khorixas, Namibia",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3y1",
+    "fecha_primera_recepcion": "2026-10-21T20:55:18.256480+00:00",
+    "fecha_ultima_observacion": "2026-10-21T20:55:18.256480+00:00"
   }
 }
