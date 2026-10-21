@@ -32897,7 +32897,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-744",
     "fecha_primera_recepcion": "2026-10-19T19:50:23.515157+00:00",
-    "fecha_ultima_observacion": "2026-10-21T03:10:22.986830+00:00"
+    "fecha_ultima_observacion": "2026-10-21T03:15:06.318967+00:00"
   },
   "EMSC:20261019_0000313": {
     "id": "20261019_0000313",
@@ -35502,5 +35502,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261021_0000042",
     "fecha_primera_recepcion": "2026-10-21T03:10:22.986830+00:00",
     "fecha_ultima_observacion": "2026-10-21T03:10:22.986830+00:00"
+  },
+  "EMSC:20261021_0000043": {
+    "id": "20261021_0000043",
+    "fecha_hora_utc": "2026-10-21T03:05:15.457000+00:00",
+    "magnitud": 2.7,
+    "profundidad_km": 8.3,
+    "latitud": 31.6512,
+    "longitud": -104.5009,
+    "pais": "",
+    "ciudad_referencia": "WESTERN TEXAS",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261021_0000043",
+    "fecha_primera_recepcion": "2026-10-21T03:15:06.318967+00:00",
+    "fecha_ultima_observacion": "2026-10-21T03:15:06.318967+00:00"
+  },
+  "USGS:us6000u3s1": {
+    "id": "us6000u3s1",
+    "fecha_hora_utc": "2026-10-21T03:05:15.457000+00:00",
+    "magnitud": 2.7,
+    "profundidad_km": 8.291,
+    "latitud": 31.6512,
+    "longitud": -104.5009,
+    "pais": "",
+    "ciudad_referencia": "59 km SSW of Whites City, New Mexico",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3s1",
+    "fecha_primera_recepcion": "2026-10-21T03:15:06.318967+00:00",
+    "fecha_ultima_observacion": "2026-10-21T03:15:06.318967+00:00"
   }
 }
