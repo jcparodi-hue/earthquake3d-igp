@@ -35879,7 +35879,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-745",
     "fecha_primera_recepcion": "2026-10-21T06:40:26.989413+00:00",
-    "fecha_ultima_observacion": "2026-10-21T18:50:26.989509+00:00"
+    "fecha_ultima_observacion": "2026-10-21T18:54:40.989592+00:00"
   },
   "EMSC:20261021_0000093": {
     "id": "20261021_0000093",
@@ -36789,6 +36789,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261021_0000264",
     "fecha_primera_recepcion": "2026-10-21T18:50:26.989509+00:00",
-    "fecha_ultima_observacion": "2026-10-21T18:50:26.989509+00:00"
+    "fecha_ultima_observacion": "2026-10-21T18:54:40.989592+00:00"
+  },
+  "USGS:us6000u3wh": {
+    "id": "us6000u3wh",
+    "fecha_hora_utc": "2026-10-21T18:12:35.440000+00:00",
+    "magnitud": 5.1,
+    "profundidad_km": 10.0,
+    "latitud": -52.8338,
+    "longitud": 27.5329,
+    "pais": "",
+    "ciudad_referencia": "south of Africa",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3wh",
+    "fecha_primera_recepcion": "2026-10-21T18:54:40.989592+00:00",
+    "fecha_ultima_observacion": "2026-10-21T18:54:40.989592+00:00"
   }
 }
