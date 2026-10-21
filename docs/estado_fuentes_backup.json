@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-21T11:25:20.359155+00:00",
+  "actualizado_utc": "2026-10-21T11:30:28.763865+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 55,
   "actualizacion_minutos": 5,
   "igp": 55,
   "emsc": 2676,
-  "usgs": 502,
+  "usgs": 503,
   "duplicados_eliminados": 475,
-  "eventos_publicados": 2758,
-  "evento_mas_reciente_utc": "2026-10-21T11:02:34+00:00",
+  "eventos_publicados": 2759,
+  "evento_mas_reciente_utc": "2026-10-21T11:28:51.939000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 18,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-21T03:12:48+00:00",
-      "antiguedad_evento_mas_reciente_min": 492.5
+      "antiguedad_evento_mas_reciente_min": 497.7
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2676,
       "eventos_recibidos": 2680,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-21T11:02:34+00:00",
-      "antiguedad_evento_mas_reciente_min": 22.8
+      "evento_mas_reciente_utc": "2026-10-21T11:17:48+00:00",
+      "antiguedad_evento_mas_reciente_min": 12.7
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 502,
-      "eventos_recibidos": 507,
+      "eventos_validos": 503,
+      "eventos_recibidos": 508,
       "invalidos_rechazados": 5,
-      "evento_mas_reciente_utc": "2026-10-21T09:34:27.737000+00:00",
-      "antiguedad_evento_mas_reciente_min": 110.9
+      "evento_mas_reciente_utc": "2026-10-21T11:28:51.939000+00:00",
+      "antiguedad_evento_mas_reciente_min": 1.6
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-745"
     },
     "emsc": {
-      "id": "20261021_0000148",
-      "fecha_hora_utc": "2026-10-21T11:02:34+00:00",
-      "magnitud": 3.7,
-      "profundidad_km": 10.0,
-      "latitud": -5.39,
-      "longitud": 104.66,
+      "id": "20261021_0000149",
+      "fecha_hora_utc": "2026-10-21T11:17:48+00:00",
+      "magnitud": 2.8,
+      "profundidad_km": 20.0,
+      "latitud": -8.49,
+      "longitud": 121.95,
       "pais": "",
-      "ciudad_referencia": "SOUTHERN SUMATRA, INDONESIA",
+      "ciudad_referencia": "FLORES REGION, INDONESIA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261021_0000148"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261021_0000149"
     },
     "usgs": {
-      "id": "us6000u3tb",
-      "fecha_hora_utc": "2026-10-21T09:34:27.737000+00:00",
-      "magnitud": 2.7,
-      "profundidad_km": 6.943,
-      "latitud": 32.7891,
-      "longitud": -103.4759,
+      "id": "aka2026uwbjty",
+      "fecha_hora_utc": "2026-10-21T11:28:51.939000+00:00",
+      "magnitud": 2.6,
+      "profundidad_km": 100.1,
+      "latitud": 60.15,
+      "longitud": -152.394,
       "pais": "",
-      "ciudad_referencia": "20 km SW of Lovington, New Mexico",
+      "ciudad_referencia": "41 km WNW of Ninilchik, Alaska",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3tb"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uwbjty"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-21T11:25:20.359155+00:00"
+    "hora_consulta_utc": "2026-10-21T11:30:28.763865+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-21T11:25:20.359155+00:00",
-  "combined_after_dedup": 2758
+  "updated_utc": "2026-10-21T11:30:28.763865+00:00",
+  "combined_after_dedup": 2759
 }
