@@ -35879,7 +35879,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-745",
     "fecha_primera_recepcion": "2026-10-21T06:40:26.989413+00:00",
-    "fecha_ultima_observacion": "2026-10-22T00:00:31.826456+00:00"
+    "fecha_ultima_observacion": "2026-10-22T00:01:43.042512+00:00"
   },
   "EMSC:20261021_0000093": {
     "id": "20261021_0000093",
@@ -37083,7 +37083,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3yp",
     "fecha_primera_recepcion": "2026-10-21T22:15:25.416270+00:00",
-    "fecha_ultima_observacion": "2026-10-22T00:00:31.826456+00:00"
+    "fecha_ultima_observacion": "2026-10-22T00:01:43.042512+00:00"
   },
   "EMSC:20261021_0000321": {
     "id": "20261021_0000321",
@@ -37224,5 +37224,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261021_0000358",
     "fecha_primera_recepcion": "2026-10-22T00:00:31.826456+00:00",
     "fecha_ultima_observacion": "2026-10-22T00:00:31.826456+00:00"
+  },
+  "EMSC:20261021_0000359": {
+    "id": "20261021_0000359",
+    "fecha_hora_utc": "2026-10-21T23:55:32+00:00",
+    "magnitud": 3.3,
+    "profundidad_km": 10.0,
+    "latitud": -28.17,
+    "longitud": -66.0,
+    "pais": "",
+    "ciudad_referencia": "CATAMARCA, ARGENTINA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261021_0000359",
+    "fecha_primera_recepcion": "2026-10-22T00:01:43.042512+00:00",
+    "fecha_ultima_observacion": "2026-10-22T00:01:43.042512+00:00"
   }
 }
