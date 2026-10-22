@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-22T15:27:17.291057+00:00",
+  "actualizado_utc": "2026-10-22T15:30:30.246019+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 55,
   "actualizacion_minutos": 5,
@@ -18,7 +18,7 @@
       "eventos_recibidos": 13,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-21T03:12:48+00:00",
-      "antiguedad_evento_mas_reciente_min": 2174.5
+      "antiguedad_evento_mas_reciente_min": 2177.7
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,8 +26,8 @@
       "eventos_validos": 2591,
       "eventos_recibidos": 2594,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-22T15:12:05.310000+00:00",
-      "antiguedad_evento_mas_reciente_min": 15.2
+      "evento_mas_reciente_utc": "2026-10-22T15:12:08.400000+00:00",
+      "antiguedad_evento_mas_reciente_min": 18.4
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 516,
       "invalidos_rechazados": 5,
       "evento_mas_reciente_utc": "2026-10-22T15:19:57.039000+00:00",
-      "antiguedad_evento_mas_reciente_min": 7.3
+      "antiguedad_evento_mas_reciente_min": 10.6
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261022_0000245",
-      "fecha_hora_utc": "2026-10-22T15:12:05.310000+00:00",
+      "fecha_hora_utc": "2026-10-22T15:12:08.400000+00:00",
       "magnitud": 5.2,
-      "profundidad_km": 10.0,
-      "latitud": 32.558,
-      "longitud": 93.995,
+      "profundidad_km": 35.0,
+      "latitud": 32.5124,
+      "longitud": 93.9811,
       "pais": "",
       "ciudad_referencia": "XIZANG-QINGHAI BORDER REGION",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-22T15:27:17.291057+00:00"
+    "hora_consulta_utc": "2026-10-22T15:30:30.246019+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-22T15:27:17.291057+00:00",
+  "updated_utc": "2026-10-22T15:30:30.246019+00:00",
   "combined_after_dedup": 2690
 }
