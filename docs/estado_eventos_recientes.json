@@ -35879,7 +35879,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-745",
     "fecha_primera_recepcion": "2026-10-21T06:40:26.989413+00:00",
-    "fecha_ultima_observacion": "2026-10-22T01:40:21.606170+00:00"
+    "fecha_ultima_observacion": "2026-10-22T01:45:24.785610+00:00"
   },
   "EMSC:20261021_0000093": {
     "id": "20261021_0000093",
@@ -37335,6 +37335,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261022_0000024",
     "fecha_primera_recepcion": "2026-10-22T01:40:21.606170+00:00",
-    "fecha_ultima_observacion": "2026-10-22T01:40:21.606170+00:00"
+    "fecha_ultima_observacion": "2026-10-22T01:45:24.785610+00:00"
+  },
+  "USGS:nc75453186": {
+    "id": "nc75453186",
+    "fecha_hora_utc": "2026-10-22T01:43:10.400000+00:00",
+    "magnitud": 3.25,
+    "profundidad_km": 10.9899997711182,
+    "latitud": 40.2345008850098,
+    "longitud": -124.170829772949,
+    "pais": "",
+    "ciudad_referencia": "14 km SE of Petrolia, CA",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453186",
+    "fecha_primera_recepcion": "2026-10-22T01:45:24.785610+00:00",
+    "fecha_ultima_observacion": "2026-10-22T01:45:24.785610+00:00"
   }
 }
