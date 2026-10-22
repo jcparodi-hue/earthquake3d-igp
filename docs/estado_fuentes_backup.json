@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-22T13:07:29.411091+00:00",
+  "actualizado_utc": "2026-10-22T13:10:28.508993+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 55,
   "actualizacion_minutos": 5,
   "igp": 55,
-  "emsc": 2587,
-  "usgs": 511,
-  "duplicados_eliminados": 468,
-  "eventos_publicados": 2685,
-  "evento_mas_reciente_utc": "2026-10-22T12:53:36+00:00",
+  "emsc": 2588,
+  "usgs": 512,
+  "duplicados_eliminados": 469,
+  "eventos_publicados": 2686,
+  "evento_mas_reciente_utc": "2026-10-22T13:01:50+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 13,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-21T03:12:48+00:00",
-      "antiguedad_evento_mas_reciente_min": 2034.7
+      "antiguedad_evento_mas_reciente_min": 2037.7
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2587,
-      "eventos_recibidos": 2590,
+      "eventos_validos": 2588,
+      "eventos_recibidos": 2591,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-22T12:53:36+00:00",
-      "antiguedad_evento_mas_reciente_min": 13.9
+      "evento_mas_reciente_utc": "2026-10-22T13:01:50+00:00",
+      "antiguedad_evento_mas_reciente_min": 8.6
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 511,
-      "eventos_recibidos": 516,
+      "eventos_validos": 512,
+      "eventos_recibidos": 517,
       "invalidos_rechazados": 5,
-      "evento_mas_reciente_utc": "2026-10-22T10:57:52.259000+00:00",
-      "antiguedad_evento_mas_reciente_min": 129.6
+      "evento_mas_reciente_utc": "2026-10-22T12:22:57.822000+00:00",
+      "antiguedad_evento_mas_reciente_min": 47.5
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-745"
     },
     "emsc": {
-      "id": "20261022_0000201",
-      "fecha_hora_utc": "2026-10-22T12:53:36+00:00",
-      "magnitud": 3.0,
-      "profundidad_km": 15.0,
-      "latitud": 5.29,
-      "longitud": 126.54,
+      "id": "20261022_0000203",
+      "fecha_hora_utc": "2026-10-22T13:01:50+00:00",
+      "magnitud": 3.6,
+      "profundidad_km": 99.0,
+      "latitud": 5.82,
+      "longitud": 126.81,
       "pais": "",
       "ciudad_referencia": "MINDANAO, PHILIPPINES",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261022_0000201"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261022_0000203"
     },
     "usgs": {
-      "id": "us6000u42q",
-      "fecha_hora_utc": "2026-10-22T10:57:52.259000+00:00",
+      "id": "us6000u432",
+      "fecha_hora_utc": "2026-10-22T12:22:57.822000+00:00",
       "magnitud": 4.9,
-      "profundidad_km": 135.261,
-      "latitud": -2.8037,
-      "longitud": 102.1272,
+      "profundidad_km": 10.0,
+      "latitud": -13.9085,
+      "longitud": 165.6239,
       "pais": "",
-      "ciudad_referencia": "85 km NNW of Curup, Indonesia",
+      "ciudad_referencia": "200 km NW of Port-Olry, Vanuatu",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u42q"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u432"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-22T13:07:29.411091+00:00"
+    "hora_consulta_utc": "2026-10-22T13:10:28.508993+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-22T13:07:29.411091+00:00",
-  "combined_after_dedup": 2685
+  "updated_utc": "2026-10-22T13:10:28.508993+00:00",
+  "combined_after_dedup": 2686
 }

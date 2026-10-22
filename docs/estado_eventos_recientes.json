@@ -35879,7 +35879,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-745",
     "fecha_primera_recepcion": "2026-10-21T06:40:26.989413+00:00",
-    "fecha_ultima_observacion": "2026-10-22T13:07:29.411091+00:00"
+    "fecha_ultima_observacion": "2026-10-22T13:10:28.508993+00:00"
   },
   "EMSC:20261021_0000093": {
     "id": "20261021_0000093",
@@ -38316,5 +38316,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261022_0000201",
     "fecha_primera_recepcion": "2026-10-22T13:05:28.169143+00:00",
     "fecha_ultima_observacion": "2026-10-22T13:07:29.411091+00:00"
+  },
+  "EMSC:20261022_0000203": {
+    "id": "20261022_0000203",
+    "fecha_hora_utc": "2026-10-22T13:01:50+00:00",
+    "magnitud": 3.6,
+    "profundidad_km": 99.0,
+    "latitud": 5.82,
+    "longitud": 126.81,
+    "pais": "",
+    "ciudad_referencia": "MINDANAO, PHILIPPINES",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261022_0000203",
+    "fecha_primera_recepcion": "2026-10-22T13:10:28.508993+00:00",
+    "fecha_ultima_observacion": "2026-10-22T13:10:28.508993+00:00"
+  },
+  "USGS:us6000u432": {
+    "id": "us6000u432",
+    "fecha_hora_utc": "2026-10-22T12:22:57.822000+00:00",
+    "magnitud": 4.9,
+    "profundidad_km": 10.0,
+    "latitud": -13.9085,
+    "longitud": 165.6239,
+    "pais": "",
+    "ciudad_referencia": "200 km NW of Port-Olry, Vanuatu",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u432",
+    "fecha_primera_recepcion": "2026-10-22T13:10:28.508993+00:00",
+    "fecha_ultima_observacion": "2026-10-22T13:10:28.508993+00:00"
   }
 }
