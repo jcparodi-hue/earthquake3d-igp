@@ -35879,7 +35879,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-745",
     "fecha_primera_recepcion": "2026-10-21T06:40:26.989413+00:00",
-    "fecha_ultima_observacion": "2026-10-22T14:35:20.641123+00:00"
+    "fecha_ultima_observacion": "2026-10-22T14:40:26.225280+00:00"
   },
   "EMSC:20261021_0000093": {
     "id": "20261021_0000093",
@@ -38417,30 +38417,30 @@
   },
   "EMSC:20261022_0000231": {
     "id": "20261022_0000231",
-    "fecha_hora_utc": "2026-10-22T14:25:19.220000+00:00",
-    "magnitud": 3.2,
-    "profundidad_km": 25.2,
-    "latitud": 45.8883,
-    "longitud": -122.8645,
+    "fecha_hora_utc": "2026-10-22T14:25:19.320000+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 23.4,
+    "latitud": 45.8847,
+    "longitud": -122.8568,
     "pais": "",
     "ciudad_referencia": "OREGON",
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261022_0000231",
     "fecha_primera_recepcion": "2026-10-22T14:30:30.205954+00:00",
-    "fecha_ultima_observacion": "2026-10-22T14:35:20.641123+00:00"
+    "fecha_ultima_observacion": "2026-10-22T14:40:26.225280+00:00"
   },
   "USGS:uw714124012": {
     "id": "uw714124012",
-    "fecha_hora_utc": "2026-10-22T14:25:19.220000+00:00",
-    "magnitud": 3.19995164871216,
-    "profundidad_km": 25.1700000762939,
-    "latitud": 45.8883323669434,
-    "longitud": -122.864501953125,
+    "fecha_hora_utc": "2026-10-22T14:25:19.320000+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 23.45,
+    "latitud": 45.8846666666667,
+    "longitud": -122.856833333333,
     "pais": "",
-    "ciudad_referencia": "4 km W of Columbia City, Oregon",
+    "ciudad_referencia": "3 km W of Columbia City, Oregon",
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714124012",
     "fecha_primera_recepcion": "2026-10-22T14:30:30.205954+00:00",
-    "fecha_ultima_observacion": "2026-10-22T14:35:20.641123+00:00"
+    "fecha_ultima_observacion": "2026-10-22T14:40:26.225280+00:00"
   }
 }
