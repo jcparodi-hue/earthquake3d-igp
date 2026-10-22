@@ -35879,7 +35879,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-745",
     "fecha_primera_recepcion": "2026-10-21T06:40:26.989413+00:00",
-    "fecha_ultima_observacion": "2026-10-22T19:40:26.500695+00:00"
+    "fecha_ultima_observacion": "2026-10-22T19:45:21.118581+00:00"
   },
   "EMSC:20261021_0000093": {
     "id": "20261021_0000093",
@@ -38823,17 +38823,17 @@
   },
   "EMSC:20261022_0000323": {
     "id": "20261022_0000323",
-    "fecha_hora_utc": "2026-10-22T19:32:02.270000+00:00",
-    "magnitud": 3.0,
-    "profundidad_km": -0.0,
-    "latitud": 19.428,
-    "longitud": -155.6155,
+    "fecha_hora_utc": "2026-10-22T19:32:16.902000+00:00",
+    "magnitud": 2.8,
+    "profundidad_km": 5.8,
+    "latitud": 19.4269,
+    "longitud": -155.5882,
     "pais": "",
     "ciudad_referencia": "ISLAND OF HAWAII, HAWAII",
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261022_0000323",
     "fecha_primera_recepcion": "2026-10-22T19:35:21.534577+00:00",
-    "fecha_ultima_observacion": "2026-10-22T19:35:21.534577+00:00"
+    "fecha_ultima_observacion": "2026-10-22T19:45:21.118581+00:00"
   },
   "EMSC:20261022_0000322": {
     "id": "20261022_0000322",
@@ -38848,5 +38848,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261022_0000322",
     "fecha_primera_recepcion": "2026-10-22T19:40:26.500695+00:00",
     "fecha_ultima_observacion": "2026-10-22T19:40:26.500695+00:00"
+  },
+  "USGS:us6000u46r": {
+    "id": "us6000u46r",
+    "fecha_hora_utc": "2026-10-22T19:06:56.074000+00:00",
+    "magnitud": 4.9,
+    "profundidad_km": 23.411,
+    "latitud": -15.1269,
+    "longitud": -173.3304,
+    "pais": "",
+    "ciudad_referencia": "104 km NNE of Hihifo, Tonga",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u46r",
+    "fecha_primera_recepcion": "2026-10-22T19:45:21.118581+00:00",
+    "fecha_ultima_observacion": "2026-10-22T19:45:21.118581+00:00"
   }
 }
