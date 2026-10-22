@@ -35879,7 +35879,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-745",
     "fecha_primera_recepcion": "2026-10-21T06:40:26.989413+00:00",
-    "fecha_ultima_observacion": "2026-10-22T07:35:21.385168+00:00"
+    "fecha_ultima_observacion": "2026-10-22T07:40:26.073857+00:00"
   },
   "EMSC:20261021_0000093": {
     "id": "20261021_0000093",
@@ -37853,7 +37853,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uxolir",
     "fecha_primera_recepcion": "2026-10-22T07:05:25.107951+00:00",
-    "fecha_ultima_observacion": "2026-10-22T07:35:21.385168+00:00"
+    "fecha_ultima_observacion": "2026-10-22T07:40:26.073857+00:00"
   },
   "EMSC:20261022_0000114": {
     "id": "20261022_0000114",
@@ -37896,5 +37896,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261022_0000117",
     "fecha_primera_recepcion": "2026-10-22T07:30:28.605462+00:00",
     "fecha_ultima_observacion": "2026-10-22T07:35:21.385168+00:00"
+  },
+  "EMSC:20261022_0000118": {
+    "id": "20261022_0000118",
+    "fecha_hora_utc": "2026-10-22T07:28:10+00:00",
+    "magnitud": 4.0,
+    "profundidad_km": 168.0,
+    "latitud": 14.917,
+    "longitud": -91.343,
+    "pais": "",
+    "ciudad_referencia": "GUATEMALA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261022_0000118",
+    "fecha_primera_recepcion": "2026-10-22T07:40:26.073857+00:00",
+    "fecha_ultima_observacion": "2026-10-22T07:40:26.073857+00:00"
   }
 }
