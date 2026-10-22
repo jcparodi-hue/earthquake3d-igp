@@ -35879,7 +35879,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-745",
     "fecha_primera_recepcion": "2026-10-21T06:40:26.989413+00:00",
-    "fecha_ultima_observacion": "2026-10-22T14:50:27.501326+00:00"
+    "fecha_ultima_observacion": "2026-10-22T14:55:23.609260+00:00"
   },
   "EMSC:20261021_0000093": {
     "id": "20261021_0000093",
@@ -38427,7 +38427,7 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261022_0000231",
     "fecha_primera_recepcion": "2026-10-22T14:30:30.205954+00:00",
-    "fecha_ultima_observacion": "2026-10-22T14:50:27.501326+00:00"
+    "fecha_ultima_observacion": "2026-10-22T14:55:23.609260+00:00"
   },
   "USGS:uw714124012": {
     "id": "uw714124012",
@@ -38442,5 +38442,19 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714124012",
     "fecha_primera_recepcion": "2026-10-22T14:30:30.205954+00:00",
     "fecha_ultima_observacion": "2026-10-22T14:50:27.501326+00:00"
+  },
+  "USGS:us6000u43g": {
+    "id": "us6000u43g",
+    "fecha_hora_utc": "2026-10-22T14:33:39.014000+00:00",
+    "magnitud": 7.0,
+    "profundidad_km": 10.0,
+    "latitud": 32.3357,
+    "longitud": 93.7138,
+    "pais": "",
+    "ciudad_referencia": "183 km ENE of Nagqu, China",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u43g",
+    "fecha_primera_recepcion": "2026-10-22T14:55:23.609260+00:00",
+    "fecha_ultima_observacion": "2026-10-22T14:55:23.609260+00:00"
   }
 }
