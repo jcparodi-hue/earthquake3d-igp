@@ -35879,7 +35879,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-745",
     "fecha_primera_recepcion": "2026-10-21T06:40:26.989413+00:00",
-    "fecha_ultima_observacion": "2026-10-22T09:20:21.272321+00:00"
+    "fecha_ultima_observacion": "2026-10-22T09:25:25.324175+00:00"
   },
   "EMSC:20261021_0000093": {
     "id": "20261021_0000093",
@@ -38049,7 +38049,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u423",
     "fecha_primera_recepcion": "2026-10-22T09:04:39.194118+00:00",
-    "fecha_ultima_observacion": "2026-10-22T09:20:21.272321+00:00"
+    "fecha_ultima_observacion": "2026-10-22T09:25:25.324175+00:00"
   },
   "EMSC:20261022_0000143": {
     "id": "20261022_0000143",
@@ -38064,5 +38064,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261022_0000143",
     "fecha_primera_recepcion": "2026-10-22T09:10:21.366581+00:00",
     "fecha_ultima_observacion": "2026-10-22T09:20:21.272321+00:00"
+  },
+  "EMSC:20261022_0000146": {
+    "id": "20261022_0000146",
+    "fecha_hora_utc": "2026-10-22T09:16:47+00:00",
+    "magnitud": 4.5,
+    "profundidad_km": 5.0,
+    "latitud": 9.0365,
+    "longitud": -82.2383,
+    "pais": "",
+    "ciudad_referencia": "PANAMA-COSTA RICA BORDER REGION",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261022_0000146",
+    "fecha_primera_recepcion": "2026-10-22T09:25:25.324175+00:00",
+    "fecha_ultima_observacion": "2026-10-22T09:25:25.324175+00:00"
   }
 }
