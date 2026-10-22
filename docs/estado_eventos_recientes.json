@@ -35879,7 +35879,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-745",
     "fecha_primera_recepcion": "2026-10-21T06:40:26.989413+00:00",
-    "fecha_ultima_observacion": "2026-10-22T14:10:25.991346+00:00"
+    "fecha_ultima_observacion": "2026-10-22T14:15:26.646799+00:00"
   },
   "EMSC:20261021_0000093": {
     "id": "20261021_0000093",
@@ -38343,7 +38343,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u432",
     "fecha_primera_recepcion": "2026-10-22T13:10:28.508993+00:00",
-    "fecha_ultima_observacion": "2026-10-22T14:10:25.991346+00:00"
+    "fecha_ultima_observacion": "2026-10-22T14:15:26.646799+00:00"
   },
   "EMSC:20261022_0000205": {
     "id": "20261022_0000205",
@@ -38400,5 +38400,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261022_0000210",
     "fecha_primera_recepcion": "2026-10-22T14:10:25.991346+00:00",
     "fecha_ultima_observacion": "2026-10-22T14:10:25.991346+00:00"
+  },
+  "EMSC:20261022_0000212": {
+    "id": "20261022_0000212",
+    "fecha_hora_utc": "2026-10-22T14:06:36.710936+00:00",
+    "magnitud": 3.1,
+    "profundidad_km": 15.4,
+    "latitud": -45.5641,
+    "longitud": 168.0838,
+    "pais": "",
+    "ciudad_referencia": "SOUTH ISLAND OF NEW ZEALAND",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261022_0000212",
+    "fecha_primera_recepcion": "2026-10-22T14:15:26.646799+00:00",
+    "fecha_ultima_observacion": "2026-10-22T14:15:26.646799+00:00"
   }
 }
