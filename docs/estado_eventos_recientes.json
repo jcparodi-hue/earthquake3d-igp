@@ -35879,7 +35879,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-745",
     "fecha_primera_recepcion": "2026-10-21T06:40:26.989413+00:00",
-    "fecha_ultima_observacion": "2026-10-22T19:25:25.367406+00:00"
+    "fecha_ultima_observacion": "2026-10-22T19:30:29.264282+00:00"
   },
   "EMSC:20261021_0000093": {
     "id": "20261021_0000093",
@@ -38792,5 +38792,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261022_0000314",
     "fecha_primera_recepcion": "2026-10-22T19:15:25.325123+00:00",
     "fecha_ultima_observacion": "2026-10-22T19:25:25.367406+00:00"
+  },
+  "EMSC:20261022_0000319": {
+    "id": "20261022_0000319",
+    "fecha_hora_utc": "2026-10-22T19:24:50+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 10.0,
+    "latitud": -1.47,
+    "longitud": 99.6,
+    "pais": "",
+    "ciudad_referencia": "KEP. MENTAWAI REGION, INDONESIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261022_0000319",
+    "fecha_primera_recepcion": "2026-10-22T19:30:29.264282+00:00",
+    "fecha_ultima_observacion": "2026-10-22T19:30:29.264282+00:00"
+  },
+  "USGS:ok2026usqj": {
+    "id": "ok2026usqj",
+    "fecha_hora_utc": "2026-10-22T19:25:43.157000+00:00",
+    "magnitud": 3.18,
+    "profundidad_km": 5.0,
+    "latitud": 36.25814819,
+    "longitud": -95.19316864,
+    "pais": "",
+    "ciudad_referencia": "5 km SW of Salina, Oklahoma",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026usqj",
+    "fecha_primera_recepcion": "2026-10-22T19:30:29.264282+00:00",
+    "fecha_ultima_observacion": "2026-10-22T19:30:29.264282+00:00"
   }
 }
