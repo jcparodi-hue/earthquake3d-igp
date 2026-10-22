@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-22T04:30:23.183675+00:00",
+  "actualizado_utc": "2026-10-22T04:35:18.857275+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 55,
   "actualizacion_minutos": 5,
   "igp": 55,
   "emsc": 2643,
   "usgs": 515,
-  "duplicados_eliminados": 471,
-  "eventos_publicados": 2742,
-  "evento_mas_reciente_utc": "2026-10-22T04:18:34.457000+00:00",
+  "duplicados_eliminados": 472,
+  "eventos_publicados": 2741,
+  "evento_mas_reciente_utc": "2026-10-22T04:22:52+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 14,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-21T03:12:48+00:00",
-      "antiguedad_evento_mas_reciente_min": 1517.6
+      "antiguedad_evento_mas_reciente_min": 1522.5
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,8 +26,8 @@
       "eventos_validos": 2643,
       "eventos_recibidos": 2645,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-10-22T04:18:34.457000+00:00",
-      "antiguedad_evento_mas_reciente_min": 11.8
+      "evento_mas_reciente_utc": "2026-10-22T04:22:52+00:00",
+      "antiguedad_evento_mas_reciente_min": 12.4
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -35,8 +35,8 @@
       "eventos_validos": 515,
       "eventos_recibidos": 519,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-22T03:35:17.429000+00:00",
-      "antiguedad_evento_mas_reciente_min": 55.1
+      "evento_mas_reciente_utc": "2026-10-22T04:16:24.280000+00:00",
+      "antiguedad_evento_mas_reciente_min": 18.9
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-745"
     },
     "emsc": {
-      "id": "20261022_0000075",
-      "fecha_hora_utc": "2026-10-22T04:18:34.457000+00:00",
-      "magnitud": 3.0,
-      "profundidad_km": 10.8,
-      "latitud": 37.1964,
-      "longitud": -121.2121,
+      "id": "20261022_0000080",
+      "fecha_hora_utc": "2026-10-22T04:22:52+00:00",
+      "magnitud": 2.6,
+      "profundidad_km": 115.5,
+      "latitud": -28.27,
+      "longitud": -69.14,
       "pais": "",
-      "ciudad_referencia": "NORTHERN CALIFORNIA",
+      "ciudad_referencia": "LA RIOJA, ARGENTINA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261022_0000075"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261022_0000080"
     },
     "usgs": {
-      "id": "us6000u40r",
-      "fecha_hora_utc": "2026-10-22T03:35:17.429000+00:00",
-      "magnitud": 4.6,
-      "profundidad_km": 49.131,
-      "latitud": 14.8614,
-      "longitud": -93.8388,
+      "id": "us6000u40x",
+      "fecha_hora_utc": "2026-10-22T04:16:24.280000+00:00",
+      "magnitud": 4.2,
+      "profundidad_km": 624.829,
+      "latitud": -21.1419,
+      "longitud": -179.1733,
       "pais": "",
-      "ciudad_referencia": "97 km SW of El Palmarcito, Mexico",
+      "ciudad_referencia": "Fiji region",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u40r"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u40x"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-22T04:30:23.183675+00:00"
+    "hora_consulta_utc": "2026-10-22T04:35:18.857275+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-22T04:30:23.183675+00:00",
-  "combined_after_dedup": 2742
+  "updated_utc": "2026-10-22T04:35:18.857275+00:00",
+  "combined_after_dedup": 2741
 }

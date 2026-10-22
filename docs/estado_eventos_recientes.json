@@ -35879,7 +35879,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-745",
     "fecha_primera_recepcion": "2026-10-21T06:40:26.989413+00:00",
-    "fecha_ultima_observacion": "2026-10-22T04:30:23.183675+00:00"
+    "fecha_ultima_observacion": "2026-10-22T04:35:18.857275+00:00"
   },
   "EMSC:20261021_0000093": {
     "id": "20261021_0000093",
@@ -37602,5 +37602,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261022_0000075",
     "fecha_primera_recepcion": "2026-10-22T04:30:23.183675+00:00",
     "fecha_ultima_observacion": "2026-10-22T04:30:23.183675+00:00"
+  },
+  "EMSC:20261022_0000080": {
+    "id": "20261022_0000080",
+    "fecha_hora_utc": "2026-10-22T04:22:52+00:00",
+    "magnitud": 2.6,
+    "profundidad_km": 115.5,
+    "latitud": -28.27,
+    "longitud": -69.14,
+    "pais": "",
+    "ciudad_referencia": "LA RIOJA, ARGENTINA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261022_0000080",
+    "fecha_primera_recepcion": "2026-10-22T04:35:18.857275+00:00",
+    "fecha_ultima_observacion": "2026-10-22T04:35:18.857275+00:00"
+  },
+  "USGS:us6000u40x": {
+    "id": "us6000u40x",
+    "fecha_hora_utc": "2026-10-22T04:16:24.280000+00:00",
+    "magnitud": 4.2,
+    "profundidad_km": 624.829,
+    "latitud": -21.1419,
+    "longitud": -179.1733,
+    "pais": "",
+    "ciudad_referencia": "Fiji region",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u40x",
+    "fecha_primera_recepcion": "2026-10-22T04:35:18.857275+00:00",
+    "fecha_ultima_observacion": "2026-10-22T04:35:18.857275+00:00"
   }
 }
