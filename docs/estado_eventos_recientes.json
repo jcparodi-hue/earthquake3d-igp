@@ -35879,7 +35879,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-745",
     "fecha_primera_recepcion": "2026-10-21T06:40:26.989413+00:00",
-    "fecha_ultima_observacion": "2026-10-22T04:40:26.837936+00:00"
+    "fecha_ultima_observacion": "2026-10-22T04:45:22.270511+00:00"
   },
   "EMSC:20261021_0000093": {
     "id": "20261021_0000093",
@@ -37615,7 +37615,7 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261022_0000080",
     "fecha_primera_recepcion": "2026-10-22T04:35:18.857275+00:00",
-    "fecha_ultima_observacion": "2026-10-22T04:40:26.837936+00:00"
+    "fecha_ultima_observacion": "2026-10-22T04:45:22.270511+00:00"
   },
   "USGS:us6000u40x": {
     "id": "us6000u40x",
@@ -37630,5 +37630,19 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u40x",
     "fecha_primera_recepcion": "2026-10-22T04:35:18.857275+00:00",
     "fecha_ultima_observacion": "2026-10-22T04:40:26.837936+00:00"
+  },
+  "USGS:aka2026uxjtil": {
+    "id": "aka2026uxjtil",
+    "fecha_hora_utc": "2026-10-22T04:39:19.529000+00:00",
+    "magnitud": 2.7,
+    "profundidad_km": 88.1,
+    "latitud": 59.955,
+    "longitud": -152.052,
+    "pais": "",
+    "ciudad_referencia": "17 km W of Happy Valley, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uxjtil",
+    "fecha_primera_recepcion": "2026-10-22T04:45:22.270511+00:00",
+    "fecha_ultima_observacion": "2026-10-22T04:45:22.270511+00:00"
   }
 }
