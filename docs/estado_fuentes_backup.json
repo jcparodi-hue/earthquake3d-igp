@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-22T02:55:18.162974+00:00",
+  "actualizado_utc": "2026-10-22T03:00:30.791451+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 55,
   "actualizacion_minutos": 5,
@@ -9,7 +9,7 @@
   "usgs": 517,
   "duplicados_eliminados": 471,
   "eventos_publicados": 2748,
-  "evento_mas_reciente_utc": "2026-10-22T02:30:44.970000+00:00",
+  "evento_mas_reciente_utc": "2026-10-22T02:44:14.522000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 14,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-21T03:12:48+00:00",
-      "antiguedad_evento_mas_reciente_min": 1422.5
+      "antiguedad_evento_mas_reciente_min": 1427.7
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,8 +26,8 @@
       "eventos_validos": 2647,
       "eventos_recibidos": 2649,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-10-22T02:30:44.970000+00:00",
-      "antiguedad_evento_mas_reciente_min": 24.6
+      "evento_mas_reciente_utc": "2026-10-22T02:44:14.522000+00:00",
+      "antiguedad_evento_mas_reciente_min": 16.3
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -35,8 +35,8 @@
       "eventos_validos": 517,
       "eventos_recibidos": 520,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-22T01:43:10.400000+00:00",
-      "antiguedad_evento_mas_reciente_min": 72.1
+      "evento_mas_reciente_utc": "2026-10-22T02:44:14.522000+00:00",
+      "antiguedad_evento_mas_reciente_min": 16.3
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-745"
     },
     "emsc": {
-      "id": "20261022_0000039",
-      "fecha_hora_utc": "2026-10-22T02:30:44.970000+00:00",
-      "magnitud": 3.2,
-      "profundidad_km": 4.9,
-      "latitud": 36.3667,
-      "longitud": -3.656,
+      "id": "20261022_0000050",
+      "fecha_hora_utc": "2026-10-22T02:44:14.522000+00:00",
+      "magnitud": 2.5,
+      "profundidad_km": 8.4,
+      "latitud": 28.9365,
+      "longitud": -98.9157,
       "pais": "",
-      "ciudad_referencia": "STRAIT OF GIBRALTAR",
+      "ciudad_referencia": "SOUTHERN TEXAS",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261022_0000039"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261022_0000050"
     },
     "usgs": {
-      "id": "nc75453186",
-      "fecha_hora_utc": "2026-10-22T01:43:10.400000+00:00",
-      "magnitud": 3.25,
-      "profundidad_km": 10.9899997711182,
-      "latitud": 40.2345008850098,
-      "longitud": -124.170829772949,
+      "id": "us6000u40h",
+      "fecha_hora_utc": "2026-10-22T02:44:14.522000+00:00",
+      "magnitud": 2.5,
+      "profundidad_km": 8.43,
+      "latitud": 28.9365,
+      "longitud": -98.9157,
       "pais": "",
-      "ciudad_referencia": "14 km SE of Petrolia, CA",
+      "ciudad_referencia": "13 km SSW of Bigfoot, Texas",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453186"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u40h"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-22T02:55:18.162974+00:00"
+    "hora_consulta_utc": "2026-10-22T03:00:30.791451+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-22T02:55:18.162974+00:00",
+  "updated_utc": "2026-10-22T03:00:30.791451+00:00",
   "combined_after_dedup": 2748
 }
