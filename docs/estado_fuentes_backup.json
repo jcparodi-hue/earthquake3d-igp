@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-23T10:25:25.415475+00:00",
+  "actualizado_utc": "2026-10-23T10:28:46.183821+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 56,
   "actualizacion_minutos": 5,
   "igp": 56,
-  "emsc": 2540,
+  "emsc": 2541,
   "usgs": 513,
   "duplicados_eliminados": 469,
-  "eventos_publicados": 2640,
-  "evento_mas_reciente_utc": "2026-10-23T10:19:17.540000+00:00",
+  "eventos_publicados": 2641,
+  "evento_mas_reciente_utc": "2026-10-23T10:21:00+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 14,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-23T04:25:24+00:00",
-      "antiguedad_evento_mas_reciente_min": 360.0
+      "antiguedad_evento_mas_reciente_min": 363.4
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2540,
-      "eventos_recibidos": 2543,
+      "eventos_validos": 2541,
+      "eventos_recibidos": 2544,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-23T10:19:17.540000+00:00",
-      "antiguedad_evento_mas_reciente_min": 6.1
+      "evento_mas_reciente_utc": "2026-10-23T10:21:00+00:00",
+      "antiguedad_evento_mas_reciente_min": 7.8
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 519,
       "invalidos_rechazados": 6,
       "evento_mas_reciente_utc": "2026-10-23T09:51:39.628000+00:00",
-      "antiguedad_evento_mas_reciente_min": 33.8
+      "antiguedad_evento_mas_reciente_min": 37.1
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-746"
     },
     "emsc": {
-      "id": "20261023_0000151",
-      "fecha_hora_utc": "2026-10-23T10:19:17.540000+00:00",
-      "magnitud": 5.5,
-      "profundidad_km": 10.0,
-      "latitud": 38.6696,
-      "longitud": 14.2045,
+      "id": "20261023_0000154",
+      "fecha_hora_utc": "2026-10-23T10:21:00+00:00",
+      "magnitud": 3.1,
+      "profundidad_km": 9.0,
+      "latitud": 43.23,
+      "longitud": 6.02,
       "pais": "",
-      "ciudad_referencia": "SICILY, ITALY",
+      "ciudad_referencia": "NEAR SOUTH COAST OF FRANCE",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261023_0000151"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261023_0000154"
     },
     "usgs": {
       "id": "us6000u4bg",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-23T10:25:25.415475+00:00"
+    "hora_consulta_utc": "2026-10-23T10:28:46.183821+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-23T10:25:25.415475+00:00",
-  "combined_after_dedup": 2640
+  "updated_utc": "2026-10-23T10:28:46.183821+00:00",
+  "combined_after_dedup": 2641
 }
