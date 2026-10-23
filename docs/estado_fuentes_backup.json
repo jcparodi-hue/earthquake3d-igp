@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-23T23:04:26.268402+00:00",
+  "actualizado_utc": "2026-10-23T23:05:26.273948+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 57,
   "actualizacion_minutos": 5,
@@ -9,7 +9,7 @@
   "usgs": 529,
   "duplicados_eliminados": 482,
   "eventos_publicados": 2680,
-  "evento_mas_reciente_utc": "2026-10-23T22:56:23+00:00",
+  "evento_mas_reciente_utc": "2026-10-23T22:56:22+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 15,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-23T18:38:13+00:00",
-      "antiguedad_evento_mas_reciente_min": 266.2
+      "antiguedad_evento_mas_reciente_min": 267.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,8 +26,8 @@
       "eventos_validos": 2576,
       "eventos_recibidos": 2579,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-23T22:56:23+00:00",
-      "antiguedad_evento_mas_reciente_min": 8.1
+      "evento_mas_reciente_utc": "2026-10-23T22:56:22+00:00",
+      "antiguedad_evento_mas_reciente_min": 9.1
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 535,
       "invalidos_rechazados": 6,
       "evento_mas_reciente_utc": "2026-10-23T22:42:51.088000+00:00",
-      "antiguedad_evento_mas_reciente_min": 21.6
+      "antiguedad_evento_mas_reciente_min": 22.6
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261023_0000420",
-      "fecha_hora_utc": "2026-10-23T22:56:23+00:00",
-      "magnitud": 3.7,
-      "profundidad_km": 237.7,
-      "latitud": -21.09,
-      "longitud": -68.15,
+      "fecha_hora_utc": "2026-10-23T22:56:22+00:00",
+      "magnitud": 3.9,
+      "profundidad_km": 192.6,
+      "latitud": -21.01,
+      "longitud": -67.8,
       "pais": "",
       "ciudad_referencia": "POTOSI, BOLIVIA",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-23T23:04:26.268402+00:00"
+    "hora_consulta_utc": "2026-10-23T23:05:26.273948+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-23T23:04:26.268402+00:00",
+  "updated_utc": "2026-10-23T23:05:26.273948+00:00",
   "combined_after_dedup": 2680
 }
