@@ -1,14 +1,14 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-23T06:05:23.434730+00:00",
+  "actualizado_utc": "2026-10-23T06:10:27.229372+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 55,
   "actualizacion_minutos": 5,
   "igp": 55,
-  "emsc": 2565,
-  "usgs": 515,
-  "duplicados_eliminados": 470,
-  "eventos_publicados": 2665,
+  "emsc": 2563,
+  "usgs": 514,
+  "duplicados_eliminados": 469,
+  "eventos_publicados": 2663,
   "evento_mas_reciente_utc": "2026-10-23T05:58:46+00:00",
   "salud_fuentes": {
     "igp": {
@@ -18,25 +18,25 @@
       "eventos_recibidos": 13,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-21T03:12:48+00:00",
-      "antiguedad_evento_mas_reciente_min": 3052.6
+      "antiguedad_evento_mas_reciente_min": 3057.7
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2565,
-      "eventos_recibidos": 2568,
+      "eventos_validos": 2563,
+      "eventos_recibidos": 2566,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-10-23T05:58:46+00:00",
-      "antiguedad_evento_mas_reciente_min": 6.6
+      "antiguedad_evento_mas_reciente_min": 11.7
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 515,
-      "eventos_recibidos": 521,
+      "eventos_validos": 514,
+      "eventos_recibidos": 520,
       "invalidos_rechazados": 6,
       "evento_mas_reciente_utc": "2026-10-23T05:38:19.230000+00:00",
-      "antiguedad_evento_mas_reciente_min": 27.1
+      "antiguedad_evento_mas_reciente_min": 32.1
     }
   },
   "ultimo_evento": {
@@ -55,7 +55,7 @@
     "emsc": {
       "id": "20261023_0000082",
       "fecha_hora_utc": "2026-10-23T05:58:46+00:00",
-      "magnitud": 3.4,
+      "magnitud": 3.0,
       "profundidad_km": 214.5,
       "latitud": -24.02,
       "longitud": -67.43,
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-23T06:05:23.434730+00:00"
+    "hora_consulta_utc": "2026-10-23T06:10:27.229372+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-23T06:05:23.434730+00:00",
-  "combined_after_dedup": 2665
+  "updated_utc": "2026-10-23T06:10:27.229372+00:00",
+  "combined_after_dedup": 2663
 }
