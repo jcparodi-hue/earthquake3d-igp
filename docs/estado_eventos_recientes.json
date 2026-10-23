@@ -39841,7 +39841,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-746",
     "fecha_primera_recepcion": "2026-10-23T07:25:24.769188+00:00",
-    "fecha_ultima_observacion": "2026-10-23T10:10:31.290392+00:00"
+    "fecha_ultima_observacion": "2026-10-23T10:15:27.910458+00:00"
   },
   "EMSC:20261023_0000104": {
     "id": "20261023_0000104",
@@ -40051,6 +40051,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261023_0000147",
     "fecha_primera_recepcion": "2026-10-23T10:10:31.290392+00:00",
-    "fecha_ultima_observacion": "2026-10-23T10:10:31.290392+00:00"
+    "fecha_ultima_observacion": "2026-10-23T10:15:27.910458+00:00"
+  },
+  "USGS:us6000u4bg": {
+    "id": "us6000u4bg",
+    "fecha_hora_utc": "2026-10-23T09:51:39.628000+00:00",
+    "magnitud": 4.9,
+    "profundidad_km": 10.0,
+    "latitud": 38.7219,
+    "longitud": 14.2527,
+    "pais": "",
+    "ciudad_referencia": "53 km WNW of Leni, Italy",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4bg",
+    "fecha_primera_recepcion": "2026-10-23T10:15:27.910458+00:00",
+    "fecha_ultima_observacion": "2026-10-23T10:15:27.910458+00:00"
   }
 }
