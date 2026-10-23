@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-23T11:45:21.719861+00:00",
+  "actualizado_utc": "2026-10-23T11:50:26.096682+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 56,
   "actualizacion_minutos": 5,
   "igp": 56,
-  "emsc": 2543,
+  "emsc": 2544,
   "usgs": 513,
   "duplicados_eliminados": 471,
-  "eventos_publicados": 2641,
-  "evento_mas_reciente_utc": "2026-10-23T11:33:47+00:00",
+  "eventos_publicados": 2642,
+  "evento_mas_reciente_utc": "2026-10-23T11:46:15.903022+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 14,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-23T04:25:24+00:00",
-      "antiguedad_evento_mas_reciente_min": 440.0
+      "antiguedad_evento_mas_reciente_min": 445.0
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2543,
-      "eventos_recibidos": 2546,
+      "eventos_validos": 2544,
+      "eventos_recibidos": 2547,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-23T11:33:47+00:00",
-      "antiguedad_evento_mas_reciente_min": 11.6
+      "evento_mas_reciente_utc": "2026-10-23T11:46:15.903022+00:00",
+      "antiguedad_evento_mas_reciente_min": 4.2
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 519,
       "invalidos_rechazados": 6,
       "evento_mas_reciente_utc": "2026-10-23T10:19:16.729000+00:00",
-      "antiguedad_evento_mas_reciente_min": 86.1
+      "antiguedad_evento_mas_reciente_min": 91.2
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-746"
     },
     "emsc": {
-      "id": "20261023_0000171",
-      "fecha_hora_utc": "2026-10-23T11:33:47+00:00",
-      "magnitud": 3.4,
-      "profundidad_km": 216.5,
-      "latitud": -22.0,
-      "longitud": -67.89,
+      "id": "20261023_0000172",
+      "fecha_hora_utc": "2026-10-23T11:46:15.903022+00:00",
+      "magnitud": 2.7,
+      "profundidad_km": 5.0,
+      "latitud": 46.523,
+      "longitud": -0.9426,
       "pais": "",
-      "ciudad_referencia": "POTOSI, BOLIVIA",
+      "ciudad_referencia": "FRANCE",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261023_0000171"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261023_0000172"
     },
     "usgs": {
       "id": "us6000u4bk",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-23T11:45:21.719861+00:00"
+    "hora_consulta_utc": "2026-10-23T11:50:26.096682+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-23T11:45:21.719861+00:00",
-  "combined_after_dedup": 2641
+  "updated_utc": "2026-10-23T11:50:26.096682+00:00",
+  "combined_after_dedup": 2642
 }
