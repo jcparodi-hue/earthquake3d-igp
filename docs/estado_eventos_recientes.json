@@ -41143,7 +41143,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-747",
     "fecha_primera_recepcion": "2026-10-23T20:40:30.420742+00:00",
-    "fecha_ultima_observacion": "2026-10-23T22:30:27.236707+00:00"
+    "fecha_ultima_observacion": "2026-10-23T22:35:22.803501+00:00"
   },
   "EMSC:20261023_0000372": {
     "id": "20261023_0000372",
@@ -41340,5 +41340,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261023_0000407",
     "fecha_primera_recepcion": "2026-10-23T22:30:27.236707+00:00",
     "fecha_ultima_observacion": "2026-10-23T22:30:27.236707+00:00"
+  },
+  "EMSC:20261023_0000411": {
+    "id": "20261023_0000411",
+    "fecha_hora_utc": "2026-10-23T22:24:19.720000+00:00",
+    "magnitud": 5.0,
+    "profundidad_km": 35.0,
+    "latitud": 54.1685,
+    "longitud": 86.4128,
+    "pais": "",
+    "ciudad_referencia": "SOUTHWESTERN SIBERIA, RUSSIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261023_0000411",
+    "fecha_primera_recepcion": "2026-10-23T22:35:22.803501+00:00",
+    "fecha_ultima_observacion": "2026-10-23T22:35:22.803501+00:00"
+  },
+  "USGS:aka2026vapliy": {
+    "id": "aka2026vapliy",
+    "fecha_hora_utc": "2026-10-23T22:29:12.380000+00:00",
+    "magnitud": 2.8,
+    "profundidad_km": 75.2,
+    "latitud": 61.263,
+    "longitud": -151.159,
+    "pais": "",
+    "ciudad_referencia": "14 km NNW of Beluga, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vapliy",
+    "fecha_primera_recepcion": "2026-10-23T22:35:22.803501+00:00",
+    "fecha_ultima_observacion": "2026-10-23T22:35:22.803501+00:00"
   }
 }

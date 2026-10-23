@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-23T22:30:27.236707+00:00",
+  "actualizado_utc": "2026-10-23T22:35:22.803501+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 57,
   "actualizacion_minutos": 5,
   "igp": 57,
-  "emsc": 2577,
-  "usgs": 525,
-  "duplicados_eliminados": 480,
-  "eventos_publicados": 2679,
-  "evento_mas_reciente_utc": "2026-10-23T22:23:28+00:00",
+  "emsc": 2578,
+  "usgs": 527,
+  "duplicados_eliminados": 481,
+  "eventos_publicados": 2681,
+  "evento_mas_reciente_utc": "2026-10-23T22:29:12.380000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 15,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-23T18:38:13+00:00",
-      "antiguedad_evento_mas_reciente_min": 232.2
+      "antiguedad_evento_mas_reciente_min": 237.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2577,
-      "eventos_recibidos": 2580,
+      "eventos_validos": 2578,
+      "eventos_recibidos": 2581,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-23T22:23:28+00:00",
-      "antiguedad_evento_mas_reciente_min": 7.0
+      "evento_mas_reciente_utc": "2026-10-23T22:24:19.720000+00:00",
+      "antiguedad_evento_mas_reciente_min": 11.1
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 525,
-      "eventos_recibidos": 531,
+      "eventos_validos": 527,
+      "eventos_recibidos": 533,
       "invalidos_rechazados": 6,
-      "evento_mas_reciente_utc": "2026-10-23T22:05:10.711000+00:00",
-      "antiguedad_evento_mas_reciente_min": 25.3
+      "evento_mas_reciente_utc": "2026-10-23T22:29:12.380000+00:00",
+      "antiguedad_evento_mas_reciente_min": 6.2
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-747"
     },
     "emsc": {
-      "id": "20261023_0000407",
-      "fecha_hora_utc": "2026-10-23T22:23:28+00:00",
-      "magnitud": 2.8,
-      "profundidad_km": 10.0,
-      "latitud": -8.3,
-      "longitud": 120.6,
+      "id": "20261023_0000411",
+      "fecha_hora_utc": "2026-10-23T22:24:19.720000+00:00",
+      "magnitud": 5.0,
+      "profundidad_km": 35.0,
+      "latitud": 54.1685,
+      "longitud": 86.4128,
       "pais": "",
-      "ciudad_referencia": "FLORES REGION, INDONESIA",
+      "ciudad_referencia": "SOUTHWESTERN SIBERIA, RUSSIA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261023_0000407"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261023_0000411"
     },
     "usgs": {
-      "id": "us6000u4h7",
-      "fecha_hora_utc": "2026-10-23T22:05:10.711000+00:00",
-      "magnitud": 5.1,
-      "profundidad_km": 10.0,
-      "latitud": -13.8764,
-      "longitud": 165.6172,
+      "id": "aka2026vapliy",
+      "fecha_hora_utc": "2026-10-23T22:29:12.380000+00:00",
+      "magnitud": 2.8,
+      "profundidad_km": 75.2,
+      "latitud": 61.263,
+      "longitud": -151.159,
       "pais": "",
-      "ciudad_referencia": "203 km NW of Port-Olry, Vanuatu",
+      "ciudad_referencia": "14 km NNW of Beluga, Alaska",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4h7"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vapliy"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-23T22:30:27.236707+00:00"
+    "hora_consulta_utc": "2026-10-23T22:35:22.803501+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-23T22:30:27.236707+00:00",
-  "combined_after_dedup": 2679
+  "updated_utc": "2026-10-23T22:35:22.803501+00:00",
+  "combined_after_dedup": 2681
 }
