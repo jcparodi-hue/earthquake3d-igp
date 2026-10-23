@@ -35879,7 +35879,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-745",
     "fecha_primera_recepcion": "2026-10-21T06:40:26.989413+00:00",
-    "fecha_ultima_observacion": "2026-10-23T03:00:27.114145+00:00"
+    "fecha_ultima_observacion": "2026-10-23T03:05:24.820332+00:00"
   },
   "EMSC:20261021_0000093": {
     "id": "20261021_0000093",
@@ -39380,5 +39380,33 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u49c",
     "fecha_primera_recepcion": "2026-10-23T03:00:27.114145+00:00",
     "fecha_ultima_observacion": "2026-10-23T03:00:27.114145+00:00"
+  },
+  "EMSC:20261023_0000041": {
+    "id": "20261023_0000041",
+    "fecha_hora_utc": "2026-10-23T02:49:47.870000+00:00",
+    "magnitud": 3.2,
+    "profundidad_km": 26.9,
+    "latitud": 55.0132,
+    "longitud": -160.9015,
+    "pais": "",
+    "ciudad_referencia": "ALASKA PENINSULA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261023_0000041",
+    "fecha_primera_recepcion": "2026-10-23T03:05:24.820332+00:00",
+    "fecha_ultima_observacion": "2026-10-23T03:05:24.820332+00:00"
+  },
+  "USGS:us6000u49f": {
+    "id": "us6000u49f",
+    "fecha_hora_utc": "2026-10-23T02:49:47.870000+00:00",
+    "magnitud": 3.2,
+    "profundidad_km": 26.865,
+    "latitud": 55.0132,
+    "longitud": -160.9015,
+    "pais": "",
+    "ciudad_referencia": "44 km SW of Sand Point, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u49f",
+    "fecha_primera_recepcion": "2026-10-23T03:05:24.820332+00:00",
+    "fecha_ultima_observacion": "2026-10-23T03:05:24.820332+00:00"
   }
 }
