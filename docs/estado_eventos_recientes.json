@@ -39841,7 +39841,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-746",
     "fecha_primera_recepcion": "2026-10-23T07:25:24.769188+00:00",
-    "fecha_ultima_observacion": "2026-10-23T16:40:22.557854+00:00"
+    "fecha_ultima_observacion": "2026-10-23T16:45:27.961778+00:00"
   },
   "EMSC:20261023_0000104": {
     "id": "20261023_0000104",
@@ -40751,7 +40751,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4e2",
     "fecha_primera_recepcion": "2026-10-23T16:35:23.342629+00:00",
-    "fecha_ultima_observacion": "2026-10-23T16:40:22.557854+00:00"
+    "fecha_ultima_observacion": "2026-10-23T16:45:27.961778+00:00"
   },
   "EMSC:20261023_0000292": {
     "id": "20261023_0000292",
@@ -40766,5 +40766,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261023_0000292",
     "fecha_primera_recepcion": "2026-10-23T16:40:22.557854+00:00",
     "fecha_ultima_observacion": "2026-10-23T16:40:22.557854+00:00"
+  },
+  "EMSC:20261023_0000294": {
+    "id": "20261023_0000294",
+    "fecha_hora_utc": "2026-10-23T16:32:49.400000+00:00",
+    "magnitud": 2.9,
+    "profundidad_km": 13.4,
+    "latitud": 39.2967,
+    "longitud": 23.6348,
+    "pais": "",
+    "ciudad_referencia": "AEGEAN SEA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261023_0000294",
+    "fecha_primera_recepcion": "2026-10-23T16:45:27.961778+00:00",
+    "fecha_ultima_observacion": "2026-10-23T16:45:27.961778+00:00"
   }
 }
