@@ -35879,7 +35879,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-745",
     "fecha_primera_recepcion": "2026-10-21T06:40:26.989413+00:00",
-    "fecha_ultima_observacion": "2026-10-23T06:30:29.230038+00:00"
+    "fecha_ultima_observacion": "2026-10-23T06:35:24.000280+00:00"
   },
   "EMSC:20261021_0000093": {
     "id": "20261021_0000093",
@@ -39715,6 +39715,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261023_0000086",
     "fecha_primera_recepcion": "2026-10-23T06:21:16.867854+00:00",
-    "fecha_ultima_observacion": "2026-10-23T06:30:29.230038+00:00"
+    "fecha_ultima_observacion": "2026-10-23T06:35:24.000280+00:00"
+  },
+  "USGS:us6000u4ac": {
+    "id": "us6000u4ac",
+    "fecha_hora_utc": "2026-10-23T06:07:19.764000+00:00",
+    "magnitud": 4.3,
+    "profundidad_km": 463.372,
+    "latitud": -20.8884,
+    "longitud": -178.069,
+    "pais": "",
+    "ciudad_referencia": "289 km W of Houma, Tonga",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4ac",
+    "fecha_primera_recepcion": "2026-10-23T06:35:24.000280+00:00",
+    "fecha_ultima_observacion": "2026-10-23T06:35:24.000280+00:00"
   }
 }
