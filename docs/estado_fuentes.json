@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-23T10:30:29.363416+00:00",
+  "actualizado_utc": "2026-10-23T10:35:24.590531+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 56,
   "actualizacion_minutos": 5,
   "igp": 56,
-  "emsc": 2541,
-  "usgs": 513,
-  "duplicados_eliminados": 469,
-  "eventos_publicados": 2641,
-  "evento_mas_reciente_utc": "2026-10-23T10:21:00+00:00",
+  "emsc": 2540,
+  "usgs": 514,
+  "duplicados_eliminados": 470,
+  "eventos_publicados": 2640,
+  "evento_mas_reciente_utc": "2026-10-23T10:20:28.306409+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 14,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-23T04:25:24+00:00",
-      "antiguedad_evento_mas_reciente_min": 365.1
+      "antiguedad_evento_mas_reciente_min": 370.0
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2541,
-      "eventos_recibidos": 2544,
+      "eventos_validos": 2540,
+      "eventos_recibidos": 2543,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-23T10:21:00+00:00",
-      "antiguedad_evento_mas_reciente_min": 9.5
+      "evento_mas_reciente_utc": "2026-10-23T10:20:28.306409+00:00",
+      "antiguedad_evento_mas_reciente_min": 14.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 513,
-      "eventos_recibidos": 519,
+      "eventos_validos": 514,
+      "eventos_recibidos": 520,
       "invalidos_rechazados": 6,
-      "evento_mas_reciente_utc": "2026-10-23T09:51:39.628000+00:00",
-      "antiguedad_evento_mas_reciente_min": 38.8
+      "evento_mas_reciente_utc": "2026-10-23T10:19:16.729000+00:00",
+      "antiguedad_evento_mas_reciente_min": 16.1
     }
   },
   "ultimo_evento": {
@@ -54,35 +54,35 @@
     },
     "emsc": {
       "id": "20261023_0000154",
-      "fecha_hora_utc": "2026-10-23T10:21:00+00:00",
-      "magnitud": 3.1,
-      "profundidad_km": 9.0,
-      "latitud": 43.23,
-      "longitud": 6.02,
+      "fecha_hora_utc": "2026-10-23T10:20:28.306409+00:00",
+      "magnitud": 3.5,
+      "profundidad_km": 5.0,
+      "latitud": 42.1557,
+      "longitud": 9.1068,
       "pais": "",
-      "ciudad_referencia": "NEAR SOUTH COAST OF FRANCE",
+      "ciudad_referencia": "CORSICA, FRANCE",
       "fuente": "EMSC",
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261023_0000154"
     },
     "usgs": {
-      "id": "us6000u4bg",
-      "fecha_hora_utc": "2026-10-23T09:51:39.628000+00:00",
-      "magnitud": 4.9,
+      "id": "us6000u4bk",
+      "fecha_hora_utc": "2026-10-23T10:19:16.729000+00:00",
+      "magnitud": 5.7,
       "profundidad_km": 10.0,
-      "latitud": 38.7219,
-      "longitud": 14.2527,
+      "latitud": 38.7199,
+      "longitud": 14.152,
       "pais": "",
-      "ciudad_referencia": "53 km WNW of Leni, Italy",
+      "ciudad_referencia": "61 km WNW of Leni, Italy",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4bg"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4bk"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-23T10:30:29.363416+00:00"
+    "hora_consulta_utc": "2026-10-23T10:35:24.590531+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-23T10:30:29.363416+00:00",
-  "combined_after_dedup": 2641
+  "updated_utc": "2026-10-23T10:35:24.590531+00:00",
+  "combined_after_dedup": 2640
 }
