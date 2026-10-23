@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-23T22:20:22.966714+00:00",
+  "actualizado_utc": "2026-10-23T22:25:24.632653+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 57,
   "actualizacion_minutos": 5,
   "igp": 57,
-  "emsc": 2576,
-  "usgs": 522,
-  "duplicados_eliminados": 478,
-  "eventos_publicados": 2677,
-  "evento_mas_reciente_utc": "2026-10-23T22:05:15.310000+00:00",
+  "emsc": 2578,
+  "usgs": 523,
+  "duplicados_eliminados": 479,
+  "eventos_publicados": 2679,
+  "evento_mas_reciente_utc": "2026-10-23T22:16:24.600000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 15,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-23T18:38:13+00:00",
-      "antiguedad_evento_mas_reciente_min": 222.2
+      "antiguedad_evento_mas_reciente_min": 227.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2576,
-      "eventos_recibidos": 2579,
+      "eventos_validos": 2578,
+      "eventos_recibidos": 2581,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-23T22:05:15.310000+00:00",
-      "antiguedad_evento_mas_reciente_min": 15.1
+      "evento_mas_reciente_utc": "2026-10-23T22:16:24.600000+00:00",
+      "antiguedad_evento_mas_reciente_min": 9.0
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 522,
-      "eventos_recibidos": 528,
+      "eventos_validos": 523,
+      "eventos_recibidos": 529,
       "invalidos_rechazados": 6,
-      "evento_mas_reciente_utc": "2026-10-23T20:48:16.356000+00:00",
-      "antiguedad_evento_mas_reciente_min": 92.1
+      "evento_mas_reciente_utc": "2026-10-23T22:05:10.711000+00:00",
+      "antiguedad_evento_mas_reciente_min": 20.2
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-747"
     },
     "emsc": {
-      "id": "20261023_0000397",
-      "fecha_hora_utc": "2026-10-23T22:05:15.310000+00:00",
-      "magnitud": 5.4,
-      "profundidad_km": 45.0,
-      "latitud": -13.7179,
-      "longitud": 165.6893,
+      "id": "20261023_0000405",
+      "fecha_hora_utc": "2026-10-23T22:16:24.600000+00:00",
+      "magnitud": 3.0,
+      "profundidad_km": 10.0,
+      "latitud": 37.64,
+      "longitud": 36.16,
       "pais": "",
-      "ciudad_referencia": "VANUATU",
+      "ciudad_referencia": "CENTRAL TURKEY",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261023_0000397"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261023_0000405"
     },
     "usgs": {
-      "id": "us6000u4gm",
-      "fecha_hora_utc": "2026-10-23T20:48:16.356000+00:00",
-      "magnitud": 4.9,
-      "profundidad_km": 13.817,
-      "latitud": 23.8528,
-      "longitud": 121.929,
+      "id": "us6000u4h7",
+      "fecha_hora_utc": "2026-10-23T22:05:10.711000+00:00",
+      "magnitud": 5.1,
+      "profundidad_km": 10.0,
+      "latitud": -13.8764,
+      "longitud": 165.6172,
       "pais": "",
-      "ciudad_referencia": "35 km ESE of Hualien City, Taiwan",
+      "ciudad_referencia": "203 km NW of Port-Olry, Vanuatu",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4gm"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4h7"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-23T22:20:22.966714+00:00"
+    "hora_consulta_utc": "2026-10-23T22:25:24.632653+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-23T22:20:22.966714+00:00",
-  "combined_after_dedup": 2677
+  "updated_utc": "2026-10-23T22:25:24.632653+00:00",
+  "combined_after_dedup": 2679
 }
