@@ -45,10 +45,10 @@ YEAR, MON, DAY, HOUR, MIN, DEP, MAG, LAT, LONG, URL   // IGP history + EMSC-RTS 
 2026,10,23,17,31,10.0,3.7,-9.490000,118.560000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261023_0000315
 2026,10,23,17,25,330.0,3.6,4.300000,124.490000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261023_0000312
 2026,10,23,17,16,10.0,2.6,38.866700,14.240800,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261023_0000307
-2026,10,23,17,16,10.0,3.5,7.617900,-81.050200,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261023_0000305
+2026,10,23,17,16,4.0,3.5,7.629000,-81.018000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261023_0000305
 2026,10,23,17,10,9.9,2.6,38.731000,14.200000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261023_0000304
 2026,10,23,17,06,110.0,4.6,25.980000,95.690000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261023_0000310
-2026,10,23,16,58,10.0,3.6,7.618900,-81.275300,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261023_0000298
+2026,10,23,16,58,3.0,3.6,7.672400,-81.294200,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261023_0000298
 2026,10,23,16,58,10.0,3.1,38.743800,14.179700,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261023_0000300
 2026,10,23,16,53,68.5,3.0,-32.170000,-71.500000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261023_0000297
 2026,10,23,16,50,6.4,2.7,38.813700,14.185800,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261023_0000299
@@ -1121,8 +1121,8 @@ YEAR, MON, DAY, HOUR, MIN, DEP, MAG, LAT, LONG, URL   // IGP history + EMSC-RTS 
 2026,10,19,09,52,7.3,2.5,28.818000,-98.950000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000220
 2026,10,19,09,45,10.0,4.9,-8.092700,120.161800,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000131
 2026,10,19,09,45,145.4,2.8,-21.530000,-68.570000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000121
-2026,10,19,09,39,31.0,2.5,8.606200,-84.325800,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000120
 2026,10,19,09,39,10.0,3.3,15.220000,107.695000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000125
+2026,10,19,09,39,31.0,2.5,8.606200,-84.325800,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000120
 2026,10,19,09,30,60.0,4.3,44.600000,149.770000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000159
 2026,10,19,09,30,10.0,3.8,18.532000,-96.040000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000190
 2026,10,19,09,26,108.2,2.5,-21.190000,-68.940000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261019_0000119
@@ -2637,8 +2637,6 @@ YEAR, MON, DAY, HOUR, MIN, DEP, MAG, LAT, LONG, URL   // IGP history + EMSC-RTS 
 2026,10,13,22,13,12.3,3.5,16.749000,-99.459000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261013_0000468
 2026,10,13,22,10,15.0,2.7,-7.860000,120.440000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261013_0000428
 2026,10,13,22,05,5.0,2.9,37.453000,-24.706000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261013_0000427
-2026,10,13,21,59,7.0,2.6,38.219200,37.345700,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261013_0000426
-2026,10,13,21,57,12.7,2.9,39.220500,28.224300,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261013_0000424
 2026,10,12,09,57,42.0,4.3,-13.300000,-76.690000,10,https://ultimosismo.igp.gob.pe/evento/2026-732
 2026,10,11,22,44,114.0,3.6,-14.690000,-73.650000,10,https://ultimosismo.igp.gob.pe/evento/2026-731
 2026,10,11,19,41,47.0,3.6,-16.740000,-72.570000,10,https://ultimosismo.igp.gob.pe/evento/2026-730
