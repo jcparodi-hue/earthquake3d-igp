@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-23T15:50:21.450443+00:00",
+  "actualizado_utc": "2026-10-23T15:55:26.356922+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 56,
   "actualizacion_minutos": 5,
   "igp": 56,
-  "emsc": 2584,
+  "emsc": 2583,
   "usgs": 509,
-  "duplicados_eliminados": 471,
+  "duplicados_eliminados": 470,
   "eventos_publicados": 2678,
-  "evento_mas_reciente_utc": "2026-10-23T15:44:20+00:00",
+  "evento_mas_reciente_utc": "2026-10-23T15:52:30.580000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 14,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-23T04:25:24+00:00",
-      "antiguedad_evento_mas_reciente_min": 685.0
+      "antiguedad_evento_mas_reciente_min": 690.0
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2584,
-      "eventos_recibidos": 2587,
+      "eventos_validos": 2583,
+      "eventos_recibidos": 2586,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-10-23T15:44:20+00:00",
-      "antiguedad_evento_mas_reciente_min": 6.0
+      "antiguedad_evento_mas_reciente_min": 11.1
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -35,8 +35,8 @@
       "eventos_validos": 509,
       "eventos_recibidos": 515,
       "invalidos_rechazados": 6,
-      "evento_mas_reciente_utc": "2026-10-23T13:55:36.149000+00:00",
-      "antiguedad_evento_mas_reciente_min": 114.8
+      "evento_mas_reciente_utc": "2026-10-23T15:52:30.580000+00:00",
+      "antiguedad_evento_mas_reciente_min": 2.9
     }
   },
   "ultimo_evento": {
@@ -65,24 +65,24 @@
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261023_0000279"
     },
     "usgs": {
-      "id": "us6000u4dc",
-      "fecha_hora_utc": "2026-10-23T13:55:36.149000+00:00",
-      "magnitud": 5.2,
-      "profundidad_km": 10.0,
-      "latitud": 38.7787,
-      "longitud": 14.315,
+      "id": "hv75062811",
+      "fecha_hora_utc": "2026-10-23T15:52:30.580000+00:00",
+      "magnitud": 3.13,
+      "profundidad_km": 27.6499996185303,
+      "latitud": 19.1671657562256,
+      "longitud": -155.496337890625,
       "pais": "",
-      "ciudad_referencia": "50 km WNW of Malfa, Italy",
+      "ciudad_referencia": "4 km SSW of Pāhala, Hawaii",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4dc"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75062811"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-23T15:50:21.450443+00:00"
+    "hora_consulta_utc": "2026-10-23T15:55:26.356922+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-23T15:50:21.450443+00:00",
+  "updated_utc": "2026-10-23T15:55:26.356922+00:00",
   "combined_after_dedup": 2678
 }
