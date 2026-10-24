@@ -1,13 +1,13 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-24T04:05:19.490636+00:00",
+  "actualizado_utc": "2026-10-24T04:10:23.509430+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 57,
   "actualizacion_minutos": 5,
   "igp": 57,
   "emsc": 2587,
-  "usgs": 535,
-  "duplicados_eliminados": 484,
+  "usgs": 537,
+  "duplicados_eliminados": 486,
   "eventos_publicados": 2695,
   "evento_mas_reciente_utc": "2026-10-24T03:55:28+00:00",
   "salud_fuentes": {
@@ -18,7 +18,7 @@
       "eventos_recibidos": 14,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-23T18:38:13+00:00",
-      "antiguedad_evento_mas_reciente_min": 567.1
+      "antiguedad_evento_mas_reciente_min": 572.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -27,16 +27,16 @@
       "eventos_recibidos": 2590,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-10-24T03:55:28+00:00",
-      "antiguedad_evento_mas_reciente_min": 9.9
+      "antiguedad_evento_mas_reciente_min": 14.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 535,
-      "eventos_recibidos": 541,
+      "eventos_validos": 537,
+      "eventos_recibidos": 543,
       "invalidos_rechazados": 6,
-      "evento_mas_reciente_utc": "2026-10-24T03:17:55.755000+00:00",
-      "antiguedad_evento_mas_reciente_min": 47.4
+      "evento_mas_reciente_utc": "2026-10-24T03:51:35.267000+00:00",
+      "antiguedad_evento_mas_reciente_min": 18.8
     }
   },
   "ultimo_evento": {
@@ -65,24 +65,24 @@
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261024_0000080"
     },
     "usgs": {
-      "id": "us6000u4jl",
-      "fecha_hora_utc": "2026-10-24T03:17:55.755000+00:00",
-      "magnitud": 5.2,
+      "id": "us6000u4jr",
+      "fecha_hora_utc": "2026-10-24T03:51:35.267000+00:00",
+      "magnitud": 4.9,
       "profundidad_km": 10.0,
-      "latitud": -13.8805,
-      "longitud": 165.6161,
+      "latitud": -14.1222,
+      "longitud": 165.625,
       "pais": "",
-      "ciudad_referencia": "202 km NW of Port-Olry, Vanuatu",
+      "ciudad_referencia": "186 km WNW of Port-Olry, Vanuatu",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jl"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jr"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-24T04:05:19.490636+00:00"
+    "hora_consulta_utc": "2026-10-24T04:10:23.509430+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-24T04:05:19.490636+00:00",
+  "updated_utc": "2026-10-24T04:10:23.509430+00:00",
   "combined_after_dedup": 2695
 }
