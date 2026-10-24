@@ -42823,7 +42823,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-748",
     "fecha_primera_recepcion": "2026-10-24T11:40:29.955838+00:00",
-    "fecha_ultima_observacion": "2026-10-24T21:40:29.673507+00:00"
+    "fecha_ultima_observacion": "2026-10-24T21:45:25.435281+00:00"
   },
   "USGS:us6000u4m6": {
     "id": "us6000u4m6",
@@ -43678,5 +43678,33 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4pq",
     "fecha_primera_recepcion": "2026-10-24T21:35:27.382025+00:00",
     "fecha_ultima_observacion": "2026-10-24T21:40:29.673507+00:00"
+  },
+  "EMSC:20261024_0000386": {
+    "id": "20261024_0000386",
+    "fecha_hora_utc": "2026-10-24T21:38:11+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 108.1,
+    "latitud": -21.02,
+    "longitud": -69.1,
+    "pais": "",
+    "ciudad_referencia": "TARAPACA, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261024_0000386",
+    "fecha_primera_recepcion": "2026-10-24T21:45:25.435281+00:00",
+    "fecha_ultima_observacion": "2026-10-24T21:45:25.435281+00:00"
+  },
+  "USGS:pr71537563": {
+    "id": "pr71537563",
+    "fecha_hora_utc": "2026-10-24T21:07:15.080000+00:00",
+    "magnitud": 3.21,
+    "profundidad_km": 36.55,
+    "latitud": 18.9063333333333,
+    "longitud": -67.4233333333333,
+    "pais": "",
+    "ciudad_referencia": "57 km NW of San Antonio, Puerto Rico",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537563",
+    "fecha_primera_recepcion": "2026-10-24T21:45:25.435281+00:00",
+    "fecha_ultima_observacion": "2026-10-24T21:45:25.435281+00:00"
   }
 }
