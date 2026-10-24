@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-24T12:50:26.093052+00:00",
+  "actualizado_utc": "2026-10-24T12:55:24.656455+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 58,
   "actualizacion_minutos": 5,
@@ -9,7 +9,7 @@
   "usgs": 568,
   "duplicados_eliminados": 520,
   "eventos_publicados": 2684,
-  "evento_mas_reciente_utc": "2026-10-24T12:43:26+00:00",
+  "evento_mas_reciente_utc": "2026-10-24T12:43:34+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 15,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-24T06:46:17+00:00",
-      "antiguedad_evento_mas_reciente_min": 364.2
+      "antiguedad_evento_mas_reciente_min": 369.1
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,8 +26,8 @@
       "eventos_validos": 2578,
       "eventos_recibidos": 2581,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-24T12:43:26+00:00",
-      "antiguedad_evento_mas_reciente_min": 7.0
+      "evento_mas_reciente_utc": "2026-10-24T12:43:34+00:00",
+      "antiguedad_evento_mas_reciente_min": 11.8
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 574,
       "invalidos_rechazados": 6,
       "evento_mas_reciente_utc": "2026-10-24T11:48:08.678000+00:00",
-      "antiguedad_evento_mas_reciente_min": 62.3
+      "antiguedad_evento_mas_reciente_min": 67.3
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261024_0000238",
-      "fecha_hora_utc": "2026-10-24T12:43:26+00:00",
+      "fecha_hora_utc": "2026-10-24T12:43:34+00:00",
       "magnitud": 3.8,
       "profundidad_km": 10.0,
-      "latitud": 7.1557,
-      "longitud": -80.9897,
+      "latitud": 7.6517,
+      "longitud": -81.3574,
       "pais": "",
       "ciudad_referencia": "PANAMA",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-24T12:50:26.093052+00:00"
+    "hora_consulta_utc": "2026-10-24T12:55:24.656455+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-24T12:50:26.093052+00:00",
+  "updated_utc": "2026-10-24T12:55:24.656455+00:00",
   "combined_after_dedup": 2684
 }
