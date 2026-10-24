@@ -42823,7 +42823,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-748",
     "fecha_primera_recepcion": "2026-10-24T11:40:29.955838+00:00",
-    "fecha_ultima_observacion": "2026-10-24T17:06:11.341203+00:00"
+    "fecha_ultima_observacion": "2026-10-24T17:22:57.722325+00:00"
   },
   "USGS:us6000u4m6": {
     "id": "us6000u4m6",
@@ -43258,5 +43258,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261024_0000299",
     "fecha_primera_recepcion": "2026-10-24T16:50:25.883697+00:00",
     "fecha_ultima_observacion": "2026-10-24T17:06:11.341203+00:00"
+  },
+  "EMSC:20261024_0000305": {
+    "id": "20261024_0000305",
+    "fecha_hora_utc": "2026-10-24T17:14:28+00:00",
+    "magnitud": 4.0,
+    "profundidad_km": 124.0,
+    "latitud": -21.27,
+    "longitud": -68.93,
+    "pais": "",
+    "ciudad_referencia": "TARAPACA, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261024_0000305",
+    "fecha_primera_recepcion": "2026-10-24T17:22:57.722325+00:00",
+    "fecha_ultima_observacion": "2026-10-24T17:22:57.722325+00:00"
+  },
+  "USGS:us6000u4n8": {
+    "id": "us6000u4n8",
+    "fecha_hora_utc": "2026-10-24T16:54:15.523000+00:00",
+    "magnitud": 4.8,
+    "profundidad_km": 10.0,
+    "latitud": -14.2056,
+    "longitud": 165.9365,
+    "pais": "",
+    "ciudad_referencia": "153 km NW of Port-Olry, Vanuatu",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4n8",
+    "fecha_primera_recepcion": "2026-10-24T17:22:57.722325+00:00",
+    "fecha_ultima_observacion": "2026-10-24T17:22:57.722325+00:00"
   }
 }
