@@ -41143,7 +41143,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-747",
     "fecha_primera_recepcion": "2026-10-23T20:40:30.420742+00:00",
-    "fecha_ultima_observacion": "2026-10-24T00:20:23.974725+00:00"
+    "fecha_ultima_observacion": "2026-10-24T00:25:25.610143+00:00"
   },
   "EMSC:20261023_0000372": {
     "id": "20261023_0000372",
@@ -41479,7 +41479,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026varwvn",
     "fecha_primera_recepcion": "2026-10-23T23:45:20.694820+00:00",
-    "fecha_ultima_observacion": "2026-10-24T00:20:23.974725+00:00"
+    "fecha_ultima_observacion": "2026-10-24T00:25:25.610143+00:00"
   },
   "EMSC:20261023_0000436": {
     "id": "20261023_0000436",
@@ -41522,5 +41522,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261024_0000002",
     "fecha_primera_recepcion": "2026-10-24T00:15:27.608968+00:00",
     "fecha_ultima_observacion": "2026-10-24T00:20:23.974725+00:00"
+  },
+  "EMSC:20261024_0000004": {
+    "id": "20261024_0000004",
+    "fecha_hora_utc": "2026-10-24T00:17:57.357039+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 9.9,
+    "latitud": -41.914,
+    "longitud": 174.175,
+    "pais": "",
+    "ciudad_referencia": "COOK STRAIT, NEW ZEALAND",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261024_0000004",
+    "fecha_primera_recepcion": "2026-10-24T00:25:25.610143+00:00",
+    "fecha_ultima_observacion": "2026-10-24T00:25:25.610143+00:00"
   }
 }
