@@ -43719,7 +43719,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-749",
     "fecha_primera_recepcion": "2026-10-24T22:00:33.617526+00:00",
-    "fecha_ultima_observacion": "2026-10-24T23:47:38.029765+00:00"
+    "fecha_ultima_observacion": "2026-10-24T23:50:26.364208+00:00"
   },
   "EMSC:20261024_0000395": {
     "id": "20261024_0000395",
@@ -43817,7 +43817,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4q8",
     "fecha_primera_recepcion": "2026-10-24T23:15:24.931819+00:00",
-    "fecha_ultima_observacion": "2026-10-24T23:47:38.029765+00:00"
+    "fecha_ultima_observacion": "2026-10-24T23:50:26.364208+00:00"
   },
   "EMSC:20261024_0000415": {
     "id": "20261024_0000415",
@@ -43832,5 +43832,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261024_0000415",
     "fecha_primera_recepcion": "2026-10-24T23:40:29.635047+00:00",
     "fecha_ultima_observacion": "2026-10-24T23:47:38.029765+00:00"
+  },
+  "EMSC:20261024_0000419": {
+    "id": "20261024_0000419",
+    "fecha_hora_utc": "2026-10-24T23:43:17+00:00",
+    "magnitud": 4.4,
+    "profundidad_km": 630.0,
+    "latitud": -8.46,
+    "longitud": 142.74,
+    "pais": "",
+    "ciudad_referencia": "NEAR S COAST OF NEW GUINEA, PNG.",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261024_0000419",
+    "fecha_primera_recepcion": "2026-10-24T23:50:26.364208+00:00",
+    "fecha_ultima_observacion": "2026-10-24T23:50:26.364208+00:00"
   }
 }
