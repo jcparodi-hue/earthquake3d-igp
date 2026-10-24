@@ -41143,7 +41143,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-747",
     "fecha_primera_recepcion": "2026-10-23T20:40:30.420742+00:00",
-    "fecha_ultima_observacion": "2026-10-24T07:40:29.151360+00:00"
+    "fecha_ultima_observacion": "2026-10-24T07:45:30.923996+00:00"
   },
   "EMSC:20261023_0000372": {
     "id": "20261023_0000372",
@@ -42376,5 +42376,33 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4kw",
     "fecha_primera_recepcion": "2026-10-24T07:40:29.151360+00:00",
     "fecha_ultima_observacion": "2026-10-24T07:40:29.151360+00:00"
+  },
+  "EMSC:20261024_0000146": {
+    "id": "20261024_0000146",
+    "fecha_hora_utc": "2026-10-24T07:33:19+00:00",
+    "magnitud": 3.2,
+    "profundidad_km": 211.7,
+    "latitud": -21.77,
+    "longitud": -67.66,
+    "pais": "",
+    "ciudad_referencia": "POTOSI, BOLIVIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261024_0000146",
+    "fecha_primera_recepcion": "2026-10-24T07:45:30.923996+00:00",
+    "fecha_ultima_observacion": "2026-10-24T07:45:30.923996+00:00"
+  },
+  "USGS:us6000u4kz": {
+    "id": "us6000u4kz",
+    "fecha_hora_utc": "2026-10-24T07:31:24.597000+00:00",
+    "magnitud": 4.4,
+    "profundidad_km": 35.0,
+    "latitud": 14.1588,
+    "longitud": -92.7995,
+    "pais": "",
+    "ciudad_referencia": "74 km SSW of Puerto Madero, Mexico",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4kz",
+    "fecha_primera_recepcion": "2026-10-24T07:45:30.923996+00:00",
+    "fecha_ultima_observacion": "2026-10-24T07:45:30.923996+00:00"
   }
 }
