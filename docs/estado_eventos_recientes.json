@@ -41143,7 +41143,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-747",
     "fecha_primera_recepcion": "2026-10-23T20:40:30.420742+00:00",
-    "fecha_ultima_observacion": "2026-10-24T01:25:26.583664+00:00"
+    "fecha_ultima_observacion": "2026-10-24T01:30:28.101954+00:00"
   },
   "EMSC:20261023_0000372": {
     "id": "20261023_0000372",
@@ -41647,7 +41647,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vaummo",
     "fecha_primera_recepcion": "2026-10-24T01:05:21.506621+00:00",
-    "fecha_ultima_observacion": "2026-10-24T01:25:26.583664+00:00"
+    "fecha_ultima_observacion": "2026-10-24T01:30:28.101954+00:00"
   },
   "EMSC:20261024_0000023": {
     "id": "20261024_0000023",
@@ -41676,5 +41676,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261024_0000024",
     "fecha_primera_recepcion": "2026-10-24T01:15:25.667455+00:00",
     "fecha_ultima_observacion": "2026-10-24T01:25:26.583664+00:00"
+  },
+  "EMSC:20261024_0000027": {
+    "id": "20261024_0000027",
+    "fecha_hora_utc": "2026-10-24T01:20:23+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 21.0,
+    "latitud": 9.139,
+    "longitud": -85.0252,
+    "pais": "",
+    "ciudad_referencia": "OFF COAST OF COSTA RICA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261024_0000027",
+    "fecha_primera_recepcion": "2026-10-24T01:30:28.101954+00:00",
+    "fecha_ultima_observacion": "2026-10-24T01:30:28.101954+00:00"
   }
 }
