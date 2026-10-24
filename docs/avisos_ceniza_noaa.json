@@ -1,5 +1,19 @@
 [
   {
+    "volcan": "Fuego",
+    "pais": "Guatemala",
+    "codigo_vaac": "FUEG",
+    "fecha_hora_utc_texto": "0558 UTC",
+    "id_archivo": "2026J240558",
+    "url_aviso": "https://www.ospo.noaa.gov/VAAC/ARCH26/FUEG/2026J240558.html",
+    "url_xml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/xml_files/FVXX22_20261024_0558.xml",
+    "url_grafico": "https://www.ospo.noaa.gov/VAAC/ARCH26/GFX/FUEG1232.jpg",
+    "url_kml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/kml_files/FUEGO_ASH_202610240558.kml",
+    "vaac": "Washington",
+    "tipo": "VAA",
+    "fuente": "NOAA Washington VAAC"
+  },
+  {
     "volcan": "Reventador",
     "pais": "Ecuador",
     "codigo_vaac": "REVE",
@@ -233,20 +247,6 @@
     "url_xml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/xml_files/FVXX20_20261023_0854.xml",
     "url_grafico": "https://www.ospo.noaa.gov/VAAC/ARCH26/GFX/PURA0652.jpg",
     "url_kml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/kml_files/PURACE_ASH_202610230854.kml",
-    "vaac": "Washington",
-    "tipo": "VAA",
-    "fuente": "NOAA Washington VAAC"
-  },
-  {
-    "volcan": "Fuego",
-    "pais": "Guatemala",
-    "codigo_vaac": "FUEG",
-    "fecha_hora_utc_texto": "0629 UTC",
-    "id_archivo": "2026J230629",
-    "url_aviso": "https://www.ospo.noaa.gov/VAAC/ARCH26/FUEG/2026J230629.html",
-    "url_xml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/xml_files/FVXX22_20261023_0629.xml",
-    "url_grafico": "https://www.ospo.noaa.gov/VAAC/ARCH26/GFX/FUEG1228.jpg",
-    "url_kml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/kml_files/FUEGO_ASH_202610230629.kml",
     "vaac": "Washington",
     "tipo": "VAA",
     "fuente": "NOAA Washington VAAC"
