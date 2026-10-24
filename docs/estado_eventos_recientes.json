@@ -41143,7 +41143,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-747",
     "fecha_primera_recepcion": "2026-10-23T20:40:30.420742+00:00",
-    "fecha_ultima_observacion": "2026-10-24T05:40:24.345677+00:00"
+    "fecha_ultima_observacion": "2026-10-24T05:45:25.498234+00:00"
   },
   "EMSC:20261023_0000372": {
     "id": "20261023_0000372",
@@ -42165,6 +42165,20 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k6",
     "fecha_primera_recepcion": "2026-10-24T05:40:24.345677+00:00",
-    "fecha_ultima_observacion": "2026-10-24T05:40:24.345677+00:00"
+    "fecha_ultima_observacion": "2026-10-24T05:45:25.498234+00:00"
+  },
+  "EMSC:20261024_0000106": {
+    "id": "20261024_0000106",
+    "fecha_hora_utc": "2026-10-24T05:38:24+00:00",
+    "magnitud": 3.5,
+    "profundidad_km": 276.9,
+    "latitud": -22.67,
+    "longitud": -67.16,
+    "pais": "",
+    "ciudad_referencia": "POTOSI, BOLIVIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261024_0000106",
+    "fecha_primera_recepcion": "2026-10-24T05:45:25.498234+00:00",
+    "fecha_ultima_observacion": "2026-10-24T05:45:25.498234+00:00"
   }
 }
