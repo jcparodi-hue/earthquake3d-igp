@@ -42823,7 +42823,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-748",
     "fecha_primera_recepcion": "2026-10-24T11:40:29.955838+00:00",
-    "fecha_ultima_observacion": "2026-10-24T18:00:27.617365+00:00"
+    "fecha_ultima_observacion": "2026-10-24T18:05:25.827352+00:00"
   },
   "USGS:us6000u4m6": {
     "id": "us6000u4m6",
@@ -43327,7 +43327,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4na",
     "fecha_primera_recepcion": "2026-10-24T17:45:27.259045+00:00",
-    "fecha_ultima_observacion": "2026-10-24T18:00:27.617365+00:00"
+    "fecha_ultima_observacion": "2026-10-24T18:05:25.827352+00:00"
   },
   "EMSC:20261024_0000320": {
     "id": "20261024_0000320",
@@ -43342,5 +43342,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261024_0000320",
     "fecha_primera_recepcion": "2026-10-24T17:50:31.853740+00:00",
     "fecha_ultima_observacion": "2026-10-24T18:00:27.617365+00:00"
+  },
+  "EMSC:20261024_0000322": {
+    "id": "20261024_0000322",
+    "fecha_hora_utc": "2026-10-24T17:53:56.830000+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 10.0,
+    "latitud": 38.8217,
+    "longitud": 14.108,
+    "pais": "",
+    "ciudad_referencia": "SICILY, ITALY",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261024_0000322",
+    "fecha_primera_recepcion": "2026-10-24T18:05:25.827352+00:00",
+    "fecha_ultima_observacion": "2026-10-24T18:05:25.827352+00:00"
   }
 }
