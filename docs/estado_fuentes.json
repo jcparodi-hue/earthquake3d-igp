@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-24T02:35:26.516761+00:00",
+  "actualizado_utc": "2026-10-24T02:40:28.523855+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 57,
   "actualizacion_minutos": 5,
   "igp": 57,
-  "emsc": 2595,
-  "usgs": 534,
+  "emsc": 2593,
+  "usgs": 535,
   "duplicados_eliminados": 484,
-  "eventos_publicados": 2702,
-  "evento_mas_reciente_utc": "2026-10-24T02:08:35+00:00",
+  "eventos_publicados": 2701,
+  "evento_mas_reciente_utc": "2026-10-24T02:31:53+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 15,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-23T18:38:13+00:00",
-      "antiguedad_evento_mas_reciente_min": 477.2
+      "antiguedad_evento_mas_reciente_min": 482.3
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2595,
-      "eventos_recibidos": 2598,
+      "eventos_validos": 2593,
+      "eventos_recibidos": 2596,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-24T02:08:35+00:00",
-      "antiguedad_evento_mas_reciente_min": 26.9
+      "evento_mas_reciente_utc": "2026-10-24T02:28:49+00:00",
+      "antiguedad_evento_mas_reciente_min": 11.7
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 534,
-      "eventos_recibidos": 540,
+      "eventos_validos": 535,
+      "eventos_recibidos": 541,
       "invalidos_rechazados": 6,
-      "evento_mas_reciente_utc": "2026-10-24T01:00:19.435000+00:00",
-      "antiguedad_evento_mas_reciente_min": 95.1
+      "evento_mas_reciente_utc": "2026-10-24T02:31:53+00:00",
+      "antiguedad_evento_mas_reciente_min": 8.6
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-747"
     },
     "emsc": {
-      "id": "20261024_0000049",
-      "fecha_hora_utc": "2026-10-24T02:08:35+00:00",
-      "magnitud": 3.1,
-      "profundidad_km": 222.4,
-      "latitud": -21.36,
-      "longitud": -67.85,
+      "id": "20261024_0000053",
+      "fecha_hora_utc": "2026-10-24T02:28:49+00:00",
+      "magnitud": 3.5,
+      "profundidad_km": 10.0,
+      "latitud": 7.7362,
+      "longitud": -81.3175,
       "pais": "",
-      "ciudad_referencia": "POTOSI, BOLIVIA",
+      "ciudad_referencia": "PANAMA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261024_0000049"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261024_0000053"
     },
     "usgs": {
-      "id": "aka2026vaummo",
-      "fecha_hora_utc": "2026-10-24T01:00:19.435000+00:00",
-      "magnitud": 3.4,
-      "profundidad_km": 44.2,
-      "latitud": 58.987,
-      "longitud": -142.656,
+      "id": "attne4d5",
+      "fecha_hora_utc": "2026-10-24T02:31:53+00:00",
+      "magnitud": 7.2,
+      "profundidad_km": 10.0,
+      "latitud": -13.8,
+      "longitud": 165.7,
       "pais": "",
-      "ciudad_referencia": "178 km WSW of Yakutat, Alaska",
+      "ciudad_referencia": "200 km W of Sola, Vanuatu",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vaummo"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/attne4d5"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-24T02:35:26.516761+00:00"
+    "hora_consulta_utc": "2026-10-24T02:40:28.523855+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-24T02:35:26.516761+00:00",
-  "combined_after_dedup": 2702
+  "updated_utc": "2026-10-24T02:40:28.523855+00:00",
+  "combined_after_dedup": 2701
 }

@@ -41143,7 +41143,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-747",
     "fecha_primera_recepcion": "2026-10-23T20:40:30.420742+00:00",
-    "fecha_ultima_observacion": "2026-10-24T02:35:26.516761+00:00"
+    "fecha_ultima_observacion": "2026-10-24T02:40:28.523855+00:00"
   },
   "EMSC:20261023_0000372": {
     "id": "20261023_0000372",
@@ -41788,5 +41788,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261024_0000049",
     "fecha_primera_recepcion": "2026-10-24T02:15:01.733111+00:00",
     "fecha_ultima_observacion": "2026-10-24T02:35:26.516761+00:00"
+  },
+  "EMSC:20261024_0000053": {
+    "id": "20261024_0000053",
+    "fecha_hora_utc": "2026-10-24T02:28:49+00:00",
+    "magnitud": 3.5,
+    "profundidad_km": 10.0,
+    "latitud": 7.7362,
+    "longitud": -81.3175,
+    "pais": "",
+    "ciudad_referencia": "PANAMA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261024_0000053",
+    "fecha_primera_recepcion": "2026-10-24T02:40:28.523855+00:00",
+    "fecha_ultima_observacion": "2026-10-24T02:40:28.523855+00:00"
+  },
+  "USGS:attne4d5": {
+    "id": "attne4d5",
+    "fecha_hora_utc": "2026-10-24T02:31:53+00:00",
+    "magnitud": 7.2,
+    "profundidad_km": 10.0,
+    "latitud": -13.8,
+    "longitud": 165.7,
+    "pais": "",
+    "ciudad_referencia": "200 km W of Sola, Vanuatu",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/attne4d5",
+    "fecha_primera_recepcion": "2026-10-24T02:40:28.523855+00:00",
+    "fecha_ultima_observacion": "2026-10-24T02:40:28.523855+00:00"
   }
 }
