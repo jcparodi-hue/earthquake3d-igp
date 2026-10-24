@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-24T05:35:27.606542+00:00",
+  "actualizado_utc": "2026-10-24T05:38:33.545069+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 57,
   "actualizacion_minutos": 5,
   "igp": 57,
-  "emsc": 2577,
-  "usgs": 542,
-  "duplicados_eliminados": 490,
-  "eventos_publicados": 2686,
-  "evento_mas_reciente_utc": "2026-10-24T05:23:44.570000+00:00",
+  "emsc": 2578,
+  "usgs": 543,
+  "duplicados_eliminados": 491,
+  "eventos_publicados": 2687,
+  "evento_mas_reciente_utc": "2026-10-24T05:23:41.590000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 14,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-23T18:38:13+00:00",
-      "antiguedad_evento_mas_reciente_min": 657.2
+      "antiguedad_evento_mas_reciente_min": 660.3
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2577,
-      "eventos_recibidos": 2580,
+      "eventos_validos": 2578,
+      "eventos_recibidos": 2581,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-24T05:23:44.570000+00:00",
-      "antiguedad_evento_mas_reciente_min": 11.7
+      "evento_mas_reciente_utc": "2026-10-24T05:23:41.590000+00:00",
+      "antiguedad_evento_mas_reciente_min": 14.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 542,
-      "eventos_recibidos": 548,
+      "eventos_validos": 543,
+      "eventos_recibidos": 549,
       "invalidos_rechazados": 6,
       "evento_mas_reciente_utc": "2026-10-24T05:10:34.753000+00:00",
-      "antiguedad_evento_mas_reciente_min": 24.9
+      "antiguedad_evento_mas_reciente_min": 28.0
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261024_0000104",
-      "fecha_hora_utc": "2026-10-24T05:23:44.570000+00:00",
+      "fecha_hora_utc": "2026-10-24T05:23:41.590000+00:00",
       "magnitud": 5.8,
-      "profundidad_km": 35.0,
-      "latitud": -14.0198,
-      "longitud": 165.6464,
+      "profundidad_km": 10.0,
+      "latitud": -14.081,
+      "longitud": 165.662,
       "pais": "",
       "ciudad_referencia": "VANUATU",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-24T05:35:27.606542+00:00"
+    "hora_consulta_utc": "2026-10-24T05:38:33.545069+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-24T05:35:27.606542+00:00",
-  "combined_after_dedup": 2686
+  "updated_utc": "2026-10-24T05:38:33.545069+00:00",
+  "combined_after_dedup": 2687
 }
