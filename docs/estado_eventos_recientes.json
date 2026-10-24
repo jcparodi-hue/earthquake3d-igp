@@ -41143,7 +41143,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-747",
     "fecha_primera_recepcion": "2026-10-23T20:40:30.420742+00:00",
-    "fecha_ultima_observacion": "2026-10-24T07:35:24.898416+00:00"
+    "fecha_ultima_observacion": "2026-10-24T07:40:29.151360+00:00"
   },
   "EMSC:20261023_0000372": {
     "id": "20261023_0000372",
@@ -42361,6 +42361,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261024_0000139",
     "fecha_primera_recepcion": "2026-10-24T07:30:32.916667+00:00",
-    "fecha_ultima_observacion": "2026-10-24T07:35:24.898416+00:00"
+    "fecha_ultima_observacion": "2026-10-24T07:40:29.151360+00:00"
+  },
+  "USGS:us6000u4kw": {
+    "id": "us6000u4kw",
+    "fecha_hora_utc": "2026-10-24T06:58:03.586000+00:00",
+    "magnitud": 4.7,
+    "profundidad_km": 10.0,
+    "latitud": -13.8532,
+    "longitud": 165.7268,
+    "pais": "",
+    "ciudad_referencia": "195 km NW of Port-Olry, Vanuatu",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4kw",
+    "fecha_primera_recepcion": "2026-10-24T07:40:29.151360+00:00",
+    "fecha_ultima_observacion": "2026-10-24T07:40:29.151360+00:00"
   }
 }
