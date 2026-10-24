@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-24T07:00:32.490930+00:00",
+  "actualizado_utc": "2026-10-24T07:05:21.717790+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 57,
   "actualizacion_minutos": 5,
   "igp": 57,
   "emsc": 2583,
-  "usgs": 553,
-  "duplicados_eliminados": 503,
+  "usgs": 554,
+  "duplicados_eliminados": 504,
   "eventos_publicados": 2690,
-  "evento_mas_reciente_utc": "2026-10-24T06:46:30+00:00",
+  "evento_mas_reciente_utc": "2026-10-24T06:53:27.860000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 14,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-23T18:38:13+00:00",
-      "antiguedad_evento_mas_reciente_min": 742.3
+      "antiguedad_evento_mas_reciente_min": 747.1
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2583,
       "eventos_recibidos": 2586,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-24T06:46:30+00:00",
-      "antiguedad_evento_mas_reciente_min": 14.0
+      "evento_mas_reciente_utc": "2026-10-24T06:53:27.860000+00:00",
+      "antiguedad_evento_mas_reciente_min": 11.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 553,
-      "eventos_recibidos": 559,
+      "eventos_validos": 554,
+      "eventos_recibidos": 560,
       "invalidos_rechazados": 6,
-      "evento_mas_reciente_utc": "2026-10-24T06:04:16.367000+00:00",
-      "antiguedad_evento_mas_reciente_min": 56.3
+      "evento_mas_reciente_utc": "2026-10-24T06:43:09.602000+00:00",
+      "antiguedad_evento_mas_reciente_min": 22.2
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-747"
     },
     "emsc": {
-      "id": "20261024_0000125",
-      "fecha_hora_utc": "2026-10-24T06:46:30+00:00",
-      "magnitud": 3.7,
-      "profundidad_km": 5.0,
-      "latitud": 7.5845,
-      "longitud": -80.771,
+      "id": "20261024_0000132",
+      "fecha_hora_utc": "2026-10-24T06:53:27.860000+00:00",
+      "magnitud": 2.5,
+      "profundidad_km": 10.0,
+      "latitud": 38.8197,
+      "longitud": 14.1932,
       "pais": "",
-      "ciudad_referencia": "PANAMA",
+      "ciudad_referencia": "SICILY, ITALY",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261024_0000125"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261024_0000132"
     },
     "usgs": {
-      "id": "us6000u4kj",
-      "fecha_hora_utc": "2026-10-24T06:04:16.367000+00:00",
-      "magnitud": 5.3,
-      "profundidad_km": 10.0,
-      "latitud": -14.1278,
-      "longitud": 165.7535,
+      "id": "us6000u4kq",
+      "fecha_hora_utc": "2026-10-24T06:43:09.602000+00:00",
+      "magnitud": 5.5,
+      "profundidad_km": 194.632,
+      "latitud": -14.5918,
+      "longitud": 167.3063,
       "pais": "",
-      "ciudad_referencia": "174 km NW of Port-Olry, Vanuatu",
+      "ciudad_referencia": "55 km NNE of Port-Olry, Vanuatu",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4kj"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4kq"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-24T07:00:32.490930+00:00"
+    "hora_consulta_utc": "2026-10-24T07:05:21.717790+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-24T07:00:32.490930+00:00",
+  "updated_utc": "2026-10-24T07:05:21.717790+00:00",
   "combined_after_dedup": 2690
 }
