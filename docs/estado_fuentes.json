@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-24T20:40:31.901088+00:00",
+  "actualizado_utc": "2026-10-24T20:44:35.974238+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 58,
   "actualizacion_minutos": 5,
   "igp": 58,
   "emsc": 2569,
-  "usgs": 584,
+  "usgs": 585,
   "duplicados_eliminados": 536,
-  "eventos_publicados": 2675,
-  "evento_mas_reciente_utc": "2026-10-24T20:23:22+00:00",
+  "eventos_publicados": 2676,
+  "evento_mas_reciente_utc": "2026-10-24T20:39:17.770000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 15,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-24T06:46:17+00:00",
-      "antiguedad_evento_mas_reciente_min": 834.2
+      "antiguedad_evento_mas_reciente_min": 838.3
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2569,
       "eventos_recibidos": 2573,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-24T20:23:22+00:00",
-      "antiguedad_evento_mas_reciente_min": 17.2
+      "evento_mas_reciente_utc": "2026-10-24T20:38:13+00:00",
+      "antiguedad_evento_mas_reciente_min": 6.4
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 584,
-      "eventos_recibidos": 591,
+      "eventos_validos": 585,
+      "eventos_recibidos": 592,
       "invalidos_rechazados": 7,
-      "evento_mas_reciente_utc": "2026-10-24T19:34:13.223000+00:00",
-      "antiguedad_evento_mas_reciente_min": 66.3
+      "evento_mas_reciente_utc": "2026-10-24T20:39:17.770000+00:00",
+      "antiguedad_evento_mas_reciente_min": 5.3
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-748"
     },
     "emsc": {
-      "id": "20261024_0000366",
-      "fecha_hora_utc": "2026-10-24T20:23:22+00:00",
-      "magnitud": 4.4,
-      "profundidad_km": 133.0,
-      "latitud": -7.36,
-      "longitud": 129.38,
+      "id": "20261024_0000371",
+      "fecha_hora_utc": "2026-10-24T20:38:13+00:00",
+      "magnitud": 3.7,
+      "profundidad_km": 10.0,
+      "latitud": 7.5058,
+      "longitud": -80.5778,
       "pais": "",
-      "ciudad_referencia": "KEPULAUAN BABAR, INDONESIA",
+      "ciudad_referencia": "PANAMA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261024_0000366"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261024_0000371"
     },
     "usgs": {
-      "id": "us6000u4p1",
-      "fecha_hora_utc": "2026-10-24T19:34:13.223000+00:00",
-      "magnitud": 4.3,
-      "profundidad_km": 10.0,
-      "latitud": 28.7603,
-      "longitud": 88.3994,
+      "id": "nc75454321",
+      "fecha_hora_utc": "2026-10-24T20:39:17.770000+00:00",
+      "magnitud": 2.52,
+      "profundidad_km": 1.99000000953674,
+      "latitud": 38.8334999084473,
+      "longitud": -122.803169250488,
       "pais": "",
-      "ciudad_referencia": "71 km SW of Rikaze, China",
+      "ciudad_referencia": "7 km W of Cobb, CA",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4p1"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75454321"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-24T20:40:31.901088+00:00"
+    "hora_consulta_utc": "2026-10-24T20:44:35.974238+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-24T20:40:31.901088+00:00",
-  "combined_after_dedup": 2675
+  "updated_utc": "2026-10-24T20:44:35.974238+00:00",
+  "combined_after_dedup": 2676
 }
