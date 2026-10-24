@@ -41143,7 +41143,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-747",
     "fecha_primera_recepcion": "2026-10-23T20:40:30.420742+00:00",
-    "fecha_ultima_observacion": "2026-10-24T01:00:31.459119+00:00"
+    "fecha_ultima_observacion": "2026-10-24T01:05:21.506621+00:00"
   },
   "EMSC:20261023_0000372": {
     "id": "20261023_0000372",
@@ -41620,5 +41620,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261024_0000020",
     "fecha_primera_recepcion": "2026-10-24T01:00:31.459119+00:00",
     "fecha_ultima_observacion": "2026-10-24T01:00:31.459119+00:00"
+  },
+  "EMSC:20261024_0000022": {
+    "id": "20261024_0000022",
+    "fecha_hora_utc": "2026-10-24T01:00:16.244132+00:00",
+    "magnitud": 3.3,
+    "profundidad_km": 7.5,
+    "latitud": 59.021,
+    "longitud": -142.658,
+    "pais": "",
+    "ciudad_referencia": "GULF OF ALASKA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261024_0000022",
+    "fecha_primera_recepcion": "2026-10-24T01:05:21.506621+00:00",
+    "fecha_ultima_observacion": "2026-10-24T01:05:21.506621+00:00"
+  },
+  "USGS:aka2026vaummo": {
+    "id": "aka2026vaummo",
+    "fecha_hora_utc": "2026-10-24T01:00:16.244000+00:00",
+    "magnitud": 3.3,
+    "profundidad_km": 7.5,
+    "latitud": 59.021,
+    "longitud": -142.658,
+    "pais": "",
+    "ciudad_referencia": "177 km WSW of Yakutat, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vaummo",
+    "fecha_primera_recepcion": "2026-10-24T01:05:21.506621+00:00",
+    "fecha_ultima_observacion": "2026-10-24T01:05:21.506621+00:00"
   }
 }
