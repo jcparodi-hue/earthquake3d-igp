@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-25T20:25:45.397451+00:00",
+  "actualizado_utc": "2026-10-25T20:30:28.579503+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 61,
   "actualizacion_minutos": 5,
   "igp": 61,
-  "emsc": 2538,
+  "emsc": 2539,
   "usgs": 576,
   "duplicados_eliminados": 535,
-  "eventos_publicados": 2640,
-  "evento_mas_reciente_utc": "2026-10-25T20:18:10.050000+00:00",
+  "eventos_publicados": 2641,
+  "evento_mas_reciente_utc": "2026-10-25T20:18:10.280000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 15,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-25T17:11:51+00:00",
-      "antiguedad_evento_mas_reciente_min": 193.9
+      "antiguedad_evento_mas_reciente_min": 198.6
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2538,
-      "eventos_recibidos": 2542,
+      "eventos_validos": 2539,
+      "eventos_recibidos": 2543,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-25T20:18:10.050000+00:00",
-      "antiguedad_evento_mas_reciente_min": 7.6
+      "evento_mas_reciente_utc": "2026-10-25T20:18:10.280000+00:00",
+      "antiguedad_evento_mas_reciente_min": 12.3
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 583,
       "invalidos_rechazados": 7,
       "evento_mas_reciente_utc": "2026-10-25T19:54:29.501000+00:00",
-      "antiguedad_evento_mas_reciente_min": 31.3
+      "antiguedad_evento_mas_reciente_min": 36.0
     }
   },
   "ultimo_evento": {
@@ -54,7 +54,7 @@
     },
     "emsc": {
       "id": "20261025_0000281",
-      "fecha_hora_utc": "2026-10-25T20:18:10.050000+00:00",
+      "fecha_hora_utc": "2026-10-25T20:18:10.280000+00:00",
       "magnitud": 2.6,
       "profundidad_km": 5.0,
       "latitud": 45.6,
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-25T20:25:45.397451+00:00"
+    "hora_consulta_utc": "2026-10-25T20:30:28.579503+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-25T20:25:45.397451+00:00",
-  "combined_after_dedup": 2640
+  "updated_utc": "2026-10-25T20:30:28.579503+00:00",
+  "combined_after_dedup": 2641
 }
