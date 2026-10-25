@@ -44783,7 +44783,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-750",
     "fecha_primera_recepcion": "2026-10-25T09:30:24.775566+00:00",
-    "fecha_ultima_observacion": "2026-10-25T10:45:24.538330+00:00"
+    "fecha_ultima_observacion": "2026-10-25T10:50:22.529928+00:00"
   },
   "USGS:us6000u4tf": {
     "id": "us6000u4tf",
@@ -44924,5 +44924,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261025_0000137",
     "fecha_primera_recepcion": "2026-10-25T10:45:24.538330+00:00",
     "fecha_ultima_observacion": "2026-10-25T10:45:24.538330+00:00"
+  },
+  "EMSC:20261025_0000139": {
+    "id": "20261025_0000139",
+    "fecha_hora_utc": "2026-10-25T10:30:27.588000+00:00",
+    "magnitud": 5.4,
+    "profundidad_km": 72.3,
+    "latitud": -4.3644,
+    "longitud": 143.0843,
+    "pais": "",
+    "ciudad_referencia": "NEW GUINEA, PAPUA NEW GUINEA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261025_0000139",
+    "fecha_primera_recepcion": "2026-10-25T10:50:22.529928+00:00",
+    "fecha_ultima_observacion": "2026-10-25T10:50:22.529928+00:00"
+  },
+  "USGS:us6000u4tq": {
+    "id": "us6000u4tq",
+    "fecha_hora_utc": "2026-10-25T10:30:27.588000+00:00",
+    "magnitud": 5.4,
+    "profundidad_km": 72.349,
+    "latitud": -4.3644,
+    "longitud": 143.0843,
+    "pais": "",
+    "ciudad_referencia": "33 km ESE of Ambunti, Papua New Guinea",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tq",
+    "fecha_primera_recepcion": "2026-10-25T10:50:22.529928+00:00",
+    "fecha_ultima_observacion": "2026-10-25T10:50:22.529928+00:00"
   }
 }
