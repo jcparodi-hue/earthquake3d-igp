@@ -44783,7 +44783,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-750",
     "fecha_primera_recepcion": "2026-10-25T09:30:24.775566+00:00",
-    "fecha_ultima_observacion": "2026-10-25T09:55:21.429746+00:00"
+    "fecha_ultima_observacion": "2026-10-25T10:00:33.072564+00:00"
   },
   "USGS:us6000u4tf": {
     "id": "us6000u4tf",
@@ -44797,7 +44797,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tf",
     "fecha_primera_recepcion": "2026-10-25T09:30:24.775566+00:00",
-    "fecha_ultima_observacion": "2026-10-25T09:55:21.429746+00:00"
+    "fecha_ultima_observacion": "2026-10-25T10:00:33.072564+00:00"
   },
   "EMSC:20261025_0000123": {
     "id": "20261025_0000123",
@@ -44812,5 +44812,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261025_0000123",
     "fecha_primera_recepcion": "2026-10-25T09:50:29.072351+00:00",
     "fecha_ultima_observacion": "2026-10-25T09:55:21.429746+00:00"
+  },
+  "EMSC:20261025_0000128": {
+    "id": "20261025_0000128",
+    "fecha_hora_utc": "2026-10-25T09:49:11+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 165.3,
+    "latitud": -17.46,
+    "longitud": -69.69,
+    "pais": "",
+    "ciudad_referencia": "SOUTHERN PERU",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261025_0000128",
+    "fecha_primera_recepcion": "2026-10-25T10:00:33.072564+00:00",
+    "fecha_ultima_observacion": "2026-10-25T10:00:33.072564+00:00"
   }
 }
