@@ -43719,7 +43719,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-749",
     "fecha_primera_recepcion": "2026-10-24T22:00:33.617526+00:00",
-    "fecha_ultima_observacion": "2026-10-25T01:35:27.577418+00:00"
+    "fecha_ultima_observacion": "2026-10-25T01:40:29.881810+00:00"
   },
   "EMSC:20261024_0000395": {
     "id": "20261024_0000395",
@@ -43986,5 +43986,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261025_0000011",
     "fecha_primera_recepcion": "2026-10-25T01:14:46.914483+00:00",
     "fecha_ultima_observacion": "2026-10-25T01:35:27.577418+00:00"
+  },
+  "EMSC:20261025_0000017": {
+    "id": "20261025_0000017",
+    "fecha_hora_utc": "2026-10-25T01:35:08.090000+00:00",
+    "magnitud": 2.7,
+    "profundidad_km": 0.9,
+    "latitud": 35.7885,
+    "longitud": -116.564,
+    "pais": "",
+    "ciudad_referencia": "SOUTHERN CALIFORNIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261025_0000017",
+    "fecha_primera_recepcion": "2026-10-25T01:40:29.881810+00:00",
+    "fecha_ultima_observacion": "2026-10-25T01:40:29.881810+00:00"
+  },
+  "USGS:ci41352007": {
+    "id": "ci41352007",
+    "fecha_hora_utc": "2026-10-25T01:35:08.090000+00:00",
+    "magnitud": 2.7,
+    "profundidad_km": 0.89,
+    "latitud": 35.7885,
+    "longitud": -116.564,
+    "pais": "",
+    "ciudad_referencia": "31 km WSW of Tecopa, CA",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41352007",
+    "fecha_primera_recepcion": "2026-10-25T01:40:29.881810+00:00",
+    "fecha_ultima_observacion": "2026-10-25T01:40:29.881810+00:00"
   }
 }
