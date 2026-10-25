@@ -44783,7 +44783,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-750",
     "fecha_primera_recepcion": "2026-10-25T09:30:24.775566+00:00",
-    "fecha_ultima_observacion": "2026-10-25T11:17:06.198027+00:00"
+    "fecha_ultima_observacion": "2026-10-25T11:20:28.227076+00:00"
   },
   "USGS:us6000u4tf": {
     "id": "us6000u4tf",
@@ -45021,6 +45021,20 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537633",
     "fecha_primera_recepcion": "2026-10-25T11:15:26.940345+00:00",
-    "fecha_ultima_observacion": "2026-10-25T11:17:06.198027+00:00"
+    "fecha_ultima_observacion": "2026-10-25T11:20:28.227076+00:00"
+  },
+  "EMSC:20261025_0000150": {
+    "id": "20261025_0000150",
+    "fecha_hora_utc": "2026-10-25T11:12:21+00:00",
+    "magnitud": 2.9,
+    "profundidad_km": 42.5,
+    "latitud": -34.04,
+    "longitud": -73.4,
+    "pais": "",
+    "ciudad_referencia": "OFF COAST OF O'HIGGINS, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261025_0000150",
+    "fecha_primera_recepcion": "2026-10-25T11:20:28.227076+00:00",
+    "fecha_ultima_observacion": "2026-10-25T11:20:28.227076+00:00"
   }
 }
