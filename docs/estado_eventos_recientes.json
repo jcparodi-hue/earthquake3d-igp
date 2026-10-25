@@ -43719,7 +43719,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-749",
     "fecha_primera_recepcion": "2026-10-24T22:00:33.617526+00:00",
-    "fecha_ultima_observacion": "2026-10-25T07:05:27.995758+00:00"
+    "fecha_ultima_observacion": "2026-10-25T07:10:30.017200+00:00"
   },
   "EMSC:20261024_0000395": {
     "id": "20261024_0000395",
@@ -44560,5 +44560,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261025_0000094",
     "fecha_primera_recepcion": "2026-10-25T06:50:23.581743+00:00",
     "fecha_ultima_observacion": "2026-10-25T07:05:27.995758+00:00"
+  },
+  "EMSC:20261025_0000097": {
+    "id": "20261025_0000097",
+    "fecha_hora_utc": "2026-10-25T07:03:18+00:00",
+    "magnitud": 3.2,
+    "profundidad_km": 11.0,
+    "latitud": 11.302,
+    "longitud": -87.083,
+    "pais": "",
+    "ciudad_referencia": "NEAR COAST OF NICARAGUA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261025_0000097",
+    "fecha_primera_recepcion": "2026-10-25T07:10:30.017200+00:00",
+    "fecha_ultima_observacion": "2026-10-25T07:10:30.017200+00:00"
+  },
+  "USGS:aka2026vdcuns": {
+    "id": "aka2026vdcuns",
+    "fecha_hora_utc": "2026-10-25T07:08:44.243000+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 2.6,
+    "latitud": 63.366,
+    "longitud": -145.078,
+    "pais": "",
+    "ciudad_referencia": "38 km SSW of Dry Creek, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vdcuns",
+    "fecha_primera_recepcion": "2026-10-25T07:10:30.017200+00:00",
+    "fecha_ultima_observacion": "2026-10-25T07:10:30.017200+00:00"
   }
 }
