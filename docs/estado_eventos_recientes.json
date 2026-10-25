@@ -43719,7 +43719,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-749",
     "fecha_primera_recepcion": "2026-10-24T22:00:33.617526+00:00",
-    "fecha_ultima_observacion": "2026-10-25T02:20:25.618584+00:00"
+    "fecha_ultima_observacion": "2026-10-25T02:25:20.220543+00:00"
   },
   "EMSC:20261024_0000395": {
     "id": "20261024_0000395",
@@ -44073,16 +44073,30 @@
   },
   "EMSC:20261025_0000031": {
     "id": "20261025_0000031",
-    "fecha_hora_utc": "2026-10-25T02:09:24.550000+00:00",
-    "magnitud": 6.3,
-    "profundidad_km": 497.0,
-    "latitud": 27.81,
-    "longitud": 139.6551,
+    "fecha_hora_utc": "2026-10-25T02:09:23.818000+00:00",
+    "magnitud": 6.5,
+    "profundidad_km": 492.4,
+    "latitud": 27.7953,
+    "longitud": 139.6184,
     "pais": "",
     "ciudad_referencia": "BONIN ISLANDS, JAPAN REGION",
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261025_0000031",
     "fecha_primera_recepcion": "2026-10-25T02:20:25.618584+00:00",
-    "fecha_ultima_observacion": "2026-10-25T02:20:25.618584+00:00"
+    "fecha_ultima_observacion": "2026-10-25T02:25:20.220543+00:00"
+  },
+  "USGS:us6000u4r9": {
+    "id": "us6000u4r9",
+    "fecha_hora_utc": "2026-10-25T02:09:23.818000+00:00",
+    "magnitud": 6.5,
+    "profundidad_km": 492.376,
+    "latitud": 27.7953,
+    "longitud": 139.6184,
+    "pais": "",
+    "ciudad_referencia": "Bonin Islands, Japan region",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r9",
+    "fecha_primera_recepcion": "2026-10-25T02:25:20.220543+00:00",
+    "fecha_ultima_observacion": "2026-10-25T02:25:20.220543+00:00"
   }
 }
