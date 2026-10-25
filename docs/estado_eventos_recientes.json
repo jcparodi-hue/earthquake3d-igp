@@ -45707,7 +45707,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-751",
     "fecha_primera_recepcion": "2026-10-25T19:44:50.343077+00:00",
-    "fecha_ultima_observacion": "2026-10-25T21:55:20.765975+00:00"
+    "fecha_ultima_observacion": "2026-10-25T21:59:48.140086+00:00"
   },
   "EMSC:20261025_0000270": {
     "id": "20261025_0000270",
@@ -45946,5 +45946,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261025_0000299",
     "fecha_primera_recepcion": "2026-10-25T21:35:26.861994+00:00",
     "fecha_ultima_observacion": "2026-10-25T21:55:20.765975+00:00"
+  },
+  "EMSC:20261025_0000304": {
+    "id": "20261025_0000304",
+    "fecha_hora_utc": "2026-10-25T21:46:30+00:00",
+    "magnitud": 3.2,
+    "profundidad_km": -0.0,
+    "latitud": 37.4,
+    "longitud": 139.4,
+    "pais": "",
+    "ciudad_referencia": "EASTERN HONSHU, JAPAN",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261025_0000304",
+    "fecha_primera_recepcion": "2026-10-25T21:59:48.140086+00:00",
+    "fecha_ultima_observacion": "2026-10-25T21:59:48.140086+00:00"
+  },
+  "USGS:pr71537658": {
+    "id": "pr71537658",
+    "fecha_hora_utc": "2026-10-25T21:17:39.120000+00:00",
+    "magnitud": 3.25,
+    "profundidad_km": 8.26,
+    "latitud": 18.849,
+    "longitud": -64.4231666666667,
+    "pais": "",
+    "ciudad_referencia": "69 km NE of Cruz Bay, U.S. Virgin Islands",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537658",
+    "fecha_primera_recepcion": "2026-10-25T21:59:48.140086+00:00",
+    "fecha_ultima_observacion": "2026-10-25T21:59:48.140086+00:00"
   }
 }
