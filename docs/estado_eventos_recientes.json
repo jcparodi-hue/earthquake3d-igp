@@ -43719,7 +43719,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-749",
     "fecha_primera_recepcion": "2026-10-24T22:00:33.617526+00:00",
-    "fecha_ultima_observacion": "2026-10-25T08:45:26.501497+00:00"
+    "fecha_ultima_observacion": "2026-10-25T08:50:27.824517+00:00"
   },
   "EMSC:20261024_0000395": {
     "id": "20261024_0000395",
@@ -44657,7 +44657,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vdeazf",
     "fecha_primera_recepcion": "2026-10-25T07:50:27.710280+00:00",
-    "fecha_ultima_observacion": "2026-10-25T08:45:26.501497+00:00"
+    "fecha_ultima_observacion": "2026-10-25T08:50:27.824517+00:00"
   },
   "EMSC:20261025_0000107": {
     "id": "20261025_0000107",
@@ -44700,5 +44700,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261025_0000111",
     "fecha_primera_recepcion": "2026-10-25T08:30:29.859443+00:00",
     "fecha_ultima_observacion": "2026-10-25T08:45:26.501497+00:00"
+  },
+  "EMSC:20261025_0000115": {
+    "id": "20261025_0000115",
+    "fecha_hora_utc": "2026-10-25T08:41:03.080000+00:00",
+    "magnitud": 5.4,
+    "profundidad_km": 35.0,
+    "latitud": -13.763,
+    "longitud": 165.6793,
+    "pais": "",
+    "ciudad_referencia": "VANUATU",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261025_0000115",
+    "fecha_primera_recepcion": "2026-10-25T08:50:27.824517+00:00",
+    "fecha_ultima_observacion": "2026-10-25T08:50:27.824517+00:00"
   }
 }
