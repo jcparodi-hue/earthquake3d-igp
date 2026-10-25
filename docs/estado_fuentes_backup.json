@@ -1,13 +1,13 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-25T05:05:26.799090+00:00",
+  "actualizado_utc": "2026-10-25T05:09:53.721038+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 59,
   "actualizacion_minutos": 5,
   "igp": 59,
   "emsc": 2547,
-  "usgs": 590,
-  "duplicados_eliminados": 538,
+  "usgs": 591,
+  "duplicados_eliminados": 539,
   "eventos_publicados": 2658,
   "evento_mas_reciente_utc": "2026-10-25T04:51:40+00:00",
   "salud_fuentes": {
@@ -18,7 +18,7 @@
       "eventos_recibidos": 15,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-24T20:57:01+00:00",
-      "antiguedad_evento_mas_reciente_min": 488.4
+      "antiguedad_evento_mas_reciente_min": 492.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -27,16 +27,16 @@
       "eventos_recibidos": 2551,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-10-25T04:51:40+00:00",
-      "antiguedad_evento_mas_reciente_min": 13.8
+      "antiguedad_evento_mas_reciente_min": 18.2
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 590,
-      "eventos_recibidos": 597,
+      "eventos_validos": 591,
+      "eventos_recibidos": 598,
       "invalidos_rechazados": 7,
-      "evento_mas_reciente_utc": "2026-10-25T03:29:10.551000+00:00",
-      "antiguedad_evento_mas_reciente_min": 96.3
+      "evento_mas_reciente_utc": "2026-10-25T04:35:25.760000+00:00",
+      "antiguedad_evento_mas_reciente_min": 34.5
     }
   },
   "ultimo_evento": {
@@ -65,24 +65,24 @@
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261025_0000070"
     },
     "usgs": {
-      "id": "us6000u4s5",
-      "fecha_hora_utc": "2026-10-25T03:29:10.551000+00:00",
-      "magnitud": 5.2,
-      "profundidad_km": 80.779,
-      "latitud": -6.1737,
-      "longitud": 147.1659,
+      "id": "pr71537588",
+      "fecha_hora_utc": "2026-10-25T04:35:25.760000+00:00",
+      "magnitud": 3.21,
+      "profundidad_km": 51.73,
+      "latitud": 18.8453333333333,
+      "longitud": -65.0905,
       "pais": "",
-      "ciudad_referencia": "63 km NNE of Lae, Papua New Guinea",
+      "ciudad_referencia": "58 km NNW of Charlotte Amalie, U.S. Virgin Islands",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4s5"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537588"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-25T05:05:26.799090+00:00"
+    "hora_consulta_utc": "2026-10-25T05:09:53.721038+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-25T05:05:26.799090+00:00",
+  "updated_utc": "2026-10-25T05:09:53.721038+00:00",
   "combined_after_dedup": 2658
 }
