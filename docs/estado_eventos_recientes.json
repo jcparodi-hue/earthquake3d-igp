@@ -44783,7 +44783,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-750",
     "fecha_primera_recepcion": "2026-10-25T09:30:24.775566+00:00",
-    "fecha_ultima_observacion": "2026-10-25T15:25:21.757163+00:00"
+    "fecha_ultima_observacion": "2026-10-25T15:30:26.936579+00:00"
   },
   "USGS:us6000u4tf": {
     "id": "us6000u4tf",
@@ -45330,5 +45330,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261025_0000197",
     "fecha_primera_recepcion": "2026-10-25T14:55:23.930774+00:00",
     "fecha_ultima_observacion": "2026-10-25T15:25:21.757163+00:00"
+  },
+  "EMSC:20261025_0000202": {
+    "id": "20261025_0000202",
+    "fecha_hora_utc": "2026-10-25T15:18:52+00:00",
+    "magnitud": 3.2,
+    "profundidad_km": 30.0,
+    "latitud": 0.76,
+    "longitud": 126.08,
+    "pais": "",
+    "ciudad_referencia": "MOLUCCA SEA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261025_0000202",
+    "fecha_primera_recepcion": "2026-10-25T15:30:26.936579+00:00",
+    "fecha_ultima_observacion": "2026-10-25T15:30:26.936579+00:00"
+  },
+  "USGS:us6000u4uj": {
+    "id": "us6000u4uj",
+    "fecha_hora_utc": "2026-10-25T14:31:41.374000+00:00",
+    "magnitud": 2.7,
+    "profundidad_km": 10.0,
+    "latitud": 59.0757,
+    "longitud": -138.9347,
+    "pais": "",
+    "ciudad_referencia": "69 km SE of Yakutat, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4uj",
+    "fecha_primera_recepcion": "2026-10-25T15:30:26.936579+00:00",
+    "fecha_ultima_observacion": "2026-10-25T15:30:26.936579+00:00"
   }
 }
