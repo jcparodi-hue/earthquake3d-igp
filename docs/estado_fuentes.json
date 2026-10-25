@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-25T00:25:23.248574+00:00",
+  "actualizado_utc": "2026-10-25T00:30:31.547760+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 59,
   "actualizacion_minutos": 5,
   "igp": 59,
-  "emsc": 2548,
-  "usgs": 589,
-  "duplicados_eliminados": 540,
-  "eventos_publicados": 2656,
-  "evento_mas_reciente_utc": "2026-10-25T00:18:44+00:00",
+  "emsc": 2549,
+  "usgs": 590,
+  "duplicados_eliminados": 541,
+  "eventos_publicados": 2657,
+  "evento_mas_reciente_utc": "2026-10-25T00:20:55+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 16,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-24T20:57:01+00:00",
-      "antiguedad_evento_mas_reciente_min": 208.4
+      "antiguedad_evento_mas_reciente_min": 213.5
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2548,
-      "eventos_recibidos": 2552,
+      "eventos_validos": 2549,
+      "eventos_recibidos": 2553,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-25T00:18:44+00:00",
-      "antiguedad_evento_mas_reciente_min": 6.7
+      "evento_mas_reciente_utc": "2026-10-25T00:20:55+00:00",
+      "antiguedad_evento_mas_reciente_min": 9.6
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 589,
-      "eventos_recibidos": 596,
+      "eventos_validos": 590,
+      "eventos_recibidos": 597,
       "invalidos_rechazados": 7,
       "evento_mas_reciente_utc": "2026-10-24T23:59:36.599000+00:00",
-      "antiguedad_evento_mas_reciente_min": 25.8
+      "antiguedad_evento_mas_reciente_min": 30.9
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-749"
     },
     "emsc": {
-      "id": "20261025_0000003",
-      "fecha_hora_utc": "2026-10-25T00:18:44+00:00",
-      "magnitud": 2.7,
-      "profundidad_km": 35.0,
-      "latitud": 11.3738,
-      "longitud": -86.1967,
+      "id": "20261025_0000006",
+      "fecha_hora_utc": "2026-10-25T00:20:55+00:00",
+      "magnitud": 4.1,
+      "profundidad_km": 5.0,
+      "latitud": 7.6329,
+      "longitud": -81.3963,
       "pais": "",
-      "ciudad_referencia": "NEAR COAST OF NICARAGUA",
+      "ciudad_referencia": "PANAMA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261025_0000003"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261025_0000006"
     },
     "usgs": {
       "id": "us6000u4qq",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-25T00:25:23.248574+00:00"
+    "hora_consulta_utc": "2026-10-25T00:30:31.547760+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-25T00:25:23.248574+00:00",
-  "combined_after_dedup": 2656
+  "updated_utc": "2026-10-25T00:30:31.547760+00:00",
+  "combined_after_dedup": 2657
 }
