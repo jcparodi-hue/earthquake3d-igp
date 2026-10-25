@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-25T14:30:30.079215+00:00",
+  "actualizado_utc": "2026-10-25T14:34:33.633895+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 60,
   "actualizacion_minutos": 5,
@@ -18,7 +18,7 @@
       "eventos_recibidos": 16,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-25T07:11:48+00:00",
-      "antiguedad_evento_mas_reciente_min": 438.7
+      "antiguedad_evento_mas_reciente_min": 442.8
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -27,7 +27,7 @@
       "eventos_recibidos": 2550,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-10-25T14:15:20.440000+00:00",
-      "antiguedad_evento_mas_reciente_min": 15.2
+      "antiguedad_evento_mas_reciente_min": 19.2
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 590,
       "invalidos_rechazados": 7,
       "evento_mas_reciente_utc": "2026-10-25T14:15:20.440000+00:00",
-      "antiguedad_evento_mas_reciente_min": 15.2
+      "antiguedad_evento_mas_reciente_min": 19.2
     }
   },
   "ultimo_evento": {
@@ -56,9 +56,9 @@
       "id": "20261025_0000191",
       "fecha_hora_utc": "2026-10-25T14:15:20.440000+00:00",
       "magnitud": 2.5,
-      "profundidad_km": 2.8,
-      "latitud": 48.3138,
-      "longitud": -120.6825,
+      "profundidad_km": 2.9,
+      "latitud": 48.311,
+      "longitud": -120.6805,
       "pais": "",
       "ciudad_referencia": "WASHINGTON",
       "fuente": "EMSC",
@@ -68,9 +68,9 @@
       "id": "uw714127632",
       "fecha_hora_utc": "2026-10-25T14:15:20.440000+00:00",
       "magnitud": 2.55,
-      "profundidad_km": 2.84,
-      "latitud": 48.3138333333333,
-      "longitud": -120.6825,
+      "profundidad_km": 2.87,
+      "latitud": 48.311,
+      "longitud": -120.6805,
       "pais": "",
       "ciudad_referencia": "41 km WSW of Winthrop, Washington",
       "fuente": "USGS",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-25T14:30:30.079215+00:00"
+    "hora_consulta_utc": "2026-10-25T14:34:33.633895+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-25T14:30:30.079215+00:00",
+  "updated_utc": "2026-10-25T14:34:33.633895+00:00",
   "combined_after_dedup": 2649
 }
