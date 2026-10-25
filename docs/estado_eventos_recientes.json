@@ -43719,7 +43719,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-749",
     "fecha_primera_recepcion": "2026-10-24T22:00:33.617526+00:00",
-    "fecha_ultima_observacion": "2026-10-25T02:05:26.541770+00:00"
+    "fecha_ultima_observacion": "2026-10-25T02:10:28.165763+00:00"
   },
   "EMSC:20261024_0000395": {
     "id": "20261024_0000395",
@@ -44028,5 +44028,33 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vcsqhs",
     "fecha_primera_recepcion": "2026-10-25T02:05:26.541770+00:00",
     "fecha_ultima_observacion": "2026-10-25T02:05:26.541770+00:00"
+  },
+  "EMSC:20261025_0000019": {
+    "id": "20261025_0000019",
+    "fecha_hora_utc": "2026-10-25T02:01:34+00:00",
+    "magnitud": 2.9,
+    "profundidad_km": 76.7,
+    "latitud": -22.53,
+    "longitud": -68.64,
+    "pais": "",
+    "ciudad_referencia": "ANTOFAGASTA, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261025_0000019",
+    "fecha_primera_recepcion": "2026-10-25T02:10:28.165763+00:00",
+    "fecha_ultima_observacion": "2026-10-25T02:10:28.165763+00:00"
+  },
+  "USGS:us6000u4r3": {
+    "id": "us6000u4r3",
+    "fecha_hora_utc": "2026-10-25T01:46:23.382000+00:00",
+    "magnitud": 5.1,
+    "profundidad_km": 10.0,
+    "latitud": -14.3846,
+    "longitud": 165.6863,
+    "pais": "",
+    "ciudad_referencia": "166 km WNW of Port-Olry, Vanuatu",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r3",
+    "fecha_primera_recepcion": "2026-10-25T02:10:28.165763+00:00",
+    "fecha_ultima_observacion": "2026-10-25T02:10:28.165763+00:00"
   }
 }
