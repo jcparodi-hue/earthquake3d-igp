@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-25T22:25:28.004031+00:00",
+  "actualizado_utc": "2026-10-25T22:30:25.600943+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 61,
   "actualizacion_minutos": 5,
   "igp": 61,
-  "emsc": 2529,
-  "usgs": 576,
-  "duplicados_eliminados": 534,
-  "eventos_publicados": 2632,
-  "evento_mas_reciente_utc": "2026-10-25T22:14:15.440000+00:00",
+  "emsc": 2530,
+  "usgs": 577,
+  "duplicados_eliminados": 535,
+  "eventos_publicados": 2633,
+  "evento_mas_reciente_utc": "2026-10-25T22:22:58+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 15,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-25T17:11:51+00:00",
-      "antiguedad_evento_mas_reciente_min": 313.6
+      "antiguedad_evento_mas_reciente_min": 318.6
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2529,
-      "eventos_recibidos": 2533,
+      "eventos_validos": 2530,
+      "eventos_recibidos": 2534,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-25T22:14:15.440000+00:00",
-      "antiguedad_evento_mas_reciente_min": 11.2
+      "evento_mas_reciente_utc": "2026-10-25T22:22:58+00:00",
+      "antiguedad_evento_mas_reciente_min": 7.5
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 576,
-      "eventos_recibidos": 583,
+      "eventos_validos": 577,
+      "eventos_recibidos": 584,
       "invalidos_rechazados": 7,
-      "evento_mas_reciente_utc": "2026-10-25T22:01:36.115000+00:00",
-      "antiguedad_evento_mas_reciente_min": 23.9
+      "evento_mas_reciente_utc": "2026-10-25T22:14:15.949000+00:00",
+      "antiguedad_evento_mas_reciente_min": 16.2
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-751"
     },
     "emsc": {
-      "id": "20261025_0000313",
-      "fecha_hora_utc": "2026-10-25T22:14:15.440000+00:00",
-      "magnitud": 5.2,
-      "profundidad_km": 468.0,
-      "latitud": 27.7983,
-      "longitud": 139.7841,
+      "id": "20261025_0000314",
+      "fecha_hora_utc": "2026-10-25T22:22:58+00:00",
+      "magnitud": 2.7,
+      "profundidad_km": 127.0,
+      "latitud": -18.58,
+      "longitud": -69.19,
       "pais": "",
-      "ciudad_referencia": "BONIN ISLANDS, JAPAN REGION",
+      "ciudad_referencia": "TARAPACA, CHILE",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261025_0000313"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261025_0000314"
     },
     "usgs": {
-      "id": "us6000u4wc",
-      "fecha_hora_utc": "2026-10-25T22:01:36.115000+00:00",
-      "magnitud": 4.4,
-      "profundidad_km": 10.0,
-      "latitud": 32.1648,
-      "longitud": 93.672,
+      "id": "us6000u4we",
+      "fecha_hora_utc": "2026-10-25T22:14:15.949000+00:00",
+      "magnitud": 5.3,
+      "profundidad_km": 485.13,
+      "latitud": 27.8376,
+      "longitud": 139.6752,
       "pais": "",
-      "ciudad_referencia": "170 km ENE of Nagqu, China",
+      "ciudad_referencia": "Bonin Islands, Japan region",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4wc"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4we"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-25T22:25:28.004031+00:00"
+    "hora_consulta_utc": "2026-10-25T22:30:25.600943+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-25T22:25:28.004031+00:00",
-  "combined_after_dedup": 2632
+  "updated_utc": "2026-10-25T22:30:25.600943+00:00",
+  "combined_after_dedup": 2633
 }
