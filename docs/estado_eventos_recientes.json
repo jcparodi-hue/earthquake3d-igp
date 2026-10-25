@@ -43719,7 +43719,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-749",
     "fecha_primera_recepcion": "2026-10-24T22:00:33.617526+00:00",
-    "fecha_ultima_observacion": "2026-10-25T00:15:25.178450+00:00"
+    "fecha_ultima_observacion": "2026-10-25T00:20:30.075157+00:00"
   },
   "EMSC:20261024_0000395": {
     "id": "20261024_0000395",
@@ -43891,17 +43891,17 @@
   },
   "EMSC:20261024_0000424": {
     "id": "20261024_0000424",
-    "fecha_hora_utc": "2026-10-24T23:59:37.570000+00:00",
+    "fecha_hora_utc": "2026-10-24T23:59:36.599000+00:00",
     "magnitud": 5.3,
     "profundidad_km": 10.0,
-    "latitud": 31.804,
-    "longitud": 131.641,
+    "latitud": 31.8226,
+    "longitud": 131.873,
     "pais": "",
     "ciudad_referencia": "KYUSHU, JAPAN",
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261024_0000424",
     "fecha_primera_recepcion": "2026-10-25T00:10:30.513799+00:00",
-    "fecha_ultima_observacion": "2026-10-25T00:15:25.178450+00:00"
+    "fecha_ultima_observacion": "2026-10-25T00:20:30.075157+00:00"
   },
   "USGS:us6000u4qp": {
     "id": "us6000u4qp",
@@ -43916,5 +43916,19 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4qp",
     "fecha_primera_recepcion": "2026-10-25T00:15:25.178450+00:00",
     "fecha_ultima_observacion": "2026-10-25T00:15:25.178450+00:00"
+  },
+  "USGS:us6000u4qq": {
+    "id": "us6000u4qq",
+    "fecha_hora_utc": "2026-10-24T23:59:36.599000+00:00",
+    "magnitud": 5.3,
+    "profundidad_km": 10.0,
+    "latitud": 31.8226,
+    "longitud": 131.873,
+    "pais": "",
+    "ciudad_referencia": "44 km ESE of Miyazaki, Japan",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4qq",
+    "fecha_primera_recepcion": "2026-10-25T00:20:30.075157+00:00",
+    "fecha_ultima_observacion": "2026-10-25T00:20:30.075157+00:00"
   }
 }
