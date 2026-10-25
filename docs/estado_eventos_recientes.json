@@ -44783,7 +44783,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-750",
     "fecha_primera_recepcion": "2026-10-25T09:30:24.775566+00:00",
-    "fecha_ultima_observacion": "2026-10-25T14:25:19.699466+00:00"
+    "fecha_ultima_observacion": "2026-10-25T14:30:30.079215+00:00"
   },
   "USGS:us6000u4tf": {
     "id": "us6000u4tf",
@@ -45260,5 +45260,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261025_0000190",
     "fecha_primera_recepcion": "2026-10-25T14:25:19.699466+00:00",
     "fecha_ultima_observacion": "2026-10-25T14:25:19.699466+00:00"
+  },
+  "EMSC:20261025_0000191": {
+    "id": "20261025_0000191",
+    "fecha_hora_utc": "2026-10-25T14:15:20.440000+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 2.8,
+    "latitud": 48.3138,
+    "longitud": -120.6825,
+    "pais": "",
+    "ciudad_referencia": "WASHINGTON",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261025_0000191",
+    "fecha_primera_recepcion": "2026-10-25T14:30:30.079215+00:00",
+    "fecha_ultima_observacion": "2026-10-25T14:30:30.079215+00:00"
+  },
+  "USGS:uw714127632": {
+    "id": "uw714127632",
+    "fecha_hora_utc": "2026-10-25T14:15:20.440000+00:00",
+    "magnitud": 2.55,
+    "profundidad_km": 2.84,
+    "latitud": 48.3138333333333,
+    "longitud": -120.6825,
+    "pais": "",
+    "ciudad_referencia": "41 km WSW of Winthrop, Washington",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714127632",
+    "fecha_primera_recepcion": "2026-10-25T14:30:30.079215+00:00",
+    "fecha_ultima_observacion": "2026-10-25T14:30:30.079215+00:00"
   }
 }
