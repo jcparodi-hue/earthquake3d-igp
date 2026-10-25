@@ -1,88 +1,88 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-25T09:25:20.420141+00:00",
+  "actualizado_utc": "2026-10-25T09:30:24.775566+00:00",
   "periodo_mundial_dias": 10,
-  "igp_historico": 59,
+  "igp_historico": 60,
   "actualizacion_minutos": 5,
-  "igp": 59,
-  "emsc": 2543,
-  "usgs": 591,
-  "duplicados_eliminados": 541,
-  "eventos_publicados": 2652,
+  "igp": 60,
+  "emsc": 2542,
+  "usgs": 592,
+  "duplicados_eliminados": 543,
+  "eventos_publicados": 2651,
   "evento_mas_reciente_utc": "2026-10-25T09:17:14+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 59,
-      "eventos_recibidos": 15,
+      "eventos_validos": 60,
+      "eventos_recibidos": 16,
       "invalidos_rechazados": 0,
-      "evento_mas_reciente_utc": "2026-10-24T20:57:01+00:00",
-      "antiguedad_evento_mas_reciente_min": 748.3
+      "evento_mas_reciente_utc": "2026-10-25T07:11:48+00:00",
+      "antiguedad_evento_mas_reciente_min": 138.6
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2543,
-      "eventos_recibidos": 2547,
+      "eventos_validos": 2542,
+      "eventos_recibidos": 2546,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-10-25T09:17:14+00:00",
-      "antiguedad_evento_mas_reciente_min": 8.1
+      "antiguedad_evento_mas_reciente_min": 13.2
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 591,
-      "eventos_recibidos": 598,
+      "eventos_validos": 592,
+      "eventos_recibidos": 599,
       "invalidos_rechazados": 7,
-      "evento_mas_reciente_utc": "2026-10-25T08:41:00.034000+00:00",
-      "antiguedad_evento_mas_reciente_min": 44.3
+      "evento_mas_reciente_utc": "2026-10-25T09:11:17.412000+00:00",
+      "antiguedad_evento_mas_reciente_min": 19.1
     }
   },
   "ultimo_evento": {
     "igp": {
-      "id": "2026-749",
-      "fecha_hora_utc": "2026-10-24T20:57:01+00:00",
+      "id": "2026-750",
+      "fecha_hora_utc": "2026-10-25T07:11:48+00:00",
       "magnitud": 4.6,
-      "profundidad_km": 78.0,
-      "latitud": -4.0,
-      "longitud": -80.46,
+      "profundidad_km": 24.0,
+      "latitud": -16.11,
+      "longitud": -74.83,
       "pais": "Perú",
-      "ciudad_referencia": "43 km al SE de Zorritos, Contralmirante Villar - Tumbes",
+      "ciudad_referencia": "60 km al S de Lomas, Caravelí - Arequipa",
       "fuente": "IGP",
-      "url": "https://ultimosismo.igp.gob.pe/evento/2026-749"
+      "url": "https://ultimosismo.igp.gob.pe/evento/2026-750"
     },
     "emsc": {
       "id": "20261025_0000118",
       "fecha_hora_utc": "2026-10-25T09:17:14+00:00",
       "magnitud": 4.1,
-      "profundidad_km": 56.9,
+      "profundidad_km": 57.4,
       "latitud": -28.09,
-      "longitud": -70.8,
+      "longitud": -70.79,
       "pais": "",
       "ciudad_referencia": "ATACAMA, CHILE",
       "fuente": "EMSC",
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261025_0000118"
     },
     "usgs": {
-      "id": "us6000u4tc",
-      "fecha_hora_utc": "2026-10-25T08:41:00.034000+00:00",
-      "magnitud": 5.4,
-      "profundidad_km": 10.0,
-      "latitud": -13.8848,
-      "longitud": 165.5769,
+      "id": "us6000u4tf",
+      "fecha_hora_utc": "2026-10-25T09:11:17.412000+00:00",
+      "magnitud": 4.6,
+      "profundidad_km": 133.076,
+      "latitud": 22.5515,
+      "longitud": 142.9691,
       "pais": "",
-      "ciudad_referencia": "205 km NW of Port-Olry, Vanuatu",
+      "ciudad_referencia": "Volcano Islands, Japan region",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tc"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tf"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-25T09:25:20.420141+00:00"
+    "hora_consulta_utc": "2026-10-25T09:30:24.775566+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-25T09:25:20.420141+00:00",
-  "combined_after_dedup": 2652
+  "updated_utc": "2026-10-25T09:30:24.775566+00:00",
+  "combined_after_dedup": 2651
 }
