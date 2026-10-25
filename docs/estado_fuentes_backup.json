@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-25T03:20:27.220053+00:00",
+  "actualizado_utc": "2026-10-25T03:25:24.374241+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 59,
   "actualizacion_minutos": 5,
   "igp": 59,
   "emsc": 2550,
-  "usgs": 597,
-  "duplicados_eliminados": 546,
+  "usgs": 596,
+  "duplicados_eliminados": 545,
   "eventos_publicados": 2660,
-  "evento_mas_reciente_utc": "2026-10-25T02:47:49.856000+00:00",
+  "evento_mas_reciente_utc": "2026-10-25T02:59:52+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 15,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-24T20:57:01+00:00",
-      "antiguedad_evento_mas_reciente_min": 383.4
+      "antiguedad_evento_mas_reciente_min": 388.4
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2550,
       "eventos_recibidos": 2554,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-25T02:47:49.856000+00:00",
-      "antiguedad_evento_mas_reciente_min": 32.6
+      "evento_mas_reciente_utc": "2026-10-25T02:59:52+00:00",
+      "antiguedad_evento_mas_reciente_min": 25.5
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 597,
-      "eventos_recibidos": 604,
+      "eventos_validos": 596,
+      "eventos_recibidos": 603,
       "invalidos_rechazados": 7,
       "evento_mas_reciente_utc": "2026-10-25T02:47:49.856000+00:00",
-      "antiguedad_evento_mas_reciente_min": 32.6
+      "antiguedad_evento_mas_reciente_min": 37.6
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-749"
     },
     "emsc": {
-      "id": "20261025_0000043",
-      "fecha_hora_utc": "2026-10-25T02:47:49.856000+00:00",
-      "magnitud": 4.2,
-      "profundidad_km": 499.8,
-      "latitud": 27.8771,
-      "longitud": 139.7294,
+      "id": "20261025_0000047",
+      "fecha_hora_utc": "2026-10-25T02:59:52+00:00",
+      "magnitud": 3.5,
+      "profundidad_km": 6.0,
+      "latitud": 7.551,
+      "longitud": -80.5885,
       "pais": "",
-      "ciudad_referencia": "BONIN ISLANDS, JAPAN REGION",
+      "ciudad_referencia": "PANAMA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261025_0000043"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261025_0000047"
     },
     "usgs": {
       "id": "us6000u4ru",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-25T03:20:27.220053+00:00"
+    "hora_consulta_utc": "2026-10-25T03:25:24.374241+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-25T03:20:27.220053+00:00",
+  "updated_utc": "2026-10-25T03:25:24.374241+00:00",
   "combined_after_dedup": 2660
 }
