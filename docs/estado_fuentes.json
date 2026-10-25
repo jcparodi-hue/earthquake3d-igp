@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-25T22:05:28.215882+00:00",
+  "actualizado_utc": "2026-10-25T22:10:29.944873+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 61,
   "actualizacion_minutos": 5,
   "igp": 61,
-  "emsc": 2528,
+  "emsc": 2529,
   "usgs": 575,
   "duplicados_eliminados": 533,
-  "eventos_publicados": 2631,
-  "evento_mas_reciente_utc": "2026-10-25T21:46:30+00:00",
+  "eventos_publicados": 2632,
+  "evento_mas_reciente_utc": "2026-10-25T21:49:16.820000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 15,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-25T17:11:51+00:00",
-      "antiguedad_evento_mas_reciente_min": 293.6
+      "antiguedad_evento_mas_reciente_min": 298.6
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2528,
-      "eventos_recibidos": 2532,
+      "eventos_validos": 2529,
+      "eventos_recibidos": 2533,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-25T21:46:30+00:00",
-      "antiguedad_evento_mas_reciente_min": 19.0
+      "evento_mas_reciente_utc": "2026-10-25T21:49:16.820000+00:00",
+      "antiguedad_evento_mas_reciente_min": 21.2
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 582,
       "invalidos_rechazados": 7,
       "evento_mas_reciente_utc": "2026-10-25T21:17:39.120000+00:00",
-      "antiguedad_evento_mas_reciente_min": 47.8
+      "antiguedad_evento_mas_reciente_min": 52.8
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-751"
     },
     "emsc": {
-      "id": "20261025_0000304",
-      "fecha_hora_utc": "2026-10-25T21:46:30+00:00",
-      "magnitud": 3.2,
-      "profundidad_km": -0.0,
-      "latitud": 37.4,
-      "longitud": 139.4,
+      "id": "20261025_0000309",
+      "fecha_hora_utc": "2026-10-25T21:49:16.820000+00:00",
+      "magnitud": 2.5,
+      "profundidad_km": 81.7,
+      "latitud": 36.4577,
+      "longitud": -4.567,
       "pais": "",
-      "ciudad_referencia": "EASTERN HONSHU, JAPAN",
+      "ciudad_referencia": "STRAIT OF GIBRALTAR",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261025_0000304"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261025_0000309"
     },
     "usgs": {
       "id": "pr71537658",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-25T22:05:28.215882+00:00"
+    "hora_consulta_utc": "2026-10-25T22:10:29.944873+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-25T22:05:28.215882+00:00",
-  "combined_after_dedup": 2631
+  "updated_utc": "2026-10-25T22:10:29.944873+00:00",
+  "combined_after_dedup": 2632
 }
