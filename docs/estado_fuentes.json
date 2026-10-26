@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-26T05:20:26.423517+00:00",
+  "actualizado_utc": "2026-10-26T05:25:30.103038+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 62,
   "actualizacion_minutos": 5,
   "igp": 62,
   "emsc": 2547,
-  "usgs": 575,
-  "duplicados_eliminados": 539,
+  "usgs": 574,
+  "duplicados_eliminados": 538,
   "eventos_publicados": 2645,
-  "evento_mas_reciente_utc": "2026-10-26T05:10:13+00:00",
+  "evento_mas_reciente_utc": "2026-10-26T05:16:33+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 16,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-25T22:52:53+00:00",
-      "antiguedad_evento_mas_reciente_min": 387.6
+      "antiguedad_evento_mas_reciente_min": 392.6
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2547,
       "eventos_recibidos": 2551,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-26T05:10:13+00:00",
-      "antiguedad_evento_mas_reciente_min": 10.2
+      "evento_mas_reciente_utc": "2026-10-26T05:16:33+00:00",
+      "antiguedad_evento_mas_reciente_min": 9.0
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 575,
-      "eventos_recibidos": 582,
+      "eventos_validos": 574,
+      "eventos_recibidos": 581,
       "invalidos_rechazados": 7,
       "evento_mas_reciente_utc": "2026-10-26T04:53:40.479000+00:00",
-      "antiguedad_evento_mas_reciente_min": 26.8
+      "antiguedad_evento_mas_reciente_min": 31.8
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-752"
     },
     "emsc": {
-      "id": "20261026_0000074",
-      "fecha_hora_utc": "2026-10-26T05:10:13+00:00",
-      "magnitud": 3.2,
-      "profundidad_km": 10.1,
-      "latitud": -34.61,
-      "longitud": -73.95,
+      "id": "20261026_0000076",
+      "fecha_hora_utc": "2026-10-26T05:16:33+00:00",
+      "magnitud": 2.9,
+      "profundidad_km": 20.2,
+      "latitud": -33.13,
+      "longitud": -72.03,
       "pais": "",
-      "ciudad_referencia": "OFF COAST OF O'HIGGINS, CHILE",
+      "ciudad_referencia": "OFFSHORE VALPARAISO, CHILE",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261026_0000074"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261026_0000076"
     },
     "usgs": {
       "id": "us6000u4y1",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-26T05:20:26.423517+00:00"
+    "hora_consulta_utc": "2026-10-26T05:25:30.103038+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-26T05:20:26.423517+00:00",
+  "updated_utc": "2026-10-26T05:25:30.103038+00:00",
   "combined_after_dedup": 2645
 }
