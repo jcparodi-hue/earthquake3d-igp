@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-26T12:35:24.846938+00:00",
+  "actualizado_utc": "2026-10-26T12:40:30.641250+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 62,
   "actualizacion_minutos": 5,
   "igp": 62,
   "emsc": 2508,
-  "usgs": 563,
-  "duplicados_eliminados": 531,
+  "usgs": 562,
+  "duplicados_eliminados": 530,
   "eventos_publicados": 2602,
-  "evento_mas_reciente_utc": "2026-10-26T12:13:30.652000+00:00",
+  "evento_mas_reciente_utc": "2026-10-26T12:31:41+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 16,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-25T22:52:53+00:00",
-      "antiguedad_evento_mas_reciente_min": 822.5
+      "antiguedad_evento_mas_reciente_min": 827.6
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2508,
       "eventos_recibidos": 2512,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-26T12:13:30.652000+00:00",
-      "antiguedad_evento_mas_reciente_min": 21.9
+      "evento_mas_reciente_utc": "2026-10-26T12:31:41+00:00",
+      "antiguedad_evento_mas_reciente_min": 8.8
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 563,
-      "eventos_recibidos": 569,
+      "eventos_validos": 562,
+      "eventos_recibidos": 568,
       "invalidos_rechazados": 6,
       "evento_mas_reciente_utc": "2026-10-26T12:13:30.652000+00:00",
-      "antiguedad_evento_mas_reciente_min": 21.9
+      "antiguedad_evento_mas_reciente_min": 27.0
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-752"
     },
     "emsc": {
-      "id": "20261026_0000153",
-      "fecha_hora_utc": "2026-10-26T12:13:30.652000+00:00",
-      "magnitud": 5.2,
-      "profundidad_km": 10.0,
-      "latitud": -13.8613,
-      "longitud": 165.6029,
+      "id": "20261026_0000155",
+      "fecha_hora_utc": "2026-10-26T12:31:41+00:00",
+      "magnitud": 2.6,
+      "profundidad_km": 120.7,
+      "latitud": -21.7,
+      "longitud": -68.7,
       "pais": "",
-      "ciudad_referencia": "VANUATU",
+      "ciudad_referencia": "ANTOFAGASTA, CHILE",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261026_0000153"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261026_0000155"
     },
     "usgs": {
       "id": "us6000u4zb",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-26T12:35:24.846938+00:00"
+    "hora_consulta_utc": "2026-10-26T12:40:30.641250+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-26T12:35:24.846938+00:00",
+  "updated_utc": "2026-10-26T12:40:30.641250+00:00",
   "combined_after_dedup": 2602
 }
