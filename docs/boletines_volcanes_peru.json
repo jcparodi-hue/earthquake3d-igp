@@ -1,6 +1,14 @@
 [
   {
     "volcan": "Sabancaya",
+    "codigo_boletin": "IGP/CENVUL-SAB/BV 2026-0043",
+    "fecha_publicacion": "Monday, October 26, 2026",
+    "nivel_alerta": "Naranja",
+    "url_boletin": "https://cenvul.igp.gob.pe/productos/boletines-vulcanologicos",
+    "fuente": "IGP/CENVUL"
+  },
+  {
+    "volcan": "Sabancaya",
     "codigo_boletin": "IGP/CENVUL-SAB/BV 2026-0042",
     "fecha_publicacion": "Monday, October 19, 2026",
     "nivel_alerta": "Naranja",
@@ -66,14 +74,6 @@
   {
     "volcan": "Coropuna",
     "codigo_boletin": "IGP/CENVUL-COR/BV 2026-0010",
-    "fecha_publicacion": "Thursday, October 1, 2026",
-    "nivel_alerta": "Verde",
-    "url_boletin": "https://cenvul.igp.gob.pe/productos/boletines-vulcanologicos",
-    "fuente": "IGP/CENVUL"
-  },
-  {
-    "volcan": "Yucamane",
-    "codigo_boletin": "IGP/CENVUL-YUC/BV 2026-0010",
     "fecha_publicacion": "Thursday, October 1, 2026",
     "nivel_alerta": "Verde",
     "url_boletin": "https://cenvul.igp.gob.pe/productos/boletines-vulcanologicos",
