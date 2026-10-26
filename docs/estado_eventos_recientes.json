@@ -46225,7 +46225,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4wt",
     "fecha_primera_recepcion": "2026-10-25T23:48:57.519172+00:00",
-    "fecha_ultima_observacion": "2026-10-26T01:05:26.776115+00:00"
+    "fecha_ultima_observacion": "2026-10-26T01:10:33.283849+00:00"
   },
   "EMSC:20261025_0000345": {
     "id": "20261025_0000345",
@@ -46281,7 +46281,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-752",
     "fecha_primera_recepcion": "2026-10-26T00:15:22.052881+00:00",
-    "fecha_ultima_observacion": "2026-10-26T01:05:26.776115+00:00"
+    "fecha_ultima_observacion": "2026-10-26T01:10:33.283849+00:00"
   },
   "EMSC:20261026_0000008": {
     "id": "20261026_0000008",
@@ -46296,5 +46296,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261026_0000008",
     "fecha_primera_recepcion": "2026-10-26T01:00:36.000329+00:00",
     "fecha_ultima_observacion": "2026-10-26T01:05:26.776115+00:00"
+  },
+  "EMSC:20261026_0000010": {
+    "id": "20261026_0000010",
+    "fecha_hora_utc": "2026-10-26T00:58:40+00:00",
+    "magnitud": 3.3,
+    "profundidad_km": 10.0,
+    "latitud": 27.41,
+    "longitud": 88.05,
+    "pais": "",
+    "ciudad_referencia": "SIKKIM, INDIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261026_0000010",
+    "fecha_primera_recepcion": "2026-10-26T01:10:33.283849+00:00",
+    "fecha_ultima_observacion": "2026-10-26T01:10:33.283849+00:00"
   }
 }
