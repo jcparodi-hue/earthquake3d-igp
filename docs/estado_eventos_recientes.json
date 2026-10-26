@@ -46281,7 +46281,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-752",
     "fecha_primera_recepcion": "2026-10-26T00:15:22.052881+00:00",
-    "fecha_ultima_observacion": "2026-10-26T11:45:24.068423+00:00"
+    "fecha_ultima_observacion": "2026-10-26T11:53:59.387028+00:00"
   },
   "EMSC:20261026_0000008": {
     "id": "20261026_0000008",
@@ -47164,5 +47164,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261026_0000142",
     "fecha_primera_recepcion": "2026-10-26T11:43:27.610147+00:00",
     "fecha_ultima_observacion": "2026-10-26T11:45:24.068423+00:00"
+  },
+  "EMSC:20261026_0000146": {
+    "id": "20261026_0000146",
+    "fecha_hora_utc": "2026-10-26T11:44:14+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 7.0,
+    "latitud": 37.0272,
+    "longitud": 28.9263,
+    "pais": "",
+    "ciudad_referencia": "WESTERN TURKEY",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261026_0000146",
+    "fecha_primera_recepcion": "2026-10-26T11:53:59.387028+00:00",
+    "fecha_ultima_observacion": "2026-10-26T11:53:59.387028+00:00"
+  },
+  "USGS:us6000u4z7": {
+    "id": "us6000u4z7",
+    "fecha_hora_utc": "2026-10-26T11:38:06.778000+00:00",
+    "magnitud": 4.6,
+    "profundidad_km": 35.0,
+    "latitud": 53.5071,
+    "longitud": -165.1239,
+    "pais": "",
+    "ciudad_referencia": "81 km SSE of Akutan, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4z7",
+    "fecha_primera_recepcion": "2026-10-26T11:53:59.387028+00:00",
+    "fecha_ultima_observacion": "2026-10-26T11:53:59.387028+00:00"
   }
 }
