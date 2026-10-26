@@ -46225,7 +46225,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4wt",
     "fecha_primera_recepcion": "2026-10-25T23:48:57.519172+00:00",
-    "fecha_ultima_observacion": "2026-10-26T01:25:26.759837+00:00"
+    "fecha_ultima_observacion": "2026-10-26T01:30:32.600714+00:00"
   },
   "EMSC:20261025_0000345": {
     "id": "20261025_0000345",
@@ -46281,7 +46281,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-752",
     "fecha_primera_recepcion": "2026-10-26T00:15:22.052881+00:00",
-    "fecha_ultima_observacion": "2026-10-26T01:25:26.759837+00:00"
+    "fecha_ultima_observacion": "2026-10-26T01:30:32.600714+00:00"
   },
   "EMSC:20261026_0000008": {
     "id": "20261026_0000008",
@@ -46338,5 +46338,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261026_0000016",
     "fecha_primera_recepcion": "2026-10-26T01:25:26.759837+00:00",
     "fecha_ultima_observacion": "2026-10-26T01:25:26.759837+00:00"
+  },
+  "EMSC:20261026_0000017": {
+    "id": "20261026_0000017",
+    "fecha_hora_utc": "2026-10-26T01:20:15+00:00",
+    "magnitud": 3.6,
+    "profundidad_km": 47.8,
+    "latitud": -36.25,
+    "longitud": -74.1,
+    "pais": "",
+    "ciudad_referencia": "OFF COAST OF BIO-BIO, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261026_0000017",
+    "fecha_primera_recepcion": "2026-10-26T01:30:32.600714+00:00",
+    "fecha_ultima_observacion": "2026-10-26T01:30:32.600714+00:00"
   }
 }
