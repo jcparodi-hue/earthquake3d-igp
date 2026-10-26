@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-26T12:15:23.935575+00:00",
+  "actualizado_utc": "2026-10-26T12:20:31.384621+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 62,
   "actualizacion_minutos": 5,
   "igp": 62,
   "emsc": 2510,
-  "usgs": 562,
-  "duplicados_eliminados": 530,
+  "usgs": 561,
+  "duplicados_eliminados": 529,
   "eventos_publicados": 2604,
-  "evento_mas_reciente_utc": "2026-10-26T11:44:14.250000+00:00",
+  "evento_mas_reciente_utc": "2026-10-26T12:10:48+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 16,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-25T22:52:53+00:00",
-      "antiguedad_evento_mas_reciente_min": 802.5
+      "antiguedad_evento_mas_reciente_min": 807.6
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2510,
       "eventos_recibidos": 2514,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-26T11:44:14.250000+00:00",
-      "antiguedad_evento_mas_reciente_min": 31.2
+      "evento_mas_reciente_utc": "2026-10-26T12:10:48+00:00",
+      "antiguedad_evento_mas_reciente_min": 9.7
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 562,
-      "eventos_recibidos": 568,
+      "eventos_validos": 561,
+      "eventos_recibidos": 567,
       "invalidos_rechazados": 6,
       "evento_mas_reciente_utc": "2026-10-26T11:38:06.778000+00:00",
-      "antiguedad_evento_mas_reciente_min": 37.3
+      "antiguedad_evento_mas_reciente_min": 42.4
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-752"
     },
     "emsc": {
-      "id": "20261026_0000146",
-      "fecha_hora_utc": "2026-10-26T11:44:14.250000+00:00",
-      "magnitud": 2.5,
-      "profundidad_km": 7.0,
-      "latitud": 37.0272,
-      "longitud": 28.9263,
+      "id": "20261026_0000152",
+      "fecha_hora_utc": "2026-10-26T12:10:48+00:00",
+      "magnitud": 3.4,
+      "profundidad_km": 213.6,
+      "latitud": -23.38,
+      "longitud": -66.97,
       "pais": "",
-      "ciudad_referencia": "WESTERN TURKEY",
+      "ciudad_referencia": "JUJUY, ARGENTINA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261026_0000146"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261026_0000152"
     },
     "usgs": {
       "id": "us6000u4z7",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-26T12:15:23.935575+00:00"
+    "hora_consulta_utc": "2026-10-26T12:20:31.384621+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-26T12:15:23.935575+00:00",
+  "updated_utc": "2026-10-26T12:20:31.384621+00:00",
   "combined_after_dedup": 2604
 }
