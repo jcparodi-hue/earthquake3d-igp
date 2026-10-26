@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-26T14:00:34.887099+00:00",
+  "actualizado_utc": "2026-10-26T14:05:29.039579+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 62,
   "actualizacion_minutos": 5,
   "igp": 62,
-  "emsc": 2509,
-  "usgs": 559,
-  "duplicados_eliminados": 528,
-  "eventos_publicados": 2602,
-  "evento_mas_reciente_utc": "2026-10-26T13:50:34+00:00",
+  "emsc": 2511,
+  "usgs": 560,
+  "duplicados_eliminados": 529,
+  "eventos_publicados": 2604,
+  "evento_mas_reciente_utc": "2026-10-26T14:02:54.756692+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 16,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-25T22:52:53+00:00",
-      "antiguedad_evento_mas_reciente_min": 907.7
+      "antiguedad_evento_mas_reciente_min": 912.6
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2509,
-      "eventos_recibidos": 2513,
+      "eventos_validos": 2511,
+      "eventos_recibidos": 2515,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-26T13:50:34+00:00",
-      "antiguedad_evento_mas_reciente_min": 10.0
+      "evento_mas_reciente_utc": "2026-10-26T14:02:54.756692+00:00",
+      "antiguedad_evento_mas_reciente_min": 2.6
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 559,
-      "eventos_recibidos": 565,
+      "eventos_validos": 560,
+      "eventos_recibidos": 566,
       "invalidos_rechazados": 6,
-      "evento_mas_reciente_utc": "2026-10-26T13:10:33.190000+00:00",
-      "antiguedad_evento_mas_reciente_min": 50.0
+      "evento_mas_reciente_utc": "2026-10-26T14:02:54.756000+00:00",
+      "antiguedad_evento_mas_reciente_min": 2.6
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-752"
     },
     "emsc": {
-      "id": "20261026_0000173",
-      "fecha_hora_utc": "2026-10-26T13:50:34+00:00",
-      "magnitud": 3.3,
-      "profundidad_km": 10.0,
-      "latitud": 18.91,
-      "longitud": 96.403,
+      "id": "20261026_0000176",
+      "fecha_hora_utc": "2026-10-26T14:02:54.756692+00:00",
+      "magnitud": 2.9,
+      "profundidad_km": 5.0,
+      "latitud": 61.641,
+      "longitud": -141.315,
       "pais": "",
-      "ciudad_referencia": "MYANMAR",
+      "ciudad_referencia": "SOUTHERN ALASKA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261026_0000173"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261026_0000176"
     },
     "usgs": {
-      "id": "nc75455061",
-      "fecha_hora_utc": "2026-10-26T13:10:33.190000+00:00",
-      "magnitud": 2.5,
-      "profundidad_km": 4.82999992370605,
-      "latitud": 36.8626670837402,
-      "longitud": -121.605003356934,
+      "id": "aka2026vfmqfn",
+      "fecha_hora_utc": "2026-10-26T14:02:54.756000+00:00",
+      "magnitud": 2.9,
+      "profundidad_km": 5.0,
+      "latitud": 61.641,
+      "longitud": -141.315,
       "pais": "",
-      "ciudad_referencia": "4 km SE of Aromas, CA",
+      "ciudad_referencia": "88 km ENE of McCarthy, Alaska",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455061"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vfmqfn"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-26T14:00:34.887099+00:00"
+    "hora_consulta_utc": "2026-10-26T14:05:29.039579+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-26T14:00:34.887099+00:00",
-  "combined_after_dedup": 2602
+  "updated_utc": "2026-10-26T14:05:29.039579+00:00",
+  "combined_after_dedup": 2604
 }
