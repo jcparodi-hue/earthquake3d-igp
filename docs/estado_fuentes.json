@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-26T19:45:28.760963+00:00",
+  "actualizado_utc": "2026-10-26T19:50:38.371563+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 62,
   "actualizacion_minutos": 5,
   "igp": 62,
   "emsc": 2488,
-  "usgs": 544,
+  "usgs": 542,
   "duplicados_eliminados": 517,
-  "eventos_publicados": 2577,
-  "evento_mas_reciente_utc": "2026-10-26T19:36:15.990000+00:00",
+  "eventos_publicados": 2575,
+  "evento_mas_reciente_utc": "2026-10-26T19:36:16.250000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 16,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-25T22:52:53+00:00",
-      "antiguedad_evento_mas_reciente_min": 1252.6
+      "antiguedad_evento_mas_reciente_min": 1257.8
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2488,
       "eventos_recibidos": 2492,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-26T19:36:15.990000+00:00",
-      "antiguedad_evento_mas_reciente_min": 9.2
+      "evento_mas_reciente_utc": "2026-10-26T19:36:16.250000+00:00",
+      "antiguedad_evento_mas_reciente_min": 14.4
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 544,
-      "eventos_recibidos": 549,
+      "eventos_validos": 542,
+      "eventos_recibidos": 547,
       "invalidos_rechazados": 5,
       "evento_mas_reciente_utc": "2026-10-26T18:07:04.209000+00:00",
-      "antiguedad_evento_mas_reciente_min": 98.4
+      "antiguedad_evento_mas_reciente_min": 103.6
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261026_0000253",
-      "fecha_hora_utc": "2026-10-26T19:36:15.990000+00:00",
+      "fecha_hora_utc": "2026-10-26T19:36:16.250000+00:00",
       "magnitud": 5.0,
-      "profundidad_km": 115.0,
-      "latitud": -20.3496,
-      "longitud": -68.5616,
+      "profundidad_km": 111.3,
+      "latitud": -20.426,
+      "longitud": -68.575,
       "pais": "",
       "ciudad_referencia": "POTOSI, BOLIVIA",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-26T19:45:28.760963+00:00"
+    "hora_consulta_utc": "2026-10-26T19:50:38.371563+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-26T19:45:28.760963+00:00",
-  "combined_after_dedup": 2577
+  "updated_utc": "2026-10-26T19:50:38.371563+00:00",
+  "combined_after_dedup": 2575
 }
