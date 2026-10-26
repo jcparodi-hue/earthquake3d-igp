@@ -46281,7 +46281,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-752",
     "fecha_primera_recepcion": "2026-10-26T00:15:22.052881+00:00",
-    "fecha_ultima_observacion": "2026-10-26T19:50:38.371563+00:00"
+    "fecha_ultima_observacion": "2026-10-26T19:55:28.016958+00:00"
   },
   "EMSC:20261026_0000008": {
     "id": "20261026_0000008",
@@ -47668,5 +47668,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261026_0000253",
     "fecha_primera_recepcion": "2026-10-26T19:45:28.760963+00:00",
     "fecha_ultima_observacion": "2026-10-26T19:50:38.371563+00:00"
+  },
+  "EMSC:20261026_0000256": {
+    "id": "20261026_0000256",
+    "fecha_hora_utc": "2026-10-26T19:38:04.946407+00:00",
+    "magnitud": 2.6,
+    "profundidad_km": 7.9,
+    "latitud": 32.073,
+    "longitud": -103.72,
+    "pais": "",
+    "ciudad_referencia": "NEW MEXICO",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261026_0000256",
+    "fecha_primera_recepcion": "2026-10-26T19:55:28.016958+00:00",
+    "fecha_ultima_observacion": "2026-10-26T19:55:28.016958+00:00"
+  },
+  "USGS:tx2026vcnlki": {
+    "id": "tx2026vcnlki",
+    "fecha_hora_utc": "2026-10-26T19:38:04.946000+00:00",
+    "magnitud": 2.6,
+    "profundidad_km": 7.9327,
+    "latitud": 32.073,
+    "longitud": -103.72,
+    "pais": "",
+    "ciudad_referencia": "37 km ESE of Malaga, New Mexico",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vcnlki",
+    "fecha_primera_recepcion": "2026-10-26T19:55:28.016958+00:00",
+    "fecha_ultima_observacion": "2026-10-26T19:55:28.016958+00:00"
   }
 }
