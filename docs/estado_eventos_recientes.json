@@ -46281,7 +46281,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-752",
     "fecha_primera_recepcion": "2026-10-26T00:15:22.052881+00:00",
-    "fecha_ultima_observacion": "2026-10-26T10:40:28.261669+00:00"
+    "fecha_ultima_observacion": "2026-10-26T10:45:30.451366+00:00"
   },
   "EMSC:20261026_0000008": {
     "id": "20261026_0000008",
@@ -47079,6 +47079,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261026_0000122",
     "fecha_primera_recepcion": "2026-10-26T10:37:05.503826+00:00",
-    "fecha_ultima_observacion": "2026-10-26T10:40:28.261669+00:00"
+    "fecha_ultima_observacion": "2026-10-26T10:45:30.451366+00:00"
+  },
+  "USGS:us6000u4yw": {
+    "id": "us6000u4yw",
+    "fecha_hora_utc": "2026-10-26T10:30:22.297000+00:00",
+    "magnitud": 4.3,
+    "profundidad_km": 636.621,
+    "latitud": -18.3187,
+    "longitud": -177.9801,
+    "pais": "",
+    "ciudad_referencia": "287 km E of Levuka, Fiji",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4yw",
+    "fecha_primera_recepcion": "2026-10-26T10:45:30.451366+00:00",
+    "fecha_ultima_observacion": "2026-10-26T10:45:30.451366+00:00"
   }
 }
