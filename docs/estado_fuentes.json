@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-26T14:05:29.039579+00:00",
+  "actualizado_utc": "2026-10-26T14:10:30.382487+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 62,
   "actualizacion_minutos": 5,
   "igp": 62,
-  "emsc": 2511,
-  "usgs": 560,
-  "duplicados_eliminados": 529,
-  "eventos_publicados": 2604,
-  "evento_mas_reciente_utc": "2026-10-26T14:02:54.756692+00:00",
+  "emsc": 2518,
+  "usgs": 559,
+  "duplicados_eliminados": 528,
+  "eventos_publicados": 2611,
+  "evento_mas_reciente_utc": "2026-10-26T14:02:54.892871+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 16,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-25T22:52:53+00:00",
-      "antiguedad_evento_mas_reciente_min": 912.6
+      "antiguedad_evento_mas_reciente_min": 917.6
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2511,
-      "eventos_recibidos": 2515,
+      "eventos_validos": 2518,
+      "eventos_recibidos": 2522,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-26T14:02:54.756692+00:00",
-      "antiguedad_evento_mas_reciente_min": 2.6
+      "evento_mas_reciente_utc": "2026-10-26T14:02:54.892871+00:00",
+      "antiguedad_evento_mas_reciente_min": 7.6
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 560,
-      "eventos_recibidos": 566,
+      "eventos_validos": 559,
+      "eventos_recibidos": 565,
       "invalidos_rechazados": 6,
-      "evento_mas_reciente_utc": "2026-10-26T14:02:54.756000+00:00",
-      "antiguedad_evento_mas_reciente_min": 2.6
+      "evento_mas_reciente_utc": "2026-10-26T14:02:54.892000+00:00",
+      "antiguedad_evento_mas_reciente_min": 7.6
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261026_0000176",
-      "fecha_hora_utc": "2026-10-26T14:02:54.756692+00:00",
-      "magnitud": 2.9,
+      "fecha_hora_utc": "2026-10-26T14:02:54.892871+00:00",
+      "magnitud": 2.8,
       "profundidad_km": 5.0,
-      "latitud": 61.641,
-      "longitud": -141.315,
+      "latitud": 61.636,
+      "longitud": -141.316,
       "pais": "",
       "ciudad_referencia": "SOUTHERN ALASKA",
       "fuente": "EMSC",
@@ -66,11 +66,11 @@
     },
     "usgs": {
       "id": "aka2026vfmqfn",
-      "fecha_hora_utc": "2026-10-26T14:02:54.756000+00:00",
-      "magnitud": 2.9,
+      "fecha_hora_utc": "2026-10-26T14:02:54.892000+00:00",
+      "magnitud": 2.8,
       "profundidad_km": 5.0,
-      "latitud": 61.641,
-      "longitud": -141.315,
+      "latitud": 61.636,
+      "longitud": -141.316,
       "pais": "",
       "ciudad_referencia": "88 km ENE of McCarthy, Alaska",
       "fuente": "USGS",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-26T14:05:29.039579+00:00"
+    "hora_consulta_utc": "2026-10-26T14:10:30.382487+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-26T14:05:29.039579+00:00",
-  "combined_after_dedup": 2604
+  "updated_utc": "2026-10-26T14:10:30.382487+00:00",
+  "combined_after_dedup": 2611
 }
