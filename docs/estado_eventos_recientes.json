@@ -48451,7 +48451,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-754",
     "fecha_primera_recepcion": "2026-10-27T05:40:31.030425+00:00",
-    "fecha_ultima_observacion": "2026-10-27T15:50:31.076994+00:00"
+    "fecha_ultima_observacion": "2026-10-27T15:55:30.980009+00:00"
   },
   "EMSC:20261027_0000068": {
     "id": "20261027_0000068",
@@ -49235,7 +49235,7 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261027_0000207",
     "fecha_primera_recepcion": "2026-10-27T15:45:33.960464+00:00",
-    "fecha_ultima_observacion": "2026-10-27T15:50:31.076994+00:00"
+    "fecha_ultima_observacion": "2026-10-27T15:55:30.980009+00:00"
   },
   "USGS:us7000ttgm": {
     "id": "us7000ttgm",
@@ -49250,5 +49250,19 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttgm",
     "fecha_primera_recepcion": "2026-10-27T15:45:33.960464+00:00",
     "fecha_ultima_observacion": "2026-10-27T15:50:31.076994+00:00"
+  },
+  "USGS:aka2026vhmjgz": {
+    "id": "aka2026vhmjgz",
+    "fecha_hora_utc": "2026-10-27T15:54:13.175000+00:00",
+    "magnitud": 2.7,
+    "profundidad_km": 76.9,
+    "latitud": 61.006,
+    "longitud": -151.325,
+    "pais": "",
+    "ciudad_referencia": "12 km SW of Tyonek, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vhmjgz",
+    "fecha_primera_recepcion": "2026-10-27T15:55:30.980009+00:00",
+    "fecha_ultima_observacion": "2026-10-27T15:55:30.980009+00:00"
   }
 }
