@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-27T01:35:26.907524+00:00",
+  "actualizado_utc": "2026-10-27T01:40:24.376777+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 63,
   "actualizacion_minutos": 5,
   "igp": 63,
-  "emsc": 2496,
+  "emsc": 2498,
   "usgs": 534,
   "duplicados_eliminados": 513,
-  "eventos_publicados": 2580,
-  "evento_mas_reciente_utc": "2026-10-27T01:20:38.995524+00:00",
+  "eventos_publicados": 2582,
+  "evento_mas_reciente_utc": "2026-10-27T01:30:46+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 17,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-26T19:47:07+00:00",
-      "antiguedad_evento_mas_reciente_min": 348.3
+      "antiguedad_evento_mas_reciente_min": 353.3
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2496,
-      "eventos_recibidos": 2500,
+      "eventos_validos": 2498,
+      "eventos_recibidos": 2502,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-27T01:20:38.995524+00:00",
-      "antiguedad_evento_mas_reciente_min": 14.8
+      "evento_mas_reciente_utc": "2026-10-27T01:30:46+00:00",
+      "antiguedad_evento_mas_reciente_min": 9.6
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 539,
       "invalidos_rechazados": 5,
       "evento_mas_reciente_utc": "2026-10-27T00:25:08.167000+00:00",
-      "antiguedad_evento_mas_reciente_min": 70.3
+      "antiguedad_evento_mas_reciente_min": 75.3
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-753"
     },
     "emsc": {
-      "id": "20261027_0000013",
-      "fecha_hora_utc": "2026-10-27T01:20:38.995524+00:00",
-      "magnitud": 3.7,
-      "profundidad_km": 200.2,
-      "latitud": -35.3158,
-      "longitud": 179.0983,
+      "id": "20261027_0000014",
+      "fecha_hora_utc": "2026-10-27T01:30:46+00:00",
+      "magnitud": 3.5,
+      "profundidad_km": 14.0,
+      "latitud": -15.02,
+      "longitud": -73.45,
       "pais": "",
-      "ciudad_referencia": "OFF E. COAST OF N. ISLAND, N.Z.",
+      "ciudad_referencia": "SOUTHERN PERU",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261027_0000013"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261027_0000014"
     },
     "usgs": {
       "id": "us7000ttdt",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-27T01:35:26.907524+00:00"
+    "hora_consulta_utc": "2026-10-27T01:40:24.376777+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-27T01:35:26.907524+00:00",
-  "combined_after_dedup": 2580
+  "updated_utc": "2026-10-27T01:40:24.376777+00:00",
+  "combined_after_dedup": 2582
 }
