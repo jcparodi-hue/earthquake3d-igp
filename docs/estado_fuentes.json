@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-27T13:55:29.449020+00:00",
+  "actualizado_utc": "2026-10-27T14:00:38.999860+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 64,
   "actualizacion_minutos": 5,
   "igp": 64,
-  "emsc": 2466,
+  "emsc": 2467,
   "usgs": 529,
   "duplicados_eliminados": 506,
-  "eventos_publicados": 2553,
-  "evento_mas_reciente_utc": "2026-10-27T13:43:41+00:00",
+  "eventos_publicados": 2554,
+  "evento_mas_reciente_utc": "2026-10-27T13:45:33+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 15,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-27T01:30:46+00:00",
-      "antiguedad_evento_mas_reciente_min": 744.7
+      "antiguedad_evento_mas_reciente_min": 749.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2466,
-      "eventos_recibidos": 2470,
+      "eventos_validos": 2467,
+      "eventos_recibidos": 2471,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-27T13:43:41+00:00",
-      "antiguedad_evento_mas_reciente_min": 11.8
+      "evento_mas_reciente_utc": "2026-10-27T13:45:33+00:00",
+      "antiguedad_evento_mas_reciente_min": 15.1
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -35,8 +35,8 @@
       "eventos_validos": 529,
       "eventos_recibidos": 534,
       "invalidos_rechazados": 5,
-      "evento_mas_reciente_utc": "2026-10-27T12:01:11.952000+00:00",
-      "antiguedad_evento_mas_reciente_min": 114.3
+      "evento_mas_reciente_utc": "2026-10-27T12:52:52.994000+00:00",
+      "antiguedad_evento_mas_reciente_min": 67.8
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-754"
     },
     "emsc": {
-      "id": "20261027_0000164",
-      "fecha_hora_utc": "2026-10-27T13:43:41+00:00",
-      "magnitud": 2.5,
-      "profundidad_km": 50.9,
-      "latitud": -22.15,
-      "longitud": -70.23,
+      "id": "20261027_0000166",
+      "fecha_hora_utc": "2026-10-27T13:45:33+00:00",
+      "magnitud": 2.7,
+      "profundidad_km": 28.0,
+      "latitud": 10.959,
+      "longitud": -86.046,
       "pais": "",
-      "ciudad_referencia": "OFFSHORE ANTOFAGASTA, CHILE",
+      "ciudad_referencia": "OFF COAST OF COSTA RICA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261027_0000164"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261027_0000166"
     },
     "usgs": {
-      "id": "us7000ttfx",
-      "fecha_hora_utc": "2026-10-27T12:01:11.952000+00:00",
-      "magnitud": 4.6,
-      "profundidad_km": 140.342,
-      "latitud": 16.3977,
-      "longitud": -93.817,
+      "id": "us7000ttg9",
+      "fecha_hora_utc": "2026-10-27T12:52:52.994000+00:00",
+      "magnitud": 3.5,
+      "profundidad_km": 10.0,
+      "latitud": -38.3668,
+      "longitud": 145.8855,
       "pais": "",
-      "ciudad_referencia": "5 km ENE of Tierra y Libertad, Mexico",
+      "ciudad_referencia": "9 km NE of Korumburra, Australia",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfx"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttg9"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-27T13:55:29.449020+00:00"
+    "hora_consulta_utc": "2026-10-27T14:00:38.999860+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-27T13:55:29.449020+00:00",
-  "combined_after_dedup": 2553
+  "updated_utc": "2026-10-27T14:00:38.999860+00:00",
+  "combined_after_dedup": 2554
 }
