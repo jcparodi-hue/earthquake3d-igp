@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-27T06:35:30.029199+00:00",
+  "actualizado_utc": "2026-10-27T06:40:32.133876+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 64,
   "actualizacion_minutos": 5,
   "igp": 64,
-  "emsc": 2490,
+  "emsc": 2493,
   "usgs": 529,
   "duplicados_eliminados": 506,
-  "eventos_publicados": 2577,
-  "evento_mas_reciente_utc": "2026-10-27T05:57:13.655897+00:00",
+  "eventos_publicados": 2580,
+  "evento_mas_reciente_utc": "2026-10-27T06:34:44.300000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 16,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-27T01:30:46+00:00",
-      "antiguedad_evento_mas_reciente_min": 304.7
+      "antiguedad_evento_mas_reciente_min": 309.8
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2490,
-      "eventos_recibidos": 2494,
+      "eventos_validos": 2493,
+      "eventos_recibidos": 2497,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-27T05:57:13.655897+00:00",
-      "antiguedad_evento_mas_reciente_min": 38.3
+      "evento_mas_reciente_utc": "2026-10-27T06:34:44.300000+00:00",
+      "antiguedad_evento_mas_reciente_min": 5.8
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 534,
       "invalidos_rechazados": 5,
       "evento_mas_reciente_utc": "2026-10-27T03:55:23.686000+00:00",
-      "antiguedad_evento_mas_reciente_min": 160.1
+      "antiguedad_evento_mas_reciente_min": 165.1
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-754"
     },
     "emsc": {
-      "id": "20261027_0000076",
-      "fecha_hora_utc": "2026-10-27T05:57:13.655897+00:00",
-      "magnitud": 3.1,
-      "profundidad_km": 33.8,
-      "latitud": -45.0386,
-      "longitud": 167.5904,
+      "id": "20261027_0000084",
+      "fecha_hora_utc": "2026-10-27T06:34:44.300000+00:00",
+      "magnitud": 2.8,
+      "profundidad_km": 5.5,
+      "latitud": 39.152,
+      "longitud": 28.3172,
       "pais": "",
-      "ciudad_referencia": "SOUTH ISLAND OF NEW ZEALAND",
+      "ciudad_referencia": "WESTERN TURKEY",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261027_0000076"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261027_0000084"
     },
     "usgs": {
       "id": "us7000tteg",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-27T06:35:30.029199+00:00"
+    "hora_consulta_utc": "2026-10-27T06:40:32.133876+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-27T06:35:30.029199+00:00",
-  "combined_after_dedup": 2577
+  "updated_utc": "2026-10-27T06:40:32.133876+00:00",
+  "combined_after_dedup": 2580
 }
