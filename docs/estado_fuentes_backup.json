@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-27T19:55:31.881699+00:00",
+  "actualizado_utc": "2026-10-27T20:00:37.855416+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 64,
   "actualizacion_minutos": 5,
   "igp": 64,
-  "emsc": 2484,
+  "emsc": 2483,
   "usgs": 529,
   "duplicados_eliminados": 508,
-  "eventos_publicados": 2569,
-  "evento_mas_reciente_utc": "2026-10-27T19:38:01.610000+00:00",
+  "eventos_publicados": 2568,
+  "evento_mas_reciente_utc": "2026-10-27T19:47:05+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 14,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-27T01:30:46+00:00",
-      "antiguedad_evento_mas_reciente_min": 1104.8
+      "antiguedad_evento_mas_reciente_min": 1109.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2484,
-      "eventos_recibidos": 2487,
+      "eventos_validos": 2483,
+      "eventos_recibidos": 2486,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-27T19:38:01.610000+00:00",
-      "antiguedad_evento_mas_reciente_min": 17.5
+      "evento_mas_reciente_utc": "2026-10-27T19:47:05+00:00",
+      "antiguedad_evento_mas_reciente_min": 13.5
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 533,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-10-27T19:38:01.610000+00:00",
-      "antiguedad_evento_mas_reciente_min": 17.5
+      "antiguedad_evento_mas_reciente_min": 22.6
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-754"
     },
     "emsc": {
-      "id": "20261027_0000269",
-      "fecha_hora_utc": "2026-10-27T19:38:01.610000+00:00",
-      "magnitud": 2.6,
-      "profundidad_km": 6.8,
-      "latitud": 37.311,
-      "longitud": -121.6783,
+      "id": "20261027_0000275",
+      "fecha_hora_utc": "2026-10-27T19:47:05+00:00",
+      "magnitud": 3.0,
+      "profundidad_km": 95.5,
+      "latitud": -22.76,
+      "longitud": -68.65,
       "pais": "",
-      "ciudad_referencia": "NORTHERN CALIFORNIA",
+      "ciudad_referencia": "ANTOFAGASTA, CHILE",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261027_0000269"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261027_0000275"
     },
     "usgs": {
       "id": "nc75455701",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-27T19:55:31.881699+00:00"
+    "hora_consulta_utc": "2026-10-27T20:00:37.855416+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-27T19:55:31.881699+00:00",
-  "combined_after_dedup": 2569
+  "updated_utc": "2026-10-27T20:00:37.855416+00:00",
+  "combined_after_dedup": 2568
 }
