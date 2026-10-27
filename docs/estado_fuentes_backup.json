@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-27T09:25:29.326895+00:00",
+  "actualizado_utc": "2026-10-27T09:30:31.376363+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 64,
   "actualizacion_minutos": 5,
   "igp": 64,
-  "emsc": 2463,
-  "usgs": 522,
-  "duplicados_eliminados": 499,
-  "eventos_publicados": 2550,
-  "evento_mas_reciente_utc": "2026-10-27T09:00:20.942900+00:00",
+  "emsc": 2464,
+  "usgs": 523,
+  "duplicados_eliminados": 500,
+  "eventos_publicados": 2551,
+  "evento_mas_reciente_utc": "2026-10-27T09:07:45.122000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 16,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-27T01:30:46+00:00",
-      "antiguedad_evento_mas_reciente_min": 474.7
+      "antiguedad_evento_mas_reciente_min": 479.8
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2463,
-      "eventos_recibidos": 2467,
+      "eventos_validos": 2464,
+      "eventos_recibidos": 2468,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-27T09:00:20.942900+00:00",
-      "antiguedad_evento_mas_reciente_min": 25.1
+      "evento_mas_reciente_utc": "2026-10-27T09:07:45.122000+00:00",
+      "antiguedad_evento_mas_reciente_min": 22.8
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 522,
-      "eventos_recibidos": 527,
+      "eventos_validos": 523,
+      "eventos_recibidos": 528,
       "invalidos_rechazados": 5,
-      "evento_mas_reciente_utc": "2026-10-27T08:55:23.352000+00:00",
-      "antiguedad_evento_mas_reciente_min": 30.1
+      "evento_mas_reciente_utc": "2026-10-27T09:07:45.122000+00:00",
+      "antiguedad_evento_mas_reciente_min": 22.8
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-754"
     },
     "emsc": {
-      "id": "20261027_0000104",
-      "fecha_hora_utc": "2026-10-27T09:00:20.942900+00:00",
-      "magnitud": 3.7,
+      "id": "20261027_0000108",
+      "fecha_hora_utc": "2026-10-27T09:07:45.122000+00:00",
+      "magnitud": 5.0,
       "profundidad_km": 10.0,
-      "latitud": -35.8869,
-      "longitud": 176.0901,
+      "latitud": -15.1739,
+      "longitud": -173.4094,
       "pais": "",
-      "ciudad_referencia": "OFF E. COAST OF N. ISLAND, N.Z.",
+      "ciudad_referencia": "TONGA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261027_0000104"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261027_0000108"
     },
     "usgs": {
-      "id": "us7000ttfb",
-      "fecha_hora_utc": "2026-10-27T08:55:23.352000+00:00",
-      "magnitud": 5.8,
+      "id": "us7000ttfc",
+      "fecha_hora_utc": "2026-10-27T09:07:45.122000+00:00",
+      "magnitud": 5.0,
       "profundidad_km": 10.0,
-      "latitud": -13.8962,
-      "longitud": 165.6262,
+      "latitud": -15.1739,
+      "longitud": -173.4094,
       "pais": "",
-      "ciudad_referencia": "200 km NW of Port-Olry, Vanuatu",
+      "ciudad_referencia": "95 km NNE of Hihifo, Tonga",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfb"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttfc"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-27T09:25:29.326895+00:00"
+    "hora_consulta_utc": "2026-10-27T09:30:31.376363+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-27T09:25:29.326895+00:00",
-  "combined_after_dedup": 2550
+  "updated_utc": "2026-10-27T09:30:31.376363+00:00",
+  "combined_after_dedup": 2551
 }
