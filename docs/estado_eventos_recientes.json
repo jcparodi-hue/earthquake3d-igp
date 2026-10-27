@@ -48451,7 +48451,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-754",
     "fecha_primera_recepcion": "2026-10-27T05:40:31.030425+00:00",
-    "fecha_ultima_observacion": "2026-10-27T15:20:33.377297+00:00"
+    "fecha_ultima_observacion": "2026-10-27T15:22:58.715016+00:00"
   },
   "EMSC:20261027_0000068": {
     "id": "20261027_0000068",
@@ -49179,6 +49179,20 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vdzxac",
     "fecha_primera_recepcion": "2026-10-27T15:20:33.377297+00:00",
-    "fecha_ultima_observacion": "2026-10-27T15:20:33.377297+00:00"
+    "fecha_ultima_observacion": "2026-10-27T15:22:58.715016+00:00"
+  },
+  "EMSC:20261027_0000196": {
+    "id": "20261027_0000196",
+    "fecha_hora_utc": "2026-10-27T15:08:06+00:00",
+    "magnitud": 3.4,
+    "profundidad_km": 10.0,
+    "latitud": -9.24,
+    "longitud": 110.39,
+    "pais": "",
+    "ciudad_referencia": "SOUTH OF JAVA, INDONESIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261027_0000196",
+    "fecha_primera_recepcion": "2026-10-27T15:22:58.715016+00:00",
+    "fecha_ultima_observacion": "2026-10-27T15:22:58.715016+00:00"
   }
 }
