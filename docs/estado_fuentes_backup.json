@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-27T08:50:23.319295+00:00",
+  "actualizado_utc": "2026-10-27T08:55:21.102990+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 64,
   "actualizacion_minutos": 5,
   "igp": 64,
-  "emsc": 2468,
-  "usgs": 522,
-  "duplicados_eliminados": 499,
-  "eventos_publicados": 2555,
-  "evento_mas_reciente_utc": "2026-10-27T07:40:32+00:00",
+  "emsc": 2470,
+  "usgs": 523,
+  "duplicados_eliminados": 500,
+  "eventos_publicados": 2557,
+  "evento_mas_reciente_utc": "2026-10-27T08:49:44.391803+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 16,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-27T01:30:46+00:00",
-      "antiguedad_evento_mas_reciente_min": 439.6
+      "antiguedad_evento_mas_reciente_min": 444.6
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2468,
-      "eventos_recibidos": 2472,
+      "eventos_validos": 2470,
+      "eventos_recibidos": 2474,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-27T07:40:32+00:00",
-      "antiguedad_evento_mas_reciente_min": 69.9
+      "evento_mas_reciente_utc": "2026-10-27T08:49:44.391803+00:00",
+      "antiguedad_evento_mas_reciente_min": 5.6
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 522,
-      "eventos_recibidos": 527,
+      "eventos_validos": 523,
+      "eventos_recibidos": 528,
       "invalidos_rechazados": 5,
-      "evento_mas_reciente_utc": "2026-10-27T06:42:50.318000+00:00",
-      "antiguedad_evento_mas_reciente_min": 127.6
+      "evento_mas_reciente_utc": "2026-10-27T08:49:44.391000+00:00",
+      "antiguedad_evento_mas_reciente_min": 5.6
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-754"
     },
     "emsc": {
-      "id": "20261027_0000097",
-      "fecha_hora_utc": "2026-10-27T07:40:32+00:00",
-      "magnitud": 2.8,
-      "profundidad_km": 1.0,
-      "latitud": 10.8364,
-      "longitud": -85.9476,
+      "id": "20261027_0000102",
+      "fecha_hora_utc": "2026-10-27T08:49:44.391803+00:00",
+      "magnitud": 3.0,
+      "profundidad_km": 5.0,
+      "latitud": 57.142,
+      "longitud": -148.356,
       "pais": "",
-      "ciudad_referencia": "COSTA RICA",
+      "ciudad_referencia": "GULF OF ALASKA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261027_0000097"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261027_0000102"
     },
     "usgs": {
-      "id": "aka2026vgtzgj",
-      "fecha_hora_utc": "2026-10-27T06:42:50.318000+00:00",
-      "magnitud": 2.5,
-      "profundidad_km": 18.5,
-      "latitud": 56.216,
-      "longitud": -157.11,
+      "id": "aka2026vgyfgb",
+      "fecha_hora_utc": "2026-10-27T08:49:44.391000+00:00",
+      "magnitud": 3.0,
+      "profundidad_km": 5.0,
+      "latitud": 57.142,
+      "longitud": -148.356,
       "pais": "",
-      "ciudad_referencia": "80 km E of Chignik, Alaska",
+      "ciudad_referencia": "241 km ESE of Chiniak, Alaska",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vgtzgj"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vgyfgb"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-27T08:50:23.319295+00:00"
+    "hora_consulta_utc": "2026-10-27T08:55:21.102990+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-27T08:50:23.319295+00:00",
-  "combined_after_dedup": 2555
+  "updated_utc": "2026-10-27T08:55:21.102990+00:00",
+  "combined_after_dedup": 2557
 }
