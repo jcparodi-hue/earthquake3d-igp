@@ -48451,7 +48451,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-754",
     "fecha_primera_recepcion": "2026-10-27T05:40:31.030425+00:00",
-    "fecha_ultima_observacion": "2026-10-27T19:35:32.960539+00:00"
+    "fecha_ultima_observacion": "2026-10-27T19:40:33.054768+00:00"
   },
   "EMSC:20261027_0000068": {
     "id": "20261027_0000068",
@@ -49558,5 +49558,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261027_0000266",
     "fecha_primera_recepcion": "2026-10-27T19:29:58.354473+00:00",
     "fecha_ultima_observacion": "2026-10-27T19:35:32.960539+00:00"
+  },
+  "EMSC:20261027_0000269": {
+    "id": "20261027_0000269",
+    "fecha_hora_utc": "2026-10-27T19:38:01.610000+00:00",
+    "magnitud": 2.6,
+    "profundidad_km": 6.8,
+    "latitud": 37.311,
+    "longitud": -121.6783,
+    "pais": "",
+    "ciudad_referencia": "NORTHERN CALIFORNIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261027_0000269",
+    "fecha_primera_recepcion": "2026-10-27T19:40:33.054768+00:00",
+    "fecha_ultima_observacion": "2026-10-27T19:40:33.054768+00:00"
+  },
+  "USGS:nc75455701": {
+    "id": "nc75455701",
+    "fecha_hora_utc": "2026-10-27T19:38:01.610000+00:00",
+    "magnitud": 2.63,
+    "profundidad_km": 6.76999998092651,
+    "latitud": 37.3110008239746,
+    "longitud": -121.678337097168,
+    "pais": "",
+    "ciudad_referencia": "14 km E of Seven Trees, CA",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455701",
+    "fecha_primera_recepcion": "2026-10-27T19:40:33.054768+00:00",
+    "fecha_ultima_observacion": "2026-10-27T19:40:33.054768+00:00"
   }
 }

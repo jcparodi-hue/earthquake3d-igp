@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-27T19:35:32.960539+00:00",
+  "actualizado_utc": "2026-10-27T19:40:33.054768+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 64,
   "actualizacion_minutos": 5,
   "igp": 64,
   "emsc": 2486,
-  "usgs": 528,
-  "duplicados_eliminados": 507,
+  "usgs": 529,
+  "duplicados_eliminados": 508,
   "eventos_publicados": 2571,
-  "evento_mas_reciente_utc": "2026-10-27T19:21:36+00:00",
+  "evento_mas_reciente_utc": "2026-10-27T19:38:01.610000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 14,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-27T01:30:46+00:00",
-      "antiguedad_evento_mas_reciente_min": 1084.8
+      "antiguedad_evento_mas_reciente_min": 1089.8
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2486,
       "eventos_recibidos": 2489,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-27T19:21:36+00:00",
-      "antiguedad_evento_mas_reciente_min": 13.9
+      "evento_mas_reciente_utc": "2026-10-27T19:38:01.610000+00:00",
+      "antiguedad_evento_mas_reciente_min": 2.5
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 528,
-      "eventos_recibidos": 532,
+      "eventos_validos": 529,
+      "eventos_recibidos": 533,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-27T18:57:53.135000+00:00",
-      "antiguedad_evento_mas_reciente_min": 37.7
+      "evento_mas_reciente_utc": "2026-10-27T19:38:01.610000+00:00",
+      "antiguedad_evento_mas_reciente_min": 2.5
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-754"
     },
     "emsc": {
-      "id": "20261027_0000266",
-      "fecha_hora_utc": "2026-10-27T19:21:36+00:00",
-      "magnitud": 3.3,
-      "profundidad_km": 10.0,
-      "latitud": -9.4,
-      "longitud": 110.43,
+      "id": "20261027_0000269",
+      "fecha_hora_utc": "2026-10-27T19:38:01.610000+00:00",
+      "magnitud": 2.6,
+      "profundidad_km": 6.8,
+      "latitud": 37.311,
+      "longitud": -121.6783,
       "pais": "",
-      "ciudad_referencia": "SOUTH OF JAVA, INDONESIA",
+      "ciudad_referencia": "NORTHERN CALIFORNIA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261027_0000266"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261027_0000269"
     },
     "usgs": {
-      "id": "us7000ttis",
-      "fecha_hora_utc": "2026-10-27T18:57:53.135000+00:00",
-      "magnitud": 5.4,
-      "profundidad_km": 10.0,
-      "latitud": 32.5388,
-      "longitud": 93.9028,
+      "id": "nc75455701",
+      "fecha_hora_utc": "2026-10-27T19:38:01.610000+00:00",
+      "magnitud": 2.63,
+      "profundidad_km": 6.76999998092651,
+      "latitud": 37.3110008239746,
+      "longitud": -121.678337097168,
       "pais": "",
-      "ciudad_referencia": "210 km ENE of Nagqu, China",
+      "ciudad_referencia": "14 km E of Seven Trees, CA",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttis"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75455701"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-27T19:35:32.960539+00:00"
+    "hora_consulta_utc": "2026-10-27T19:40:33.054768+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-27T19:35:32.960539+00:00",
+  "updated_utc": "2026-10-27T19:40:33.054768+00:00",
   "combined_after_dedup": 2571
 }
