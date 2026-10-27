@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-27T23:25:29.660473+00:00",
+  "actualizado_utc": "2026-10-27T23:30:34.201979+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 64,
   "actualizacion_minutos": 5,
   "igp": 64,
   "emsc": 2480,
-  "usgs": 527,
-  "duplicados_eliminados": 505,
+  "usgs": 528,
+  "duplicados_eliminados": 506,
   "eventos_publicados": 2566,
-  "evento_mas_reciente_utc": "2026-10-27T23:16:28.538563+00:00",
+  "evento_mas_reciente_utc": "2026-10-27T23:24:44+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 14,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-27T01:30:46+00:00",
-      "antiguedad_evento_mas_reciente_min": 1314.7
+      "antiguedad_evento_mas_reciente_min": 1319.8
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2480,
       "eventos_recibidos": 2484,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-27T23:16:28.538563+00:00",
-      "antiguedad_evento_mas_reciente_min": 9.0
+      "evento_mas_reciente_utc": "2026-10-27T23:24:44+00:00",
+      "antiguedad_evento_mas_reciente_min": 5.8
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 527,
-      "eventos_recibidos": 532,
+      "eventos_validos": 528,
+      "eventos_recibidos": 533,
       "invalidos_rechazados": 5,
-      "evento_mas_reciente_utc": "2026-10-27T21:07:28.536000+00:00",
-      "antiguedad_evento_mas_reciente_min": 138.0
+      "evento_mas_reciente_utc": "2026-10-27T23:14:16.760000+00:00",
+      "antiguedad_evento_mas_reciente_min": 16.3
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-754"
     },
     "emsc": {
-      "id": "20261027_0000344",
-      "fecha_hora_utc": "2026-10-27T23:16:28.538563+00:00",
-      "magnitud": 3.4,
-      "profundidad_km": 98.2,
-      "latitud": -45.0311,
-      "longitud": 167.3836,
+      "id": "20261027_0000346",
+      "fecha_hora_utc": "2026-10-27T23:24:44+00:00",
+      "magnitud": 2.8,
+      "profundidad_km": 57.0,
+      "latitud": -22.1,
+      "longitud": -69.88,
       "pais": "",
-      "ciudad_referencia": "SOUTH ISLAND OF NEW ZEALAND",
+      "ciudad_referencia": "ANTOFAGASTA, CHILE",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261027_0000344"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261027_0000346"
     },
     "usgs": {
-      "id": "us7000ttju",
-      "fecha_hora_utc": "2026-10-27T21:07:28.536000+00:00",
-      "magnitud": 4.2,
-      "profundidad_km": 10.0,
-      "latitud": 50.8367,
-      "longitud": -173.539,
+      "id": "us7000ttke",
+      "fecha_hora_utc": "2026-10-27T23:14:16.760000+00:00",
+      "magnitud": 5.4,
+      "profundidad_km": 91.642,
+      "latitud": 12.6981,
+      "longitud": 142.9431,
       "pais": "",
-      "ciudad_referencia": "158 km SSE of Atka, Alaska",
+      "ciudad_referencia": "197 km WSW of Merizo Village, Guam",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttju"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttke"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-27T23:25:29.660473+00:00"
+    "hora_consulta_utc": "2026-10-27T23:30:34.201979+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-27T23:25:29.660473+00:00",
+  "updated_utc": "2026-10-27T23:30:34.201979+00:00",
   "combined_after_dedup": 2566
 }
