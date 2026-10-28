@@ -1,5 +1,19 @@
 [
   {
+    "volcan": "Santa María",
+    "pais": "Guatemala",
+    "codigo_vaac": "SANTAMA",
+    "fecha_hora_utc_texto": "1855 UTC",
+    "id_archivo": "2026J281855",
+    "url_aviso": "https://www.ospo.noaa.gov/VAAC/ARCH26/SANTAMA/2026J281855.html",
+    "url_xml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/xml_files/FVXX23_20261028_1855.xml",
+    "url_grafico": "https://www.ospo.noaa.gov/VAAC/ARCH26/GFX/SANT0631.jpg",
+    "url_kml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/kml_files/SANTAMARIA_ASH_202610281855.kml",
+    "vaac": "Washington",
+    "tipo": "VAA",
+    "fuente": "NOAA Washington VAAC"
+  },
+  {
     "volcan": "Popocatépetl",
     "pais": "México",
     "codigo_vaac": "POPO",
@@ -7,7 +21,7 @@
     "id_archivo": "2026J281818",
     "url_aviso": "https://www.ospo.noaa.gov/VAAC/ARCH26/POPO/2026J281818.html",
     "url_xml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/xml_files/FVXX25_20261028_1818.xml",
-    "url_grafico": "https://www.ospo.noaa.gov/VAAC/ARCH26/GFX/PURA0674.jpg",
+    "url_grafico": "https://www.ospo.noaa.gov/VAAC/ARCH26/GFX/POPO0369.jpg",
     "url_kml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/kml_files/POPOCATEPETL_ASH_202610281818.kml",
     "vaac": "Washington",
     "tipo": "VAA",
@@ -331,20 +345,6 @@
     "url_xml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/xml_files/FVXX25_20261027_1923.xml",
     "url_grafico": "https://www.ospo.noaa.gov/VAAC/ARCH26/GFX/POPO0365.jpg",
     "url_kml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/kml_files/POPOCATEPETL_ASH_202610271923.kml",
-    "vaac": "Washington",
-    "tipo": "VAA",
-    "fuente": "NOAA Washington VAAC"
-  },
-  {
-    "volcan": "Puracé",
-    "pais": "Colombia",
-    "codigo_vaac": "PURA",
-    "fecha_hora_utc_texto": "1908 UTC",
-    "id_archivo": "2026J271908",
-    "url_aviso": "https://www.ospo.noaa.gov/VAAC/ARCH26/PURA/2026J271908.html",
-    "url_xml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/xml_files/FVXX20_20261027_1908.xml",
-    "url_grafico": "https://www.ospo.noaa.gov/VAAC/ARCH26/GFX/PURA0670.jpg",
-    "url_kml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/kml_files/PURACE_ASH_202610271908.kml",
     "vaac": "Washington",
     "tipo": "VAA",
     "fuente": "NOAA Washington VAAC"
