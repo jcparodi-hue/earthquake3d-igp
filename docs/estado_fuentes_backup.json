@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-28T20:05:35.402731+00:00",
+  "actualizado_utc": "2026-10-28T20:10:30.529586+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 65,
   "actualizacion_minutos": 5,
   "igp": 65,
-  "emsc": 2515,
+  "emsc": 2516,
   "usgs": 535,
   "duplicados_eliminados": 520,
-  "eventos_publicados": 2595,
-  "evento_mas_reciente_utc": "2026-10-28T19:56:50.170000+00:00",
+  "eventos_publicados": 2596,
+  "evento_mas_reciente_utc": "2026-10-28T19:56:49.750000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 15,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-28T01:36:36+00:00",
-      "antiguedad_evento_mas_reciente_min": 1109.0
+      "antiguedad_evento_mas_reciente_min": 1113.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2515,
-      "eventos_recibidos": 2518,
+      "eventos_validos": 2516,
+      "eventos_recibidos": 2519,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-28T19:56:50.170000+00:00",
-      "antiguedad_evento_mas_reciente_min": 8.8
+      "evento_mas_reciente_utc": "2026-10-28T19:56:49.750000+00:00",
+      "antiguedad_evento_mas_reciente_min": 13.7
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 539,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-10-28T19:45:32.958000+00:00",
-      "antiguedad_evento_mas_reciente_min": 20.0
+      "antiguedad_evento_mas_reciente_min": 25.0
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261028_0000308",
-      "fecha_hora_utc": "2026-10-28T19:56:50.170000+00:00",
+      "fecha_hora_utc": "2026-10-28T19:56:49.750000+00:00",
       "magnitud": 5.1,
       "profundidad_km": 53.0,
-      "latitud": 2.4849,
-      "longitud": 126.816,
+      "latitud": 2.4749,
+      "longitud": 126.903,
       "pais": "",
       "ciudad_referencia": "MOLUCCA SEA",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-28T20:05:35.402731+00:00"
+    "hora_consulta_utc": "2026-10-28T20:10:30.529586+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-28T20:05:35.402731+00:00",
-  "combined_after_dedup": 2595
+  "updated_utc": "2026-10-28T20:10:30.529586+00:00",
+  "combined_after_dedup": 2596
 }
