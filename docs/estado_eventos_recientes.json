@@ -48451,7 +48451,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-754",
     "fecha_primera_recepcion": "2026-10-27T05:40:31.030425+00:00",
-    "fecha_ultima_observacion": "2026-10-28T04:45:31.906496+00:00"
+    "fecha_ultima_observacion": "2026-10-28T04:50:24.603570+00:00"
   },
   "EMSC:20261027_0000068": {
     "id": "20261027_0000068",
@@ -50467,6 +50467,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261028_0000065",
     "fecha_primera_recepcion": "2026-10-28T04:40:33.299959+00:00",
-    "fecha_ultima_observacion": "2026-10-28T04:45:31.906496+00:00"
+    "fecha_ultima_observacion": "2026-10-28T04:50:24.603570+00:00"
+  },
+  "USGS:us7000ttm2": {
+    "id": "us7000ttm2",
+    "fecha_hora_utc": "2026-10-28T04:31:04.089000+00:00",
+    "magnitud": 5.0,
+    "profundidad_km": 10.0,
+    "latitud": -13.7421,
+    "longitud": 165.7007,
+    "pais": "",
+    "ciudad_referencia": "200 km W of Sola, Vanuatu",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttm2",
+    "fecha_primera_recepcion": "2026-10-28T04:50:24.603570+00:00",
+    "fecha_ultima_observacion": "2026-10-28T04:50:24.603570+00:00"
   }
 }

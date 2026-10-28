@@ -1,14 +1,14 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-28T04:45:31.906496+00:00",
+  "actualizado_utc": "2026-10-28T04:50:24.603570+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 64,
   "actualizacion_minutos": 5,
   "igp": 64,
   "emsc": 2491,
-  "usgs": 538,
+  "usgs": 539,
   "duplicados_eliminados": 516,
-  "eventos_publicados": 2577,
+  "eventos_publicados": 2578,
   "evento_mas_reciente_utc": "2026-10-28T04:36:53+00:00",
   "salud_fuentes": {
     "igp": {
@@ -18,7 +18,7 @@
       "eventos_recibidos": 14,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-27T01:30:46+00:00",
-      "antiguedad_evento_mas_reciente_min": 1634.8
+      "antiguedad_evento_mas_reciente_min": 1639.6
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -27,16 +27,16 @@
       "eventos_recibidos": 2494,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-10-28T04:36:53+00:00",
-      "antiguedad_evento_mas_reciente_min": 8.6
+      "antiguedad_evento_mas_reciente_min": 13.5
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 538,
-      "eventos_recibidos": 542,
+      "eventos_validos": 539,
+      "eventos_recibidos": 543,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-28T03:44:02.674000+00:00",
-      "antiguedad_evento_mas_reciente_min": 61.5
+      "evento_mas_reciente_utc": "2026-10-28T04:31:04.089000+00:00",
+      "antiguedad_evento_mas_reciente_min": 19.3
     }
   },
   "ultimo_evento": {
@@ -65,24 +65,24 @@
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261028_0000065"
     },
     "usgs": {
-      "id": "us7000ttlw",
-      "fecha_hora_utc": "2026-10-28T03:44:02.674000+00:00",
-      "magnitud": 4.3,
-      "profundidad_km": 140.981,
-      "latitud": -6.9158,
-      "longitud": 129.4792,
+      "id": "us7000ttm2",
+      "fecha_hora_utc": "2026-10-28T04:31:04.089000+00:00",
+      "magnitud": 5.0,
+      "profundidad_km": 10.0,
+      "latitud": -13.7421,
+      "longitud": 165.7007,
       "pais": "",
-      "ciudad_referencia": "Banda Sea",
+      "ciudad_referencia": "200 km W of Sola, Vanuatu",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlw"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttm2"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-28T04:45:31.906496+00:00"
+    "hora_consulta_utc": "2026-10-28T04:50:24.603570+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-28T04:45:31.906496+00:00",
-  "combined_after_dedup": 2577
+  "updated_utc": "2026-10-28T04:50:24.603570+00:00",
+  "combined_after_dedup": 2578
 }
