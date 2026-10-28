@@ -48451,7 +48451,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-754",
     "fecha_primera_recepcion": "2026-10-27T05:40:31.030425+00:00",
-    "fecha_ultima_observacion": "2026-10-28T01:25:29.799838+00:00"
+    "fecha_ultima_observacion": "2026-10-28T01:30:36.501986+00:00"
   },
   "EMSC:20261027_0000068": {
     "id": "20261027_0000068",
@@ -50136,7 +50136,7 @@
   "EMSC:20261028_0000020": {
     "id": "20261028_0000020",
     "fecha_hora_utc": "2026-10-28T01:20:34+00:00",
-    "magnitud": 4.3,
+    "magnitud": 4.8,
     "profundidad_km": 5.0,
     "latitud": 7.707,
     "longitud": -80.9054,
@@ -50145,6 +50145,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261028_0000020",
     "fecha_primera_recepcion": "2026-10-28T01:25:29.799838+00:00",
-    "fecha_ultima_observacion": "2026-10-28T01:25:29.799838+00:00"
+    "fecha_ultima_observacion": "2026-10-28T01:30:36.501986+00:00"
+  },
+  "USGS:us7000ttlc": {
+    "id": "us7000ttlc",
+    "fecha_hora_utc": "2026-10-28T01:11:54.979000+00:00",
+    "magnitud": 5.2,
+    "profundidad_km": 45.941,
+    "latitud": 5.6079,
+    "longitud": 125.3054,
+    "pais": "",
+    "ciudad_referencia": "6 km NW of Balangonan, Philippines",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlc",
+    "fecha_primera_recepcion": "2026-10-28T01:30:36.501986+00:00",
+    "fecha_ultima_observacion": "2026-10-28T01:30:36.501986+00:00"
   }
 }
