@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-28T15:20:32.663185+00:00",
+  "actualizado_utc": "2026-10-28T15:25:42.326279+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 65,
   "actualizacion_minutos": 5,
   "igp": 65,
   "emsc": 2516,
-  "usgs": 542,
-  "duplicados_eliminados": 526,
+  "usgs": 543,
+  "duplicados_eliminados": 527,
   "eventos_publicados": 2597,
-  "evento_mas_reciente_utc": "2026-10-28T15:07:52.720000+00:00",
+  "evento_mas_reciente_utc": "2026-10-28T15:07:52.050000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 15,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-28T01:36:36+00:00",
-      "antiguedad_evento_mas_reciente_min": 823.9
+      "antiguedad_evento_mas_reciente_min": 829.1
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2516,
       "eventos_recibidos": 2519,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-28T15:07:52.720000+00:00",
-      "antiguedad_evento_mas_reciente_min": 12.7
+      "evento_mas_reciente_utc": "2026-10-28T15:07:52.050000+00:00",
+      "antiguedad_evento_mas_reciente_min": 17.8
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 542,
-      "eventos_recibidos": 546,
+      "eventos_validos": 543,
+      "eventos_recibidos": 547,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-28T13:34:33.940000+00:00",
-      "antiguedad_evento_mas_reciente_min": 106.0
+      "evento_mas_reciente_utc": "2026-10-28T15:07:52.050000+00:00",
+      "antiguedad_evento_mas_reciente_min": 17.8
     }
   },
   "ultimo_evento": {
@@ -54,35 +54,35 @@
     },
     "emsc": {
       "id": "20261028_0000232",
-      "fecha_hora_utc": "2026-10-28T15:07:52.720000+00:00",
-      "magnitud": 5.6,
-      "profundidad_km": 46.0,
-      "latitud": 35.6762,
-      "longitud": 140.5923,
+      "fecha_hora_utc": "2026-10-28T15:07:52.050000+00:00",
+      "magnitud": 5.5,
+      "profundidad_km": 41.4,
+      "latitud": 35.7015,
+      "longitud": 140.7059,
       "pais": "",
       "ciudad_referencia": "NEAR EAST COAST OF HONSHU, JAPAN",
       "fuente": "EMSC",
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261028_0000232"
     },
     "usgs": {
-      "id": "pr71537823",
-      "fecha_hora_utc": "2026-10-28T13:34:33.940000+00:00",
-      "magnitud": 3.28,
-      "profundidad_km": 14.08,
-      "latitud": 18.8435,
-      "longitud": -64.784,
+      "id": "us7000ttpe",
+      "fecha_hora_utc": "2026-10-28T15:07:52.050000+00:00",
+      "magnitud": 5.5,
+      "profundidad_km": 41.356,
+      "latitud": 35.7015,
+      "longitud": 140.7059,
       "pais": "",
-      "ciudad_referencia": "56 km N of Cruz Bay, U.S. Virgin Islands",
+      "ciudad_referencia": "5 km ESE of Asahi, Japan",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537823"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttpe"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-28T15:20:32.663185+00:00"
+    "hora_consulta_utc": "2026-10-28T15:25:42.326279+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-28T15:20:32.663185+00:00",
+  "updated_utc": "2026-10-28T15:25:42.326279+00:00",
   "combined_after_dedup": 2597
 }
