@@ -50551,7 +50551,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-755",
     "fecha_primera_recepcion": "2026-10-28T05:30:27.893930+00:00",
-    "fecha_ultima_observacion": "2026-10-28T20:25:34.595185+00:00"
+    "fecha_ultima_observacion": "2026-10-28T20:30:36.364217+00:00"
   },
   "EMSC:20261028_0000076": {
     "id": "20261028_0000076",
@@ -51755,7 +51755,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tttl",
     "fecha_primera_recepcion": "2026-10-28T20:15:42.840347+00:00",
-    "fecha_ultima_observacion": "2026-10-28T20:25:34.595185+00:00"
+    "fecha_ultima_observacion": "2026-10-28T20:30:36.364217+00:00"
   },
   "EMSC:20261028_0000313": {
     "id": "20261028_0000313",
@@ -51770,5 +51770,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261028_0000313",
     "fecha_primera_recepcion": "2026-10-28T20:20:39.533193+00:00",
     "fecha_ultima_observacion": "2026-10-28T20:25:34.595185+00:00"
+  },
+  "EMSC:20261028_0000317": {
+    "id": "20261028_0000317",
+    "fecha_hora_utc": "2026-10-28T20:23:24+00:00",
+    "magnitud": 3.3,
+    "profundidad_km": 10.0,
+    "latitud": -5.42,
+    "longitud": 104.65,
+    "pais": "",
+    "ciudad_referencia": "SOUTHERN SUMATRA, INDONESIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261028_0000317",
+    "fecha_primera_recepcion": "2026-10-28T20:30:36.364217+00:00",
+    "fecha_ultima_observacion": "2026-10-28T20:30:36.364217+00:00"
   }
 }
