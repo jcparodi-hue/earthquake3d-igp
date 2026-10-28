@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-28T10:40:34.712921+00:00",
+  "actualizado_utc": "2026-10-28T10:45:32.613269+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 65,
   "actualizacion_minutos": 5,
   "igp": 65,
-  "emsc": 2487,
+  "emsc": 2490,
   "usgs": 533,
-  "duplicados_eliminados": 513,
-  "eventos_publicados": 2572,
-  "evento_mas_reciente_utc": "2026-10-28T10:12:47+00:00",
+  "duplicados_eliminados": 515,
+  "eventos_publicados": 2573,
+  "evento_mas_reciente_utc": "2026-10-28T10:39:50+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 15,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-28T01:36:36+00:00",
-      "antiguedad_evento_mas_reciente_min": 544.0
+      "antiguedad_evento_mas_reciente_min": 548.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2487,
-      "eventos_recibidos": 2490,
+      "eventos_validos": 2490,
+      "eventos_recibidos": 2493,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-28T10:12:47+00:00",
-      "antiguedad_evento_mas_reciente_min": 27.8
+      "evento_mas_reciente_utc": "2026-10-28T10:39:50+00:00",
+      "antiguedad_evento_mas_reciente_min": 5.7
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -35,8 +35,8 @@
       "eventos_validos": 533,
       "eventos_recibidos": 537,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-28T09:43:59.075000+00:00",
-      "antiguedad_evento_mas_reciente_min": 56.6
+      "evento_mas_reciente_utc": "2026-10-28T09:44:00.460000+00:00",
+      "antiguedad_evento_mas_reciente_min": 61.5
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-755"
     },
     "emsc": {
-      "id": "20261028_0000143",
-      "fecha_hora_utc": "2026-10-28T10:12:47+00:00",
-      "magnitud": 2.5,
-      "profundidad_km": 148.0,
-      "latitud": -28.17,
-      "longitud": -67.32,
+      "id": "20261028_0000146",
+      "fecha_hora_utc": "2026-10-28T10:39:50+00:00",
+      "magnitud": 2.7,
+      "profundidad_km": 19.0,
+      "latitud": 9.8474,
+      "longitud": -85.672,
       "pais": "",
-      "ciudad_referencia": "CATAMARCA, ARGENTINA",
+      "ciudad_referencia": "OFF COAST OF COSTA RICA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261028_0000143"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261028_0000146"
     },
     "usgs": {
-      "id": "us7000ttn0",
-      "fecha_hora_utc": "2026-10-28T09:43:59.075000+00:00",
-      "magnitud": 3.8,
-      "profundidad_km": 32.782,
-      "latitud": 17.9478,
-      "longitud": -65.3403,
+      "id": "pr2026301000",
+      "fecha_hora_utc": "2026-10-28T09:44:00.460000+00:00",
+      "magnitud": 4.07,
+      "profundidad_km": 25.0,
+      "latitud": 17.9548,
+      "longitud": -65.3388,
       "pais": "",
       "ciudad_referencia": "21 km SE of Esperanza, Puerto Rico",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttn0"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026301000"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-28T10:40:34.712921+00:00"
+    "hora_consulta_utc": "2026-10-28T10:45:32.613269+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-28T10:40:34.712921+00:00",
-  "combined_after_dedup": 2572
+  "updated_utc": "2026-10-28T10:45:32.613269+00:00",
+  "combined_after_dedup": 2573
 }
