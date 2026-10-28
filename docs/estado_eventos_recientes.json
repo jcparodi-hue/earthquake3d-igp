@@ -48451,7 +48451,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-754",
     "fecha_primera_recepcion": "2026-10-27T05:40:31.030425+00:00",
-    "fecha_ultima_observacion": "2026-10-28T02:35:27.591807+00:00"
+    "fecha_ultima_observacion": "2026-10-28T02:40:32.296811+00:00"
   },
   "EMSC:20261027_0000068": {
     "id": "20261027_0000068",
@@ -50271,6 +50271,20 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttlm",
     "fecha_primera_recepcion": "2026-10-28T02:35:27.591807+00:00",
-    "fecha_ultima_observacion": "2026-10-28T02:35:27.591807+00:00"
+    "fecha_ultima_observacion": "2026-10-28T02:40:32.296811+00:00"
+  },
+  "EMSC:20261028_0000039": {
+    "id": "20261028_0000039",
+    "fecha_hora_utc": "2026-10-28T02:26:06+00:00",
+    "magnitud": 3.1,
+    "profundidad_km": 10.0,
+    "latitud": 25.544,
+    "longitud": 91.056,
+    "pais": "",
+    "ciudad_referencia": "MEGHALAYA, INDIA REGION",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261028_0000039",
+    "fecha_primera_recepcion": "2026-10-28T02:40:32.296811+00:00",
+    "fecha_ultima_observacion": "2026-10-28T02:40:32.296811+00:00"
   }
 }
