@@ -1,13 +1,13 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-28T12:15:26.642578+00:00",
+  "actualizado_utc": "2026-10-28T12:20:29.187517+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 65,
   "actualizacion_minutos": 5,
   "igp": 65,
-  "emsc": 2493,
+  "emsc": 2494,
   "usgs": 539,
-  "duplicados_eliminados": 521,
+  "duplicados_eliminados": 522,
   "eventos_publicados": 2576,
   "evento_mas_reciente_utc": "2026-10-28T12:05:34+00:00",
   "salud_fuentes": {
@@ -18,16 +18,16 @@
       "eventos_recibidos": 15,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-28T01:36:36+00:00",
-      "antiguedad_evento_mas_reciente_min": 638.8
+      "antiguedad_evento_mas_reciente_min": 643.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2493,
-      "eventos_recibidos": 2496,
+      "eventos_validos": 2494,
+      "eventos_recibidos": 2497,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-10-28T12:05:34+00:00",
-      "antiguedad_evento_mas_reciente_min": 9.9
+      "antiguedad_evento_mas_reciente_min": 14.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 543,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-10-28T12:01:11.470000+00:00",
-      "antiguedad_evento_mas_reciente_min": 14.3
+      "antiguedad_evento_mas_reciente_min": 19.3
     }
   },
   "ultimo_evento": {
@@ -67,7 +67,7 @@
     "usgs": {
       "id": "nc75458907",
       "fecha_hora_utc": "2026-10-28T12:01:11.470000+00:00",
-      "magnitud": 3.88,
+      "magnitud": 4.01,
       "profundidad_km": 10.5900001525879,
       "latitud": 39.5004997253418,
       "longitud": -122.951835632324,
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-28T12:15:26.642578+00:00"
+    "hora_consulta_utc": "2026-10-28T12:20:29.187517+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-28T12:15:26.642578+00:00",
+  "updated_utc": "2026-10-28T12:20:29.187517+00:00",
   "combined_after_dedup": 2576
 }
