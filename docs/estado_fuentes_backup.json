@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-28T06:20:25.510286+00:00",
+  "actualizado_utc": "2026-10-28T06:25:31.989725+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 65,
   "actualizacion_minutos": 5,
   "igp": 65,
-  "emsc": 2492,
+  "emsc": 2493,
   "usgs": 536,
   "duplicados_eliminados": 515,
-  "eventos_publicados": 2578,
-  "evento_mas_reciente_utc": "2026-10-28T06:12:35+00:00",
+  "eventos_publicados": 2579,
+  "evento_mas_reciente_utc": "2026-10-28T06:17:41+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,15 +18,15 @@
       "eventos_recibidos": 15,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-28T01:36:36+00:00",
-      "antiguedad_evento_mas_reciente_min": 283.8
+      "antiguedad_evento_mas_reciente_min": 288.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2492,
-      "eventos_recibidos": 2495,
+      "eventos_validos": 2493,
+      "eventos_recibidos": 2496,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-28T06:12:35+00:00",
+      "evento_mas_reciente_utc": "2026-10-28T06:17:41+00:00",
       "antiguedad_evento_mas_reciente_min": 7.8
     },
     "usgs": {
@@ -36,7 +36,7 @@
       "eventos_recibidos": 540,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-10-28T04:31:04.089000+00:00",
-      "antiguedad_evento_mas_reciente_min": 109.4
+      "antiguedad_evento_mas_reciente_min": 114.5
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-755"
     },
     "emsc": {
-      "id": "20261028_0000081",
-      "fecha_hora_utc": "2026-10-28T06:12:35+00:00",
-      "magnitud": 3.5,
-      "profundidad_km": 10.0,
-      "latitud": 7.3723,
-      "longitud": -80.1295,
+      "id": "20261028_0000082",
+      "fecha_hora_utc": "2026-10-28T06:17:41+00:00",
+      "magnitud": 3.0,
+      "profundidad_km": 103.9,
+      "latitud": -27.9,
+      "longitud": -69.2,
       "pais": "",
-      "ciudad_referencia": "PANAMA",
+      "ciudad_referencia": "ATACAMA, CHILE",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261028_0000081"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261028_0000082"
     },
     "usgs": {
       "id": "us7000ttm2",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-28T06:20:25.510286+00:00"
+    "hora_consulta_utc": "2026-10-28T06:25:31.989725+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-28T06:20:25.510286+00:00",
-  "combined_after_dedup": 2578
+  "updated_utc": "2026-10-28T06:25:31.989725+00:00",
+  "combined_after_dedup": 2579
 }
