@@ -50481,7 +50481,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttm2",
     "fecha_primera_recepcion": "2026-10-28T04:50:24.603570+00:00",
-    "fecha_ultima_observacion": "2026-10-28T05:30:27.893930+00:00"
+    "fecha_ultima_observacion": "2026-10-28T05:35:31.572968+00:00"
   },
   "EMSC:20261028_0000067": {
     "id": "20261028_0000067",
@@ -50551,6 +50551,20 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-755",
     "fecha_primera_recepcion": "2026-10-28T05:30:27.893930+00:00",
-    "fecha_ultima_observacion": "2026-10-28T05:30:27.893930+00:00"
+    "fecha_ultima_observacion": "2026-10-28T05:35:31.572968+00:00"
+  },
+  "EMSC:20261028_0000076": {
+    "id": "20261028_0000076",
+    "fecha_hora_utc": "2026-10-28T05:28:30+00:00",
+    "magnitud": 3.5,
+    "profundidad_km": 40.0,
+    "latitud": 28.3,
+    "longitud": 129.5,
+    "pais": "",
+    "ciudad_referencia": "RYUKYU ISLANDS, JAPAN",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261028_0000076",
+    "fecha_primera_recepcion": "2026-10-28T05:35:31.572968+00:00",
+    "fecha_ultima_observacion": "2026-10-28T05:35:31.572968+00:00"
   }
 }

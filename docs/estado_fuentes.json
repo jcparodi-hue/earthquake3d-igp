@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-28T05:30:27.893930+00:00",
+  "actualizado_utc": "2026-10-28T05:35:31.572968+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 65,
   "actualizacion_minutos": 5,
   "igp": 65,
-  "emsc": 2493,
+  "emsc": 2491,
   "usgs": 537,
   "duplicados_eliminados": 516,
-  "eventos_publicados": 2579,
-  "evento_mas_reciente_utc": "2026-10-28T05:19:32+00:00",
+  "eventos_publicados": 2577,
+  "evento_mas_reciente_utc": "2026-10-28T05:28:30+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 15,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-28T01:36:36+00:00",
-      "antiguedad_evento_mas_reciente_min": 233.9
+      "antiguedad_evento_mas_reciente_min": 238.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2493,
-      "eventos_recibidos": 2496,
+      "eventos_validos": 2491,
+      "eventos_recibidos": 2494,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-28T05:19:32+00:00",
-      "antiguedad_evento_mas_reciente_min": 10.9
+      "evento_mas_reciente_utc": "2026-10-28T05:28:30+00:00",
+      "antiguedad_evento_mas_reciente_min": 7.0
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 541,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-10-28T04:31:04.089000+00:00",
-      "antiguedad_evento_mas_reciente_min": 59.4
+      "antiguedad_evento_mas_reciente_min": 64.5
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-755"
     },
     "emsc": {
-      "id": "20261028_0000073",
-      "fecha_hora_utc": "2026-10-28T05:19:32+00:00",
-      "magnitud": 3.7,
-      "profundidad_km": 10.0,
-      "latitud": 7.5816,
-      "longitud": -80.8677,
+      "id": "20261028_0000076",
+      "fecha_hora_utc": "2026-10-28T05:28:30+00:00",
+      "magnitud": 3.5,
+      "profundidad_km": 40.0,
+      "latitud": 28.3,
+      "longitud": 129.5,
       "pais": "",
-      "ciudad_referencia": "PANAMA",
+      "ciudad_referencia": "RYUKYU ISLANDS, JAPAN",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261028_0000073"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261028_0000076"
     },
     "usgs": {
       "id": "us7000ttm2",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-28T05:30:27.893930+00:00"
+    "hora_consulta_utc": "2026-10-28T05:35:31.572968+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-28T05:30:27.893930+00:00",
-  "combined_after_dedup": 2579
+  "updated_utc": "2026-10-28T05:35:31.572968+00:00",
+  "combined_after_dedup": 2577
 }
