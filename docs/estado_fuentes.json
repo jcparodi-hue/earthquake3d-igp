@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-28T09:50:31.044247+00:00",
+  "actualizado_utc": "2026-10-28T09:55:27.620367+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 65,
   "actualizacion_minutos": 5,
@@ -9,7 +9,7 @@
   "usgs": 532,
   "duplicados_eliminados": 512,
   "eventos_publicados": 2579,
-  "evento_mas_reciente_utc": "2026-10-28T09:32:52.520000+00:00",
+  "evento_mas_reciente_utc": "2026-10-28T09:32:53+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 15,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-28T01:36:36+00:00",
-      "antiguedad_evento_mas_reciente_min": 493.9
+      "antiguedad_evento_mas_reciente_min": 498.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,8 +26,8 @@
       "eventos_validos": 2494,
       "eventos_recibidos": 2497,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-28T09:32:52.520000+00:00",
-      "antiguedad_evento_mas_reciente_min": 17.6
+      "evento_mas_reciente_utc": "2026-10-28T09:32:53+00:00",
+      "antiguedad_evento_mas_reciente_min": 22.6
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 536,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-10-28T07:02:12.084000+00:00",
-      "antiguedad_evento_mas_reciente_min": 168.3
+      "antiguedad_evento_mas_reciente_min": 173.3
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261028_0000134",
-      "fecha_hora_utc": "2026-10-28T09:32:52.520000+00:00",
+      "fecha_hora_utc": "2026-10-28T09:32:53+00:00",
       "magnitud": 5.1,
-      "profundidad_km": 35.0,
-      "latitud": 5.1603,
-      "longitud": 125.3119,
+      "profundidad_km": 23.0,
+      "latitud": 5.25,
+      "longitud": 125.3,
       "pais": "",
       "ciudad_referencia": "MINDANAO, PHILIPPINES",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-28T09:50:31.044247+00:00"
+    "hora_consulta_utc": "2026-10-28T09:55:27.620367+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-28T09:50:31.044247+00:00",
+  "updated_utc": "2026-10-28T09:55:27.620367+00:00",
   "combined_after_dedup": 2579
 }
