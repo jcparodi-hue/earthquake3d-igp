@@ -50551,7 +50551,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-755",
     "fecha_primera_recepcion": "2026-10-28T05:30:27.893930+00:00",
-    "fecha_ultima_observacion": "2026-10-28T10:55:31.490665+00:00"
+    "fecha_ultima_observacion": "2026-10-28T11:00:42.196220+00:00"
   },
   "EMSC:20261028_0000076": {
     "id": "20261028_0000076",
@@ -50944,5 +50944,33 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026301000",
     "fecha_primera_recepcion": "2026-10-28T10:45:32.613269+00:00",
     "fecha_ultima_observacion": "2026-10-28T10:55:31.490665+00:00"
+  },
+  "EMSC:20261028_0000149": {
+    "id": "20261028_0000149",
+    "fecha_hora_utc": "2026-10-28T10:56:17.538148+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 70.5,
+    "latitud": 60.243,
+    "longitud": -150.857,
+    "pais": "",
+    "ciudad_referencia": "KENAI PENINSULA, ALASKA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261028_0000149",
+    "fecha_primera_recepcion": "2026-10-28T11:00:42.196220+00:00",
+    "fecha_ultima_observacion": "2026-10-28T11:00:42.196220+00:00"
+  },
+  "USGS:aka2026viylbm": {
+    "id": "aka2026viylbm",
+    "fecha_hora_utc": "2026-10-28T10:56:17.538000+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 70.5,
+    "latitud": 60.243,
+    "longitud": -150.857,
+    "pais": "",
+    "ciudad_referencia": "25 km ESE of Kasilof, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026viylbm",
+    "fecha_primera_recepcion": "2026-10-28T11:00:42.196220+00:00",
+    "fecha_ultima_observacion": "2026-10-28T11:00:42.196220+00:00"
   }
 }
