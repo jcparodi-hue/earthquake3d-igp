@@ -51895,7 +51895,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-756",
     "fecha_primera_recepcion": "2026-10-28T21:45:33.990083+00:00",
-    "fecha_ultima_observacion": "2026-10-28T22:10:35.007012+00:00"
+    "fecha_ultima_observacion": "2026-10-28T22:15:35.505403+00:00"
   },
   "USGS:us7000ttu5": {
     "id": "us7000ttu5",
@@ -51937,7 +51937,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vgingz",
     "fecha_primera_recepcion": "2026-10-28T21:55:31.051765+00:00",
-    "fecha_ultima_observacion": "2026-10-28T22:10:35.007012+00:00"
+    "fecha_ultima_observacion": "2026-10-28T22:15:35.505403+00:00"
   },
   "EMSC:20261028_0000338": {
     "id": "20261028_0000338",
@@ -51952,5 +51952,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261028_0000338",
     "fecha_primera_recepcion": "2026-10-28T22:10:35.007012+00:00",
     "fecha_ultima_observacion": "2026-10-28T22:10:35.007012+00:00"
+  },
+  "EMSC:20261028_0000339": {
+    "id": "20261028_0000339",
+    "fecha_hora_utc": "2026-10-28T22:06:45.280000+00:00",
+    "magnitud": 5.8,
+    "profundidad_km": 108.0,
+    "latitud": -6.5052,
+    "longitud": 130.4209,
+    "pais": "",
+    "ciudad_referencia": "BANDA SEA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261028_0000339",
+    "fecha_primera_recepcion": "2026-10-28T22:15:35.505403+00:00",
+    "fecha_ultima_observacion": "2026-10-28T22:15:35.505403+00:00"
   }
 }
