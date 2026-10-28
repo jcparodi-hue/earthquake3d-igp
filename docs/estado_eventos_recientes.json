@@ -50551,7 +50551,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-755",
     "fecha_primera_recepcion": "2026-10-28T05:30:27.893930+00:00",
-    "fecha_ultima_observacion": "2026-10-28T20:02:10.590119+00:00"
+    "fecha_ultima_observacion": "2026-10-28T20:05:35.402731+00:00"
   },
   "EMSC:20261028_0000076": {
     "id": "20261028_0000076",
@@ -51714,5 +51714,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261028_0000307",
     "fecha_primera_recepcion": "2026-10-28T20:00:45.317684+00:00",
     "fecha_ultima_observacion": "2026-10-28T20:02:10.590119+00:00"
+  },
+  "EMSC:20261028_0000308": {
+    "id": "20261028_0000308",
+    "fecha_hora_utc": "2026-10-28T19:56:50.170000+00:00",
+    "magnitud": 5.1,
+    "profundidad_km": 53.0,
+    "latitud": 2.4849,
+    "longitud": 126.816,
+    "pais": "",
+    "ciudad_referencia": "MOLUCCA SEA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261028_0000308",
+    "fecha_primera_recepcion": "2026-10-28T20:05:35.402731+00:00",
+    "fecha_ultima_observacion": "2026-10-28T20:05:35.402731+00:00"
+  },
+  "USGS:us7000ttth": {
+    "id": "us7000ttth",
+    "fecha_hora_utc": "2026-10-28T19:45:32.958000+00:00",
+    "magnitud": 5.2,
+    "profundidad_km": 10.0,
+    "latitud": 58.1136,
+    "longitud": -32.1037,
+    "pais": "",
+    "ciudad_referencia": "Reykjanes Ridge",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttth",
+    "fecha_primera_recepcion": "2026-10-28T20:05:35.402731+00:00",
+    "fecha_ultima_observacion": "2026-10-28T20:05:35.402731+00:00"
   }
 }
