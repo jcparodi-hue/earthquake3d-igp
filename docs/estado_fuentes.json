@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-29T09:55:33.949313+00:00",
+  "actualizado_utc": "2026-10-29T10:00:38.709263+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 66,
   "actualizacion_minutos": 5,
   "igp": 66,
-  "emsc": 2494,
+  "emsc": 2495,
   "usgs": 533,
   "duplicados_eliminados": 515,
-  "eventos_publicados": 2578,
-  "evento_mas_reciente_utc": "2026-10-29T09:43:46+00:00",
+  "eventos_publicados": 2579,
+  "evento_mas_reciente_utc": "2026-10-29T09:49:06+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 15,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-28T17:11:13+00:00",
-      "antiguedad_evento_mas_reciente_min": 1004.3
+      "antiguedad_evento_mas_reciente_min": 1009.4
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2494,
-      "eventos_recibidos": 2496,
+      "eventos_validos": 2495,
+      "eventos_recibidos": 2497,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-10-29T09:43:46+00:00",
-      "antiguedad_evento_mas_reciente_min": 11.8
+      "evento_mas_reciente_utc": "2026-10-29T09:49:06+00:00",
+      "antiguedad_evento_mas_reciente_min": 11.5
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 536,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-10-29T08:49:42.448000+00:00",
-      "antiguedad_evento_mas_reciente_min": 65.9
+      "antiguedad_evento_mas_reciente_min": 70.9
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-756"
     },
     "emsc": {
-      "id": "20261029_0000144",
-      "fecha_hora_utc": "2026-10-29T09:43:46+00:00",
-      "magnitud": 2.7,
-      "profundidad_km": 10.0,
-      "latitud": -31.78,
-      "longitud": -67.95,
+      "id": "20261029_0000147",
+      "fecha_hora_utc": "2026-10-29T09:49:06+00:00",
+      "magnitud": 3.4,
+      "profundidad_km": 111.0,
+      "latitud": 11.466,
+      "longitud": -85.659,
       "pais": "",
-      "ciudad_referencia": "SAN JUAN, ARGENTINA",
+      "ciudad_referencia": "NICARAGUA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261029_0000144"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261029_0000147"
     },
     "usgs": {
       "id": "us7000tty7",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-29T09:55:33.949313+00:00"
+    "hora_consulta_utc": "2026-10-29T10:00:38.709263+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-29T09:55:33.949313+00:00",
-  "combined_after_dedup": 2578
+  "updated_utc": "2026-10-29T10:00:38.709263+00:00",
+  "combined_after_dedup": 2579
 }
