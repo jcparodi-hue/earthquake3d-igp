@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-29T03:25:31.955067+00:00",
+  "actualizado_utc": "2026-10-29T03:30:29.618173+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 66,
   "actualizacion_minutos": 5,
   "igp": 66,
-  "emsc": 2499,
+  "emsc": 2502,
   "usgs": 542,
-  "duplicados_eliminados": 522,
-  "eventos_publicados": 2585,
-  "evento_mas_reciente_utc": "2026-10-29T02:45:03+00:00",
+  "duplicados_eliminados": 523,
+  "eventos_publicados": 2587,
+  "evento_mas_reciente_utc": "2026-10-29T03:25:33.679551+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 15,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-28T17:11:13+00:00",
-      "antiguedad_evento_mas_reciente_min": 614.3
+      "antiguedad_evento_mas_reciente_min": 619.3
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2499,
-      "eventos_recibidos": 2501,
+      "eventos_validos": 2502,
+      "eventos_recibidos": 2504,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-10-29T02:45:03+00:00",
-      "antiguedad_evento_mas_reciente_min": 40.5
+      "evento_mas_reciente_utc": "2026-10-29T03:25:33.679551+00:00",
+      "antiguedad_evento_mas_reciente_min": 4.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 545,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-10-29T02:18:21.049000+00:00",
-      "antiguedad_evento_mas_reciente_min": 67.2
+      "antiguedad_evento_mas_reciente_min": 72.1
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-756"
     },
     "emsc": {
-      "id": "20261029_0000037",
-      "fecha_hora_utc": "2026-10-29T02:45:03+00:00",
-      "magnitud": 3.7,
+      "id": "20261029_0000045",
+      "fecha_hora_utc": "2026-10-29T03:25:33.679551+00:00",
+      "magnitud": 3.5,
       "profundidad_km": 10.0,
-      "latitud": -8.44,
-      "longitud": 121.55,
+      "latitud": -40.1995,
+      "longitud": 174.9239,
       "pais": "",
-      "ciudad_referencia": "FLORES REGION, INDONESIA",
+      "ciudad_referencia": "COOK STRAIT, NEW ZEALAND",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261029_0000037"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261029_0000045"
     },
     "usgs": {
       "id": "us7000ttvy",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-29T03:25:31.955067+00:00"
+    "hora_consulta_utc": "2026-10-29T03:30:29.618173+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-29T03:25:31.955067+00:00",
-  "combined_after_dedup": 2585
+  "updated_utc": "2026-10-29T03:30:29.618173+00:00",
+  "combined_after_dedup": 2587
 }
