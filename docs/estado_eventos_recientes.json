@@ -53379,7 +53379,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-758",
     "fecha_primera_recepcion": "2026-10-29T14:22:19.401293+00:00",
-    "fecha_ultima_observacion": "2026-10-29T22:01:09.628685+00:00"
+    "fecha_ultima_observacion": "2026-10-29T22:05:34.144732+00:00"
   },
   "EMSC:20261029_0000213": {
     "id": "20261029_0000213",
@@ -54027,16 +54027,30 @@
   },
   "EMSC:20261029_0000336": {
     "id": "20261029_0000336",
-    "fecha_hora_utc": "2026-10-29T21:46:44.320000+00:00",
-    "magnitud": 6.1,
-    "profundidad_km": 130.0,
-    "latitud": -15.1626,
-    "longitud": 167.421,
+    "fecha_hora_utc": "2026-10-29T21:46:46.070000+00:00",
+    "magnitud": 6.2,
+    "profundidad_km": 150.0,
+    "latitud": -15.2011,
+    "longitud": 167.4373,
     "pais": "",
     "ciudad_referencia": "VANUATU",
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261029_0000336",
     "fecha_primera_recepcion": "2026-10-29T21:55:28.267178+00:00",
-    "fecha_ultima_observacion": "2026-10-29T22:01:09.628685+00:00"
+    "fecha_ultima_observacion": "2026-10-29T22:05:34.144732+00:00"
+  },
+  "USGS:us7000tu4f": {
+    "id": "us7000tu4f",
+    "fecha_hora_utc": "2026-10-29T21:46:44.786000+00:00",
+    "magnitud": 6.2,
+    "profundidad_km": 142.833,
+    "latitud": -15.1891,
+    "longitud": 167.4523,
+    "pais": "",
+    "ciudad_referencia": "43 km ESE of Port-Olry, Vanuatu",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu4f",
+    "fecha_primera_recepcion": "2026-10-29T22:05:34.144732+00:00",
+    "fecha_ultima_observacion": "2026-10-29T22:05:34.144732+00:00"
   }
 }
