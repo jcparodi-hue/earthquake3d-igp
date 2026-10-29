@@ -53379,7 +53379,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-758",
     "fecha_primera_recepcion": "2026-10-29T14:22:19.401293+00:00",
-    "fecha_ultima_observacion": "2026-10-29T14:50:38.033228+00:00"
+    "fecha_ultima_observacion": "2026-10-29T14:55:26.069895+00:00"
   },
   "EMSC:20261029_0000213": {
     "id": "20261029_0000213",
@@ -53407,6 +53407,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261029_0000216",
     "fecha_primera_recepcion": "2026-10-29T14:35:25.278312+00:00",
-    "fecha_ultima_observacion": "2026-10-29T14:50:38.033228+00:00"
+    "fecha_ultima_observacion": "2026-10-29T14:55:26.069895+00:00"
+  },
+  "USGS:aka2026vlcdmm": {
+    "id": "aka2026vlcdmm",
+    "fecha_hora_utc": "2026-10-29T14:49:54.107000+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 20.7,
+    "latitud": 60.862,
+    "longitud": -147.594,
+    "pais": "",
+    "ciudad_referencia": "49 km W of Tatitlek, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vlcdmm",
+    "fecha_primera_recepcion": "2026-10-29T14:55:26.069895+00:00",
+    "fecha_ultima_observacion": "2026-10-29T14:55:26.069895+00:00"
   }
 }
