@@ -51895,7 +51895,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-756",
     "fecha_primera_recepcion": "2026-10-28T21:45:33.990083+00:00",
-    "fecha_ultima_observacion": "2026-10-29T07:45:36.606392+00:00"
+    "fecha_ultima_observacion": "2026-10-29T07:50:35.183740+00:00"
   },
   "USGS:us7000ttu5": {
     "id": "us7000ttu5",
@@ -52820,5 +52820,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261029_0000114",
     "fecha_primera_recepcion": "2026-10-29T07:40:34.464122+00:00",
     "fecha_ultima_observacion": "2026-10-29T07:45:36.606392+00:00"
+  },
+  "EMSC:20261029_0000118": {
+    "id": "20261029_0000118",
+    "fecha_hora_utc": "2026-10-29T07:39:45.100000+00:00",
+    "magnitud": 3.5,
+    "profundidad_km": 1.0,
+    "latitud": 37.752,
+    "longitud": -26.328,
+    "pais": "",
+    "ciudad_referencia": "AZORES ISLANDS, PORTUGAL",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261029_0000118",
+    "fecha_primera_recepcion": "2026-10-29T07:50:35.183740+00:00",
+    "fecha_ultima_observacion": "2026-10-29T07:50:35.183740+00:00"
+  },
+  "USGS:us7000ttxn": {
+    "id": "us7000ttxn",
+    "fecha_hora_utc": "2026-10-29T07:31:30.432000+00:00",
+    "magnitud": 5.4,
+    "profundidad_km": 10.0,
+    "latitud": 8.4677,
+    "longitud": 127.4269,
+    "pais": "",
+    "ciudad_referencia": "114 km ENE of Barcelona, Philippines",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttxn",
+    "fecha_primera_recepcion": "2026-10-29T07:50:35.183740+00:00",
+    "fecha_ultima_observacion": "2026-10-29T07:50:35.183740+00:00"
   }
 }
