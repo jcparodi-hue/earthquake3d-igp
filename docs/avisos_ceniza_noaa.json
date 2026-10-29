@@ -1,5 +1,19 @@
 [
   {
+    "volcan": "Santa María",
+    "pais": "Guatemala",
+    "codigo_vaac": "SANTAMA",
+    "fecha_hora_utc_texto": "2354 UTC",
+    "id_archivo": "2026J282354",
+    "url_aviso": "https://www.ospo.noaa.gov/VAAC/ARCH26/SANTAMA/2026J282354.html",
+    "url_xml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/xml_files/FVXX23_20261028_2354.xml",
+    "url_grafico": "https://www.ospo.noaa.gov/VAAC/ARCH26/GFX/SANT0632.jpg",
+    "url_kml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/kml_files/SANTAMARIA_ASH_202610282354.kml",
+    "vaac": "Washington",
+    "tipo": "VAA",
+    "fuente": "NOAA Washington VAAC"
+  },
+  {
     "volcan": "Popocatépetl",
     "pais": "México",
     "codigo_vaac": "POPO",
@@ -357,22 +371,8 @@
     "id_archivo": "2026J280100",
     "url_aviso": "https://www.ospo.noaa.gov/VAAC/ARCH26/PURA/2026J280100.html",
     "url_xml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/xml_files/FVXX20_20261028_0100.xml",
-    "url_grafico": "https://www.ospo.noaa.gov/VAAC/ARCH26/GFX/REVE1132.jpg",
+    "url_grafico": "",
     "url_kml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/kml_files/PURACE_ASH_202610280100.kml",
-    "vaac": "Washington",
-    "tipo": "VAA",
-    "fuente": "NOAA Washington VAAC"
-  },
-  {
-    "volcan": "Reventador",
-    "pais": "Ecuador",
-    "codigo_vaac": "REVE",
-    "fecha_hora_utc_texto": "2354 UTC",
-    "id_archivo": "2026J272354",
-    "url_aviso": "https://www.ospo.noaa.gov/VAAC/ARCH26/REVE/2026J272354.html",
-    "url_xml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/xml_files/FVXX21_20261027_2354.xml",
-    "url_grafico": "https://www.ospo.noaa.gov/VAAC/ARCH26/GFX/REVE1132.jpg",
-    "url_kml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/kml_files/REVENTADOR_ASH_202610272354.kml",
     "vaac": "Washington",
     "tipo": "VAA",
     "fuente": "NOAA Washington VAAC"
