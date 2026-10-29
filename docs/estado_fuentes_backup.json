@@ -1,14 +1,14 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-29T17:37:54.859520+00:00",
+  "actualizado_utc": "2026-10-29T17:40:34.280967+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 68,
   "actualizacion_minutos": 5,
   "igp": 68,
-  "emsc": 2485,
-  "usgs": 527,
-  "duplicados_eliminados": 508,
-  "eventos_publicados": 2572,
+  "emsc": 2486,
+  "usgs": 528,
+  "duplicados_eliminados": 509,
+  "eventos_publicados": 2573,
   "evento_mas_reciente_utc": "2026-10-29T17:16:17+00:00",
   "salud_fuentes": {
     "igp": {
@@ -18,25 +18,25 @@
       "eventos_recibidos": 14,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-29T12:04:03+00:00",
-      "antiguedad_evento_mas_reciente_min": 333.9
+      "antiguedad_evento_mas_reciente_min": 336.5
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2485,
-      "eventos_recibidos": 2487,
+      "eventos_validos": 2486,
+      "eventos_recibidos": 2488,
       "invalidos_rechazados": 2,
       "evento_mas_reciente_utc": "2026-10-29T17:16:17+00:00",
-      "antiguedad_evento_mas_reciente_min": 21.6
+      "antiguedad_evento_mas_reciente_min": 24.3
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 527,
-      "eventos_recibidos": 530,
+      "eventos_validos": 528,
+      "eventos_recibidos": 531,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-29T16:31:55.440000+00:00",
-      "antiguedad_evento_mas_reciente_min": 66.0
+      "evento_mas_reciente_utc": "2026-10-29T17:04:55.509000+00:00",
+      "antiguedad_evento_mas_reciente_min": 35.6
     }
   },
   "ultimo_evento": {
@@ -65,24 +65,24 @@
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261029_0000264"
     },
     "usgs": {
-      "id": "hv75065421",
-      "fecha_hora_utc": "2026-10-29T16:31:55.440000+00:00",
-      "magnitud": 2.58,
-      "profundidad_km": 0.100000001490116,
-      "latitud": 19.3684997558594,
-      "longitud": -155.018005371094,
+      "id": "us7000tu16",
+      "fecha_hora_utc": "2026-10-29T17:04:55.509000+00:00",
+      "magnitud": 3.5,
+      "profundidad_km": 10.0,
+      "latitud": 44.5018,
+      "longitud": -129.098,
       "pais": "",
-      "ciudad_referencia": "15 km SW of Leilani Estates, Hawaii",
+      "ciudad_referencia": "off the coast of Oregon",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75065421"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu16"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-29T17:37:54.859520+00:00"
+    "hora_consulta_utc": "2026-10-29T17:40:34.280967+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-29T17:37:54.859520+00:00",
-  "combined_after_dedup": 2572
+  "updated_utc": "2026-10-29T17:40:34.280967+00:00",
+  "combined_after_dedup": 2573
 }
