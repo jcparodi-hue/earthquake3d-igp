@@ -53379,7 +53379,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-758",
     "fecha_primera_recepcion": "2026-10-29T14:22:19.401293+00:00",
-    "fecha_ultima_observacion": "2026-10-29T16:25:31.870200+00:00"
+    "fecha_ultima_observacion": "2026-10-29T16:30:39.407807+00:00"
   },
   "EMSC:20261029_0000213": {
     "id": "20261029_0000213",
@@ -53561,6 +53561,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261029_0000246",
     "fecha_primera_recepcion": "2026-10-29T16:25:31.870200+00:00",
-    "fecha_ultima_observacion": "2026-10-29T16:25:31.870200+00:00"
+    "fecha_ultima_observacion": "2026-10-29T16:30:39.407807+00:00"
+  },
+  "USGS:pr71537918": {
+    "id": "pr71537918",
+    "fecha_hora_utc": "2026-10-29T16:08:58.070000+00:00",
+    "magnitud": 2.94,
+    "profundidad_km": 16.64,
+    "latitud": 17.9376666666667,
+    "longitud": -65.3331666666667,
+    "pais": "",
+    "ciudad_referencia": "22 km SE of Esperanza, Puerto Rico",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537918",
+    "fecha_primera_recepcion": "2026-10-29T16:30:39.407807+00:00",
+    "fecha_ultima_observacion": "2026-10-29T16:30:39.407807+00:00"
   }
 }
