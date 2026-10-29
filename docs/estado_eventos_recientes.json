@@ -51895,7 +51895,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-756",
     "fecha_primera_recepcion": "2026-10-28T21:45:33.990083+00:00",
-    "fecha_ultima_observacion": "2026-10-29T00:15:33.778933+00:00"
+    "fecha_ultima_observacion": "2026-10-29T00:20:37.313739+00:00"
   },
   "USGS:us7000ttu5": {
     "id": "us7000ttu5",
@@ -52176,5 +52176,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261029_0000003",
     "fecha_primera_recepcion": "2026-10-29T00:15:33.778933+00:00",
     "fecha_ultima_observacion": "2026-10-29T00:15:33.778933+00:00"
+  },
+  "EMSC:20261029_0000005": {
+    "id": "20261029_0000005",
+    "fecha_hora_utc": "2026-10-29T00:17:27.670000+00:00",
+    "magnitud": 2.7,
+    "profundidad_km": 6.5,
+    "latitud": 37.6258,
+    "longitud": -122.4685,
+    "pais": "",
+    "ciudad_referencia": "SAN FRANCISCO BAY AREA, CALIF.",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261029_0000005",
+    "fecha_primera_recepcion": "2026-10-29T00:20:37.313739+00:00",
+    "fecha_ultima_observacion": "2026-10-29T00:20:37.313739+00:00"
+  },
+  "USGS:nc75459182": {
+    "id": "nc75459182",
+    "fecha_hora_utc": "2026-10-29T00:17:27.670000+00:00",
+    "magnitud": 2.73,
+    "profundidad_km": 6.53000020980835,
+    "latitud": 37.6258316040039,
+    "longitud": -122.46849822998,
+    "pais": "",
+    "ciudad_referencia": "2 km NE of Pacifica, CA",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459182",
+    "fecha_primera_recepcion": "2026-10-29T00:20:37.313739+00:00",
+    "fecha_ultima_observacion": "2026-10-29T00:20:37.313739+00:00"
   }
 }
