@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-29T10:50:32.727701+00:00",
+  "actualizado_utc": "2026-10-29T10:55:33.280241+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 66,
   "actualizacion_minutos": 5,
@@ -18,7 +18,7 @@
       "eventos_recibidos": 15,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-28T17:11:13+00:00",
-      "antiguedad_evento_mas_reciente_min": 1059.3
+      "antiguedad_evento_mas_reciente_min": 1064.3
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -27,7 +27,7 @@
       "eventos_recibidos": 2495,
       "invalidos_rechazados": 2,
       "evento_mas_reciente_utc": "2026-10-29T10:45:47+00:00",
-      "antiguedad_evento_mas_reciente_min": 4.8
+      "antiguedad_evento_mas_reciente_min": 9.8
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 534,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-10-29T08:49:42.448000+00:00",
-      "antiguedad_evento_mas_reciente_min": 120.8
+      "antiguedad_evento_mas_reciente_min": 125.8
     }
   },
   "ultimo_evento": {
@@ -55,10 +55,10 @@
     "emsc": {
       "id": "20261029_0000160",
       "fecha_hora_utc": "2026-10-29T10:45:47+00:00",
-      "magnitud": 3.8,
-      "profundidad_km": 23.5,
-      "latitud": -31.83,
-      "longitud": -72.04,
+      "magnitud": 3.6,
+      "profundidad_km": 24.2,
+      "latitud": -31.84,
+      "longitud": -72.07,
       "pais": "",
       "ciudad_referencia": "OFFSHORE COQUIMBO, CHILE",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-29T10:50:32.727701+00:00"
+    "hora_consulta_utc": "2026-10-29T10:55:33.280241+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-29T10:50:32.727701+00:00",
+  "updated_utc": "2026-10-29T10:55:33.280241+00:00",
   "combined_after_dedup": 2577
 }
