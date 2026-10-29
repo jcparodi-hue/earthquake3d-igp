@@ -51895,7 +51895,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-756",
     "fecha_primera_recepcion": "2026-10-28T21:45:33.990083+00:00",
-    "fecha_ultima_observacion": "2026-10-29T03:30:29.618173+00:00"
+    "fecha_ultima_observacion": "2026-10-29T03:35:24.353998+00:00"
   },
   "USGS:us7000ttu5": {
     "id": "us7000ttu5",
@@ -52428,5 +52428,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261029_0000045",
     "fecha_primera_recepcion": "2026-10-29T03:30:29.618173+00:00",
     "fecha_ultima_observacion": "2026-10-29T03:30:29.618173+00:00"
+  },
+  "EMSC:20261029_0000047": {
+    "id": "20261029_0000047",
+    "fecha_hora_utc": "2026-10-29T03:26:45.720000+00:00",
+    "magnitud": 5.7,
+    "profundidad_km": 23.0,
+    "latitud": -5.6141,
+    "longitud": 141.8147,
+    "pais": "",
+    "ciudad_referencia": "NEW GUINEA, PAPUA NEW GUINEA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261029_0000047",
+    "fecha_primera_recepcion": "2026-10-29T03:35:24.353998+00:00",
+    "fecha_ultima_observacion": "2026-10-29T03:35:24.353998+00:00"
+  },
+  "USGS:us7000ttw3": {
+    "id": "us7000ttw3",
+    "fecha_hora_utc": "2026-10-29T03:19:05.429000+00:00",
+    "magnitud": 5.7,
+    "profundidad_km": 10.0,
+    "latitud": 8.4744,
+    "longitud": 127.4924,
+    "pais": "",
+    "ciudad_referencia": "121 km ENE of Barcelona, Philippines",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw3",
+    "fecha_primera_recepcion": "2026-10-29T03:35:24.353998+00:00",
+    "fecha_ultima_observacion": "2026-10-29T03:35:24.353998+00:00"
   }
 }

@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-29T03:30:29.618173+00:00",
+  "actualizado_utc": "2026-10-29T03:35:24.353998+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 66,
   "actualizacion_minutos": 5,
   "igp": 66,
   "emsc": 2502,
-  "usgs": 542,
-  "duplicados_eliminados": 523,
+  "usgs": 544,
+  "duplicados_eliminados": 525,
   "eventos_publicados": 2587,
-  "evento_mas_reciente_utc": "2026-10-29T03:25:33.679551+00:00",
+  "evento_mas_reciente_utc": "2026-10-29T03:26:45.720000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 15,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-28T17:11:13+00:00",
-      "antiguedad_evento_mas_reciente_min": 619.3
+      "antiguedad_evento_mas_reciente_min": 624.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2502,
       "eventos_recibidos": 2504,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-10-29T03:25:33.679551+00:00",
-      "antiguedad_evento_mas_reciente_min": 4.9
+      "evento_mas_reciente_utc": "2026-10-29T03:26:45.720000+00:00",
+      "antiguedad_evento_mas_reciente_min": 8.6
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 542,
-      "eventos_recibidos": 545,
+      "eventos_validos": 544,
+      "eventos_recibidos": 547,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-29T02:18:21.049000+00:00",
-      "antiguedad_evento_mas_reciente_min": 72.1
+      "evento_mas_reciente_utc": "2026-10-29T03:19:05.429000+00:00",
+      "antiguedad_evento_mas_reciente_min": 16.3
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-756"
     },
     "emsc": {
-      "id": "20261029_0000045",
-      "fecha_hora_utc": "2026-10-29T03:25:33.679551+00:00",
-      "magnitud": 3.5,
-      "profundidad_km": 10.0,
-      "latitud": -40.1995,
-      "longitud": 174.9239,
+      "id": "20261029_0000047",
+      "fecha_hora_utc": "2026-10-29T03:26:45.720000+00:00",
+      "magnitud": 5.7,
+      "profundidad_km": 23.0,
+      "latitud": -5.6141,
+      "longitud": 141.8147,
       "pais": "",
-      "ciudad_referencia": "COOK STRAIT, NEW ZEALAND",
+      "ciudad_referencia": "NEW GUINEA, PAPUA NEW GUINEA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261029_0000045"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261029_0000047"
     },
     "usgs": {
-      "id": "us7000ttvy",
-      "fecha_hora_utc": "2026-10-29T02:18:21.049000+00:00",
-      "magnitud": 4.8,
-      "profundidad_km": 70.237,
-      "latitud": 12.9476,
-      "longitud": 144.5819,
+      "id": "us7000ttw3",
+      "fecha_hora_utc": "2026-10-29T03:19:05.429000+00:00",
+      "magnitud": 5.7,
+      "profundidad_km": 10.0,
+      "latitud": 8.4744,
+      "longitud": 127.4924,
       "pais": "",
-      "ciudad_referencia": "36 km SSW of Merizo Village, Guam",
+      "ciudad_referencia": "121 km ENE of Barcelona, Philippines",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvy"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttw3"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-29T03:30:29.618173+00:00"
+    "hora_consulta_utc": "2026-10-29T03:35:24.353998+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-29T03:30:29.618173+00:00",
+  "updated_utc": "2026-10-29T03:35:24.353998+00:00",
   "combined_after_dedup": 2587
 }
