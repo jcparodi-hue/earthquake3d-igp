@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-29T07:30:41.148408+00:00",
+  "actualizado_utc": "2026-10-29T07:35:33.941626+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 66,
   "actualizacion_minutos": 5,
   "igp": 66,
-  "emsc": 2510,
-  "usgs": 540,
-  "duplicados_eliminados": 522,
-  "eventos_publicados": 2594,
-  "evento_mas_reciente_utc": "2026-10-29T07:18:19+00:00",
+  "emsc": 2508,
+  "usgs": 539,
+  "duplicados_eliminados": 521,
+  "eventos_publicados": 2592,
+  "evento_mas_reciente_utc": "2026-10-29T07:22:31.500000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 15,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-28T17:11:13+00:00",
-      "antiguedad_evento_mas_reciente_min": 859.5
+      "antiguedad_evento_mas_reciente_min": 864.3
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2510,
-      "eventos_recibidos": 2512,
+      "eventos_validos": 2508,
+      "eventos_recibidos": 2510,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-10-29T07:18:19+00:00",
-      "antiguedad_evento_mas_reciente_min": 12.4
+      "evento_mas_reciente_utc": "2026-10-29T07:22:31.500000+00:00",
+      "antiguedad_evento_mas_reciente_min": 13.0
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 540,
-      "eventos_recibidos": 543,
+      "eventos_validos": 539,
+      "eventos_recibidos": 542,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-10-29T05:33:36.298000+00:00",
-      "antiguedad_evento_mas_reciente_min": 117.1
+      "antiguedad_evento_mas_reciente_min": 122.0
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-756"
     },
     "emsc": {
-      "id": "20261029_0000112",
-      "fecha_hora_utc": "2026-10-29T07:18:19+00:00",
-      "magnitud": 2.6,
-      "profundidad_km": 43.7,
-      "latitud": -31.6,
-      "longitud": -71.3,
+      "id": "20261029_0000113",
+      "fecha_hora_utc": "2026-10-29T07:22:31.500000+00:00",
+      "magnitud": 3.2,
+      "profundidad_km": 2.0,
+      "latitud": 35.89,
+      "longitud": 23.16,
       "pais": "",
-      "ciudad_referencia": "COQUIMBO, CHILE",
+      "ciudad_referencia": "CRETE, GREECE",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261029_0000112"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261029_0000113"
     },
     "usgs": {
       "id": "us7000ttx8",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-29T07:30:41.148408+00:00"
+    "hora_consulta_utc": "2026-10-29T07:35:33.941626+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-29T07:30:41.148408+00:00",
-  "combined_after_dedup": 2594
+  "updated_utc": "2026-10-29T07:35:33.941626+00:00",
+  "combined_after_dedup": 2592
 }
