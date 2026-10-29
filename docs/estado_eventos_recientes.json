@@ -51895,7 +51895,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-756",
     "fecha_primera_recepcion": "2026-10-28T21:45:33.990083+00:00",
-    "fecha_ultima_observacion": "2026-10-29T01:20:34.455517+00:00"
+    "fecha_ultima_observacion": "2026-10-29T01:25:23.275690+00:00"
   },
   "USGS:us7000ttu5": {
     "id": "us7000ttu5",
@@ -52288,5 +52288,33 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvn",
     "fecha_primera_recepcion": "2026-10-29T01:15:34.613268+00:00",
     "fecha_ultima_observacion": "2026-10-29T01:20:34.455517+00:00"
+  },
+  "EMSC:20261029_0000022": {
+    "id": "20261029_0000022",
+    "fecha_hora_utc": "2026-10-29T01:07:04.538000+00:00",
+    "magnitud": 4.8,
+    "profundidad_km": 10.0,
+    "latitud": -50.2688,
+    "longitud": 139.4087,
+    "pais": "",
+    "ciudad_referencia": "WESTERN INDIAN-ANTARCTIC RIDGE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261029_0000022",
+    "fecha_primera_recepcion": "2026-10-29T01:25:23.275690+00:00",
+    "fecha_ultima_observacion": "2026-10-29T01:25:23.275690+00:00"
+  },
+  "USGS:us7000ttvs": {
+    "id": "us7000ttvs",
+    "fecha_hora_utc": "2026-10-29T01:07:04.538000+00:00",
+    "magnitud": 4.8,
+    "profundidad_km": 10.0,
+    "latitud": -50.2688,
+    "longitud": 139.4087,
+    "pais": "",
+    "ciudad_referencia": "western Indian-Antarctic Ridge",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttvs",
+    "fecha_primera_recepcion": "2026-10-29T01:25:23.275690+00:00",
+    "fecha_ultima_observacion": "2026-10-29T01:25:23.275690+00:00"
   }
 }
