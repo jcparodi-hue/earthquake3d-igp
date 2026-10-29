@@ -53379,7 +53379,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-758",
     "fecha_primera_recepcion": "2026-10-29T14:22:19.401293+00:00",
-    "fecha_ultima_observacion": "2026-10-29T16:30:39.407807+00:00"
+    "fecha_ultima_observacion": "2026-10-29T16:35:31.906030+00:00"
   },
   "EMSC:20261029_0000213": {
     "id": "20261029_0000213",
@@ -53576,5 +53576,33 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537918",
     "fecha_primera_recepcion": "2026-10-29T16:30:39.407807+00:00",
     "fecha_ultima_observacion": "2026-10-29T16:30:39.407807+00:00"
+  },
+  "EMSC:20261029_0000249": {
+    "id": "20261029_0000249",
+    "fecha_hora_utc": "2026-10-29T16:32:12.100000+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 0.7,
+    "latitud": 19.3138,
+    "longitud": -155.2097,
+    "pais": "",
+    "ciudad_referencia": "ISLAND OF HAWAII, HAWAII",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261029_0000249",
+    "fecha_primera_recepcion": "2026-10-29T16:35:31.906030+00:00",
+    "fecha_ultima_observacion": "2026-10-29T16:35:31.906030+00:00"
+  },
+  "USGS:hv75065421": {
+    "id": "hv75065421",
+    "fecha_hora_utc": "2026-10-29T16:31:55.440000+00:00",
+    "magnitud": 2.58,
+    "profundidad_km": 0.100000001490116,
+    "latitud": 19.3684997558594,
+    "longitud": -155.018005371094,
+    "pais": "",
+    "ciudad_referencia": "15 km SW of Leilani Estates, Hawaii",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75065421",
+    "fecha_primera_recepcion": "2026-10-29T16:35:31.906030+00:00",
+    "fecha_ultima_observacion": "2026-10-29T16:35:31.906030+00:00"
   }
 }

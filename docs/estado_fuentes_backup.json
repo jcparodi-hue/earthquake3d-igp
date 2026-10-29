@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-29T16:30:39.407807+00:00",
+  "actualizado_utc": "2026-10-29T16:35:31.906030+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 68,
   "actualizacion_minutos": 5,
   "igp": 68,
   "emsc": 2495,
-  "usgs": 530,
-  "duplicados_eliminados": 511,
+  "usgs": 531,
+  "duplicados_eliminados": 512,
   "eventos_publicados": 2582,
-  "evento_mas_reciente_utc": "2026-10-29T16:15:01.108957+00:00",
+  "evento_mas_reciente_utc": "2026-10-29T16:32:12.100000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 15,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-29T12:04:03+00:00",
-      "antiguedad_evento_mas_reciente_min": 266.6
+      "antiguedad_evento_mas_reciente_min": 271.5
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2495,
       "eventos_recibidos": 2497,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-10-29T16:15:01.108957+00:00",
-      "antiguedad_evento_mas_reciente_min": 15.6
+      "evento_mas_reciente_utc": "2026-10-29T16:32:12.100000+00:00",
+      "antiguedad_evento_mas_reciente_min": 3.3
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 530,
-      "eventos_recibidos": 533,
+      "eventos_validos": 531,
+      "eventos_recibidos": 534,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-29T16:08:58.070000+00:00",
-      "antiguedad_evento_mas_reciente_min": 21.7
+      "evento_mas_reciente_utc": "2026-10-29T16:31:55.440000+00:00",
+      "antiguedad_evento_mas_reciente_min": 3.6
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-758"
     },
     "emsc": {
-      "id": "20261029_0000246",
-      "fecha_hora_utc": "2026-10-29T16:15:01.108957+00:00",
+      "id": "20261029_0000249",
+      "fecha_hora_utc": "2026-10-29T16:32:12.100000+00:00",
       "magnitud": 2.5,
-      "profundidad_km": 11.0,
-      "latitud": 40.2603,
-      "longitud": 24.1415,
+      "profundidad_km": 0.7,
+      "latitud": 19.3138,
+      "longitud": -155.2097,
       "pais": "",
-      "ciudad_referencia": "AEGEAN SEA",
+      "ciudad_referencia": "ISLAND OF HAWAII, HAWAII",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261029_0000246"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261029_0000249"
     },
     "usgs": {
-      "id": "pr71537918",
-      "fecha_hora_utc": "2026-10-29T16:08:58.070000+00:00",
-      "magnitud": 2.94,
-      "profundidad_km": 16.64,
-      "latitud": 17.9376666666667,
-      "longitud": -65.3331666666667,
+      "id": "hv75065421",
+      "fecha_hora_utc": "2026-10-29T16:31:55.440000+00:00",
+      "magnitud": 2.58,
+      "profundidad_km": 0.100000001490116,
+      "latitud": 19.3684997558594,
+      "longitud": -155.018005371094,
       "pais": "",
-      "ciudad_referencia": "22 km SE of Esperanza, Puerto Rico",
+      "ciudad_referencia": "15 km SW of Leilani Estates, Hawaii",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537918"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75065421"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-29T16:30:39.407807+00:00"
+    "hora_consulta_utc": "2026-10-29T16:35:31.906030+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-29T16:30:39.407807+00:00",
+  "updated_utc": "2026-10-29T16:35:31.906030+00:00",
   "combined_after_dedup": 2582
 }
