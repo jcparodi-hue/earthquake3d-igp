@@ -51895,7 +51895,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-756",
     "fecha_primera_recepcion": "2026-10-28T21:45:33.990083+00:00",
-    "fecha_ultima_observacion": "2026-10-29T09:00:42.336787+00:00"
+    "fecha_ultima_observacion": "2026-10-29T09:05:37.215245+00:00"
   },
   "USGS:us7000ttu5": {
     "id": "us7000ttu5",
@@ -52977,16 +52977,30 @@
   },
   "EMSC:20261029_0000135": {
     "id": "20261029_0000135",
-    "fecha_hora_utc": "2026-10-29T08:49:46.440000+00:00",
+    "fecha_hora_utc": "2026-10-29T08:49:43.010000+00:00",
     "magnitud": 5.1,
-    "profundidad_km": 35.0,
-    "latitud": 13.2684,
-    "longitud": 91.6785,
+    "profundidad_km": 10.0,
+    "latitud": 13.313,
+    "longitud": 91.592,
     "pais": "",
     "ciudad_referencia": "ANDAMAN ISLANDS, INDIA REGION",
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261029_0000135",
     "fecha_primera_recepcion": "2026-10-29T09:00:42.336787+00:00",
-    "fecha_ultima_observacion": "2026-10-29T09:00:42.336787+00:00"
+    "fecha_ultima_observacion": "2026-10-29T09:05:37.215245+00:00"
+  },
+  "USGS:us7000tty7": {
+    "id": "us7000tty7",
+    "fecha_hora_utc": "2026-10-29T08:49:42.448000+00:00",
+    "magnitud": 5.1,
+    "profundidad_km": 10.0,
+    "latitud": 13.3785,
+    "longitud": 91.6593,
+    "pais": "",
+    "ciudad_referencia": "218 km NNW of Bamboo Flat, India",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tty7",
+    "fecha_primera_recepcion": "2026-10-29T09:05:37.215245+00:00",
+    "fecha_ultima_observacion": "2026-10-29T09:05:37.215245+00:00"
   }
 }
