@@ -53379,7 +53379,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-758",
     "fecha_primera_recepcion": "2026-10-29T14:22:19.401293+00:00",
-    "fecha_ultima_observacion": "2026-10-29T15:45:39.622173+00:00"
+    "fecha_ultima_observacion": "2026-10-29T15:50:30.005861+00:00"
   },
   "EMSC:20261029_0000213": {
     "id": "20261029_0000213",
@@ -53478,5 +53478,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261029_0000230",
     "fecha_primera_recepcion": "2026-10-29T15:45:39.622173+00:00",
     "fecha_ultima_observacion": "2026-10-29T15:45:39.622173+00:00"
+  },
+  "EMSC:20261029_0000231": {
+    "id": "20261029_0000231",
+    "fecha_hora_utc": "2026-10-29T15:35:35+00:00",
+    "magnitud": 3.7,
+    "profundidad_km": 38.0,
+    "latitud": 13.77,
+    "longitud": 120.32,
+    "pais": "",
+    "ciudad_referencia": "MINDORO, PHILIPPINES",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261029_0000231",
+    "fecha_primera_recepcion": "2026-10-29T15:50:30.005861+00:00",
+    "fecha_ultima_observacion": "2026-10-29T15:50:30.005861+00:00"
+  },
+  "USGS:aka2026vledir": {
+    "id": "aka2026vledir",
+    "fecha_hora_utc": "2026-10-29T15:46:02.938000+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 101.4,
+    "latitud": 61.279,
+    "longitud": -151.866,
+    "pais": "",
+    "ciudad_referencia": "44 km WNW of Beluga, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vledir",
+    "fecha_primera_recepcion": "2026-10-29T15:50:30.005861+00:00",
+    "fecha_ultima_observacion": "2026-10-29T15:50:30.005861+00:00"
   }
 }
