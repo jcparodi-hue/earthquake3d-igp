@@ -53379,7 +53379,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-758",
     "fecha_primera_recepcion": "2026-10-29T14:22:19.401293+00:00",
-    "fecha_ultima_observacion": "2026-10-29T18:25:29.854461+00:00"
+    "fecha_ultima_observacion": "2026-10-29T18:30:42.534034+00:00"
   },
   "EMSC:20261029_0000213": {
     "id": "20261029_0000213",
@@ -53659,7 +53659,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu16",
     "fecha_primera_recepcion": "2026-10-29T17:40:34.280967+00:00",
-    "fecha_ultima_observacion": "2026-10-29T18:25:29.854461+00:00"
+    "fecha_ultima_observacion": "2026-10-29T18:30:42.534034+00:00"
   },
   "EMSC:20261029_0000272": {
     "id": "20261029_0000272",
@@ -53702,5 +53702,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261029_0000276",
     "fecha_primera_recepcion": "2026-10-29T18:15:35.006297+00:00",
     "fecha_ultima_observacion": "2026-10-29T18:25:29.854461+00:00"
+  },
+  "EMSC:20261029_0000281": {
+    "id": "20261029_0000281",
+    "fecha_hora_utc": "2026-10-29T18:06:44+00:00",
+    "magnitud": 3.2,
+    "profundidad_km": 23.8,
+    "latitud": 49.6291,
+    "longitud": -127.0601,
+    "pais": "",
+    "ciudad_referencia": "VANCOUVER ISLAND, CANADA REGION",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261029_0000281",
+    "fecha_primera_recepcion": "2026-10-29T18:30:42.534034+00:00",
+    "fecha_ultima_observacion": "2026-10-29T18:30:42.534034+00:00"
   }
 }
