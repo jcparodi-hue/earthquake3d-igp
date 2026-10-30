@@ -55885,7 +55885,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-759",
     "fecha_primera_recepcion": "2026-10-30T20:55:35.431179+00:00",
-    "fecha_ultima_observacion": "2026-10-30T23:10:33.347361+00:00"
+    "fecha_ultima_observacion": "2026-10-30T23:13:48.910951+00:00"
   },
   "EMSC:20261030_0000338": {
     "id": "20261030_0000338",
@@ -56099,16 +56099,30 @@
   },
   "USGS:aka2026vnovmh": {
     "id": "aka2026vnovmh",
-    "fecha_hora_utc": "2026-10-30T23:06:11.533000+00:00",
-    "magnitud": 2.9,
+    "fecha_hora_utc": "2026-10-30T23:06:11.538000+00:00",
+    "magnitud": 3.0,
     "profundidad_km": 5.0,
-    "latitud": 62.357,
-    "longitud": -154.915,
+    "latitud": 62.365,
+    "longitud": -154.924,
     "pais": "",
-    "ciudad_referencia": "75 km SSE of McGrath, Alaska",
+    "ciudad_referencia": "74 km SSE of McGrath, Alaska",
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vnovmh",
     "fecha_primera_recepcion": "2026-10-30T23:10:33.347361+00:00",
-    "fecha_ultima_observacion": "2026-10-30T23:10:33.347361+00:00"
+    "fecha_ultima_observacion": "2026-10-30T23:13:48.910951+00:00"
+  },
+  "EMSC:20261030_0000372": {
+    "id": "20261030_0000372",
+    "fecha_hora_utc": "2026-10-30T23:06:11.538851+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 5.0,
+    "latitud": 62.365,
+    "longitud": -154.924,
+    "pais": "",
+    "ciudad_referencia": "CENTRAL ALASKA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261030_0000372",
+    "fecha_primera_recepcion": "2026-10-30T23:13:48.910951+00:00",
+    "fecha_ultima_observacion": "2026-10-30T23:13:48.910951+00:00"
   }
 }
