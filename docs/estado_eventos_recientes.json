@@ -53379,7 +53379,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-758",
     "fecha_primera_recepcion": "2026-10-29T14:22:19.401293+00:00",
-    "fecha_ultima_observacion": "2026-10-30T18:55:24.953091+00:00"
+    "fecha_ultima_observacion": "2026-10-30T19:00:14.223462+00:00"
   },
   "EMSC:20261029_0000213": {
     "id": "20261029_0000213",
@@ -55633,7 +55633,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vnecvk",
     "fecha_primera_recepcion": "2026-10-30T17:53:36.497223+00:00",
-    "fecha_ultima_observacion": "2026-10-30T18:55:24.953091+00:00"
+    "fecha_ultima_observacion": "2026-10-30T19:00:14.223462+00:00"
   },
   "EMSC:20261030_0000283": {
     "id": "20261030_0000283",
@@ -55690,5 +55690,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261030_0000297",
     "fecha_primera_recepcion": "2026-10-30T18:50:36.982153+00:00",
     "fecha_ultima_observacion": "2026-10-30T18:55:24.953091+00:00"
+  },
+  "EMSC:20261030_0000300": {
+    "id": "20261030_0000300",
+    "fecha_hora_utc": "2026-10-30T18:53:02+00:00",
+    "magnitud": 4.3,
+    "profundidad_km": 72.0,
+    "latitud": 4.43,
+    "longitud": 125.88,
+    "pais": "",
+    "ciudad_referencia": "KEPULAUAN SANGIHE, INDONESIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261030_0000300",
+    "fecha_primera_recepcion": "2026-10-30T19:00:14.223462+00:00",
+    "fecha_ultima_observacion": "2026-10-30T19:00:14.223462+00:00"
   }
 }
