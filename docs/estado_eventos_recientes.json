@@ -53379,7 +53379,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-758",
     "fecha_primera_recepcion": "2026-10-29T14:22:19.401293+00:00",
-    "fecha_ultima_observacion": "2026-10-30T07:20:35.277640+00:00"
+    "fecha_ultima_observacion": "2026-10-30T07:25:33.935736+00:00"
   },
   "EMSC:20261029_0000213": {
     "id": "20261029_0000213",
@@ -54766,5 +54766,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261030_0000099",
     "fecha_primera_recepcion": "2026-10-30T07:15:38.366164+00:00",
     "fecha_ultima_observacion": "2026-10-30T07:20:35.277640+00:00"
+  },
+  "EMSC:20261030_0000100": {
+    "id": "20261030_0000100",
+    "fecha_hora_utc": "2026-10-30T07:20:35+00:00",
+    "magnitud": 3.5,
+    "profundidad_km": 108.0,
+    "latitud": -21.86,
+    "longitud": -68.68,
+    "pais": "",
+    "ciudad_referencia": "ANTOFAGASTA, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261030_0000100",
+    "fecha_primera_recepcion": "2026-10-30T07:25:33.935736+00:00",
+    "fecha_ultima_observacion": "2026-10-30T07:25:33.935736+00:00"
+  },
+  "USGS:pr71537953": {
+    "id": "pr71537953",
+    "fecha_hora_utc": "2026-10-30T06:53:43.950000+00:00",
+    "magnitud": 3.16,
+    "profundidad_km": 33.52,
+    "latitud": 18.6646666666667,
+    "longitud": -64.9926666666667,
+    "pais": "",
+    "ciudad_referencia": "36 km N of Charlotte Amalie, U.S. Virgin Islands",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537953",
+    "fecha_primera_recepcion": "2026-10-30T07:25:33.935736+00:00",
+    "fecha_ultima_observacion": "2026-10-30T07:25:33.935736+00:00"
   }
 }
