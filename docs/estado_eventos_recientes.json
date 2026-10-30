@@ -53379,7 +53379,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-758",
     "fecha_primera_recepcion": "2026-10-29T14:22:19.401293+00:00",
-    "fecha_ultima_observacion": "2026-10-30T17:25:22.420041+00:00"
+    "fecha_ultima_observacion": "2026-10-30T17:30:38.046629+00:00"
   },
   "EMSC:20261029_0000213": {
     "id": "20261029_0000213",
@@ -55564,5 +55564,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261030_0000262",
     "fecha_primera_recepcion": "2026-10-30T16:58:56.805075+00:00",
     "fecha_ultima_observacion": "2026-10-30T17:25:22.420041+00:00"
+  },
+  "EMSC:20261030_0000272": {
+    "id": "20261030_0000272",
+    "fecha_hora_utc": "2026-10-30T17:06:13+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 10.0,
+    "latitud": 17.107,
+    "longitud": 77.715,
+    "pais": "",
+    "ciudad_referencia": "KARNATAKA-ANDHRA PRADESH, INDIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261030_0000272",
+    "fecha_primera_recepcion": "2026-10-30T17:30:38.046629+00:00",
+    "fecha_ultima_observacion": "2026-10-30T17:30:38.046629+00:00"
+  },
+  "USGS:us7000tu93": {
+    "id": "us7000tu93",
+    "fecha_hora_utc": "2026-10-30T16:48:49.917000+00:00",
+    "magnitud": 4.4,
+    "profundidad_km": 615.692,
+    "latitud": -17.9769,
+    "longitud": -178.0028,
+    "pais": "",
+    "ciudad_referencia": "284 km E of Levuka, Fiji",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu93",
+    "fecha_primera_recepcion": "2026-10-30T17:30:38.046629+00:00",
+    "fecha_ultima_observacion": "2026-10-30T17:30:38.046629+00:00"
   }
 }
