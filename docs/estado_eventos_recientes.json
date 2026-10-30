@@ -55829,7 +55829,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vnjdai",
     "fecha_primera_recepcion": "2026-10-30T20:18:37.696158+00:00",
-    "fecha_ultima_observacion": "2026-10-30T20:50:26.865166+00:00"
+    "fecha_ultima_observacion": "2026-10-30T20:55:35.431179+00:00"
   },
   "EMSC:20261030_0000329": {
     "id": "20261030_0000329",
@@ -55871,6 +55871,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261030_0000334",
     "fecha_primera_recepcion": "2026-10-30T20:45:39.342037+00:00",
-    "fecha_ultima_observacion": "2026-10-30T20:50:26.865166+00:00"
+    "fecha_ultima_observacion": "2026-10-30T20:55:35.431179+00:00"
+  },
+  "IGP:2026-759": {
+    "id": "2026-759",
+    "fecha_hora_utc": "2026-10-30T17:52:58+00:00",
+    "magnitud": 4.0,
+    "profundidad_km": 149.0,
+    "latitud": -18.07,
+    "longitud": -69.67,
+    "pais": "Perú",
+    "ciudad_referencia": "57 km al E de Calana, Tacna - Tacna",
+    "fuente": "IGP",
+    "url": "https://ultimosismo.igp.gob.pe/evento/2026-759",
+    "fecha_primera_recepcion": "2026-10-30T20:55:35.431179+00:00",
+    "fecha_ultima_observacion": "2026-10-30T20:55:35.431179+00:00"
   }
 }
