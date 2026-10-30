@@ -53379,7 +53379,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-758",
     "fecha_primera_recepcion": "2026-10-29T14:22:19.401293+00:00",
-    "fecha_ultima_observacion": "2026-10-30T09:00:47.797178+00:00"
+    "fecha_ultima_observacion": "2026-10-30T09:05:33.803194+00:00"
   },
   "EMSC:20261029_0000213": {
     "id": "20261029_0000213",
@@ -54877,6 +54877,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261030_0000115",
     "fecha_primera_recepcion": "2026-10-30T08:56:17.606993+00:00",
-    "fecha_ultima_observacion": "2026-10-30T09:00:47.797178+00:00"
+    "fecha_ultima_observacion": "2026-10-30T09:05:33.803194+00:00"
+  },
+  "USGS:us7000tu7b": {
+    "id": "us7000tu7b",
+    "fecha_hora_utc": "2026-10-30T08:45:49.982000+00:00",
+    "magnitud": 4.6,
+    "profundidad_km": 43.625,
+    "latitud": 43.2605,
+    "longitud": 146.4242,
+    "pais": "",
+    "ciudad_referencia": "64 km SSW of Shikotan, Russia",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu7b",
+    "fecha_primera_recepcion": "2026-10-30T09:05:33.803194+00:00",
+    "fecha_ultima_observacion": "2026-10-30T09:05:33.803194+00:00"
   }
 }
