@@ -55885,7 +55885,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-759",
     "fecha_primera_recepcion": "2026-10-30T20:55:35.431179+00:00",
-    "fecha_ultima_observacion": "2026-10-30T22:55:35.588605+00:00"
+    "fecha_ultima_observacion": "2026-10-30T23:00:44.486223+00:00"
   },
   "EMSC:20261030_0000338": {
     "id": "20261030_0000338",
@@ -56071,16 +56071,30 @@
   },
   "USGS:aka2026vnojyv": {
     "id": "aka2026vnojyv",
-    "fecha_hora_utc": "2026-10-30T22:53:01.334000+00:00",
-    "magnitud": 2.8,
-    "profundidad_km": 103.0,
-    "latitud": 59.887,
-    "longitud": -152.789,
+    "fecha_hora_utc": "2026-10-30T22:53:01.409000+00:00",
+    "magnitud": 3.1,
+    "profundidad_km": 102.5,
+    "latitud": 59.892,
+    "longitud": -152.778,
     "pais": "",
-    "ciudad_referencia": "55 km WNW of Anchor Point, Alaska",
+    "ciudad_referencia": "54 km WNW of Anchor Point, Alaska",
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vnojyv",
     "fecha_primera_recepcion": "2026-10-30T22:55:35.588605+00:00",
-    "fecha_ultima_observacion": "2026-10-30T22:55:35.588605+00:00"
+    "fecha_ultima_observacion": "2026-10-30T23:00:44.486223+00:00"
+  },
+  "EMSC:20261030_0000370": {
+    "id": "20261030_0000370",
+    "fecha_hora_utc": "2026-10-30T22:56:57.810000+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 10.0,
+    "latitud": 39.7169,
+    "longitud": 24.2874,
+    "pais": "",
+    "ciudad_referencia": "AEGEAN SEA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261030_0000370",
+    "fecha_primera_recepcion": "2026-10-30T23:00:44.486223+00:00",
+    "fecha_ultima_observacion": "2026-10-30T23:00:44.486223+00:00"
   }
 }
