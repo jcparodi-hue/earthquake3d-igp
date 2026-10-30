@@ -53379,7 +53379,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-758",
     "fecha_primera_recepcion": "2026-10-29T14:22:19.401293+00:00",
-    "fecha_ultima_observacion": "2026-10-30T10:50:29.126554+00:00"
+    "fecha_ultima_observacion": "2026-10-30T10:55:33.496457+00:00"
   },
   "EMSC:20261029_0000213": {
     "id": "20261029_0000213",
@@ -55046,5 +55046,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261030_0000148",
     "fecha_primera_recepcion": "2026-10-30T10:48:04.170108+00:00",
     "fecha_ultima_observacion": "2026-10-30T10:50:29.126554+00:00"
+  },
+  "EMSC:20261030_0000151": {
+    "id": "20261030_0000151",
+    "fecha_hora_utc": "2026-10-30T10:48:27+00:00",
+    "magnitud": 3.3,
+    "profundidad_km": 81.5,
+    "latitud": -30.25,
+    "longitud": -70.78,
+    "pais": "",
+    "ciudad_referencia": "COQUIMBO, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261030_0000151",
+    "fecha_primera_recepcion": "2026-10-30T10:55:33.496457+00:00",
+    "fecha_ultima_observacion": "2026-10-30T10:55:33.496457+00:00"
+  },
+  "USGS:us7000tu7k": {
+    "id": "us7000tu7k",
+    "fecha_hora_utc": "2026-10-30T10:24:11.303000+00:00",
+    "magnitud": 4.5,
+    "profundidad_km": 10.0,
+    "latitud": 8.3731,
+    "longitud": 127.3616,
+    "pais": "",
+    "ciudad_referencia": "104 km ENE of Barcelona, Philippines",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tu7k",
+    "fecha_primera_recepcion": "2026-10-30T10:55:33.496457+00:00",
+    "fecha_ultima_observacion": "2026-10-30T10:55:33.496457+00:00"
   }
 }
