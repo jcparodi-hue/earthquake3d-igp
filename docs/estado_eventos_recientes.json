@@ -53379,7 +53379,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-758",
     "fecha_primera_recepcion": "2026-10-29T14:22:19.401293+00:00",
-    "fecha_ultima_observacion": "2026-10-30T20:15:27.579940+00:00"
+    "fecha_ultima_observacion": "2026-10-30T20:18:37.696158+00:00"
   },
   "EMSC:20261029_0000213": {
     "id": "20261029_0000213",
@@ -55815,6 +55815,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261030_0000327",
     "fecha_primera_recepcion": "2026-10-30T20:15:27.579940+00:00",
-    "fecha_ultima_observacion": "2026-10-30T20:15:27.579940+00:00"
+    "fecha_ultima_observacion": "2026-10-30T20:18:37.696158+00:00"
+  },
+  "USGS:aka2026vnjdai": {
+    "id": "aka2026vnjdai",
+    "fecha_hora_utc": "2026-10-30T20:14:53.127000+00:00",
+    "magnitud": 2.8,
+    "profundidad_km": 130.6,
+    "latitud": 62.99,
+    "longitud": -151.046,
+    "pais": "",
+    "ciudad_referencia": "56 km NNW of Petersville, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vnjdai",
+    "fecha_primera_recepcion": "2026-10-30T20:18:37.696158+00:00",
+    "fecha_ultima_observacion": "2026-10-30T20:18:37.696158+00:00"
   }
 }
