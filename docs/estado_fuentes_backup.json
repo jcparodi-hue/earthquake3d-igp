@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-30T22:30:34.508042+00:00",
+  "actualizado_utc": "2026-10-30T22:35:53.555036+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 69,
   "actualizacion_minutos": 5,
   "igp": 69,
-  "emsc": 2543,
-  "usgs": 529,
+  "emsc": 2541,
+  "usgs": 530,
   "duplicados_eliminados": 502,
-  "eventos_publicados": 2639,
-  "evento_mas_reciente_utc": "2026-10-30T22:12:33+00:00",
+  "eventos_publicados": 2638,
+  "evento_mas_reciente_utc": "2026-10-30T22:30:33.321136+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 15,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-30T17:52:58+00:00",
-      "antiguedad_evento_mas_reciente_min": 277.6
+      "antiguedad_evento_mas_reciente_min": 282.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2543,
-      "eventos_recibidos": 2546,
+      "eventos_validos": 2541,
+      "eventos_recibidos": 2544,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-30T22:12:33+00:00",
-      "antiguedad_evento_mas_reciente_min": 18.0
+      "evento_mas_reciente_utc": "2026-10-30T22:30:33.321136+00:00",
+      "antiguedad_evento_mas_reciente_min": 5.3
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 529,
-      "eventos_recibidos": 533,
+      "eventos_validos": 530,
+      "eventos_recibidos": 534,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-10-30T21:15:19.819000+00:00",
-      "antiguedad_evento_mas_reciente_min": 75.2
+      "antiguedad_evento_mas_reciente_min": 80.6
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-759"
     },
     "emsc": {
-      "id": "20261030_0000357",
-      "fecha_hora_utc": "2026-10-30T22:12:33+00:00",
-      "magnitud": 3.0,
-      "profundidad_km": 46.0,
-      "latitud": 4.52,
-      "longitud": 95.84,
+      "id": "20261030_0000358",
+      "fecha_hora_utc": "2026-10-30T22:30:33.321136+00:00",
+      "magnitud": 3.2,
+      "profundidad_km": 124.7,
+      "latitud": -44.9395,
+      "longitud": 167.2999,
       "pais": "",
-      "ciudad_referencia": "NORTHERN SUMATRA, INDONESIA",
+      "ciudad_referencia": "SOUTH ISLAND OF NEW ZEALAND",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261030_0000357"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261030_0000358"
     },
     "usgs": {
       "id": "us7000tuey",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-30T22:30:34.508042+00:00"
+    "hora_consulta_utc": "2026-10-30T22:35:53.555036+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-30T22:30:34.508042+00:00",
-  "combined_after_dedup": 2639
+  "updated_utc": "2026-10-30T22:35:53.555036+00:00",
+  "combined_after_dedup": 2638
 }
