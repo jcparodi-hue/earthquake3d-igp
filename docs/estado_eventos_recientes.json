@@ -53379,7 +53379,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-758",
     "fecha_primera_recepcion": "2026-10-29T14:22:19.401293+00:00",
-    "fecha_ultima_observacion": "2026-10-30T01:05:22.116762+00:00"
+    "fecha_ultima_observacion": "2026-10-30T01:10:34.855616+00:00"
   },
   "EMSC:20261029_0000213": {
     "id": "20261029_0000213",
@@ -54290,5 +54290,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261030_0000010",
     "fecha_primera_recepcion": "2026-10-30T01:00:41.102066+00:00",
     "fecha_ultima_observacion": "2026-10-30T01:05:22.116762+00:00"
+  },
+  "EMSC:20261030_0000011": {
+    "id": "20261030_0000011",
+    "fecha_hora_utc": "2026-10-30T01:05:02.322670+00:00",
+    "magnitud": 3.5,
+    "profundidad_km": 57.9,
+    "latitud": 59.807,
+    "longitud": -150.774,
+    "pais": "",
+    "ciudad_referencia": "KENAI PENINSULA, ALASKA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261030_0000011",
+    "fecha_primera_recepcion": "2026-10-30T01:10:34.855616+00:00",
+    "fecha_ultima_observacion": "2026-10-30T01:10:34.855616+00:00"
+  },
+  "USGS:aka2026vlwuan": {
+    "id": "aka2026vlwuan",
+    "fecha_hora_utc": "2026-10-30T01:05:02.322000+00:00",
+    "magnitud": 3.5,
+    "profundidad_km": 57.9,
+    "latitud": 59.807,
+    "longitud": -150.774,
+    "pais": "",
+    "ciudad_referencia": "11 km ESE of Fox River, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vlwuan",
+    "fecha_primera_recepcion": "2026-10-30T01:10:34.855616+00:00",
+    "fecha_ultima_observacion": "2026-10-30T01:10:34.855616+00:00"
   }
 }
