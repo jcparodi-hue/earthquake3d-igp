@@ -53379,7 +53379,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-758",
     "fecha_primera_recepcion": "2026-10-29T14:22:19.401293+00:00",
-    "fecha_ultima_observacion": "2026-10-30T19:55:25.672239+00:00"
+    "fecha_ultima_observacion": "2026-10-30T20:00:33.678045+00:00"
   },
   "EMSC:20261029_0000213": {
     "id": "20261029_0000213",
@@ -55773,6 +55773,20 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vnhpxc",
     "fecha_primera_recepcion": "2026-10-30T19:35:25.901049+00:00",
-    "fecha_ultima_observacion": "2026-10-30T19:55:25.672239+00:00"
+    "fecha_ultima_observacion": "2026-10-30T20:00:33.678045+00:00"
+  },
+  "EMSC:20261030_0000319": {
+    "id": "20261030_0000319",
+    "fecha_hora_utc": "2026-10-30T19:47:55+00:00",
+    "magnitud": 3.2,
+    "profundidad_km": 7.0,
+    "latitud": 38.7585,
+    "longitud": 42.6073,
+    "pais": "",
+    "ciudad_referencia": "EASTERN TURKEY",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261030_0000319",
+    "fecha_primera_recepcion": "2026-10-30T20:00:33.678045+00:00",
+    "fecha_ultima_observacion": "2026-10-30T20:00:33.678045+00:00"
   }
 }
