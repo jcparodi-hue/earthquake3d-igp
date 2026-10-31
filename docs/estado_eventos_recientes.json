@@ -56179,7 +56179,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-760",
     "fecha_primera_recepcion": "2026-10-31T00:10:42.326164+00:00",
-    "fecha_ultima_observacion": "2026-10-31T04:25:35.287895+00:00"
+    "fecha_ultima_observacion": "2026-10-31T04:30:38.943139+00:00"
   },
   "EMSC:20261031_0000001": {
     "id": "20261031_0000001",
@@ -56487,7 +56487,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugv",
     "fecha_primera_recepcion": "2026-10-31T03:35:35.551931+00:00",
-    "fecha_ultima_observacion": "2026-10-31T04:25:35.287895+00:00"
+    "fecha_ultima_observacion": "2026-10-31T04:30:38.943139+00:00"
   },
   "EMSC:20261031_0000049": {
     "id": "20261031_0000049",
@@ -56516,5 +56516,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261031_0000050",
     "fecha_primera_recepcion": "2026-10-31T04:00:42.180339+00:00",
     "fecha_ultima_observacion": "2026-10-31T04:25:35.287895+00:00"
+  },
+  "EMSC:20261031_0000055": {
+    "id": "20261031_0000055",
+    "fecha_hora_utc": "2026-10-31T04:21:20.990000+00:00",
+    "magnitud": 3.1,
+    "profundidad_km": 12.3,
+    "latitud": 36.3134,
+    "longitud": 27.7329,
+    "pais": "",
+    "ciudad_referencia": "DODECANESE IS.-TURKEY BORDER REG",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261031_0000055",
+    "fecha_primera_recepcion": "2026-10-31T04:30:38.943139+00:00",
+    "fecha_ultima_observacion": "2026-10-31T04:30:38.943139+00:00"
   }
 }
