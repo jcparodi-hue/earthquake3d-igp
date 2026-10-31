@@ -56179,7 +56179,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-760",
     "fecha_primera_recepcion": "2026-10-31T00:10:42.326164+00:00",
-    "fecha_ultima_observacion": "2026-10-31T03:30:36.385235+00:00"
+    "fecha_ultima_observacion": "2026-10-31T03:35:35.551931+00:00"
   },
   "EMSC:20261031_0000001": {
     "id": "20261031_0000001",
@@ -56460,5 +56460,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261031_0000045",
     "fecha_primera_recepcion": "2026-10-31T03:29:10.112668+00:00",
     "fecha_ultima_observacion": "2026-10-31T03:30:36.385235+00:00"
+  },
+  "EMSC:20261031_0000048": {
+    "id": "20261031_0000048",
+    "fecha_hora_utc": "2026-10-31T03:25:26+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 36.0,
+    "latitud": 1.35,
+    "longitud": 126.31,
+    "pais": "",
+    "ciudad_referencia": "MOLUCCA SEA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261031_0000048",
+    "fecha_primera_recepcion": "2026-10-31T03:35:35.551931+00:00",
+    "fecha_ultima_observacion": "2026-10-31T03:35:35.551931+00:00"
+  },
+  "USGS:us7000tugv": {
+    "id": "us7000tugv",
+    "fecha_hora_utc": "2026-10-31T03:14:13.580000+00:00",
+    "magnitud": 4.6,
+    "profundidad_km": 10.0,
+    "latitud": 30.9098,
+    "longitud": 142.5186,
+    "pais": "",
+    "ciudad_referencia": "Izu Islands, Japan region",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tugv",
+    "fecha_primera_recepcion": "2026-10-31T03:35:35.551931+00:00",
+    "fecha_ultima_observacion": "2026-10-31T03:35:35.551931+00:00"
   }
 }
