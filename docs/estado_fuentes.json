@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-31T08:25:39.567581+00:00",
+  "actualizado_utc": "2026-10-31T08:30:41.823630+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 70,
   "actualizacion_minutos": 5,
   "igp": 70,
-  "emsc": 2523,
+  "emsc": 2525,
   "usgs": 532,
   "duplicados_eliminados": 504,
-  "eventos_publicados": 2621,
-  "evento_mas_reciente_utc": "2026-10-31T08:04:25.576728+00:00",
+  "eventos_publicados": 2623,
+  "evento_mas_reciente_utc": "2026-10-31T08:25:11+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 15,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-30T22:46:56+00:00",
-      "antiguedad_evento_mas_reciente_min": 578.7
+      "antiguedad_evento_mas_reciente_min": 583.8
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2523,
-      "eventos_recibidos": 2526,
+      "eventos_validos": 2525,
+      "eventos_recibidos": 2528,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-31T08:04:25.576728+00:00",
-      "antiguedad_evento_mas_reciente_min": 21.2
+      "evento_mas_reciente_utc": "2026-10-31T08:25:11+00:00",
+      "antiguedad_evento_mas_reciente_min": 5.5
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 537,
       "invalidos_rechazados": 5,
       "evento_mas_reciente_utc": "2026-10-31T07:37:26.189000+00:00",
-      "antiguedad_evento_mas_reciente_min": 48.2
+      "antiguedad_evento_mas_reciente_min": 53.3
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-760"
     },
     "emsc": {
-      "id": "20261031_0000093",
-      "fecha_hora_utc": "2026-10-31T08:04:25.576728+00:00",
-      "magnitud": 3.8,
-      "profundidad_km": 165.6,
-      "latitud": -34.9752,
-      "longitud": 179.1747,
+      "id": "20261031_0000095",
+      "fecha_hora_utc": "2026-10-31T08:25:11+00:00",
+      "magnitud": 3.3,
+      "profundidad_km": 10.0,
+      "latitud": -2.91,
+      "longitud": 122.33,
       "pais": "",
-      "ciudad_referencia": "SOUTH OF KERMADEC ISLANDS",
+      "ciudad_referencia": "SULAWESI, INDONESIA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261031_0000093"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261031_0000095"
     },
     "usgs": {
       "id": "us7000tuhe",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-31T08:25:39.567581+00:00"
+    "hora_consulta_utc": "2026-10-31T08:30:41.823630+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-31T08:25:39.567581+00:00",
-  "combined_after_dedup": 2621
+  "updated_utc": "2026-10-31T08:30:41.823630+00:00",
+  "combined_after_dedup": 2623
 }
