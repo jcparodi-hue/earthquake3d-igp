@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-31T18:15:28.228590+00:00",
+  "actualizado_utc": "2026-10-31T18:20:38.392029+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 71,
   "actualizacion_minutos": 5,
@@ -9,7 +9,7 @@
   "usgs": 517,
   "duplicados_eliminados": 496,
   "eventos_publicados": 2621,
-  "evento_mas_reciente_utc": "2026-10-31T18:11:27+00:00",
+  "evento_mas_reciente_utc": "2026-10-31T18:11:29+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 16,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-31T11:44:02+00:00",
-      "antiguedad_evento_mas_reciente_min": 391.4
+      "antiguedad_evento_mas_reciente_min": 396.6
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,8 +26,8 @@
       "eventos_validos": 2529,
       "eventos_recibidos": 2533,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-10-31T18:11:27+00:00",
-      "antiguedad_evento_mas_reciente_min": 4.0
+      "evento_mas_reciente_utc": "2026-10-31T18:11:29+00:00",
+      "antiguedad_evento_mas_reciente_min": 9.2
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 521,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-10-31T17:16:16.500000+00:00",
-      "antiguedad_evento_mas_reciente_min": 59.2
+      "antiguedad_evento_mas_reciente_min": 64.4
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261031_0000238",
-      "fecha_hora_utc": "2026-10-31T18:11:27+00:00",
+      "fecha_hora_utc": "2026-10-31T18:11:29+00:00",
       "magnitud": 3.8,
-      "profundidad_km": 10.0,
-      "latitud": -30.05,
-      "longitud": -72.16,
+      "profundidad_km": 24.5,
+      "latitud": -30.13,
+      "longitud": -72.05,
       "pais": "",
       "ciudad_referencia": "OFFSHORE COQUIMBO, CHILE",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-31T18:15:28.228590+00:00"
+    "hora_consulta_utc": "2026-10-31T18:20:38.392029+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-31T18:15:28.228590+00:00",
+  "updated_utc": "2026-10-31T18:20:38.392029+00:00",
   "combined_after_dedup": 2621
 }
