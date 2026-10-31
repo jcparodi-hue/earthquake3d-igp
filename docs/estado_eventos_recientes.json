@@ -56179,7 +56179,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-760",
     "fecha_primera_recepcion": "2026-10-31T00:10:42.326164+00:00",
-    "fecha_ultima_observacion": "2026-10-31T13:45:36.980798+00:00"
+    "fecha_ultima_observacion": "2026-10-31T13:50:28.493797+00:00"
   },
   "EMSC:20261031_0000001": {
     "id": "20261031_0000001",
@@ -57188,5 +57188,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261031_0000166",
     "fecha_primera_recepcion": "2026-10-31T13:35:42.211331+00:00",
     "fecha_ultima_observacion": "2026-10-31T13:45:36.980798+00:00"
+  },
+  "EMSC:20261031_0000169": {
+    "id": "20261031_0000169",
+    "fecha_hora_utc": "2026-10-31T13:38:37+00:00",
+    "magnitud": 3.4,
+    "profundidad_km": 10.0,
+    "latitud": 33.14,
+    "longitud": 91.68,
+    "pais": "",
+    "ciudad_referencia": "SOUTHERN QINGHAI, CHINA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261031_0000169",
+    "fecha_primera_recepcion": "2026-10-31T13:50:28.493797+00:00",
+    "fecha_ultima_observacion": "2026-10-31T13:50:28.493797+00:00"
+  },
+  "USGS:pr2026304000": {
+    "id": "pr2026304000",
+    "fecha_hora_utc": "2026-10-31T13:17:29.030000+00:00",
+    "magnitud": 3.77,
+    "profundidad_km": 20.0,
+    "latitud": 18.9686,
+    "longitud": -64.2266,
+    "pais": "",
+    "ciudad_referencia": "92 km NE of Cruz Bay, U.S. Virgin Islands",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026304000",
+    "fecha_primera_recepcion": "2026-10-31T13:50:28.493797+00:00",
+    "fecha_ultima_observacion": "2026-10-31T13:50:28.493797+00:00"
   }
 }
