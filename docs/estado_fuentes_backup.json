@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-31T23:15:34.584772+00:00",
+  "actualizado_utc": "2026-10-31T23:20:37.681800+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 71,
   "actualizacion_minutos": 5,
   "igp": 71,
   "emsc": 2502,
-  "usgs": 507,
-  "duplicados_eliminados": 490,
+  "usgs": 508,
+  "duplicados_eliminados": 491,
   "eventos_publicados": 2590,
-  "evento_mas_reciente_utc": "2026-10-31T22:46:24.600000+00:00",
+  "evento_mas_reciente_utc": "2026-10-31T23:17:43.728398+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 16,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-31T11:44:02+00:00",
-      "antiguedad_evento_mas_reciente_min": 691.5
+      "antiguedad_evento_mas_reciente_min": 696.6
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2502,
       "eventos_recibidos": 2507,
       "invalidos_rechazados": 5,
-      "evento_mas_reciente_utc": "2026-10-31T22:46:24.600000+00:00",
-      "antiguedad_evento_mas_reciente_min": 29.2
+      "evento_mas_reciente_utc": "2026-10-31T23:17:43.728398+00:00",
+      "antiguedad_evento_mas_reciente_min": 2.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 507,
-      "eventos_recibidos": 512,
+      "eventos_validos": 508,
+      "eventos_recibidos": 513,
       "invalidos_rechazados": 5,
-      "evento_mas_reciente_utc": "2026-10-31T22:42:39.540000+00:00",
-      "antiguedad_evento_mas_reciente_min": 32.9
+      "evento_mas_reciente_utc": "2026-10-31T23:17:43.728000+00:00",
+      "antiguedad_evento_mas_reciente_min": 2.9
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-761"
     },
     "emsc": {
-      "id": "20261031_0000293",
-      "fecha_hora_utc": "2026-10-31T22:46:24.600000+00:00",
+      "id": "20261031_0000299",
+      "fecha_hora_utc": "2026-10-31T23:17:43.728398+00:00",
       "magnitud": 3.0,
-      "profundidad_km": 69.9,
-      "latitud": 45.7863,
-      "longitud": 26.7407,
+      "profundidad_km": 28.5,
+      "latitud": 60.922,
+      "longitud": -149.834,
       "pais": "",
-      "ciudad_referencia": "ROMANIA",
+      "ciudad_referencia": "KENAI PENINSULA, ALASKA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261031_0000293"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261031_0000299"
     },
     "usgs": {
-      "id": "us7000tuky",
-      "fecha_hora_utc": "2026-10-31T22:42:39.540000+00:00",
-      "magnitud": 5.2,
-      "profundidad_km": 10.0,
-      "latitud": -13.8729,
-      "longitud": 165.6456,
+      "id": "aka2026vplgct",
+      "fecha_hora_utc": "2026-10-31T23:17:43.728000+00:00",
+      "magnitud": 3.0,
+      "profundidad_km": 28.5,
+      "latitud": 60.922,
+      "longitud": -149.834,
       "pais": "",
-      "ciudad_referencia": "200 km NW of Port-Olry, Vanuatu",
+      "ciudad_referencia": "10 km W of Hope, Alaska",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuky"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vplgct"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-31T23:15:34.584772+00:00"
+    "hora_consulta_utc": "2026-10-31T23:20:37.681800+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-31T23:15:34.584772+00:00",
+  "updated_utc": "2026-10-31T23:20:37.681800+00:00",
   "combined_after_dedup": 2590
 }
