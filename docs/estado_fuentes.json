@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-31T12:45:35.837786+00:00",
+  "actualizado_utc": "2026-10-31T12:50:38.802072+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 70,
   "actualizacion_minutos": 5,
   "igp": 70,
-  "emsc": 2517,
-  "usgs": 526,
-  "duplicados_eliminados": 501,
-  "eventos_publicados": 2612,
-  "evento_mas_reciente_utc": "2026-10-31T12:40:46+00:00",
+  "emsc": 2518,
+  "usgs": 525,
+  "duplicados_eliminados": 500,
+  "eventos_publicados": 2613,
+  "evento_mas_reciente_utc": "2026-10-31T12:40:44+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 15,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-30T22:46:56+00:00",
-      "antiguedad_evento_mas_reciente_min": 838.7
+      "antiguedad_evento_mas_reciente_min": 843.7
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2517,
-      "eventos_recibidos": 2520,
+      "eventos_validos": 2518,
+      "eventos_recibidos": 2521,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-31T12:40:46+00:00",
-      "antiguedad_evento_mas_reciente_min": 4.8
+      "evento_mas_reciente_utc": "2026-10-31T12:40:44+00:00",
+      "antiguedad_evento_mas_reciente_min": 9.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 526,
-      "eventos_recibidos": 531,
+      "eventos_validos": 525,
+      "eventos_recibidos": 530,
       "invalidos_rechazados": 5,
       "evento_mas_reciente_utc": "2026-10-31T11:31:12.352000+00:00",
-      "antiguedad_evento_mas_reciente_min": 74.4
+      "antiguedad_evento_mas_reciente_min": 79.4
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261031_0000152",
-      "fecha_hora_utc": "2026-10-31T12:40:46+00:00",
+      "fecha_hora_utc": "2026-10-31T12:40:44+00:00",
       "magnitud": 2.6,
       "profundidad_km": 33.0,
-      "latitud": 11.624,
-      "longitud": -86.557,
+      "latitud": 11.533,
+      "longitud": -86.613,
       "pais": "",
       "ciudad_referencia": "NEAR COAST OF NICARAGUA",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-31T12:45:35.837786+00:00"
+    "hora_consulta_utc": "2026-10-31T12:50:38.802072+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-31T12:45:35.837786+00:00",
-  "combined_after_dedup": 2612
+  "updated_utc": "2026-10-31T12:50:38.802072+00:00",
+  "combined_after_dedup": 2613
 }
