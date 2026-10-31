@@ -56179,7 +56179,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-760",
     "fecha_primera_recepcion": "2026-10-31T00:10:42.326164+00:00",
-    "fecha_ultima_observacion": "2026-10-31T08:15:35.100147+00:00"
+    "fecha_ultima_observacion": "2026-10-31T08:20:31.432786+00:00"
   },
   "EMSC:20261031_0000001": {
     "id": "20261031_0000001",
@@ -56753,6 +56753,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261031_0000093",
     "fecha_primera_recepcion": "2026-10-31T08:15:35.100147+00:00",
-    "fecha_ultima_observacion": "2026-10-31T08:15:35.100147+00:00"
+    "fecha_ultima_observacion": "2026-10-31T08:20:31.432786+00:00"
+  },
+  "USGS:us7000tuhe": {
+    "id": "us7000tuhe",
+    "fecha_hora_utc": "2026-10-31T07:37:26.189000+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 7.806,
+    "latitud": 38.3161,
+    "longitud": -112.3258,
+    "pais": "",
+    "ciudad_referencia": "12 km NW of Junction, Utah",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuhe",
+    "fecha_primera_recepcion": "2026-10-31T08:20:31.432786+00:00",
+    "fecha_ultima_observacion": "2026-10-31T08:20:31.432786+00:00"
   }
 }
