@@ -1,5 +1,19 @@
 [
   {
+    "volcan": "Reventador",
+    "pais": "Ecuador",
+    "codigo_vaac": "REVE",
+    "fecha_hora_utc_texto": "2044 UTC",
+    "id_archivo": "2026J312044",
+    "url_aviso": "https://www.ospo.noaa.gov/VAAC/ARCH26/REVE/2026J312044.html",
+    "url_xml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/xml_files/FVXX21_20261031_2044.xml",
+    "url_grafico": "https://www.ospo.noaa.gov/VAAC/ARCH26/GFX/REVE1149.jpg",
+    "url_kml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/kml_files/REVENTADOR_ASH_202610312044.kml",
+    "vaac": "Washington",
+    "tipo": "VAA",
+    "fuente": "NOAA Washington VAAC"
+  },
+  {
     "volcan": "Puracé",
     "pais": "Colombia",
     "codigo_vaac": "PURA",
@@ -275,20 +289,6 @@
     "url_xml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/xml_files/FVXX21_20261030_2153.xml",
     "url_grafico": "https://www.ospo.noaa.gov/VAAC/ARCH26/GFX/REVE1145.jpg",
     "url_kml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/kml_files/REVENTADOR_ASH_202610302153.kml",
-    "vaac": "Washington",
-    "tipo": "VAA",
-    "fuente": "NOAA Washington VAAC"
-  },
-  {
-    "volcan": "Masaya",
-    "pais": "Nicaragua",
-    "codigo_vaac": "MASA",
-    "fecha_hora_utc_texto": "2055 UTC",
-    "id_archivo": "2026J302055",
-    "url_aviso": "https://www.ospo.noaa.gov/VAAC/ARCH26/MASA/2026J302055.html",
-    "url_xml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/xml_files/FVXX26_20261030_2055.xml",
-    "url_grafico": "https://www.ospo.noaa.gov/VAAC/ARCH26/GFX/MASA0021.jpg",
-    "url_kml": "https://www.ospo.noaa.gov/products/atmosphere/vaac/volcanoes/kml_files/MASAYA_ASH_202610302055.kml",
     "vaac": "Washington",
     "tipo": "VAA",
     "fuente": "NOAA Washington VAAC"
