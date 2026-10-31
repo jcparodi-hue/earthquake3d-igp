@@ -57369,7 +57369,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-761",
     "fecha_primera_recepcion": "2026-10-31T16:10:37.522144+00:00",
-    "fecha_ultima_observacion": "2026-10-31T21:26:52.257210+00:00"
+    "fecha_ultima_observacion": "2026-10-31T21:30:41.153624+00:00"
   },
   "EMSC:20261031_0000205": {
     "id": "20261031_0000205",
@@ -57775,7 +57775,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538123",
     "fecha_primera_recepcion": "2026-10-31T21:15:33.954515+00:00",
-    "fecha_ultima_observacion": "2026-10-31T21:26:52.257210+00:00"
+    "fecha_ultima_observacion": "2026-10-31T21:30:41.153624+00:00"
   },
   "EMSC:20261031_0000272": {
     "id": "20261031_0000272",
@@ -57804,5 +57804,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261031_0000273",
     "fecha_primera_recepcion": "2026-10-31T21:25:32.140356+00:00",
     "fecha_ultima_observacion": "2026-10-31T21:26:52.257210+00:00"
+  },
+  "EMSC:20261031_0000276": {
+    "id": "20261031_0000276",
+    "fecha_hora_utc": "2026-10-31T21:20:40.190000+00:00",
+    "magnitud": 4.8,
+    "profundidad_km": 10.0,
+    "latitud": 28.1441,
+    "longitud": 51.5608,
+    "pais": "",
+    "ciudad_referencia": "SOUTHERN IRAN",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261031_0000276",
+    "fecha_primera_recepcion": "2026-10-31T21:30:41.153624+00:00",
+    "fecha_ultima_observacion": "2026-10-31T21:30:41.153624+00:00"
   }
 }
