@@ -57369,7 +57369,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-761",
     "fecha_primera_recepcion": "2026-10-31T16:10:37.522144+00:00",
-    "fecha_ultima_observacion": "2026-10-31T16:45:39.453110+00:00"
+    "fecha_ultima_observacion": "2026-10-31T16:50:33.389672+00:00"
   },
   "EMSC:20261031_0000205": {
     "id": "20261031_0000205",
@@ -57412,5 +57412,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261031_0000208",
     "fecha_primera_recepcion": "2026-10-31T16:25:39.807404+00:00",
     "fecha_ultima_observacion": "2026-10-31T16:45:39.453110+00:00"
+  },
+  "EMSC:20261031_0000212": {
+    "id": "20261031_0000212",
+    "fecha_hora_utc": "2026-10-31T16:44:50.250000+00:00",
+    "magnitud": 2.9,
+    "profundidad_km": 2.4,
+    "latitud": 37.4237,
+    "longitud": -121.4577,
+    "pais": "",
+    "ciudad_referencia": "NORTHERN CALIFORNIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261031_0000212",
+    "fecha_primera_recepcion": "2026-10-31T16:50:33.389672+00:00",
+    "fecha_ultima_observacion": "2026-10-31T16:50:33.389672+00:00"
+  },
+  "USGS:nc75460382": {
+    "id": "nc75460382",
+    "fecha_hora_utc": "2026-10-31T16:44:50.250000+00:00",
+    "magnitud": 2.92,
+    "profundidad_km": 2.42000007629395,
+    "latitud": 37.4236679077148,
+    "longitud": -121.457664489746,
+    "pais": "",
+    "ciudad_referencia": "27 km WSW of Westley, CA",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75460382",
+    "fecha_primera_recepcion": "2026-10-31T16:50:33.389672+00:00",
+    "fecha_ultima_observacion": "2026-10-31T16:50:33.389672+00:00"
   }
 }
