@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-31T01:55:24.558999+00:00",
+  "actualizado_utc": "2026-10-31T02:00:42.482297+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 70,
   "actualizacion_minutos": 5,
   "igp": 70,
   "emsc": 2537,
-  "usgs": 527,
-  "duplicados_eliminados": 500,
+  "usgs": 526,
+  "duplicados_eliminados": 499,
   "eventos_publicados": 2634,
-  "evento_mas_reciente_utc": "2026-10-31T01:48:16+00:00",
+  "evento_mas_reciente_utc": "2026-10-31T01:57:51+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 16,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-30T22:46:56+00:00",
-      "antiguedad_evento_mas_reciente_min": 188.5
+      "antiguedad_evento_mas_reciente_min": 193.8
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2537,
       "eventos_recibidos": 2540,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-31T01:48:16+00:00",
-      "antiguedad_evento_mas_reciente_min": 7.1
+      "evento_mas_reciente_utc": "2026-10-31T01:57:51+00:00",
+      "antiguedad_evento_mas_reciente_min": 2.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 527,
-      "eventos_recibidos": 532,
+      "eventos_validos": 526,
+      "eventos_recibidos": 531,
       "invalidos_rechazados": 5,
       "evento_mas_reciente_utc": "2026-10-31T01:21:36.013000+00:00",
-      "antiguedad_evento_mas_reciente_min": 33.8
+      "antiguedad_evento_mas_reciente_min": 39.1
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-760"
     },
     "emsc": {
-      "id": "20261031_0000027",
-      "fecha_hora_utc": "2026-10-31T01:48:16+00:00",
-      "magnitud": 2.8,
-      "profundidad_km": 27.7,
-      "latitud": -31.78,
-      "longitud": -72.08,
+      "id": "20261031_0000029",
+      "fecha_hora_utc": "2026-10-31T01:57:51+00:00",
+      "magnitud": 3.4,
+      "profundidad_km": 94.8,
+      "latitud": -23.0,
+      "longitud": -68.87,
       "pais": "",
-      "ciudad_referencia": "OFFSHORE COQUIMBO, CHILE",
+      "ciudad_referencia": "ANTOFAGASTA, CHILE",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261031_0000027"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261031_0000029"
     },
     "usgs": {
       "id": "us7000tugl",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-31T01:55:24.558999+00:00"
+    "hora_consulta_utc": "2026-10-31T02:00:42.482297+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-31T01:55:24.558999+00:00",
+  "updated_utc": "2026-10-31T02:00:42.482297+00:00",
   "combined_after_dedup": 2634
 }
