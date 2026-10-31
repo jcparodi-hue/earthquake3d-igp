@@ -57369,7 +57369,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-761",
     "fecha_primera_recepcion": "2026-10-31T16:10:37.522144+00:00",
-    "fecha_ultima_observacion": "2026-10-31T19:05:36.575483+00:00"
+    "fecha_ultima_observacion": "2026-10-31T19:10:31.796312+00:00"
   },
   "EMSC:20261031_0000205": {
     "id": "20261031_0000205",
@@ -57594,5 +57594,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261031_0000241",
     "fecha_primera_recepcion": "2026-10-31T18:50:38.794704+00:00",
     "fecha_ultima_observacion": "2026-10-31T19:05:36.575483+00:00"
+  },
+  "EMSC:20261031_0000246": {
+    "id": "20261031_0000246",
+    "fecha_hora_utc": "2026-10-31T18:59:25+00:00",
+    "magnitud": 3.5,
+    "profundidad_km": 23.5,
+    "latitud": -32.18,
+    "longitud": -72.1,
+    "pais": "",
+    "ciudad_referencia": "OFFSHORE VALPARAISO, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261031_0000246",
+    "fecha_primera_recepcion": "2026-10-31T19:10:31.796312+00:00",
+    "fecha_ultima_observacion": "2026-10-31T19:10:31.796312+00:00"
+  },
+  "USGS:us7000tuk4": {
+    "id": "us7000tuk4",
+    "fecha_hora_utc": "2026-10-31T18:51:02.721000+00:00",
+    "magnitud": 4.5,
+    "profundidad_km": 44.87,
+    "latitud": 51.6994,
+    "longitud": -172.7931,
+    "pais": "",
+    "ciudad_referencia": "111 km ESE of Atka, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuk4",
+    "fecha_primera_recepcion": "2026-10-31T19:10:31.796312+00:00",
+    "fecha_ultima_observacion": "2026-10-31T19:10:31.796312+00:00"
   }
 }
