@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-10-31T02:25:24.106009+00:00",
+  "actualizado_utc": "2026-10-31T02:30:47.283897+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 70,
   "actualizacion_minutos": 5,
@@ -9,7 +9,7 @@
   "usgs": 525,
   "duplicados_eliminados": 499,
   "eventos_publicados": 2640,
-  "evento_mas_reciente_utc": "2026-10-31T02:13:35+00:00",
+  "evento_mas_reciente_utc": "2026-10-31T02:13:33+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 16,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-30T22:46:56+00:00",
-      "antiguedad_evento_mas_reciente_min": 218.5
+      "antiguedad_evento_mas_reciente_min": 223.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,8 +26,8 @@
       "eventos_validos": 2544,
       "eventos_recibidos": 2547,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-10-31T02:13:35+00:00",
-      "antiguedad_evento_mas_reciente_min": 11.8
+      "evento_mas_reciente_utc": "2026-10-31T02:13:33+00:00",
+      "antiguedad_evento_mas_reciente_min": 17.2
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 530,
       "invalidos_rechazados": 5,
       "evento_mas_reciente_utc": "2026-10-31T01:21:36.013000+00:00",
-      "antiguedad_evento_mas_reciente_min": 63.8
+      "antiguedad_evento_mas_reciente_min": 69.2
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261031_0000032",
-      "fecha_hora_utc": "2026-10-31T02:13:35+00:00",
-      "magnitud": 2.7,
-      "profundidad_km": 31.3,
-      "latitud": 26.9463,
-      "longitud": 92.6516,
+      "fecha_hora_utc": "2026-10-31T02:13:33+00:00",
+      "magnitud": 2.9,
+      "profundidad_km": 17.0,
+      "latitud": 26.95,
+      "longitud": 92.638,
       "pais": "",
       "ciudad_referencia": "ASSAM, INDIA",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-10-31T02:25:24.106009+00:00"
+    "hora_consulta_utc": "2026-10-31T02:30:47.283897+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-10-31T02:25:24.106009+00:00",
+  "updated_utc": "2026-10-31T02:30:47.283897+00:00",
   "combined_after_dedup": 2640
 }
