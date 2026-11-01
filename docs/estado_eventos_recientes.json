@@ -57369,7 +57369,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-761",
     "fecha_primera_recepcion": "2026-10-31T16:10:37.522144+00:00",
-    "fecha_ultima_observacion": "2026-11-01T08:00:44.143002+00:00"
+    "fecha_ultima_observacion": "2026-11-01T08:05:30.401344+00:00"
   },
   "EMSC:20261031_0000205": {
     "id": "20261031_0000205",
@@ -58728,5 +58728,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261101_0000094",
     "fecha_primera_recepcion": "2026-11-01T08:00:44.143002+00:00",
     "fecha_ultima_observacion": "2026-11-01T08:00:44.143002+00:00"
+  },
+  "EMSC:20261101_0000096": {
+    "id": "20261101_0000096",
+    "fecha_hora_utc": "2026-11-01T07:55:18.998000+00:00",
+    "magnitud": 3.7,
+    "profundidad_km": 9.2,
+    "latitud": 37.0038,
+    "longitud": -104.9525,
+    "pais": "",
+    "ciudad_referencia": "COLORADO",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261101_0000096",
+    "fecha_primera_recepcion": "2026-11-01T08:05:30.401344+00:00",
+    "fecha_ultima_observacion": "2026-11-01T08:05:30.401344+00:00"
+  },
+  "USGS:us7000tunh": {
+    "id": "us7000tunh",
+    "fecha_hora_utc": "2026-11-01T07:55:18.998000+00:00",
+    "magnitud": 3.7,
+    "profundidad_km": 9.248,
+    "latitud": 37.0038,
+    "longitud": -104.9525,
+    "pais": "",
+    "ciudad_referencia": "17 km SSW of Weston, Colorado",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tunh",
+    "fecha_primera_recepcion": "2026-11-01T08:05:30.401344+00:00",
+    "fecha_ultima_observacion": "2026-11-01T08:05:30.401344+00:00"
   }
 }
