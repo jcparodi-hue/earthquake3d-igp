@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-01T12:40:28.146662+00:00",
+  "actualizado_utc": "2026-11-01T12:45:38.844713+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 71,
   "actualizacion_minutos": 5,
@@ -9,7 +9,7 @@
   "usgs": 513,
   "duplicados_eliminados": 494,
   "eventos_publicados": 2574,
-  "evento_mas_reciente_utc": "2026-11-01T12:31:43.050000+00:00",
+  "evento_mas_reciente_utc": "2026-11-01T12:39:10.750000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 16,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-31T11:44:02+00:00",
-      "antiguedad_evento_mas_reciente_min": 1496.4
+      "antiguedad_evento_mas_reciente_min": 1501.6
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2484,
       "eventos_recibidos": 2488,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-01T12:19:19+00:00",
-      "antiguedad_evento_mas_reciente_min": 21.2
+      "evento_mas_reciente_utc": "2026-11-01T12:39:10.750000+00:00",
+      "antiguedad_evento_mas_reciente_min": 6.5
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
       "eventos_validos": 513,
-      "eventos_recibidos": 517,
-      "invalidos_rechazados": 4,
+      "eventos_recibidos": 518,
+      "invalidos_rechazados": 5,
       "evento_mas_reciente_utc": "2026-11-01T12:31:43.050000+00:00",
-      "antiguedad_evento_mas_reciente_min": 8.8
+      "antiguedad_evento_mas_reciente_min": 13.9
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-761"
     },
     "emsc": {
-      "id": "20261101_0000141",
-      "fecha_hora_utc": "2026-11-01T12:19:19+00:00",
-      "magnitud": 2.7,
-      "profundidad_km": 136.7,
-      "latitud": -21.51,
-      "longitud": -68.6,
+      "id": "20261101_0000145",
+      "fecha_hora_utc": "2026-11-01T12:39:10.750000+00:00",
+      "magnitud": 2.6,
+      "profundidad_km": -0.0,
+      "latitud": 33.4167,
+      "longitud": -119.0878,
       "pais": "",
-      "ciudad_referencia": "ANTOFAGASTA, CHILE",
+      "ciudad_referencia": "CHANNEL ISLANDS REG., CALIFORNIA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261101_0000141"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261101_0000145"
     },
     "usgs": {
       "id": "nc75460847",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-01T12:40:28.146662+00:00"
+    "hora_consulta_utc": "2026-11-01T12:45:38.844713+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-01T12:40:28.146662+00:00",
+  "updated_utc": "2026-11-01T12:45:38.844713+00:00",
   "combined_after_dedup": 2574
 }
