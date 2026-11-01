@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-01T21:40:40.396665+00:00",
+  "actualizado_utc": "2026-11-01T21:45:27.973981+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 72,
   "actualizacion_minutos": 5,
   "igp": 72,
   "emsc": 2473,
-  "usgs": 504,
-  "duplicados_eliminados": 486,
+  "usgs": 503,
+  "duplicados_eliminados": 485,
   "eventos_publicados": 2563,
-  "evento_mas_reciente_utc": "2026-11-01T21:25:13+00:00",
+  "evento_mas_reciente_utc": "2026-11-01T21:30:56+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 17,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-01T13:50:41+00:00",
-      "antiguedad_evento_mas_reciente_min": 470.0
+      "antiguedad_evento_mas_reciente_min": 474.8
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2473,
       "eventos_recibidos": 2477,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-01T21:25:13+00:00",
-      "antiguedad_evento_mas_reciente_min": 15.5
+      "evento_mas_reciente_utc": "2026-11-01T21:30:56+00:00",
+      "antiguedad_evento_mas_reciente_min": 14.5
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 504,
-      "eventos_recibidos": 508,
+      "eventos_validos": 503,
+      "eventos_recibidos": 507,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-11-01T20:02:05.041000+00:00",
-      "antiguedad_evento_mas_reciente_min": 98.6
+      "antiguedad_evento_mas_reciente_min": 103.4
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-762"
     },
     "emsc": {
-      "id": "20261101_0000258",
-      "fecha_hora_utc": "2026-11-01T21:25:13+00:00",
-      "magnitud": 3.7,
-      "profundidad_km": 10.0,
-      "latitud": 7.3601,
-      "longitud": -80.2759,
+      "id": "20261101_0000263",
+      "fecha_hora_utc": "2026-11-01T21:30:56+00:00",
+      "magnitud": 3.2,
+      "profundidad_km": 15.0,
+      "latitud": -7.81,
+      "longitud": 120.51,
       "pais": "",
-      "ciudad_referencia": "PANAMA",
+      "ciudad_referencia": "FLORES SEA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261101_0000258"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261101_0000263"
     },
     "usgs": {
       "id": "aka2026vrataq",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-01T21:40:40.396665+00:00"
+    "hora_consulta_utc": "2026-11-01T21:45:27.973981+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-01T21:40:40.396665+00:00",
+  "updated_utc": "2026-11-01T21:45:27.973981+00:00",
   "combined_after_dedup": 2563
 }
