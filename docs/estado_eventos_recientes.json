@@ -57369,7 +57369,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-761",
     "fecha_primera_recepcion": "2026-10-31T16:10:37.522144+00:00",
-    "fecha_ultima_observacion": "2026-11-01T05:45:44.851607+00:00"
+    "fecha_ultima_observacion": "2026-11-01T05:50:38.739470+00:00"
   },
   "EMSC:20261031_0000205": {
     "id": "20261031_0000205",
@@ -58462,5 +58462,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261101_0000069",
     "fecha_primera_recepcion": "2026-11-01T05:45:44.851607+00:00",
     "fecha_ultima_observacion": "2026-11-01T05:45:44.851607+00:00"
+  },
+  "EMSC:20261101_0000070": {
+    "id": "20261101_0000070",
+    "fecha_hora_utc": "2026-11-01T05:38:58+00:00",
+    "magnitud": 4.2,
+    "profundidad_km": 11.0,
+    "latitud": 4.87,
+    "longitud": 96.13,
+    "pais": "",
+    "ciudad_referencia": "NORTHERN SUMATRA, INDONESIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261101_0000070",
+    "fecha_primera_recepcion": "2026-11-01T05:50:38.739470+00:00",
+    "fecha_ultima_observacion": "2026-11-01T05:50:38.739470+00:00"
+  },
+  "USGS:us7000tumy": {
+    "id": "us7000tumy",
+    "fecha_hora_utc": "2026-11-01T05:31:54.598000+00:00",
+    "magnitud": 4.8,
+    "profundidad_km": 202.07,
+    "latitud": -23.6386,
+    "longitud": -66.6315,
+    "pais": "",
+    "ciudad_referencia": "71 km NNW of San Antonio de los Cobres, Argentina",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tumy",
+    "fecha_primera_recepcion": "2026-11-01T05:50:38.739470+00:00",
+    "fecha_ultima_observacion": "2026-11-01T05:50:38.739470+00:00"
   }
 }
