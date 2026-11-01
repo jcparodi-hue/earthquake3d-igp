@@ -59427,7 +59427,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-762",
     "fecha_primera_recepcion": "2026-11-01T16:00:43.454292+00:00",
-    "fecha_ultima_observacion": "2026-11-01T21:55:42.155153+00:00"
+    "fecha_ultima_observacion": "2026-11-01T22:00:34.766101+00:00"
   },
   "EMSC:20261101_0000191": {
     "id": "20261101_0000191",
@@ -59862,5 +59862,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261101_0000267",
     "fecha_primera_recepcion": "2026-11-01T21:55:42.155153+00:00",
     "fecha_ultima_observacion": "2026-11-01T21:55:42.155153+00:00"
+  },
+  "EMSC:20261101_0000268": {
+    "id": "20261101_0000268",
+    "fecha_hora_utc": "2026-11-01T21:50:13+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 134.6,
+    "latitud": -21.24,
+    "longitud": -68.42,
+    "pais": "",
+    "ciudad_referencia": "ANTOFAGASTA, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261101_0000268",
+    "fecha_primera_recepcion": "2026-11-01T22:00:34.766101+00:00",
+    "fecha_ultima_observacion": "2026-11-01T22:00:34.766101+00:00"
+  },
+  "USGS:us7000turj": {
+    "id": "us7000turj",
+    "fecha_hora_utc": "2026-11-01T21:26:57.524000+00:00",
+    "magnitud": 4.7,
+    "profundidad_km": 150.95,
+    "latitud": -27.291,
+    "longitud": -177.8708,
+    "pais": "",
+    "ciudad_referencia": "Kermadec Islands region",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000turj",
+    "fecha_primera_recepcion": "2026-11-01T22:00:34.766101+00:00",
+    "fecha_ultima_observacion": "2026-11-01T22:00:34.766101+00:00"
   }
 }
