@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-01T03:20:27.092686+00:00",
+  "actualizado_utc": "2026-11-01T03:25:35.226965+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 71,
   "actualizacion_minutos": 5,
   "igp": 71,
-  "emsc": 2512,
-  "usgs": 509,
-  "duplicados_eliminados": 492,
-  "eventos_publicados": 2600,
-  "evento_mas_reciente_utc": "2026-11-01T03:07:40.100000+00:00",
+  "emsc": 2511,
+  "usgs": 508,
+  "duplicados_eliminados": 491,
+  "eventos_publicados": 2599,
+  "evento_mas_reciente_utc": "2026-11-01T03:07:40.520000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 16,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-31T11:44:02+00:00",
-      "antiguedad_evento_mas_reciente_min": 936.4
+      "antiguedad_evento_mas_reciente_min": 941.6
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2512,
-      "eventos_recibidos": 2517,
+      "eventos_validos": 2511,
+      "eventos_recibidos": 2516,
       "invalidos_rechazados": 5,
-      "evento_mas_reciente_utc": "2026-11-01T03:07:40.100000+00:00",
-      "antiguedad_evento_mas_reciente_min": 12.8
+      "evento_mas_reciente_utc": "2026-11-01T03:07:40.520000+00:00",
+      "antiguedad_evento_mas_reciente_min": 17.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 509,
-      "eventos_recibidos": 515,
+      "eventos_validos": 508,
+      "eventos_recibidos": 514,
       "invalidos_rechazados": 6,
       "evento_mas_reciente_utc": "2026-11-01T02:48:59.241000+00:00",
-      "antiguedad_evento_mas_reciente_min": 31.5
+      "antiguedad_evento_mas_reciente_min": 36.6
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261101_0000039",
-      "fecha_hora_utc": "2026-11-01T03:07:40.100000+00:00",
+      "fecha_hora_utc": "2026-11-01T03:07:40.520000+00:00",
       "magnitud": 2.5,
-      "profundidad_km": 18.9,
-      "latitud": 38.5578,
-      "longitud": 26.0292,
+      "profundidad_km": 23.7,
+      "latitud": 38.5417,
+      "longitud": 26.0666,
       "pais": "",
       "ciudad_referencia": "NEAR THE COAST OF WESTERN TURKEY",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-01T03:20:27.092686+00:00"
+    "hora_consulta_utc": "2026-11-01T03:25:35.226965+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-01T03:20:27.092686+00:00",
-  "combined_after_dedup": 2600
+  "updated_utc": "2026-11-01T03:25:35.226965+00:00",
+  "combined_after_dedup": 2599
 }
