@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-01T05:50:38.739470+00:00",
+  "actualizado_utc": "2026-11-01T05:55:52.059189+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 71,
   "actualizacion_minutos": 5,
   "igp": 71,
-  "emsc": 2503,
-  "usgs": 506,
+  "emsc": 2502,
+  "usgs": 507,
   "duplicados_eliminados": 489,
   "eventos_publicados": 2591,
-  "evento_mas_reciente_utc": "2026-11-01T05:38:58+00:00",
+  "evento_mas_reciente_utc": "2026-11-01T05:54:30.521000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 16,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-31T11:44:02+00:00",
-      "antiguedad_evento_mas_reciente_min": 1086.6
+      "antiguedad_evento_mas_reciente_min": 1091.8
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2503,
-      "eventos_recibidos": 2508,
+      "eventos_validos": 2502,
+      "eventos_recibidos": 2507,
       "invalidos_rechazados": 5,
       "evento_mas_reciente_utc": "2026-11-01T05:38:58+00:00",
-      "antiguedad_evento_mas_reciente_min": 11.7
+      "antiguedad_evento_mas_reciente_min": 16.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 506,
-      "eventos_recibidos": 511,
+      "eventos_validos": 507,
+      "eventos_recibidos": 512,
       "invalidos_rechazados": 5,
-      "evento_mas_reciente_utc": "2026-11-01T05:31:54.598000+00:00",
-      "antiguedad_evento_mas_reciente_min": 18.7
+      "evento_mas_reciente_utc": "2026-11-01T05:54:30.521000+00:00",
+      "antiguedad_evento_mas_reciente_min": 1.4
     }
   },
   "ultimo_evento": {
@@ -65,24 +65,24 @@
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261101_0000070"
     },
     "usgs": {
-      "id": "us7000tumy",
-      "fecha_hora_utc": "2026-11-01T05:31:54.598000+00:00",
-      "magnitud": 4.8,
-      "profundidad_km": 202.07,
-      "latitud": -23.6386,
-      "longitud": -66.6315,
+      "id": "aka2026vpymex",
+      "fecha_hora_utc": "2026-11-01T05:54:30.521000+00:00",
+      "magnitud": 2.8,
+      "profundidad_km": 88.6,
+      "latitud": 60.809,
+      "longitud": -151.823,
       "pais": "",
-      "ciudad_referencia": "71 km NNW of San Antonio de los Cobres, Argentina",
+      "ciudad_referencia": "31 km WNW of Nikiski, Alaska",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tumy"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vpymex"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-01T05:50:38.739470+00:00"
+    "hora_consulta_utc": "2026-11-01T05:55:52.059189+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-01T05:50:38.739470+00:00",
+  "updated_utc": "2026-11-01T05:55:52.059189+00:00",
   "combined_after_dedup": 2591
 }
