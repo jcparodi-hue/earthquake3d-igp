@@ -57369,7 +57369,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-761",
     "fecha_primera_recepcion": "2026-10-31T16:10:37.522144+00:00",
-    "fecha_ultima_observacion": "2026-11-01T11:10:27.363561+00:00"
+    "fecha_ultima_observacion": "2026-11-01T11:15:38.264671+00:00"
   },
   "EMSC:20261031_0000205": {
     "id": "20261031_0000205",
@@ -58966,5 +58966,33 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tup4",
     "fecha_primera_recepcion": "2026-11-01T11:10:27.363561+00:00",
     "fecha_ultima_observacion": "2026-11-01T11:10:27.363561+00:00"
+  },
+  "EMSC:20261101_0000127": {
+    "id": "20261101_0000127",
+    "fecha_hora_utc": "2026-11-01T11:09:51+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 132.4,
+    "latitud": -21.88,
+    "longitud": -68.67,
+    "pais": "",
+    "ciudad_referencia": "ANTOFAGASTA, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261101_0000127",
+    "fecha_primera_recepcion": "2026-11-01T11:15:38.264671+00:00",
+    "fecha_ultima_observacion": "2026-11-01T11:15:38.264671+00:00"
+  },
+  "USGS:us7000tup7": {
+    "id": "us7000tup7",
+    "fecha_hora_utc": "2026-11-01T10:31:55.810000+00:00",
+    "magnitud": 4.4,
+    "profundidad_km": 377.883,
+    "latitud": -5.9502,
+    "longitud": 127.7611,
+    "pais": "",
+    "ciudad_referencia": "253 km S of Ambon, Indonesia",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tup7",
+    "fecha_primera_recepcion": "2026-11-01T11:15:38.264671+00:00",
+    "fecha_ultima_observacion": "2026-11-01T11:15:38.264671+00:00"
   }
 }
