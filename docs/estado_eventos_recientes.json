@@ -57369,7 +57369,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-761",
     "fecha_primera_recepcion": "2026-10-31T16:10:37.522144+00:00",
-    "fecha_ultima_observacion": "2026-11-01T04:40:40.291757+00:00"
+    "fecha_ultima_observacion": "2026-11-01T04:45:43.837265+00:00"
   },
   "EMSC:20261031_0000205": {
     "id": "20261031_0000205",
@@ -58350,5 +58350,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261101_0000052",
     "fecha_primera_recepcion": "2026-11-01T04:40:40.291757+00:00",
     "fecha_ultima_observacion": "2026-11-01T04:40:40.291757+00:00"
+  },
+  "EMSC:20261101_0000054": {
+    "id": "20261101_0000054",
+    "fecha_hora_utc": "2026-11-01T04:29:27+00:00",
+    "magnitud": 2.8,
+    "profundidad_km": 21.0,
+    "latitud": 13.182,
+    "longitud": -89.744,
+    "pais": "",
+    "ciudad_referencia": "OFFSHORE EL SALVADOR",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261101_0000054",
+    "fecha_primera_recepcion": "2026-11-01T04:45:43.837265+00:00",
+    "fecha_ultima_observacion": "2026-11-01T04:45:43.837265+00:00"
+  },
+  "USGS:pr71538183": {
+    "id": "pr71538183",
+    "fecha_hora_utc": "2026-11-01T04:26:08.840000+00:00",
+    "magnitud": 2.66,
+    "profundidad_km": 3.47,
+    "latitud": 18.6138333333333,
+    "longitud": -64.4968333333333,
+    "pais": "",
+    "ciudad_referencia": "44 km NE of Cruz Bay, U.S. Virgin Islands",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538183",
+    "fecha_primera_recepcion": "2026-11-01T04:45:43.837265+00:00",
+    "fecha_ultima_observacion": "2026-11-01T04:45:43.837265+00:00"
   }
 }
