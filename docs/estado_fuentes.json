@@ -1,13 +1,13 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-01T11:05:32.628809+00:00",
+  "actualizado_utc": "2026-11-01T11:10:27.363561+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 71,
   "actualizacion_minutos": 5,
   "igp": 71,
   "emsc": 2484,
-  "usgs": 504,
-  "duplicados_eliminados": 486,
+  "usgs": 505,
+  "duplicados_eliminados": 487,
   "eventos_publicados": 2573,
   "evento_mas_reciente_utc": "2026-11-01T10:41:46.840000+00:00",
   "salud_fuentes": {
@@ -18,7 +18,7 @@
       "eventos_recibidos": 16,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-31T11:44:02+00:00",
-      "antiguedad_evento_mas_reciente_min": 1401.5
+      "antiguedad_evento_mas_reciente_min": 1406.4
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -27,16 +27,16 @@
       "eventos_recibidos": 2488,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-11-01T10:41:46.840000+00:00",
-      "antiguedad_evento_mas_reciente_min": 23.8
+      "antiguedad_evento_mas_reciente_min": 28.7
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 504,
-      "eventos_recibidos": 508,
+      "eventos_validos": 505,
+      "eventos_recibidos": 509,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-01T09:50:28.082000+00:00",
-      "antiguedad_evento_mas_reciente_min": 75.1
+      "evento_mas_reciente_utc": "2026-11-01T10:19:00.745000+00:00",
+      "antiguedad_evento_mas_reciente_min": 51.4
     }
   },
   "ultimo_evento": {
@@ -65,24 +65,24 @@
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261101_0000124"
     },
     "usgs": {
-      "id": "aka2026vqgirx",
-      "fecha_hora_utc": "2026-11-01T09:50:28.082000+00:00",
-      "magnitud": 2.5,
-      "profundidad_km": 45.3,
-      "latitud": 57.983,
-      "longitud": -153.32,
+      "id": "us7000tup4",
+      "fecha_hora_utc": "2026-11-01T10:19:00.745000+00:00",
+      "magnitud": 4.2,
+      "profundidad_km": 39.028,
+      "latitud": 39.8128,
+      "longitud": 143.3008,
       "pais": "",
-      "ciudad_referencia": "25 km WSW of Aleneva, Alaska",
+      "ciudad_referencia": "118 km E of Miyako, Japan",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vqgirx"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tup4"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-01T11:05:32.628809+00:00"
+    "hora_consulta_utc": "2026-11-01T11:10:27.363561+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-01T11:05:32.628809+00:00",
+  "updated_utc": "2026-11-01T11:10:27.363561+00:00",
   "combined_after_dedup": 2573
 }
