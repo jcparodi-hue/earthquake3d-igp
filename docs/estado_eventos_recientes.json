@@ -57369,7 +57369,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-761",
     "fecha_primera_recepcion": "2026-10-31T16:10:37.522144+00:00",
-    "fecha_ultima_observacion": "2026-11-01T00:30:41.206148+00:00"
+    "fecha_ultima_observacion": "2026-11-01T00:35:42.420834+00:00"
   },
   "EMSC:20261031_0000205": {
     "id": "20261031_0000205",
@@ -58055,7 +58055,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tule",
     "fecha_primera_recepcion": "2026-11-01T00:20:38.922667+00:00",
-    "fecha_ultima_observacion": "2026-11-01T00:30:41.206148+00:00"
+    "fecha_ultima_observacion": "2026-11-01T00:35:42.420834+00:00"
   },
   "EMSC:20261101_0000001": {
     "id": "20261101_0000001",
@@ -58084,5 +58084,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261101_0000007",
     "fecha_primera_recepcion": "2026-11-01T00:30:41.206148+00:00",
     "fecha_ultima_observacion": "2026-11-01T00:30:41.206148+00:00"
+  },
+  "EMSC:20261101_0000009": {
+    "id": "20261101_0000009",
+    "fecha_hora_utc": "2026-11-01T00:30:26+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 86.8,
+    "latitud": -20.85,
+    "longitud": -69.1,
+    "pais": "",
+    "ciudad_referencia": "TARAPACA, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261101_0000009",
+    "fecha_primera_recepcion": "2026-11-01T00:35:42.420834+00:00",
+    "fecha_ultima_observacion": "2026-11-01T00:35:42.420834+00:00"
   }
 }
