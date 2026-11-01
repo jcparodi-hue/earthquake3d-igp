@@ -57369,7 +57369,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-761",
     "fecha_primera_recepcion": "2026-10-31T16:10:37.522144+00:00",
-    "fecha_ultima_observacion": "2026-11-01T05:55:52.059189+00:00"
+    "fecha_ultima_observacion": "2026-11-01T06:00:45.899961+00:00"
   },
   "EMSC:20261031_0000205": {
     "id": "20261031_0000205",
@@ -58493,16 +58493,30 @@
   },
   "USGS:aka2026vpymex": {
     "id": "aka2026vpymex",
-    "fecha_hora_utc": "2026-11-01T05:54:30.521000+00:00",
-    "magnitud": 2.8,
-    "profundidad_km": 88.6,
-    "latitud": 60.809,
-    "longitud": -151.823,
+    "fecha_hora_utc": "2026-11-01T05:54:30.622000+00:00",
+    "magnitud": 3.2,
+    "profundidad_km": 89.5,
+    "latitud": 60.795,
+    "longitud": -151.792,
     "pais": "",
-    "ciudad_referencia": "31 km WNW of Nikiski, Alaska",
+    "ciudad_referencia": "29 km WNW of Nikiski, Alaska",
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vpymex",
     "fecha_primera_recepcion": "2026-11-01T05:55:52.059189+00:00",
-    "fecha_ultima_observacion": "2026-11-01T05:55:52.059189+00:00"
+    "fecha_ultima_observacion": "2026-11-01T06:00:45.899961+00:00"
+  },
+  "EMSC:20261101_0000073": {
+    "id": "20261101_0000073",
+    "fecha_hora_utc": "2026-11-01T05:55:45+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 137.7,
+    "latitud": -21.97,
+    "longitud": -68.57,
+    "pais": "",
+    "ciudad_referencia": "ANTOFAGASTA, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261101_0000073",
+    "fecha_primera_recepcion": "2026-11-01T06:00:45.899961+00:00",
+    "fecha_ultima_observacion": "2026-11-01T06:00:45.899961+00:00"
   }
 }
