@@ -57369,7 +57369,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-761",
     "fecha_primera_recepcion": "2026-10-31T16:10:37.522144+00:00",
-    "fecha_ultima_observacion": "2026-11-01T12:30:41.325674+00:00"
+    "fecha_ultima_observacion": "2026-11-01T12:35:36.480717+00:00"
   },
   "EMSC:20261031_0000205": {
     "id": "20261031_0000205",
@@ -59119,7 +59119,7 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261101_0000141",
     "fecha_primera_recepcion": "2026-11-01T12:25:36.454144+00:00",
-    "fecha_ultima_observacion": "2026-11-01T12:30:41.325674+00:00"
+    "fecha_ultima_observacion": "2026-11-01T12:35:36.480717+00:00"
   },
   "USGS:us7000tupq": {
     "id": "us7000tupq",
@@ -59134,5 +59134,19 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tupq",
     "fecha_primera_recepcion": "2026-11-01T12:27:06.014618+00:00",
     "fecha_ultima_observacion": "2026-11-01T12:30:41.325674+00:00"
+  },
+  "USGS:nc75460847": {
+    "id": "nc75460847",
+    "fecha_hora_utc": "2026-11-01T12:31:43.050000+00:00",
+    "magnitud": 2.72,
+    "profundidad_km": 0.540000021457672,
+    "latitud": 40.3531684875488,
+    "longitud": -125.064163208008,
+    "pais": "",
+    "ciudad_referencia": "66 km W of Petrolia, CA",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75460847",
+    "fecha_primera_recepcion": "2026-11-01T12:35:36.480717+00:00",
+    "fecha_ultima_observacion": "2026-11-01T12:35:36.480717+00:00"
   }
 }
