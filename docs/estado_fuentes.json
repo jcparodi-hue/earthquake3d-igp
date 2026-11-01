@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-01T12:10:38.646069+00:00",
+  "actualizado_utc": "2026-11-01T12:15:39.379046+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 71,
   "actualizacion_minutos": 5,
   "igp": 71,
-  "emsc": 2485,
-  "usgs": 510,
-  "duplicados_eliminados": 492,
-  "eventos_publicados": 2574,
-  "evento_mas_reciente_utc": "2026-11-01T11:47:03.778000+00:00",
+  "emsc": 2484,
+  "usgs": 511,
+  "duplicados_eliminados": 493,
+  "eventos_publicados": 2573,
+  "evento_mas_reciente_utc": "2026-11-01T11:56:51.778000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 16,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-10-31T11:44:02+00:00",
-      "antiguedad_evento_mas_reciente_min": 1466.6
+      "antiguedad_evento_mas_reciente_min": 1471.6
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2485,
-      "eventos_recibidos": 2489,
+      "eventos_validos": 2484,
+      "eventos_recibidos": 2488,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-01T11:47:03.778000+00:00",
-      "antiguedad_evento_mas_reciente_min": 23.6
+      "evento_mas_reciente_utc": "2026-11-01T11:56:51.778000+00:00",
+      "antiguedad_evento_mas_reciente_min": 18.8
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 510,
-      "eventos_recibidos": 514,
+      "eventos_validos": 511,
+      "eventos_recibidos": 515,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-01T11:47:03.778000+00:00",
-      "antiguedad_evento_mas_reciente_min": 23.6
+      "evento_mas_reciente_utc": "2026-11-01T11:56:51.778000+00:00",
+      "antiguedad_evento_mas_reciente_min": 18.8
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-761"
     },
     "emsc": {
-      "id": "20261101_0000135",
-      "fecha_hora_utc": "2026-11-01T11:47:03.778000+00:00",
-      "magnitud": 6.0,
+      "id": "20261101_0000139",
+      "fecha_hora_utc": "2026-11-01T11:56:51.778000+00:00",
+      "magnitud": 4.8,
       "profundidad_km": 10.0,
-      "latitud": -14.1689,
-      "longitud": 165.8242,
+      "latitud": -14.0776,
+      "longitud": 165.767,
       "pais": "",
       "ciudad_referencia": "VANUATU",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261101_0000135"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261101_0000139"
     },
     "usgs": {
-      "id": "us7000tupl",
-      "fecha_hora_utc": "2026-11-01T11:47:03.778000+00:00",
-      "magnitud": 6.0,
+      "id": "us7000tupp",
+      "fecha_hora_utc": "2026-11-01T11:56:51.778000+00:00",
+      "magnitud": 4.8,
       "profundidad_km": 10.0,
-      "latitud": -14.1689,
-      "longitud": 165.8242,
+      "latitud": -14.0776,
+      "longitud": 165.767,
       "pais": "",
-      "ciudad_referencia": "165 km NW of Port-Olry, Vanuatu",
+      "ciudad_referencia": "176 km NW of Port-Olry, Vanuatu",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tupl"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tupp"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-01T12:10:38.646069+00:00"
+    "hora_consulta_utc": "2026-11-01T12:15:39.379046+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-01T12:10:38.646069+00:00",
-  "combined_after_dedup": 2574
+  "updated_utc": "2026-11-01T12:15:39.379046+00:00",
+  "combined_after_dedup": 2573
 }
