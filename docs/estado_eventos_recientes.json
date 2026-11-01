@@ -59427,7 +59427,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-762",
     "fecha_primera_recepcion": "2026-11-01T16:00:43.454292+00:00",
-    "fecha_ultima_observacion": "2026-11-01T21:51:48.989933+00:00"
+    "fecha_ultima_observacion": "2026-11-01T21:55:42.155153+00:00"
   },
   "EMSC:20261101_0000191": {
     "id": "20261101_0000191",
@@ -59749,7 +59749,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vrataq",
     "fecha_primera_recepcion": "2026-11-01T20:05:35.574751+00:00",
-    "fecha_ultima_observacion": "2026-11-01T21:51:48.989933+00:00"
+    "fecha_ultima_observacion": "2026-11-01T21:55:42.155153+00:00"
   },
   "EMSC:20261101_0000245": {
     "id": "20261101_0000245",
@@ -59848,5 +59848,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261101_0000265",
     "fecha_primera_recepcion": "2026-11-01T21:50:38.792098+00:00",
     "fecha_ultima_observacion": "2026-11-01T21:51:48.989933+00:00"
+  },
+  "EMSC:20261101_0000267": {
+    "id": "20261101_0000267",
+    "fecha_hora_utc": "2026-11-01T21:33:47.380000+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 14.7,
+    "latitud": 38.7057,
+    "longitud": 23.4348,
+    "pais": "",
+    "ciudad_referencia": "GREECE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261101_0000267",
+    "fecha_primera_recepcion": "2026-11-01T21:55:42.155153+00:00",
+    "fecha_ultima_observacion": "2026-11-01T21:55:42.155153+00:00"
   }
 }
