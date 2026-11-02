@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-02T01:25:31.836170+00:00",
+  "actualizado_utc": "2026-11-02T01:30:39.269939+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 72,
   "actualizacion_minutos": 5,
   "igp": 72,
-  "emsc": 2456,
+  "emsc": 2459,
   "usgs": 511,
   "duplicados_eliminados": 487,
-  "eventos_publicados": 2552,
-  "evento_mas_reciente_utc": "2026-11-02T01:04:22+00:00",
+  "eventos_publicados": 2555,
+  "evento_mas_reciente_utc": "2026-11-02T01:27:07+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 17,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-01T13:50:41+00:00",
-      "antiguedad_evento_mas_reciente_min": 694.8
+      "antiguedad_evento_mas_reciente_min": 700.0
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2456,
-      "eventos_recibidos": 2460,
+      "eventos_validos": 2459,
+      "eventos_recibidos": 2463,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-02T01:04:22+00:00",
-      "antiguedad_evento_mas_reciente_min": 21.2
+      "evento_mas_reciente_utc": "2026-11-02T01:27:07+00:00",
+      "antiguedad_evento_mas_reciente_min": 3.5
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -35,8 +35,8 @@
       "eventos_validos": 511,
       "eventos_recibidos": 515,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-02T00:53:09.703000+00:00",
-      "antiguedad_evento_mas_reciente_min": 32.4
+      "evento_mas_reciente_utc": "2026-11-02T00:53:10.555000+00:00",
+      "antiguedad_evento_mas_reciente_min": 37.5
     }
   },
   "ultimo_evento": {
@@ -53,24 +53,24 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-762"
     },
     "emsc": {
-      "id": "20261102_0000014",
-      "fecha_hora_utc": "2026-11-02T01:04:22+00:00",
-      "magnitud": 4.2,
-      "profundidad_km": 10.0,
-      "latitud": -9.17,
-      "longitud": 110.43,
+      "id": "20261102_0000018",
+      "fecha_hora_utc": "2026-11-02T01:27:07+00:00",
+      "magnitud": 3.4,
+      "profundidad_km": 23.0,
+      "latitud": 12.593,
+      "longitud": -87.807,
       "pais": "",
-      "ciudad_referencia": "SOUTH OF JAVA, INDONESIA",
+      "ciudad_referencia": "NEAR COAST OF NICARAGUA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261102_0000014"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261102_0000018"
     },
     "usgs": {
       "id": "us7000tusv",
-      "fecha_hora_utc": "2026-11-02T00:53:09.703000+00:00",
+      "fecha_hora_utc": "2026-11-02T00:53:10.555000+00:00",
       "magnitud": 5.1,
-      "profundidad_km": 85.692,
-      "latitud": -6.9736,
-      "longitud": 129.9364,
+      "profundidad_km": 93.548,
+      "latitud": -6.9205,
+      "longitud": 129.9514,
       "pais": "",
       "ciudad_referencia": "Banda Sea",
       "fuente": "USGS",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-02T01:25:31.836170+00:00"
+    "hora_consulta_utc": "2026-11-02T01:30:39.269939+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-02T01:25:31.836170+00:00",
-  "combined_after_dedup": 2552
+  "updated_utc": "2026-11-02T01:30:39.269939+00:00",
+  "combined_after_dedup": 2555
 }
