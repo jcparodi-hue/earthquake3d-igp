@@ -1,33 +1,33 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-02T04:20:40.660832+00:00",
+  "actualizado_utc": "2026-11-02T04:25:39.879191+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 72,
   "actualizacion_minutos": 5,
   "igp": 72,
-  "emsc": 2468,
+  "emsc": 2467,
   "usgs": 515,
-  "duplicados_eliminados": 491,
+  "duplicados_eliminados": 490,
   "eventos_publicados": 2564,
-  "evento_mas_reciente_utc": "2026-11-02T04:15:23.710000+00:00",
+  "evento_mas_reciente_utc": "2026-11-02T04:15:23.055000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
       "eventos_validos": 72,
-      "eventos_recibidos": 17,
+      "eventos_recibidos": 16,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-01T13:50:41+00:00",
-      "antiguedad_evento_mas_reciente_min": 870.0
+      "antiguedad_evento_mas_reciente_min": 875.0
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2468,
-      "eventos_recibidos": 2472,
+      "eventos_validos": 2467,
+      "eventos_recibidos": 2471,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-02T04:15:23.710000+00:00",
-      "antiguedad_evento_mas_reciente_min": 5.3
+      "evento_mas_reciente_utc": "2026-11-02T04:15:23.055000+00:00",
+      "antiguedad_evento_mas_reciente_min": 10.3
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 519,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-11-02T04:15:23.710000+00:00",
-      "antiguedad_evento_mas_reciente_min": 5.3
+      "antiguedad_evento_mas_reciente_min": 10.3
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261102_0000054",
-      "fecha_hora_utc": "2026-11-02T04:15:23.710000+00:00",
+      "fecha_hora_utc": "2026-11-02T04:15:23.055000+00:00",
       "magnitud": 2.8,
-      "profundidad_km": 9.4,
-      "latitud": 19.4487,
-      "longitud": -154.797,
+      "profundidad_km": 10.0,
+      "latitud": 19.43,
+      "longitud": -154.7803,
       "pais": "",
       "ciudad_referencia": "HAWAII REGION, HAWAII",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-02T04:20:40.660832+00:00"
+    "hora_consulta_utc": "2026-11-02T04:25:39.879191+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-02T04:20:40.660832+00:00",
+  "updated_utc": "2026-11-02T04:25:39.879191+00:00",
   "combined_after_dedup": 2564
 }
