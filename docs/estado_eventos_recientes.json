@@ -59427,7 +59427,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-762",
     "fecha_primera_recepcion": "2026-11-01T16:00:43.454292+00:00",
-    "fecha_ultima_observacion": "2026-11-02T15:15:31.103421+00:00"
+    "fecha_ultima_observacion": "2026-11-02T15:20:34.827299+00:00"
   },
   "EMSC:20261101_0000191": {
     "id": "20261101_0000191",
@@ -61332,5 +61332,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261102_0000193",
     "fecha_primera_recepcion": "2026-11-02T15:10:37.991054+00:00",
     "fecha_ultima_observacion": "2026-11-02T15:15:31.103421+00:00"
+  },
+  "EMSC:20261102_0000194": {
+    "id": "20261102_0000194",
+    "fecha_hora_utc": "2026-11-02T15:14:50.010000+00:00",
+    "magnitud": 2.7,
+    "profundidad_km": 2.8,
+    "latitud": 38.822,
+    "longitud": -122.8103,
+    "pais": "",
+    "ciudad_referencia": "NORTHERN CALIFORNIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261102_0000194",
+    "fecha_primera_recepcion": "2026-11-02T15:20:34.827299+00:00",
+    "fecha_ultima_observacion": "2026-11-02T15:20:34.827299+00:00"
+  },
+  "USGS:nc75461397": {
+    "id": "nc75461397",
+    "fecha_hora_utc": "2026-11-02T15:14:50.010000+00:00",
+    "magnitud": 2.71,
+    "profundidad_km": 2.78999996185303,
+    "latitud": 38.8219985961914,
+    "longitud": -122.810333251953,
+    "pais": "",
+    "ciudad_referencia": "7 km NW of The Geysers, CA",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461397",
+    "fecha_primera_recepcion": "2026-11-02T15:20:34.827299+00:00",
+    "fecha_ultima_observacion": "2026-11-02T15:20:34.827299+00:00"
   }
 }
