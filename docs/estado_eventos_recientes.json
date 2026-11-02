@@ -59427,7 +59427,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-762",
     "fecha_primera_recepcion": "2026-11-01T16:00:43.454292+00:00",
-    "fecha_ultima_observacion": "2026-11-02T17:00:52.827720+00:00"
+    "fecha_ultima_observacion": "2026-11-02T17:05:36.899488+00:00"
   },
   "EMSC:20261101_0000191": {
     "id": "20261101_0000191",
@@ -61457,7 +61457,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuxi",
     "fecha_primera_recepcion": "2026-11-02T16:25:28.577223+00:00",
-    "fecha_ultima_observacion": "2026-11-02T17:00:52.827720+00:00"
+    "fecha_ultima_observacion": "2026-11-02T17:05:36.899488+00:00"
   },
   "EMSC:20261102_0000219": {
     "id": "20261102_0000219",
@@ -61486,5 +61486,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261102_0000220",
     "fecha_primera_recepcion": "2026-11-02T16:55:42.506526+00:00",
     "fecha_ultima_observacion": "2026-11-02T17:00:52.827720+00:00"
+  },
+  "EMSC:20261102_0000223": {
+    "id": "20261102_0000223",
+    "fecha_hora_utc": "2026-11-02T16:52:46.200000+00:00",
+    "magnitud": 2.8,
+    "profundidad_km": 15.0,
+    "latitud": 41.069,
+    "longitud": 20.648,
+    "pais": "",
+    "ciudad_referencia": "ALBANIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261102_0000223",
+    "fecha_primera_recepcion": "2026-11-02T17:05:36.899488+00:00",
+    "fecha_ultima_observacion": "2026-11-02T17:05:36.899488+00:00"
   }
 }
