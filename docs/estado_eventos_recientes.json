@@ -59427,7 +59427,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-762",
     "fecha_primera_recepcion": "2026-11-01T16:00:43.454292+00:00",
-    "fecha_ultima_observacion": "2026-11-02T04:05:36.611161+00:00"
+    "fecha_ultima_observacion": "2026-11-02T04:10:38.012463+00:00"
   },
   "EMSC:20261101_0000191": {
     "id": "20261101_0000191",
@@ -60379,7 +60379,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461187",
     "fecha_primera_recepcion": "2026-11-02T03:30:44.501113+00:00",
-    "fecha_ultima_observacion": "2026-11-02T04:05:36.611161+00:00"
+    "fecha_ultima_observacion": "2026-11-02T04:10:38.012463+00:00"
   },
   "EMSC:20261102_0000047": {
     "id": "20261102_0000047",
@@ -60408,5 +60408,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261102_0000048",
     "fecha_primera_recepcion": "2026-11-02T03:50:40.012178+00:00",
     "fecha_ultima_observacion": "2026-11-02T04:05:36.611161+00:00"
+  },
+  "EMSC:20261102_0000052": {
+    "id": "20261102_0000052",
+    "fecha_hora_utc": "2026-11-02T04:01:34+00:00",
+    "magnitud": 3.6,
+    "profundidad_km": 98.2,
+    "latitud": -38.75,
+    "longitud": -72.1,
+    "pais": "",
+    "ciudad_referencia": "ARAUCANIA, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261102_0000052",
+    "fecha_primera_recepcion": "2026-11-02T04:10:38.012463+00:00",
+    "fecha_ultima_observacion": "2026-11-02T04:10:38.012463+00:00"
   }
 }
