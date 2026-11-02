@@ -59427,7 +59427,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-762",
     "fecha_primera_recepcion": "2026-11-01T16:00:43.454292+00:00",
-    "fecha_ultima_observacion": "2026-11-02T09:20:29.073853+00:00"
+    "fecha_ultima_observacion": "2026-11-02T09:25:37.333834+00:00"
   },
   "EMSC:20261101_0000191": {
     "id": "20261101_0000191",
@@ -60870,5 +60870,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261102_0000111",
     "fecha_primera_recepcion": "2026-11-02T09:05:33.981394+00:00",
     "fecha_ultima_observacion": "2026-11-02T09:20:29.073853+00:00"
+  },
+  "EMSC:20261102_0000113": {
+    "id": "20261102_0000113",
+    "fecha_hora_utc": "2026-11-02T09:23:36.440000+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 15.0,
+    "latitud": 37.9787,
+    "longitud": -122.0395,
+    "pais": "",
+    "ciudad_referencia": "SAN FRANCISCO BAY AREA, CALIF.",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261102_0000113",
+    "fecha_primera_recepcion": "2026-11-02T09:25:37.333834+00:00",
+    "fecha_ultima_observacion": "2026-11-02T09:25:37.333834+00:00"
+  },
+  "USGS:nc75461312": {
+    "id": "nc75461312",
+    "fecha_hora_utc": "2026-11-02T09:23:36.440000+00:00",
+    "magnitud": 2.54,
+    "profundidad_km": 14.9799995422363,
+    "latitud": 37.9786682128906,
+    "longitud": -122.039497375488,
+    "pais": "",
+    "ciudad_referencia": "2 km WNW of Concord, CA",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461312",
+    "fecha_primera_recepcion": "2026-11-02T09:25:37.333834+00:00",
+    "fecha_ultima_observacion": "2026-11-02T09:25:37.333834+00:00"
   }
 }
