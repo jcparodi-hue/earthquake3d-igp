@@ -59427,7 +59427,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-762",
     "fecha_primera_recepcion": "2026-11-01T16:00:43.454292+00:00",
-    "fecha_ultima_observacion": "2026-11-02T08:25:32.758440+00:00"
+    "fecha_ultima_observacion": "2026-11-02T08:30:42.544869+00:00"
   },
   "EMSC:20261101_0000191": {
     "id": "20261101_0000191",
@@ -60786,5 +60786,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261102_0000101",
     "fecha_primera_recepcion": "2026-11-02T08:25:32.758440+00:00",
     "fecha_ultima_observacion": "2026-11-02T08:25:32.758440+00:00"
+  },
+  "EMSC:20261102_0000102": {
+    "id": "20261102_0000102",
+    "fecha_hora_utc": "2026-11-02T08:27:18+00:00",
+    "magnitud": 3.8,
+    "profundidad_km": 5.0,
+    "latitud": 7.6105,
+    "longitud": -80.942,
+    "pais": "",
+    "ciudad_referencia": "PANAMA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261102_0000102",
+    "fecha_primera_recepcion": "2026-11-02T08:30:42.544869+00:00",
+    "fecha_ultima_observacion": "2026-11-02T08:30:42.544869+00:00"
+  },
+  "USGS:us7000tuuy": {
+    "id": "us7000tuuy",
+    "fecha_hora_utc": "2026-11-02T08:13:14.014000+00:00",
+    "magnitud": 5.1,
+    "profundidad_km": 196.646,
+    "latitud": 1.392,
+    "longitud": 124.6476,
+    "pais": "",
+    "ciudad_referencia": "19 km WNW of Tomohon, Indonesia",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuuy",
+    "fecha_primera_recepcion": "2026-11-02T08:30:42.544869+00:00",
+    "fecha_ultima_observacion": "2026-11-02T08:30:42.544869+00:00"
   }
 }
