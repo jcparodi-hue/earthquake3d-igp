@@ -59427,7 +59427,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-762",
     "fecha_primera_recepcion": "2026-11-01T16:00:43.454292+00:00",
-    "fecha_ultima_observacion": "2026-11-02T12:30:45.776285+00:00"
+    "fecha_ultima_observacion": "2026-11-02T12:35:32.592839+00:00"
   },
   "EMSC:20261101_0000191": {
     "id": "20261101_0000191",
@@ -61052,5 +61052,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261102_0000147",
     "fecha_primera_recepcion": "2026-11-02T12:30:45.776285+00:00",
     "fecha_ultima_observacion": "2026-11-02T12:30:45.776285+00:00"
+  },
+  "EMSC:20261102_0000148": {
+    "id": "20261102_0000148",
+    "fecha_hora_utc": "2026-11-02T12:31:56.240000+00:00",
+    "magnitud": 2.8,
+    "profundidad_km": 14.9,
+    "latitud": 32.9618,
+    "longitud": -115.5495,
+    "pais": "",
+    "ciudad_referencia": "SOUTHERN CALIFORNIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261102_0000148",
+    "fecha_primera_recepcion": "2026-11-02T12:35:32.592839+00:00",
+    "fecha_ultima_observacion": "2026-11-02T12:35:32.592839+00:00"
+  },
+  "USGS:ci41571168": {
+    "id": "ci41571168",
+    "fecha_hora_utc": "2026-11-02T12:31:56.240000+00:00",
+    "magnitud": 2.84,
+    "profundidad_km": 14.9,
+    "latitud": 32.9618333333333,
+    "longitud": -115.5495,
+    "pais": "",
+    "ciudad_referencia": "3 km SW of Brawley, CA",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571168",
+    "fecha_primera_recepcion": "2026-11-02T12:35:32.592839+00:00",
+    "fecha_ultima_observacion": "2026-11-02T12:35:32.592839+00:00"
   }
 }
