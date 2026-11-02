@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-02T17:05:36.899488+00:00",
+  "actualizado_utc": "2026-11-02T17:10:32.045267+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 72,
   "actualizacion_minutos": 5,
   "igp": 72,
-  "emsc": 2414,
+  "emsc": 2413,
   "usgs": 520,
-  "duplicados_eliminados": 490,
+  "duplicados_eliminados": 489,
   "eventos_publicados": 2516,
-  "evento_mas_reciente_utc": "2026-11-02T16:52:46.200000+00:00",
+  "evento_mas_reciente_utc": "2026-11-02T16:53:41+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 16,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-01T13:50:41+00:00",
-      "antiguedad_evento_mas_reciente_min": 1634.9
+      "antiguedad_evento_mas_reciente_min": 1639.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2414,
-      "eventos_recibidos": 2418,
+      "eventos_validos": 2413,
+      "eventos_recibidos": 2417,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-02T16:52:46.200000+00:00",
-      "antiguedad_evento_mas_reciente_min": 12.8
+      "evento_mas_reciente_utc": "2026-11-02T16:53:41+00:00",
+      "antiguedad_evento_mas_reciente_min": 16.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -35,8 +35,8 @@
       "eventos_validos": 520,
       "eventos_recibidos": 524,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-02T15:35:12.369000+00:00",
-      "antiguedad_evento_mas_reciente_min": 90.4
+      "evento_mas_reciente_utc": "2026-11-02T16:49:17.895000+00:00",
+      "antiguedad_evento_mas_reciente_min": 21.2
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-762"
     },
     "emsc": {
-      "id": "20261102_0000223",
-      "fecha_hora_utc": "2026-11-02T16:52:46.200000+00:00",
-      "magnitud": 2.8,
-      "profundidad_km": 15.0,
-      "latitud": 41.069,
-      "longitud": 20.648,
+      "id": "20261102_0000224",
+      "fecha_hora_utc": "2026-11-02T16:53:41+00:00",
+      "magnitud": 3.2,
+      "profundidad_km": 10.0,
+      "latitud": -8.27,
+      "longitud": 121.28,
       "pais": "",
-      "ciudad_referencia": "ALBANIA",
+      "ciudad_referencia": "FLORES REGION, INDONESIA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261102_0000223"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261102_0000224"
     },
     "usgs": {
-      "id": "us7000tuxi",
-      "fecha_hora_utc": "2026-11-02T15:35:12.369000+00:00",
-      "magnitud": 4.7,
-      "profundidad_km": 10.0,
-      "latitud": 32.3376,
-      "longitud": 93.831,
+      "id": "us7000tuxy",
+      "fecha_hora_utc": "2026-11-02T16:49:17.895000+00:00",
+      "magnitud": 5.3,
+      "profundidad_km": 48.525,
+      "latitud": 34.4807,
+      "longitud": 26.4694,
       "pais": "",
-      "ciudad_referencia": "193 km ENE of Nagqu, China",
+      "ciudad_referencia": "81 km SSE of Palekastro, Greece",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuxi"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuxy"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-02T17:05:36.899488+00:00"
+    "hora_consulta_utc": "2026-11-02T17:10:32.045267+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-02T17:05:36.899488+00:00",
+  "updated_utc": "2026-11-02T17:10:32.045267+00:00",
   "combined_after_dedup": 2516
 }

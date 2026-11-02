@@ -59427,7 +59427,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-762",
     "fecha_primera_recepcion": "2026-11-01T16:00:43.454292+00:00",
-    "fecha_ultima_observacion": "2026-11-02T17:05:36.899488+00:00"
+    "fecha_ultima_observacion": "2026-11-02T17:10:32.045267+00:00"
   },
   "EMSC:20261101_0000191": {
     "id": "20261101_0000191",
@@ -61500,5 +61500,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261102_0000223",
     "fecha_primera_recepcion": "2026-11-02T17:05:36.899488+00:00",
     "fecha_ultima_observacion": "2026-11-02T17:05:36.899488+00:00"
+  },
+  "EMSC:20261102_0000224": {
+    "id": "20261102_0000224",
+    "fecha_hora_utc": "2026-11-02T16:53:41+00:00",
+    "magnitud": 3.2,
+    "profundidad_km": 10.0,
+    "latitud": -8.27,
+    "longitud": 121.28,
+    "pais": "",
+    "ciudad_referencia": "FLORES REGION, INDONESIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261102_0000224",
+    "fecha_primera_recepcion": "2026-11-02T17:10:32.045267+00:00",
+    "fecha_ultima_observacion": "2026-11-02T17:10:32.045267+00:00"
+  },
+  "USGS:us7000tuxy": {
+    "id": "us7000tuxy",
+    "fecha_hora_utc": "2026-11-02T16:49:17.895000+00:00",
+    "magnitud": 5.3,
+    "profundidad_km": 48.525,
+    "latitud": 34.4807,
+    "longitud": 26.4694,
+    "pais": "",
+    "ciudad_referencia": "81 km SSE of Palekastro, Greece",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuxy",
+    "fecha_primera_recepcion": "2026-11-02T17:10:32.045267+00:00",
+    "fecha_ultima_observacion": "2026-11-02T17:10:32.045267+00:00"
   }
 }
