@@ -59427,7 +59427,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-762",
     "fecha_primera_recepcion": "2026-11-01T16:00:43.454292+00:00",
-    "fecha_ultima_observacion": "2026-11-02T02:20:40.494137+00:00"
+    "fecha_ultima_observacion": "2026-11-02T02:25:37.459216+00:00"
   },
   "EMSC:20261101_0000191": {
     "id": "20261101_0000191",
@@ -60268,5 +60268,33 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuta",
     "fecha_primera_recepcion": "2026-11-02T02:15:39.766129+00:00",
     "fecha_ultima_observacion": "2026-11-02T02:20:40.494137+00:00"
+  },
+  "EMSC:20261102_0000029": {
+    "id": "20261102_0000029",
+    "fecha_hora_utc": "2026-11-02T02:23:33.770000+00:00",
+    "magnitud": 2.6,
+    "profundidad_km": 9.9,
+    "latitud": 37.866,
+    "longitud": -122.2443,
+    "pais": "",
+    "ciudad_referencia": "SAN FRANCISCO BAY AREA, CALIF.",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261102_0000029",
+    "fecha_primera_recepcion": "2026-11-02T02:25:37.459216+00:00",
+    "fecha_ultima_observacion": "2026-11-02T02:25:37.459216+00:00"
+  },
+  "USGS:nc75461147": {
+    "id": "nc75461147",
+    "fecha_hora_utc": "2026-11-02T02:23:33.770000+00:00",
+    "magnitud": 2.64,
+    "profundidad_km": 9.88000011444092,
+    "latitud": 37.8660011291504,
+    "longitud": -122.244331359863,
+    "pais": "",
+    "ciudad_referencia": "3 km ESE of Berkeley, CA",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461147",
+    "fecha_primera_recepcion": "2026-11-02T02:25:37.459216+00:00",
+    "fecha_ultima_observacion": "2026-11-02T02:25:37.459216+00:00"
   }
 }
