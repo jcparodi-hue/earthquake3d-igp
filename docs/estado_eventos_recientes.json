@@ -61779,7 +61779,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-763",
     "fecha_primera_recepcion": "2026-11-02T20:20:42.055116+00:00",
-    "fecha_ultima_observacion": "2026-11-02T23:45:28.527334+00:00"
+    "fecha_ultima_observacion": "2026-11-02T23:50:46.700362+00:00"
   },
   "USGS:us7000tuzd": {
     "id": "us7000tuzd",
@@ -62060,5 +62060,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261102_0000327",
     "fecha_primera_recepcion": "2026-11-02T23:45:28.527334+00:00",
     "fecha_ultima_observacion": "2026-11-02T23:45:28.527334+00:00"
+  },
+  "EMSC:20261102_0000329": {
+    "id": "20261102_0000329",
+    "fecha_hora_utc": "2026-11-02T23:45:41+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 4.0,
+    "latitud": 14.381,
+    "longitud": -90.106,
+    "pais": "",
+    "ciudad_referencia": "GUATEMALA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261102_0000329",
+    "fecha_primera_recepcion": "2026-11-02T23:50:46.700362+00:00",
+    "fecha_ultima_observacion": "2026-11-02T23:50:46.700362+00:00"
+  },
+  "USGS:uu80162486": {
+    "id": "uu80162486",
+    "fecha_hora_utc": "2026-11-02T23:26:35.950000+00:00",
+    "magnitud": 2.58,
+    "profundidad_km": 3.37,
+    "latitud": 38.514,
+    "longitud": -112.913666666667,
+    "pais": "",
+    "ciudad_referencia": "15 km NNE of Milford, Utah",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80162486",
+    "fecha_primera_recepcion": "2026-11-02T23:50:46.700362+00:00",
+    "fecha_ultima_observacion": "2026-11-02T23:50:46.700362+00:00"
   }
 }
