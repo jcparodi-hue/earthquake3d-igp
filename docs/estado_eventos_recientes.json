@@ -61779,7 +61779,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-763",
     "fecha_primera_recepcion": "2026-11-02T20:20:42.055116+00:00",
-    "fecha_ultima_observacion": "2026-11-02T21:00:48.391639+00:00"
+    "fecha_ultima_observacion": "2026-11-02T21:05:27.921474+00:00"
   },
   "USGS:us7000tuzd": {
     "id": "us7000tuzd",
@@ -61850,5 +61850,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261102_0000288",
     "fecha_primera_recepcion": "2026-11-02T20:55:40.225147+00:00",
     "fecha_ultima_observacion": "2026-11-02T21:00:48.391639+00:00"
+  },
+  "EMSC:20261102_0000294": {
+    "id": "20261102_0000294",
+    "fecha_hora_utc": "2026-11-02T21:02:08.810000+00:00",
+    "magnitud": 2.8,
+    "profundidad_km": 7.1,
+    "latitud": 38.904,
+    "longitud": -122.518,
+    "pais": "",
+    "ciudad_referencia": "NORTHERN CALIFORNIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261102_0000294",
+    "fecha_primera_recepcion": "2026-11-02T21:05:27.921474+00:00",
+    "fecha_ultima_observacion": "2026-11-02T21:05:27.921474+00:00"
+  },
+  "USGS:nc75461677": {
+    "id": "nc75461677",
+    "fecha_hora_utc": "2026-11-02T21:02:08.810000+00:00",
+    "magnitud": 2.79,
+    "profundidad_km": 7.11999988555908,
+    "latitud": 38.9039993286133,
+    "longitud": -122.517997741699,
+    "pais": "",
+    "ciudad_referencia": "8 km E of Lower Lake, CA",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461677",
+    "fecha_primera_recepcion": "2026-11-02T21:05:27.921474+00:00",
+    "fecha_ultima_observacion": "2026-11-02T21:05:27.921474+00:00"
   }
 }
