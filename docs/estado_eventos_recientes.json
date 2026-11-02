@@ -59427,7 +59427,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-762",
     "fecha_primera_recepcion": "2026-11-01T16:00:43.454292+00:00",
-    "fecha_ultima_observacion": "2026-11-02T01:35:43.130561+00:00"
+    "fecha_ultima_observacion": "2026-11-02T01:36:23.819821+00:00"
   },
   "EMSC:20261101_0000191": {
     "id": "20261101_0000191",
@@ -60189,14 +60189,28 @@
     "id": "20261102_0000018",
     "fecha_hora_utc": "2026-11-02T01:27:07+00:00",
     "magnitud": 3.4,
-    "profundidad_km": 23.0,
-    "latitud": 12.593,
-    "longitud": -87.807,
+    "profundidad_km": 35.0,
+    "latitud": 12.492,
+    "longitud": -87.81,
     "pais": "",
     "ciudad_referencia": "NEAR COAST OF NICARAGUA",
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261102_0000018",
     "fecha_primera_recepcion": "2026-11-02T01:30:39.269939+00:00",
-    "fecha_ultima_observacion": "2026-11-02T01:35:43.130561+00:00"
+    "fecha_ultima_observacion": "2026-11-02T01:36:23.819821+00:00"
+  },
+  "USGS:us7000tut4": {
+    "id": "us7000tut4",
+    "fecha_hora_utc": "2026-11-02T01:18:16.369000+00:00",
+    "magnitud": 5.1,
+    "profundidad_km": 10.0,
+    "latitud": -31.2244,
+    "longitud": -177.7236,
+    "pais": "",
+    "ciudad_referencia": "Kermadec Islands region",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tut4",
+    "fecha_primera_recepcion": "2026-11-02T01:36:23.819821+00:00",
+    "fecha_ultima_observacion": "2026-11-02T01:36:23.819821+00:00"
   }
 }

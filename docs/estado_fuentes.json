@@ -1,14 +1,14 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-02T01:35:43.130561+00:00",
+  "actualizado_utc": "2026-11-02T01:36:23.819821+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 72,
   "actualizacion_minutos": 5,
   "igp": 72,
   "emsc": 2461,
-  "usgs": 512,
+  "usgs": 513,
   "duplicados_eliminados": 488,
-  "eventos_publicados": 2557,
+  "eventos_publicados": 2558,
   "evento_mas_reciente_utc": "2026-11-02T01:27:07+00:00",
   "salud_fuentes": {
     "igp": {
@@ -18,7 +18,7 @@
       "eventos_recibidos": 17,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-01T13:50:41+00:00",
-      "antiguedad_evento_mas_reciente_min": 705.0
+      "antiguedad_evento_mas_reciente_min": 705.7
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -27,16 +27,16 @@
       "eventos_recibidos": 2465,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-11-02T01:27:07+00:00",
-      "antiguedad_evento_mas_reciente_min": 8.6
+      "antiguedad_evento_mas_reciente_min": 9.3
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 512,
-      "eventos_recibidos": 516,
+      "eventos_validos": 513,
+      "eventos_recibidos": 517,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-02T00:53:10.555000+00:00",
-      "antiguedad_evento_mas_reciente_min": 42.5
+      "evento_mas_reciente_utc": "2026-11-02T01:18:16.369000+00:00",
+      "antiguedad_evento_mas_reciente_min": 18.1
     }
   },
   "ultimo_evento": {
@@ -56,33 +56,33 @@
       "id": "20261102_0000018",
       "fecha_hora_utc": "2026-11-02T01:27:07+00:00",
       "magnitud": 3.4,
-      "profundidad_km": 23.0,
-      "latitud": 12.593,
-      "longitud": -87.807,
+      "profundidad_km": 35.0,
+      "latitud": 12.492,
+      "longitud": -87.81,
       "pais": "",
       "ciudad_referencia": "NEAR COAST OF NICARAGUA",
       "fuente": "EMSC",
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261102_0000018"
     },
     "usgs": {
-      "id": "us7000tusv",
-      "fecha_hora_utc": "2026-11-02T00:53:10.555000+00:00",
+      "id": "us7000tut4",
+      "fecha_hora_utc": "2026-11-02T01:18:16.369000+00:00",
       "magnitud": 5.1,
-      "profundidad_km": 93.548,
-      "latitud": -6.9205,
-      "longitud": 129.9514,
+      "profundidad_km": 10.0,
+      "latitud": -31.2244,
+      "longitud": -177.7236,
       "pais": "",
-      "ciudad_referencia": "Banda Sea",
+      "ciudad_referencia": "Kermadec Islands region",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tusv"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tut4"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-02T01:35:43.130561+00:00"
+    "hora_consulta_utc": "2026-11-02T01:36:23.819821+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-02T01:35:43.130561+00:00",
-  "combined_after_dedup": 2557
+  "updated_utc": "2026-11-02T01:36:23.819821+00:00",
+  "combined_after_dedup": 2558
 }
