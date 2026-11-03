@@ -61779,7 +61779,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-763",
     "fecha_primera_recepcion": "2026-11-02T20:20:42.055116+00:00",
-    "fecha_ultima_observacion": "2026-11-03T04:25:43.568914+00:00"
+    "fecha_ultima_observacion": "2026-11-03T04:30:47.657064+00:00"
   },
   "USGS:us7000tuzd": {
     "id": "us7000tuzd",
@@ -62508,5 +62508,33 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538373",
     "fecha_primera_recepcion": "2026-11-03T04:15:47.586121+00:00",
     "fecha_ultima_observacion": "2026-11-03T04:25:43.568914+00:00"
+  },
+  "EMSC:20261103_0000052": {
+    "id": "20261103_0000052",
+    "fecha_hora_utc": "2026-11-03T04:19:24+00:00",
+    "magnitud": 2.7,
+    "profundidad_km": 160.2,
+    "latitud": -17.46,
+    "longitud": -69.92,
+    "pais": "",
+    "ciudad_referencia": "SOUTHERN PERU",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261103_0000052",
+    "fecha_primera_recepcion": "2026-11-03T04:30:47.657064+00:00",
+    "fecha_ultima_observacion": "2026-11-03T04:30:47.657064+00:00"
+  },
+  "USGS:pr71538378": {
+    "id": "pr71538378",
+    "fecha_hora_utc": "2026-11-03T04:04:13.370000+00:00",
+    "magnitud": 2.84,
+    "profundidad_km": 98.37,
+    "latitud": 18.1371666666667,
+    "longitud": -67.2361666666667,
+    "pais": "",
+    "ciudad_referencia": "8 km NW of Puerto Real, Puerto Rico",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538378",
+    "fecha_primera_recepcion": "2026-11-03T04:30:47.657064+00:00",
+    "fecha_ultima_observacion": "2026-11-03T04:30:47.657064+00:00"
   }
 }
