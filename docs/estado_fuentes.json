@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-03T21:01:09.722902+00:00",
+  "actualizado_utc": "2026-11-03T21:05:41.043057+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 73,
   "actualizacion_minutos": 5,
   "igp": 73,
-  "emsc": 2345,
-  "usgs": 502,
-  "duplicados_eliminados": 454,
+  "emsc": 2346,
+  "usgs": 503,
+  "duplicados_eliminados": 456,
   "eventos_publicados": 2466,
-  "evento_mas_reciente_utc": "2026-11-03T20:49:40+00:00",
+  "evento_mas_reciente_utc": "2026-11-03T20:59:42+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 14,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-02T15:28:08+00:00",
-      "antiguedad_evento_mas_reciente_min": 1773.0
+      "antiguedad_evento_mas_reciente_min": 1777.6
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2345,
-      "eventos_recibidos": 2348,
+      "eventos_validos": 2346,
+      "eventos_recibidos": 2349,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-03T20:49:40+00:00",
-      "antiguedad_evento_mas_reciente_min": 11.5
+      "evento_mas_reciente_utc": "2026-11-03T20:59:42+00:00",
+      "antiguedad_evento_mas_reciente_min": 6.0
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 502,
-      "eventos_recibidos": 505,
+      "eventos_validos": 503,
+      "eventos_recibidos": 506,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-03T19:35:51.930000+00:00",
-      "antiguedad_evento_mas_reciente_min": 85.3
+      "evento_mas_reciente_utc": "2026-11-03T19:35:51.810000+00:00",
+      "antiguedad_evento_mas_reciente_min": 89.8
     }
   },
   "ultimo_evento": {
@@ -53,26 +53,26 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-763"
     },
     "emsc": {
-      "id": "20261103_0000288",
-      "fecha_hora_utc": "2026-11-03T20:49:40+00:00",
-      "magnitud": 2.7,
-      "profundidad_km": 122.2,
-      "latitud": -21.93,
-      "longitud": -68.66,
+      "id": "20261103_0000292",
+      "fecha_hora_utc": "2026-11-03T20:59:42+00:00",
+      "magnitud": 3.9,
+      "profundidad_km": 9.0,
+      "latitud": 7.5023,
+      "longitud": -80.7039,
       "pais": "",
-      "ciudad_referencia": "ANTOFAGASTA, CHILE",
+      "ciudad_referencia": "PANAMA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261103_0000288"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261103_0000292"
     },
     "usgs": {
       "id": "ci41572136",
-      "fecha_hora_utc": "2026-11-03T19:35:51.930000+00:00",
-      "magnitud": 2.52,
-      "profundidad_km": 16.17,
-      "latitud": 32.4025,
-      "longitud": -115.153666666667,
+      "fecha_hora_utc": "2026-11-03T19:35:51.810000+00:00",
+      "magnitud": 2.5,
+      "profundidad_km": 15.04,
+      "latitud": 32.4111666666667,
+      "longitud": -115.1575,
       "pais": "",
-      "ciudad_referencia": "6 km NE of Delta, B.C., MX",
+      "ciudad_referencia": "7 km NNE of Delta, B.C., MX",
       "fuente": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572136"
     }
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-03T21:01:09.722902+00:00"
+    "hora_consulta_utc": "2026-11-03T21:05:41.043057+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-03T21:01:09.722902+00:00",
+  "updated_utc": "2026-11-03T21:05:41.043057+00:00",
   "combined_after_dedup": 2466
 }
