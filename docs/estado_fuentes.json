@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-03T21:36:13.776014+00:00",
+  "actualizado_utc": "2026-11-03T21:41:11.134418+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 73,
   "actualizacion_minutos": 5,
   "igp": 73,
-  "emsc": 2344,
+  "emsc": 2343,
   "usgs": 502,
   "duplicados_eliminados": 455,
-  "eventos_publicados": 2464,
-  "evento_mas_reciente_utc": "2026-11-03T20:59:42+00:00",
+  "eventos_publicados": 2463,
+  "evento_mas_reciente_utc": "2026-11-03T21:34:09.650000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 14,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-02T15:28:08+00:00",
-      "antiguedad_evento_mas_reciente_min": 1808.1
+      "antiguedad_evento_mas_reciente_min": 1813.1
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2344,
-      "eventos_recibidos": 2347,
+      "eventos_validos": 2343,
+      "eventos_recibidos": 2346,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-03T20:59:42+00:00",
-      "antiguedad_evento_mas_reciente_min": 36.5
+      "evento_mas_reciente_utc": "2026-11-03T21:34:09.650000+00:00",
+      "antiguedad_evento_mas_reciente_min": 7.0
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 505,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-03T19:35:51.820000+00:00",
-      "antiguedad_evento_mas_reciente_min": 120.4
+      "antiguedad_evento_mas_reciente_min": 125.3
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-763"
     },
     "emsc": {
-      "id": "20261103_0000292",
-      "fecha_hora_utc": "2026-11-03T20:59:42+00:00",
-      "magnitud": 3.9,
-      "profundidad_km": 9.0,
-      "latitud": 7.5263,
-      "longitud": -80.7092,
+      "id": "20261103_0000294",
+      "fecha_hora_utc": "2026-11-03T21:34:09.650000+00:00",
+      "magnitud": 5.2,
+      "profundidad_km": 6.0,
+      "latitud": 39.4176,
+      "longitud": 73.4049,
       "pais": "",
-      "ciudad_referencia": "PANAMA",
+      "ciudad_referencia": "TAJIKISTAN",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261103_0000292"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261103_0000294"
     },
     "usgs": {
       "id": "ci41572136",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-03T21:36:13.776014+00:00"
+    "hora_consulta_utc": "2026-11-03T21:41:11.134418+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-03T21:36:13.776014+00:00",
-  "combined_after_dedup": 2464
+  "updated_utc": "2026-11-03T21:41:11.134418+00:00",
+  "combined_after_dedup": 2463
 }
