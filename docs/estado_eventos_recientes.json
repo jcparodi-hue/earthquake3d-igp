@@ -61779,7 +61779,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-763",
     "fecha_primera_recepcion": "2026-11-02T20:20:42.055116+00:00",
-    "fecha_ultima_observacion": "2026-11-03T03:00:46.638048+00:00"
+    "fecha_ultima_observacion": "2026-11-03T03:05:42.651502+00:00"
   },
   "USGS:us7000tuzd": {
     "id": "us7000tuzd",
@@ -62382,5 +62382,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261103_0000032",
     "fecha_primera_recepcion": "2026-11-03T03:00:46.638048+00:00",
     "fecha_ultima_observacion": "2026-11-03T03:00:46.638048+00:00"
+  },
+  "EMSC:20261103_0000033": {
+    "id": "20261103_0000033",
+    "fecha_hora_utc": "2026-11-03T03:02:49.180000+00:00",
+    "magnitud": 3.5,
+    "profundidad_km": 19.0,
+    "latitud": 32.3882,
+    "longitud": -115.161,
+    "pais": "",
+    "ciudad_referencia": "BAJA CALIFORNIA, MEXICO",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261103_0000033",
+    "fecha_primera_recepcion": "2026-11-03T03:05:42.651502+00:00",
+    "fecha_ultima_observacion": "2026-11-03T03:05:42.651502+00:00"
+  },
+  "USGS:ci41571744": {
+    "id": "ci41571744",
+    "fecha_hora_utc": "2026-11-03T03:02:49.180000+00:00",
+    "magnitud": 3.45636011376983,
+    "profundidad_km": 19.0,
+    "latitud": 32.3881683349609,
+    "longitud": -115.161003112793,
+    "pais": "",
+    "ciudad_referencia": "5 km NE of Delta, B.C., MX",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571744",
+    "fecha_primera_recepcion": "2026-11-03T03:05:42.651502+00:00",
+    "fecha_ultima_observacion": "2026-11-03T03:05:42.651502+00:00"
   }
 }

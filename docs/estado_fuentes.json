@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-03T03:00:46.638048+00:00",
+  "actualizado_utc": "2026-11-03T03:05:42.651502+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 73,
   "actualizacion_minutos": 5,
   "igp": 73,
-  "emsc": 2391,
+  "emsc": 2392,
   "usgs": 524,
-  "duplicados_eliminados": 483,
+  "duplicados_eliminados": 484,
   "eventos_publicados": 2505,
-  "evento_mas_reciente_utc": "2026-11-03T02:52:42.370000+00:00",
+  "evento_mas_reciente_utc": "2026-11-03T03:02:49.180000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 16,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-02T15:28:08+00:00",
-      "antiguedad_evento_mas_reciente_min": 692.6
+      "antiguedad_evento_mas_reciente_min": 697.6
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2391,
-      "eventos_recibidos": 2395,
+      "eventos_validos": 2392,
+      "eventos_recibidos": 2396,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-03T02:52:42.370000+00:00",
-      "antiguedad_evento_mas_reciente_min": 8.1
+      "evento_mas_reciente_utc": "2026-11-03T03:02:49.180000+00:00",
+      "antiguedad_evento_mas_reciente_min": 2.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -35,8 +35,8 @@
       "eventos_validos": 524,
       "eventos_recibidos": 527,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-03T02:41:55.440000+00:00",
-      "antiguedad_evento_mas_reciente_min": 18.9
+      "evento_mas_reciente_utc": "2026-11-03T03:02:49.180000+00:00",
+      "antiguedad_evento_mas_reciente_min": 2.9
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-763"
     },
     "emsc": {
-      "id": "20261103_0000032",
-      "fecha_hora_utc": "2026-11-03T02:52:42.370000+00:00",
-      "magnitud": 3.0,
-      "profundidad_km": 12.0,
-      "latitud": 40.2071,
-      "longitud": 24.2204,
+      "id": "20261103_0000033",
+      "fecha_hora_utc": "2026-11-03T03:02:49.180000+00:00",
+      "magnitud": 3.5,
+      "profundidad_km": 19.0,
+      "latitud": 32.3882,
+      "longitud": -115.161,
       "pais": "",
-      "ciudad_referencia": "AEGEAN SEA",
+      "ciudad_referencia": "BAJA CALIFORNIA, MEXICO",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261103_0000032"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261103_0000033"
     },
     "usgs": {
-      "id": "aka2026vtkchh",
-      "fecha_hora_utc": "2026-11-03T02:41:55.440000+00:00",
-      "magnitud": 2.8,
-      "profundidad_km": 78.9,
-      "latitud": 60.71,
-      "longitud": -151.509,
+      "id": "ci41571744",
+      "fecha_hora_utc": "2026-11-03T03:02:49.180000+00:00",
+      "magnitud": 3.45636011376983,
+      "profundidad_km": 19.0,
+      "latitud": 32.3881683349609,
+      "longitud": -115.161003112793,
       "pais": "",
-      "ciudad_referencia": "12 km W of Nikiski, Alaska",
+      "ciudad_referencia": "5 km NE of Delta, B.C., MX",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vtkchh"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41571744"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-03T03:00:46.638048+00:00"
+    "hora_consulta_utc": "2026-11-03T03:05:42.651502+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-03T03:00:46.638048+00:00",
+  "updated_utc": "2026-11-03T03:05:42.651502+00:00",
   "combined_after_dedup": 2505
 }
