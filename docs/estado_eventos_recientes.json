@@ -61779,7 +61779,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-763",
     "fecha_primera_recepcion": "2026-11-02T20:20:42.055116+00:00",
-    "fecha_ultima_observacion": "2026-11-03T02:35:40.264086+00:00"
+    "fecha_ultima_observacion": "2026-11-03T02:40:47.636693+00:00"
   },
   "USGS:us7000tuzd": {
     "id": "us7000tuzd",
@@ -62297,7 +62297,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv27",
     "fecha_primera_recepcion": "2026-11-03T02:05:36.855389+00:00",
-    "fecha_ultima_observacion": "2026-11-03T02:35:40.264086+00:00"
+    "fecha_ultima_observacion": "2026-11-03T02:40:47.636693+00:00"
   },
   "EMSC:20261103_0000025": {
     "id": "20261103_0000025",
@@ -62326,5 +62326,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261103_0000026",
     "fecha_primera_recepcion": "2026-11-03T02:30:43.540621+00:00",
     "fecha_ultima_observacion": "2026-11-03T02:35:40.264086+00:00"
+  },
+  "EMSC:20261103_0000029": {
+    "id": "20261103_0000029",
+    "fecha_hora_utc": "2026-11-03T02:32:00+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 31.5,
+    "latitud": -20.04,
+    "longitud": -70.31,
+    "pais": "",
+    "ciudad_referencia": "OFFSHORE TARAPACA, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261103_0000029",
+    "fecha_primera_recepcion": "2026-11-03T02:40:47.636693+00:00",
+    "fecha_ultima_observacion": "2026-11-03T02:40:47.636693+00:00"
   }
 }
