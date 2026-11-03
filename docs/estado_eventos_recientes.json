@@ -61779,7 +61779,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-763",
     "fecha_primera_recepcion": "2026-11-02T20:20:42.055116+00:00",
-    "fecha_ultima_observacion": "2026-11-03T00:05:39.091969+00:00"
+    "fecha_ultima_observacion": "2026-11-03T00:10:34.802175+00:00"
   },
   "USGS:us7000tuzd": {
     "id": "us7000tuzd",
@@ -62101,6 +62101,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261102_0000331",
     "fecha_primera_recepcion": "2026-11-03T00:00:47.377859+00:00",
-    "fecha_ultima_observacion": "2026-11-03T00:05:39.091969+00:00"
+    "fecha_ultima_observacion": "2026-11-03T00:10:34.802175+00:00"
+  },
+  "USGS:us7000tv1e": {
+    "id": "us7000tv1e",
+    "fecha_hora_utc": "2026-11-02T23:35:13.864000+00:00",
+    "magnitud": 4.1,
+    "profundidad_km": 62.335,
+    "latitud": -39.5581,
+    "longitud": 176.0449,
+    "pais": "",
+    "ciudad_referencia": "63 km W of Flaxmere, New Zealand",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv1e",
+    "fecha_primera_recepcion": "2026-11-03T00:10:34.802175+00:00",
+    "fecha_ultima_observacion": "2026-11-03T00:10:34.802175+00:00"
   }
 }
