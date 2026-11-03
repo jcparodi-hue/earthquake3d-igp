@@ -61779,7 +61779,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-763",
     "fecha_primera_recepcion": "2026-11-02T20:20:42.055116+00:00",
-    "fecha_ultima_observacion": "2026-11-03T16:50:46.304104+00:00"
+    "fecha_ultima_observacion": "2026-11-03T16:55:35.302195+00:00"
   },
   "USGS:us7000tuzd": {
     "id": "us7000tuzd",
@@ -63306,5 +63306,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261103_0000218",
     "fecha_primera_recepcion": "2026-11-03T16:30:51.690548+00:00",
     "fecha_ultima_observacion": "2026-11-03T16:50:46.304104+00:00"
+  },
+  "EMSC:20261103_0000224": {
+    "id": "20261103_0000224",
+    "fecha_hora_utc": "2026-11-03T16:53:08.582011+00:00",
+    "magnitud": 3.3,
+    "profundidad_km": 5.0,
+    "latitud": 39.7845,
+    "longitud": 20.5731,
+    "pais": "",
+    "ciudad_referencia": "GREECE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261103_0000224",
+    "fecha_primera_recepcion": "2026-11-03T16:55:35.302195+00:00",
+    "fecha_ultima_observacion": "2026-11-03T16:55:35.302195+00:00"
+  },
+  "USGS:us7000tva7": {
+    "id": "us7000tva7",
+    "fecha_hora_utc": "2026-11-03T15:37:51.082000+00:00",
+    "magnitud": 4.8,
+    "profundidad_km": 136.685,
+    "latitud": -0.2295,
+    "longitud": 123.1532,
+    "pais": "",
+    "ciudad_referencia": "85 km S of Gorontalo, Indonesia",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tva7",
+    "fecha_primera_recepcion": "2026-11-03T16:55:35.302195+00:00",
+    "fecha_ultima_observacion": "2026-11-03T16:55:35.302195+00:00"
   }
 }
