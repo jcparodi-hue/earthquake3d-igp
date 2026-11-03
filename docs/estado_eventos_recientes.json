@@ -61779,7 +61779,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-763",
     "fecha_primera_recepcion": "2026-11-02T20:20:42.055116+00:00",
-    "fecha_ultima_observacion": "2026-11-03T21:05:41.043057+00:00"
+    "fecha_ultima_observacion": "2026-11-03T21:11:00.739717+00:00"
   },
   "USGS:us7000tuzd": {
     "id": "us7000tuzd",
@@ -63617,17 +63617,17 @@
   },
   "USGS:ci41572136": {
     "id": "ci41572136",
-    "fecha_hora_utc": "2026-11-03T19:35:51.810000+00:00",
+    "fecha_hora_utc": "2026-11-03T19:35:51.820000+00:00",
     "magnitud": 2.5,
-    "profundidad_km": 15.04,
-    "latitud": 32.4111666666667,
-    "longitud": -115.1575,
+    "profundidad_km": 15.52,
+    "latitud": 32.409,
+    "longitud": -115.157833333333,
     "pais": "",
     "ciudad_referencia": "7 km NNE of Delta, B.C., MX",
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572136",
     "fecha_primera_recepcion": "2026-11-03T19:40:48.563251+00:00",
-    "fecha_ultima_observacion": "2026-11-03T21:05:41.043057+00:00"
+    "fecha_ultima_observacion": "2026-11-03T21:11:00.739717+00:00"
   },
   "EMSC:20261103_0000274": {
     "id": "20261103_0000274",
@@ -63690,13 +63690,13 @@
     "fecha_hora_utc": "2026-11-03T20:59:42+00:00",
     "magnitud": 3.9,
     "profundidad_km": 9.0,
-    "latitud": 7.5023,
-    "longitud": -80.7039,
+    "latitud": 7.5263,
+    "longitud": -80.7092,
     "pais": "",
     "ciudad_referencia": "PANAMA",
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261103_0000292",
     "fecha_primera_recepcion": "2026-11-03T21:05:41.043057+00:00",
-    "fecha_ultima_observacion": "2026-11-03T21:05:41.043057+00:00"
+    "fecha_ultima_observacion": "2026-11-03T21:11:00.739717+00:00"
   }
 }
