@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-03T18:11:15.144492+00:00",
+  "actualizado_utc": "2026-11-03T18:16:12.698485+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 73,
   "actualizacion_minutos": 5,
   "igp": 73,
-  "emsc": 2334,
-  "usgs": 496,
-  "duplicados_eliminados": 451,
-  "eventos_publicados": 2452,
-  "evento_mas_reciente_utc": "2026-11-03T17:54:50+00:00",
+  "emsc": 2335,
+  "usgs": 498,
+  "duplicados_eliminados": 453,
+  "eventos_publicados": 2453,
+  "evento_mas_reciente_utc": "2026-11-03T18:11:58.874094+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 15,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-02T15:28:08+00:00",
-      "antiguedad_evento_mas_reciente_min": 1603.1
+      "antiguedad_evento_mas_reciente_min": 1608.1
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2334,
-      "eventos_recibidos": 2338,
+      "eventos_validos": 2335,
+      "eventos_recibidos": 2339,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-03T17:54:50+00:00",
-      "antiguedad_evento_mas_reciente_min": 16.4
+      "evento_mas_reciente_utc": "2026-11-03T18:11:58.874094+00:00",
+      "antiguedad_evento_mas_reciente_min": 4.2
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 496,
-      "eventos_recibidos": 499,
+      "eventos_validos": 498,
+      "eventos_recibidos": 501,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-03T17:28:41.312000+00:00",
-      "antiguedad_evento_mas_reciente_min": 42.6
+      "evento_mas_reciente_utc": "2026-11-03T18:11:58.874000+00:00",
+      "antiguedad_evento_mas_reciente_min": 4.2
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-763"
     },
     "emsc": {
-      "id": "20261103_0000242",
-      "fecha_hora_utc": "2026-11-03T17:54:50+00:00",
-      "magnitud": 2.8,
-      "profundidad_km": 5.0,
-      "latitud": 33.141,
-      "longitud": 75.705,
+      "id": "20261103_0000245",
+      "fecha_hora_utc": "2026-11-03T18:11:58.874094+00:00",
+      "magnitud": 2.9,
+      "profundidad_km": 60.3,
+      "latitud": 60.987,
+      "longitud": -150.717,
       "pais": "",
-      "ciudad_referencia": "EASTERN KASHMIR",
+      "ciudad_referencia": "KENAI PENINSULA, ALASKA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261103_0000242"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261103_0000245"
     },
     "usgs": {
-      "id": "aka2026vunrap",
-      "fecha_hora_utc": "2026-11-03T17:28:41.312000+00:00",
-      "magnitud": 2.5,
-      "profundidad_km": 155.8,
-      "latitud": 60.269,
-      "longitud": -153.087,
+      "id": "aka2026vupcsv",
+      "fecha_hora_utc": "2026-11-03T18:11:58.874000+00:00",
+      "magnitud": 2.9,
+      "profundidad_km": 60.3,
+      "latitud": 60.987,
+      "longitud": -150.717,
       "pais": "",
-      "ciudad_referencia": "68 km E of Port Alsworth, Alaska",
+      "ciudad_referencia": "7 km NNW of Point Possession, Alaska",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vunrap"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vupcsv"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-03T18:11:15.144492+00:00"
+    "hora_consulta_utc": "2026-11-03T18:16:12.698485+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-03T18:11:15.144492+00:00",
-  "combined_after_dedup": 2452
+  "updated_utc": "2026-11-03T18:16:12.698485+00:00",
+  "combined_after_dedup": 2453
 }
