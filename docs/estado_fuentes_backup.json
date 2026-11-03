@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-03T19:36:18.746020+00:00",
+  "actualizado_utc": "2026-11-03T19:40:48.563251+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 73,
   "actualizacion_minutos": 5,
   "igp": 73,
-  "emsc": 2344,
-  "usgs": 502,
+  "emsc": 2346,
+  "usgs": 503,
   "duplicados_eliminados": 456,
-  "eventos_publicados": 2463,
-  "evento_mas_reciente_utc": "2026-11-03T19:18:11.020000+00:00",
+  "eventos_publicados": 2466,
+  "evento_mas_reciente_utc": "2026-11-03T19:35:51.930000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 15,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-02T15:28:08+00:00",
-      "antiguedad_evento_mas_reciente_min": 1688.2
+      "antiguedad_evento_mas_reciente_min": 1692.7
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2344,
-      "eventos_recibidos": 2347,
+      "eventos_validos": 2346,
+      "eventos_recibidos": 2349,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-03T19:18:11.020000+00:00",
-      "antiguedad_evento_mas_reciente_min": 18.1
+      "antiguedad_evento_mas_reciente_min": 22.6
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 502,
-      "eventos_recibidos": 505,
+      "eventos_validos": 503,
+      "eventos_recibidos": 506,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-03T19:18:11.020000+00:00",
-      "antiguedad_evento_mas_reciente_min": 18.1
+      "evento_mas_reciente_utc": "2026-11-03T19:35:51.930000+00:00",
+      "antiguedad_evento_mas_reciente_min": 4.9
     }
   },
   "ultimo_evento": {
@@ -65,24 +65,24 @@
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261103_0000268"
     },
     "usgs": {
-      "id": "ci41572104",
-      "fecha_hora_utc": "2026-11-03T19:18:11.020000+00:00",
-      "magnitud": 2.93,
-      "profundidad_km": 13.79,
-      "latitud": 32.411,
-      "longitud": -115.155166666667,
+      "id": "ci41572136",
+      "fecha_hora_utc": "2026-11-03T19:35:51.930000+00:00",
+      "magnitud": 2.52,
+      "profundidad_km": 16.17,
+      "latitud": 32.4025,
+      "longitud": -115.153666666667,
       "pais": "",
-      "ciudad_referencia": "7 km NNE of Delta, B.C., MX",
+      "ciudad_referencia": "6 km NE of Delta, B.C., MX",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572104"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41572136"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-03T19:36:18.746020+00:00"
+    "hora_consulta_utc": "2026-11-03T19:40:48.563251+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-03T19:36:18.746020+00:00",
-  "combined_after_dedup": 2463
+  "updated_utc": "2026-11-03T19:40:48.563251+00:00",
+  "combined_after_dedup": 2466
 }
