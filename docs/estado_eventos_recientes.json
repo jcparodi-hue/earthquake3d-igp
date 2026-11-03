@@ -61779,7 +61779,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-763",
     "fecha_primera_recepcion": "2026-11-02T20:20:42.055116+00:00",
-    "fecha_ultima_observacion": "2026-11-03T17:01:08.435037+00:00"
+    "fecha_ultima_observacion": "2026-11-03T17:05:57.353549+00:00"
   },
   "USGS:us7000tuzd": {
     "id": "us7000tuzd",
@@ -63309,17 +63309,17 @@
   },
   "EMSC:20261103_0000224": {
     "id": "20261103_0000224",
-    "fecha_hora_utc": "2026-11-03T16:53:08.360000+00:00",
+    "fecha_hora_utc": "2026-11-03T16:53:06.130000+00:00",
     "magnitud": 3.3,
-    "profundidad_km": 5.0,
-    "latitud": 39.7845,
-    "longitud": 20.5731,
+    "profundidad_km": 13.5,
+    "latitud": 39.6565,
+    "longitud": 20.6007,
     "pais": "",
     "ciudad_referencia": "GREECE",
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261103_0000224",
     "fecha_primera_recepcion": "2026-11-03T16:55:35.302195+00:00",
-    "fecha_ultima_observacion": "2026-11-03T17:01:08.435037+00:00"
+    "fecha_ultima_observacion": "2026-11-03T17:05:57.353549+00:00"
   },
   "USGS:us7000tva7": {
     "id": "us7000tva7",
@@ -63334,5 +63334,19 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tva7",
     "fecha_primera_recepcion": "2026-11-03T16:55:35.302195+00:00",
     "fecha_ultima_observacion": "2026-11-03T17:01:08.435037+00:00"
+  },
+  "USGS:us7000tvie": {
+    "id": "us7000tvie",
+    "fecha_hora_utc": "2026-11-03T16:48:13.110000+00:00",
+    "magnitud": 5.2,
+    "profundidad_km": 139.456,
+    "latitud": 24.1441,
+    "longitud": 141.6725,
+    "pais": "",
+    "ciudad_referencia": "Volcano Islands, Japan region",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvie",
+    "fecha_primera_recepcion": "2026-11-03T17:05:57.353549+00:00",
+    "fecha_ultima_observacion": "2026-11-03T17:05:57.353549+00:00"
   }
 }

@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-03T17:01:08.435037+00:00",
+  "actualizado_utc": "2026-11-03T17:05:57.353549+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 73,
   "actualizacion_minutos": 5,
   "igp": 73,
   "emsc": 2347,
-  "usgs": 495,
-  "duplicados_eliminados": 452,
+  "usgs": 496,
+  "duplicados_eliminados": 453,
   "eventos_publicados": 2463,
-  "evento_mas_reciente_utc": "2026-11-03T16:53:08.360000+00:00",
+  "evento_mas_reciente_utc": "2026-11-03T16:53:06.130000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 15,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-02T15:28:08+00:00",
-      "antiguedad_evento_mas_reciente_min": 1533.0
+      "antiguedad_evento_mas_reciente_min": 1537.8
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2347,
       "eventos_recibidos": 2351,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-03T16:53:08.360000+00:00",
-      "antiguedad_evento_mas_reciente_min": 8.0
+      "evento_mas_reciente_utc": "2026-11-03T16:53:06.130000+00:00",
+      "antiguedad_evento_mas_reciente_min": 12.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 495,
-      "eventos_recibidos": 498,
+      "eventos_validos": 496,
+      "eventos_recibidos": 499,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-03T15:37:51.082000+00:00",
-      "antiguedad_evento_mas_reciente_min": 83.3
+      "evento_mas_reciente_utc": "2026-11-03T16:48:13.110000+00:00",
+      "antiguedad_evento_mas_reciente_min": 17.7
     }
   },
   "ultimo_evento": {
@@ -54,35 +54,35 @@
     },
     "emsc": {
       "id": "20261103_0000224",
-      "fecha_hora_utc": "2026-11-03T16:53:08.360000+00:00",
+      "fecha_hora_utc": "2026-11-03T16:53:06.130000+00:00",
       "magnitud": 3.3,
-      "profundidad_km": 5.0,
-      "latitud": 39.7845,
-      "longitud": 20.5731,
+      "profundidad_km": 13.5,
+      "latitud": 39.6565,
+      "longitud": 20.6007,
       "pais": "",
       "ciudad_referencia": "GREECE",
       "fuente": "EMSC",
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261103_0000224"
     },
     "usgs": {
-      "id": "us7000tva7",
-      "fecha_hora_utc": "2026-11-03T15:37:51.082000+00:00",
-      "magnitud": 4.8,
-      "profundidad_km": 136.685,
-      "latitud": -0.2295,
-      "longitud": 123.1532,
+      "id": "us7000tvie",
+      "fecha_hora_utc": "2026-11-03T16:48:13.110000+00:00",
+      "magnitud": 5.2,
+      "profundidad_km": 139.456,
+      "latitud": 24.1441,
+      "longitud": 141.6725,
       "pais": "",
-      "ciudad_referencia": "85 km S of Gorontalo, Indonesia",
+      "ciudad_referencia": "Volcano Islands, Japan region",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tva7"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvie"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-03T17:01:08.435037+00:00"
+    "hora_consulta_utc": "2026-11-03T17:05:57.353549+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-03T17:01:08.435037+00:00",
+  "updated_utc": "2026-11-03T17:05:57.353549+00:00",
   "combined_after_dedup": 2463
 }
