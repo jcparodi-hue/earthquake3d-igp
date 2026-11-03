@@ -61779,7 +61779,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-763",
     "fecha_primera_recepcion": "2026-11-02T20:20:42.055116+00:00",
-    "fecha_ultima_observacion": "2026-11-03T21:45:57.528781+00:00"
+    "fecha_ultima_observacion": "2026-11-03T21:51:17.404130+00:00"
   },
   "USGS:us7000tuzd": {
     "id": "us7000tuzd",
@@ -63726,5 +63726,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261103_0000295",
     "fecha_primera_recepcion": "2026-11-03T21:45:57.528781+00:00",
     "fecha_ultima_observacion": "2026-11-03T21:45:57.528781+00:00"
+  },
+  "EMSC:20261103_0000298": {
+    "id": "20261103_0000298",
+    "fecha_hora_utc": "2026-11-03T21:44:34+00:00",
+    "magnitud": 3.4,
+    "profundidad_km": 104.3,
+    "latitud": -20.59,
+    "longitud": -68.82,
+    "pais": "",
+    "ciudad_referencia": "TARAPACA, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261103_0000298",
+    "fecha_primera_recepcion": "2026-11-03T21:51:17.404130+00:00",
+    "fecha_ultima_observacion": "2026-11-03T21:51:17.404130+00:00"
+  },
+  "USGS:us7000tvtj": {
+    "id": "us7000tvtj",
+    "fecha_hora_utc": "2026-11-03T21:34:08.563000+00:00",
+    "magnitud": 5.2,
+    "profundidad_km": 10.0,
+    "latitud": 39.3319,
+    "longitud": 73.3673,
+    "pais": "",
+    "ciudad_referencia": "97 km ESE of Kyzyl-Eshme, Kyrgyzstan",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvtj",
+    "fecha_primera_recepcion": "2026-11-03T21:51:17.404130+00:00",
+    "fecha_ultima_observacion": "2026-11-03T21:51:17.404130+00:00"
   }
 }
