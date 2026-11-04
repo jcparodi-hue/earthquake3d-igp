@@ -64705,7 +64705,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-764",
     "fecha_primera_recepcion": "2026-11-04T09:50:52.640757+00:00",
-    "fecha_ultima_observacion": "2026-11-04T15:35:43.646370+00:00"
+    "fecha_ultima_observacion": "2026-11-04T15:40:30.896424+00:00"
   },
   "EMSC:20261104_0000113": {
     "id": "20261104_0000113",
@@ -64999,7 +64999,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvxj",
     "fecha_primera_recepcion": "2026-11-04T14:05:45.391158+00:00",
-    "fecha_ultima_observacion": "2026-11-04T15:35:43.646370+00:00"
+    "fecha_ultima_observacion": "2026-11-04T15:40:30.896424+00:00"
   },
   "EMSC:20261104_0000194": {
     "id": "20261104_0000194",
@@ -65056,5 +65056,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261104_0000208",
     "fecha_primera_recepcion": "2026-11-04T15:25:39.811357+00:00",
     "fecha_ultima_observacion": "2026-11-04T15:35:43.646370+00:00"
+  },
+  "EMSC:20261104_0000210": {
+    "id": "20261104_0000210",
+    "fecha_hora_utc": "2026-11-04T15:30:08+00:00",
+    "magnitud": 2.6,
+    "profundidad_km": 139.1,
+    "latitud": -32.38,
+    "longitud": -70.16,
+    "pais": "",
+    "ciudad_referencia": "MENDOZA, ARGENTINA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261104_0000210",
+    "fecha_primera_recepcion": "2026-11-04T15:40:30.896424+00:00",
+    "fecha_ultima_observacion": "2026-11-04T15:40:30.896424+00:00"
   }
 }
