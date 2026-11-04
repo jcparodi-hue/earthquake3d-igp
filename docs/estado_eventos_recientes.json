@@ -61779,7 +61779,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-763",
     "fecha_primera_recepcion": "2026-11-02T20:20:42.055116+00:00",
-    "fecha_ultima_observacion": "2026-11-04T07:55:44.995072+00:00"
+    "fecha_ultima_observacion": "2026-11-04T08:00:42.888861+00:00"
   },
   "USGS:us7000tuzd": {
     "id": "us7000tuzd",
@@ -64566,5 +64566,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261104_0000088",
     "fecha_primera_recepcion": "2026-11-04T07:50:46.966010+00:00",
     "fecha_ultima_observacion": "2026-11-04T07:55:44.995072+00:00"
+  },
+  "EMSC:20261104_0000089": {
+    "id": "20261104_0000089",
+    "fecha_hora_utc": "2026-11-04T07:49:02+00:00",
+    "magnitud": 2.7,
+    "profundidad_km": 21.0,
+    "latitud": 13.383,
+    "longitud": -90.221,
+    "pais": "",
+    "ciudad_referencia": "OFFSHORE EL SALVADOR",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261104_0000089",
+    "fecha_primera_recepcion": "2026-11-04T08:00:42.888861+00:00",
+    "fecha_ultima_observacion": "2026-11-04T08:00:42.888861+00:00"
+  },
+  "USGS:us7000tvwj": {
+    "id": "us7000tvwj",
+    "fecha_hora_utc": "2026-11-04T07:40:12.288000+00:00",
+    "magnitud": 5.0,
+    "profundidad_km": 49.074,
+    "latitud": 4.3895,
+    "longitud": 127.0325,
+    "pais": "",
+    "ciudad_referencia": "207 km ESE of Sarangani, Philippines",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvwj",
+    "fecha_primera_recepcion": "2026-11-04T08:00:42.888861+00:00",
+    "fecha_ultima_observacion": "2026-11-04T08:00:42.888861+00:00"
   }
 }
