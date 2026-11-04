@@ -64621,7 +64621,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vvrwqb",
     "fecha_primera_recepcion": "2026-11-04T08:35:42.772542+00:00",
-    "fecha_ultima_observacion": "2026-11-04T09:45:34.502571+00:00"
+    "fecha_ultima_observacion": "2026-11-04T09:50:52.640757+00:00"
   },
   "EMSC:20261104_0000095": {
     "id": "20261104_0000095",
@@ -64691,6 +64691,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261104_0000108",
     "fecha_primera_recepcion": "2026-11-04T09:45:34.502571+00:00",
-    "fecha_ultima_observacion": "2026-11-04T09:45:34.502571+00:00"
+    "fecha_ultima_observacion": "2026-11-04T09:50:52.640757+00:00"
+  },
+  "IGP:2026-764": {
+    "id": "2026-764",
+    "fecha_hora_utc": "2026-11-04T04:15:52+00:00",
+    "magnitud": 3.5,
+    "profundidad_km": 15.0,
+    "latitud": -5.51,
+    "longitud": -78.9,
+    "pais": "Perú",
+    "ciudad_referencia": "24 km al NO de Jaén, Jaén - Cajamarca",
+    "fuente": "IGP",
+    "url": "https://ultimosismo.igp.gob.pe/evento/2026-764",
+    "fecha_primera_recepcion": "2026-11-04T09:50:52.640757+00:00",
+    "fecha_ultima_observacion": "2026-11-04T09:50:52.640757+00:00"
   }
 }

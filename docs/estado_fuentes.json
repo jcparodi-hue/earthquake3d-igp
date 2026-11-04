@@ -1,33 +1,33 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-04T09:45:34.502571+00:00",
+  "actualizado_utc": "2026-11-04T09:50:52.640757+00:00",
   "periodo_mundial_dias": 10,
-  "igp_historico": 73,
+  "igp_historico": 74,
   "actualizacion_minutos": 5,
-  "igp": 73,
-  "emsc": 2331,
+  "igp": 74,
+  "emsc": 2328,
   "usgs": 507,
-  "duplicados_eliminados": 449,
-  "eventos_publicados": 2462,
+  "duplicados_eliminados": 450,
+  "eventos_publicados": 2459,
   "evento_mas_reciente_utc": "2026-11-04T09:21:57+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
-      "actividad": "SIN_EVENTOS_RECIENTES",
-      "eventos_validos": 73,
-      "eventos_recibidos": 13,
+      "actividad": "EVENTO_RECIENTE",
+      "eventos_validos": 74,
+      "eventos_recibidos": 14,
       "invalidos_rechazados": 0,
-      "evento_mas_reciente_utc": "2026-11-02T15:28:08+00:00",
-      "antiguedad_evento_mas_reciente_min": 2537.4
+      "evento_mas_reciente_utc": "2026-11-04T04:15:52+00:00",
+      "antiguedad_evento_mas_reciente_min": 335.0
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2331,
-      "eventos_recibidos": 2334,
+      "eventos_validos": 2328,
+      "eventos_recibidos": 2331,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-04T09:21:57+00:00",
-      "antiguedad_evento_mas_reciente_min": 23.6
+      "antiguedad_evento_mas_reciente_min": 28.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,21 +36,21 @@
       "eventos_recibidos": 510,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-04T08:34:33.730000+00:00",
-      "antiguedad_evento_mas_reciente_min": 71.0
+      "antiguedad_evento_mas_reciente_min": 76.3
     }
   },
   "ultimo_evento": {
     "igp": {
-      "id": "2026-763",
-      "fecha_hora_utc": "2026-11-02T15:28:08+00:00",
-      "magnitud": 5.0,
-      "profundidad_km": 30.0,
-      "latitud": -10.26,
-      "longitud": -78.79,
+      "id": "2026-764",
+      "fecha_hora_utc": "2026-11-04T04:15:52+00:00",
+      "magnitud": 3.5,
+      "profundidad_km": 15.0,
+      "latitud": -5.51,
+      "longitud": -78.9,
       "pais": "Perú",
-      "ciudad_referencia": "73 km al O de Huarmey, Huarmey - Áncash",
+      "ciudad_referencia": "24 km al NO de Jaén, Jaén - Cajamarca",
       "fuente": "IGP",
-      "url": "https://ultimosismo.igp.gob.pe/evento/2026-763"
+      "url": "https://ultimosismo.igp.gob.pe/evento/2026-764"
     },
     "emsc": {
       "id": "20261104_0000108",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-04T09:45:34.502571+00:00"
+    "hora_consulta_utc": "2026-11-04T09:50:52.640757+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-04T09:45:34.502571+00:00",
-  "combined_after_dedup": 2462
+  "updated_utc": "2026-11-04T09:50:52.640757+00:00",
+  "combined_after_dedup": 2459
 }
