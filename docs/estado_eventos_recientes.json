@@ -64705,7 +64705,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-764",
     "fecha_primera_recepcion": "2026-11-04T09:50:52.640757+00:00",
-    "fecha_ultima_observacion": "2026-11-04T11:45:47.087791+00:00"
+    "fecha_ultima_observacion": "2026-11-04T11:50:45.768855+00:00"
   },
   "EMSC:20261104_0000113": {
     "id": "20261104_0000113",
@@ -64803,7 +64803,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vvxgii",
     "fecha_primera_recepcion": "2026-11-04T11:20:44.646054+00:00",
-    "fecha_ultima_observacion": "2026-11-04T11:45:47.087791+00:00"
+    "fecha_ultima_observacion": "2026-11-04T11:50:45.768855+00:00"
   },
   "EMSC:20261104_0000140": {
     "id": "20261104_0000140",
@@ -64846,5 +64846,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261104_0000143",
     "fecha_primera_recepcion": "2026-11-04T11:45:47.087791+00:00",
     "fecha_ultima_observacion": "2026-11-04T11:45:47.087791+00:00"
+  },
+  "EMSC:20261104_0000146": {
+    "id": "20261104_0000146",
+    "fecha_hora_utc": "2026-11-04T11:38:12.806432+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 84.5,
+    "latitud": 35.4968,
+    "longitud": 22.2839,
+    "pais": "",
+    "ciudad_referencia": "CENTRAL MEDITERRANEAN SEA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261104_0000146",
+    "fecha_primera_recepcion": "2026-11-04T11:50:45.768855+00:00",
+    "fecha_ultima_observacion": "2026-11-04T11:50:45.768855+00:00"
   }
 }
