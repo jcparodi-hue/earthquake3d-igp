@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-04T12:10:47.269576+00:00",
+  "actualizado_utc": "2026-11-04T12:15:49.033244+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 74,
   "actualizacion_minutos": 5,
   "igp": 74,
   "emsc": 2306,
-  "usgs": 501,
+  "usgs": 502,
   "duplicados_eliminados": 443,
-  "eventos_publicados": 2438,
-  "evento_mas_reciente_utc": "2026-11-04T11:38:13.520000+00:00",
+  "eventos_publicados": 2439,
+  "evento_mas_reciente_utc": "2026-11-04T12:12:50.910000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 14,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-04T04:15:52+00:00",
-      "antiguedad_evento_mas_reciente_min": 474.9
+      "antiguedad_evento_mas_reciente_min": 480.0
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2306,
       "eventos_recibidos": 2309,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-04T11:38:13.520000+00:00",
-      "antiguedad_evento_mas_reciente_min": 32.6
+      "evento_mas_reciente_utc": "2026-11-04T11:44:17.270000+00:00",
+      "antiguedad_evento_mas_reciente_min": 31.5
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 501,
-      "eventos_recibidos": 504,
+      "eventos_validos": 502,
+      "eventos_recibidos": 505,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-04T11:15:40.351000+00:00",
-      "antiguedad_evento_mas_reciente_min": 55.1
+      "evento_mas_reciente_utc": "2026-11-04T12:12:50.910000+00:00",
+      "antiguedad_evento_mas_reciente_min": 3.0
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-764"
     },
     "emsc": {
-      "id": "20261104_0000146",
-      "fecha_hora_utc": "2026-11-04T11:38:13.520000+00:00",
-      "magnitud": 2.9,
-      "profundidad_km": 41.0,
-      "latitud": 35.6023,
-      "longitud": 22.4001,
+      "id": "20261104_0000152",
+      "fecha_hora_utc": "2026-11-04T11:44:17.270000+00:00",
+      "magnitud": 3.0,
+      "profundidad_km": 30.0,
+      "latitud": 36.3895,
+      "longitud": 22.2675,
       "pais": "",
-      "ciudad_referencia": "CENTRAL MEDITERRANEAN SEA",
+      "ciudad_referencia": "SOUTHERN GREECE",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261104_0000146"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261104_0000152"
     },
     "usgs": {
-      "id": "aka2026vvxgii",
-      "fecha_hora_utc": "2026-11-04T11:15:40.351000+00:00",
-      "magnitud": 2.5,
-      "profundidad_km": 3.3,
-      "latitud": 57.027,
-      "longitud": -156.155,
+      "id": "aka2026vvzdxb",
+      "fecha_hora_utc": "2026-11-04T12:12:50.910000+00:00",
+      "magnitud": 2.6,
+      "profundidad_km": 75.5,
+      "latitud": 61.049,
+      "longitud": -151.235,
       "pais": "",
-      "ciudad_referencia": "92 km SE of Ugashik, Alaska",
+      "ciudad_referencia": "5 km WSW of Tyonek, Alaska",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vvxgii"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vvzdxb"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-04T12:10:47.269576+00:00"
+    "hora_consulta_utc": "2026-11-04T12:15:49.033244+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-04T12:10:47.269576+00:00",
-  "combined_after_dedup": 2438
+  "updated_utc": "2026-11-04T12:15:49.033244+00:00",
+  "combined_after_dedup": 2439
 }
