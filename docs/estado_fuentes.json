@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-04T03:05:42.776837+00:00",
+  "actualizado_utc": "2026-11-04T03:10:44.620585+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 73,
   "actualizacion_minutos": 5,
   "igp": 73,
   "emsc": 2348,
-  "usgs": 507,
+  "usgs": 509,
   "duplicados_eliminados": 454,
-  "eventos_publicados": 2474,
-  "evento_mas_reciente_utc": "2026-11-04T02:55:58+00:00",
+  "eventos_publicados": 2476,
+  "evento_mas_reciente_utc": "2026-11-04T03:06:09.938000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 14,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-02T15:28:08+00:00",
-      "antiguedad_evento_mas_reciente_min": 2137.6
+      "antiguedad_evento_mas_reciente_min": 2142.6
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -27,16 +27,16 @@
       "eventos_recibidos": 2351,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-04T02:55:58+00:00",
-      "antiguedad_evento_mas_reciente_min": 9.7
+      "antiguedad_evento_mas_reciente_min": 14.8
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 507,
-      "eventos_recibidos": 510,
+      "eventos_validos": 509,
+      "eventos_recibidos": 512,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-04T02:40:29.495000+00:00",
-      "antiguedad_evento_mas_reciente_min": 25.2
+      "evento_mas_reciente_utc": "2026-11-04T03:06:09.938000+00:00",
+      "antiguedad_evento_mas_reciente_min": 4.6
     }
   },
   "ultimo_evento": {
@@ -65,24 +65,24 @@
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261104_0000030"
     },
     "usgs": {
-      "id": "us7000tvvc",
-      "fecha_hora_utc": "2026-11-04T02:40:29.495000+00:00",
-      "magnitud": 4.2,
-      "profundidad_km": 429.393,
-      "latitud": 27.0774,
-      "longitud": 140.2929,
+      "id": "aka2026vvgxwy",
+      "fecha_hora_utc": "2026-11-04T03:06:09.938000+00:00",
+      "magnitud": 2.5,
+      "profundidad_km": 77.6,
+      "latitud": 59.467,
+      "longitud": -152.734,
       "pais": "",
-      "ciudad_referencia": "Bonin Islands, Japan region",
+      "ciudad_referencia": "47 km WNW of Nanwalek, Alaska",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvvc"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vvgxwy"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-04T03:05:42.776837+00:00"
+    "hora_consulta_utc": "2026-11-04T03:10:44.620585+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-04T03:05:42.776837+00:00",
-  "combined_after_dedup": 2474
+  "updated_utc": "2026-11-04T03:10:44.620585+00:00",
+  "combined_after_dedup": 2476
 }
