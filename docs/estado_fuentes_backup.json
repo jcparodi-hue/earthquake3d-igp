@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-04T19:25:48.051422+00:00",
+  "actualizado_utc": "2026-11-04T19:30:48.199277+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 74,
   "actualizacion_minutos": 5,
   "igp": 74,
-  "emsc": 2308,
-  "usgs": 501,
-  "duplicados_eliminados": 439,
-  "eventos_publicados": 2444,
-  "evento_mas_reciente_utc": "2026-11-04T19:15:13.920000+00:00",
+  "emsc": 2307,
+  "usgs": 500,
+  "duplicados_eliminados": 438,
+  "eventos_publicados": 2443,
+  "evento_mas_reciente_utc": "2026-11-04T19:21:30+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 13,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-04T04:15:52+00:00",
-      "antiguedad_evento_mas_reciente_min": 909.9
+      "antiguedad_evento_mas_reciente_min": 914.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2308,
-      "eventos_recibidos": 2311,
+      "eventos_validos": 2307,
+      "eventos_recibidos": 2310,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-04T19:15:13.920000+00:00",
-      "antiguedad_evento_mas_reciente_min": 10.6
+      "evento_mas_reciente_utc": "2026-11-04T19:21:30+00:00",
+      "antiguedad_evento_mas_reciente_min": 9.3
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 501,
-      "eventos_recibidos": 504,
+      "eventos_validos": 500,
+      "eventos_recibidos": 503,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-04T19:15:13.920000+00:00",
-      "antiguedad_evento_mas_reciente_min": 10.6
+      "evento_mas_reciente_utc": "2026-11-04T19:15:13.980000+00:00",
+      "antiguedad_evento_mas_reciente_min": 15.6
     }
   },
   "ultimo_evento": {
@@ -53,24 +53,24 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-764"
     },
     "emsc": {
-      "id": "20261104_0000261",
-      "fecha_hora_utc": "2026-11-04T19:15:13.920000+00:00",
-      "magnitud": 2.8,
-      "profundidad_km": 2.0,
-      "latitud": 35.9597,
-      "longitud": -117.3897,
+      "id": "20261104_0000264",
+      "fecha_hora_utc": "2026-11-04T19:21:30+00:00",
+      "magnitud": 4.1,
+      "profundidad_km": 50.0,
+      "latitud": 38.3,
+      "longitud": 141.8,
       "pais": "",
-      "ciudad_referencia": "CENTRAL CALIFORNIA",
+      "ciudad_referencia": "NEAR EAST COAST OF HONSHU, JAPAN",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261104_0000261"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261104_0000264"
     },
     "usgs": {
       "id": "ci41358359",
-      "fecha_hora_utc": "2026-11-04T19:15:13.920000+00:00",
-      "magnitud": 2.76780678818893,
-      "profundidad_km": 2.01999998092651,
-      "latitud": 35.9596672058105,
-      "longitud": -117.389663696289,
+      "fecha_hora_utc": "2026-11-04T19:15:13.980000+00:00",
+      "magnitud": 2.68,
+      "profundidad_km": 2.6,
+      "latitud": 35.9568333333333,
+      "longitud": -117.392,
       "pais": "",
       "ciudad_referencia": "21 km N of Searles Valley, CA",
       "fuente": "USGS",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-04T19:25:48.051422+00:00"
+    "hora_consulta_utc": "2026-11-04T19:30:48.199277+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-04T19:25:48.051422+00:00",
-  "combined_after_dedup": 2444
+  "updated_utc": "2026-11-04T19:30:48.199277+00:00",
+  "combined_after_dedup": 2443
 }

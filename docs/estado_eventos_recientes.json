@@ -64705,7 +64705,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-764",
     "fecha_primera_recepcion": "2026-11-04T09:50:52.640757+00:00",
-    "fecha_ultima_observacion": "2026-11-04T19:25:48.051422+00:00"
+    "fecha_ultima_observacion": "2026-11-04T19:30:48.199277+00:00"
   },
   "EMSC:20261104_0000113": {
     "id": "20261104_0000113",
@@ -65353,16 +65353,30 @@
   },
   "USGS:ci41358359": {
     "id": "ci41358359",
-    "fecha_hora_utc": "2026-11-04T19:15:13.920000+00:00",
-    "magnitud": 2.76780678818893,
-    "profundidad_km": 2.01999998092651,
-    "latitud": 35.9596672058105,
-    "longitud": -117.389663696289,
+    "fecha_hora_utc": "2026-11-04T19:15:13.980000+00:00",
+    "magnitud": 2.68,
+    "profundidad_km": 2.6,
+    "latitud": 35.9568333333333,
+    "longitud": -117.392,
     "pais": "",
     "ciudad_referencia": "21 km N of Searles Valley, CA",
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41358359",
     "fecha_primera_recepcion": "2026-11-04T19:20:39.131825+00:00",
-    "fecha_ultima_observacion": "2026-11-04T19:25:48.051422+00:00"
+    "fecha_ultima_observacion": "2026-11-04T19:30:48.199277+00:00"
+  },
+  "EMSC:20261104_0000264": {
+    "id": "20261104_0000264",
+    "fecha_hora_utc": "2026-11-04T19:21:30+00:00",
+    "magnitud": 4.1,
+    "profundidad_km": 50.0,
+    "latitud": 38.3,
+    "longitud": 141.8,
+    "pais": "",
+    "ciudad_referencia": "NEAR EAST COAST OF HONSHU, JAPAN",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261104_0000264",
+    "fecha_primera_recepcion": "2026-11-04T19:30:48.199277+00:00",
+    "fecha_ultima_observacion": "2026-11-04T19:30:48.199277+00:00"
   }
 }
