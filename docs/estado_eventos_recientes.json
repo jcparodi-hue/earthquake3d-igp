@@ -61779,7 +61779,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-763",
     "fecha_primera_recepcion": "2026-11-02T20:20:42.055116+00:00",
-    "fecha_ultima_observacion": "2026-11-04T01:10:45.731173+00:00"
+    "fecha_ultima_observacion": "2026-11-04T01:15:51.888127+00:00"
   },
   "USGS:us7000tuzd": {
     "id": "us7000tuzd",
@@ -63977,6 +63977,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261104_0000007",
     "fecha_primera_recepcion": "2026-11-04T01:00:58.945448+00:00",
-    "fecha_ultima_observacion": "2026-11-04T01:10:45.731173+00:00"
+    "fecha_ultima_observacion": "2026-11-04T01:15:51.888127+00:00"
+  },
+  "USGS:aka2026vvdefx": {
+    "id": "aka2026vvdefx",
+    "fecha_hora_utc": "2026-11-04T01:13:32.738000+00:00",
+    "magnitud": 2.7,
+    "profundidad_km": 5.0,
+    "latitud": 64.052,
+    "longitud": -148.833,
+    "pais": "",
+    "ciudad_referencia": "14 km ENE of Ferry, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vvdefx",
+    "fecha_primera_recepcion": "2026-11-04T01:15:51.888127+00:00",
+    "fecha_ultima_observacion": "2026-11-04T01:15:51.888127+00:00"
   }
 }
