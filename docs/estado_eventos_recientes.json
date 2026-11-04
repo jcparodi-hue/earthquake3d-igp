@@ -61779,7 +61779,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-763",
     "fecha_primera_recepcion": "2026-11-02T20:20:42.055116+00:00",
-    "fecha_ultima_observacion": "2026-11-04T06:40:43.967589+00:00"
+    "fecha_ultima_observacion": "2026-11-04T06:45:38.994590+00:00"
   },
   "USGS:us7000tuzd": {
     "id": "us7000tuzd",
@@ -64454,5 +64454,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261104_0000072",
     "fecha_primera_recepcion": "2026-11-04T06:20:33.878276+00:00",
     "fecha_ultima_observacion": "2026-11-04T06:40:43.967589+00:00"
+  },
+  "EMSC:20261104_0000076": {
+    "id": "20261104_0000076",
+    "fecha_hora_utc": "2026-11-04T06:11:30.600000+00:00",
+    "magnitud": 2.8,
+    "profundidad_km": 11.7,
+    "latitud": 17.9143,
+    "longitud": -66.8513,
+    "pais": "",
+    "ciudad_referencia": "PUERTO RICO REGION",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261104_0000076",
+    "fecha_primera_recepcion": "2026-11-04T06:45:38.994590+00:00",
+    "fecha_ultima_observacion": "2026-11-04T06:45:38.994590+00:00"
+  },
+  "USGS:pr71538438": {
+    "id": "pr71538438",
+    "fecha_hora_utc": "2026-11-04T06:11:30.600000+00:00",
+    "magnitud": 2.81,
+    "profundidad_km": 11.7,
+    "latitud": 17.9143333333333,
+    "longitud": -66.8513333333333,
+    "pais": "",
+    "ciudad_referencia": "8 km SSE of Maria Antonia, Puerto Rico",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538438",
+    "fecha_primera_recepcion": "2026-11-04T06:45:38.994590+00:00",
+    "fecha_ultima_observacion": "2026-11-04T06:45:38.994590+00:00"
   }
 }
