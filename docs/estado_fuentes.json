@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-04T00:50:46.148008+00:00",
+  "actualizado_utc": "2026-11-04T00:55:31.301330+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 73,
   "actualizacion_minutos": 5,
   "igp": 73,
-  "emsc": 2342,
+  "emsc": 2341,
   "usgs": 509,
   "duplicados_eliminados": 458,
-  "eventos_publicados": 2466,
-  "evento_mas_reciente_utc": "2026-11-04T00:48:31.156270+00:00",
+  "eventos_publicados": 2465,
+  "evento_mas_reciente_utc": "2026-11-04T00:48:31.278948+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 14,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-02T15:28:08+00:00",
-      "antiguedad_evento_mas_reciente_min": 2002.6
+      "antiguedad_evento_mas_reciente_min": 2007.4
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2342,
-      "eventos_recibidos": 2345,
+      "eventos_validos": 2341,
+      "eventos_recibidos": 2344,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-04T00:48:31.156270+00:00",
-      "antiguedad_evento_mas_reciente_min": 2.2
+      "evento_mas_reciente_utc": "2026-11-04T00:48:31.278948+00:00",
+      "antiguedad_evento_mas_reciente_min": 7.0
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -35,8 +35,8 @@
       "eventos_validos": 509,
       "eventos_recibidos": 512,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-04T00:48:31.156000+00:00",
-      "antiguedad_evento_mas_reciente_min": 2.2
+      "evento_mas_reciente_utc": "2026-11-04T00:48:31.278000+00:00",
+      "antiguedad_evento_mas_reciente_min": 7.0
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261104_0000003",
-      "fecha_hora_utc": "2026-11-04T00:48:31.156270+00:00",
+      "fecha_hora_utc": "2026-11-04T00:48:31.278948+00:00",
       "magnitud": 3.6,
-      "profundidad_km": 10.0,
-      "latitud": 36.3661,
-      "longitud": -98.1476,
+      "profundidad_km": 0.7,
+      "latitud": 36.3723,
+      "longitud": -98.1345,
       "pais": "",
       "ciudad_referencia": "OKLAHOMA",
       "fuente": "EMSC",
@@ -66,13 +66,13 @@
     },
     "usgs": {
       "id": "ok2026vozb",
-      "fecha_hora_utc": "2026-11-04T00:48:31.156000+00:00",
+      "fecha_hora_utc": "2026-11-04T00:48:31.278000+00:00",
       "magnitud": 3.59,
-      "profundidad_km": 10.0,
-      "latitud": 36.36608124,
-      "longitud": -98.14759827,
+      "profundidad_km": 0.6888984442,
+      "latitud": 36.37226868,
+      "longitud": -98.13451385,
       "pais": "",
-      "ciudad_referencia": "3 km SE of Meno, Oklahoma",
+      "ciudad_referencia": "4 km ESE of Meno, Oklahoma",
       "fuente": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026vozb"
     }
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-04T00:50:46.148008+00:00"
+    "hora_consulta_utc": "2026-11-04T00:55:31.301330+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-04T00:50:46.148008+00:00",
-  "combined_after_dedup": 2466
+  "updated_utc": "2026-11-04T00:55:31.301330+00:00",
+  "combined_after_dedup": 2465
 }
