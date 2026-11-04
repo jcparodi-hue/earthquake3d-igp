@@ -61779,7 +61779,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-763",
     "fecha_primera_recepcion": "2026-11-02T20:20:42.055116+00:00",
-    "fecha_ultima_observacion": "2026-11-04T05:45:31.287175+00:00"
+    "fecha_ultima_observacion": "2026-11-04T05:50:43.778222+00:00"
   },
   "USGS:us7000tuzd": {
     "id": "us7000tuzd",
@@ -64397,6 +64397,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261104_0000066",
     "fecha_primera_recepcion": "2026-11-04T05:45:31.287175+00:00",
-    "fecha_ultima_observacion": "2026-11-04T05:45:31.287175+00:00"
+    "fecha_ultima_observacion": "2026-11-04T05:50:43.778222+00:00"
+  },
+  "USGS:aka2026vvjipe": {
+    "id": "aka2026vvjipe",
+    "fecha_hora_utc": "2026-11-04T04:18:29.908000+00:00",
+    "magnitud": 2.6,
+    "profundidad_km": 38.6,
+    "latitud": 58.435,
+    "longitud": -152.15,
+    "pais": "",
+    "ciudad_referencia": "60 km NNE of Ouzinkie, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vvjipe",
+    "fecha_primera_recepcion": "2026-11-04T05:50:43.778222+00:00",
+    "fecha_ultima_observacion": "2026-11-04T05:50:43.778222+00:00"
   }
 }
