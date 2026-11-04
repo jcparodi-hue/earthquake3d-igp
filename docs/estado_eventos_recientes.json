@@ -61779,7 +61779,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-763",
     "fecha_primera_recepcion": "2026-11-02T20:20:42.055116+00:00",
-    "fecha_ultima_observacion": "2026-11-04T01:23:31.602444+00:00"
+    "fecha_ultima_observacion": "2026-11-04T01:25:44.541778+00:00"
   },
   "USGS:us7000tuzd": {
     "id": "us7000tuzd",
@@ -64019,6 +64019,20 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026vozy",
     "fecha_primera_recepcion": "2026-11-04T01:20:46.354114+00:00",
-    "fecha_ultima_observacion": "2026-11-04T01:23:31.602444+00:00"
+    "fecha_ultima_observacion": "2026-11-04T01:25:44.541778+00:00"
+  },
+  "EMSC:20261104_0000012": {
+    "id": "20261104_0000012",
+    "fecha_hora_utc": "2026-11-04T01:18:54.747784+00:00",
+    "magnitud": 2.7,
+    "profundidad_km": 12.5,
+    "latitud": 34.7836,
+    "longitud": 24.061,
+    "pais": "",
+    "ciudad_referencia": "CRETE, GREECE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261104_0000012",
+    "fecha_primera_recepcion": "2026-11-04T01:25:44.541778+00:00",
+    "fecha_ultima_observacion": "2026-11-04T01:25:44.541778+00:00"
   }
 }
