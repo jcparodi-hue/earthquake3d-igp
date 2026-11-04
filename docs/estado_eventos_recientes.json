@@ -64705,7 +64705,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-764",
     "fecha_primera_recepcion": "2026-11-04T09:50:52.640757+00:00",
-    "fecha_ultima_observacion": "2026-11-04T19:10:39.673153+00:00"
+    "fecha_ultima_observacion": "2026-11-04T19:15:47.405227+00:00"
   },
   "EMSC:20261104_0000113": {
     "id": "20261104_0000113",
@@ -65321,6 +65321,20 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41358343",
     "fecha_primera_recepcion": "2026-11-04T19:08:42.722148+00:00",
-    "fecha_ultima_observacion": "2026-11-04T19:10:39.673153+00:00"
+    "fecha_ultima_observacion": "2026-11-04T19:15:47.405227+00:00"
+  },
+  "EMSC:20261104_0000259": {
+    "id": "20261104_0000259",
+    "fecha_hora_utc": "2026-11-04T19:06:03+00:00",
+    "magnitud": 3.2,
+    "profundidad_km": 10.0,
+    "latitud": 3.03,
+    "longitud": 126.82,
+    "pais": "",
+    "ciudad_referencia": "KEPULAUAN TALAUD, INDONESIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261104_0000259",
+    "fecha_primera_recepcion": "2026-11-04T19:15:47.405227+00:00",
+    "fecha_ultima_observacion": "2026-11-04T19:15:47.405227+00:00"
   }
 }
