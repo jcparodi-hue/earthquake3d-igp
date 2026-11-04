@@ -61779,7 +61779,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-763",
     "fecha_primera_recepcion": "2026-11-02T20:20:42.055116+00:00",
-    "fecha_ultima_observacion": "2026-11-04T05:50:43.778222+00:00"
+    "fecha_ultima_observacion": "2026-11-04T05:55:29.204229+00:00"
   },
   "USGS:us7000tuzd": {
     "id": "us7000tuzd",
@@ -64397,7 +64397,7 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261104_0000066",
     "fecha_primera_recepcion": "2026-11-04T05:45:31.287175+00:00",
-    "fecha_ultima_observacion": "2026-11-04T05:50:43.778222+00:00"
+    "fecha_ultima_observacion": "2026-11-04T05:55:29.204229+00:00"
   },
   "USGS:aka2026vvjipe": {
     "id": "aka2026vvjipe",
@@ -64412,5 +64412,19 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vvjipe",
     "fecha_primera_recepcion": "2026-11-04T05:50:43.778222+00:00",
     "fecha_ultima_observacion": "2026-11-04T05:50:43.778222+00:00"
+  },
+  "USGS:aka2026vvmlci": {
+    "id": "aka2026vvmlci",
+    "fecha_hora_utc": "2026-11-04T05:51:19.066000+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 5.2,
+    "latitud": 65.871,
+    "longitud": -146.852,
+    "pais": "",
+    "ciudad_referencia": "59 km SSE of Beaver, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vvmlci",
+    "fecha_primera_recepcion": "2026-11-04T05:55:29.204229+00:00",
+    "fecha_ultima_observacion": "2026-11-04T05:55:29.204229+00:00"
   }
 }
