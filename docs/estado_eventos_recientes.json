@@ -64705,7 +64705,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-764",
     "fecha_primera_recepcion": "2026-11-04T09:50:52.640757+00:00",
-    "fecha_ultima_observacion": "2026-11-05T22:30:51.036626+00:00"
+    "fecha_ultima_observacion": "2026-11-05T22:35:49.112662+00:00"
   },
   "EMSC:20261104_0000113": {
     "id": "20261104_0000113",
@@ -67128,5 +67128,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261105_0000303",
     "fecha_primera_recepcion": "2026-11-05T22:25:47.951451+00:00",
     "fecha_ultima_observacion": "2026-11-05T22:30:51.036626+00:00"
+  },
+  "EMSC:20261105_0000306": {
+    "id": "20261105_0000306",
+    "fecha_hora_utc": "2026-11-05T22:25:05+00:00",
+    "magnitud": 3.7,
+    "profundidad_km": 10.0,
+    "latitud": 4.11,
+    "longitud": 97.51,
+    "pais": "",
+    "ciudad_referencia": "NORTHERN SUMATRA, INDONESIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261105_0000306",
+    "fecha_primera_recepcion": "2026-11-05T22:35:49.112662+00:00",
+    "fecha_ultima_observacion": "2026-11-05T22:35:49.112662+00:00"
+  },
+  "USGS:aka2026vypwpu": {
+    "id": "aka2026vypwpu",
+    "fecha_hora_utc": "2026-11-05T22:33:58.481000+00:00",
+    "magnitud": 2.7,
+    "profundidad_km": 47.3,
+    "latitud": 62.486,
+    "longitud": -148.25,
+    "pais": "",
+    "ciudad_referencia": "77 km N of Chickaloon, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vypwpu",
+    "fecha_primera_recepcion": "2026-11-05T22:35:49.112662+00:00",
+    "fecha_ultima_observacion": "2026-11-05T22:35:49.112662+00:00"
   }
 }
