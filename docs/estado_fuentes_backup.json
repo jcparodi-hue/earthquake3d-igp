@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-05T04:30:42.020477+00:00",
+  "actualizado_utc": "2026-11-05T04:40:52.289451+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 74,
   "actualizacion_minutos": 5,
   "igp": 74,
-  "emsc": 2282,
+  "emsc": 2280,
   "usgs": 499,
   "duplicados_eliminados": 430,
-  "eventos_publicados": 2425,
-  "evento_mas_reciente_utc": "2026-11-05T04:20:56.986669+00:00",
+  "eventos_publicados": 2423,
+  "evento_mas_reciente_utc": "2026-11-05T04:31:54+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 12,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-04T04:15:52+00:00",
-      "antiguedad_evento_mas_reciente_min": 1454.8
+      "antiguedad_evento_mas_reciente_min": 1465.0
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2282,
-      "eventos_recibidos": 2285,
+      "eventos_validos": 2280,
+      "eventos_recibidos": 2283,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-05T04:20:56.986669+00:00",
-      "antiguedad_evento_mas_reciente_min": 9.8
+      "evento_mas_reciente_utc": "2026-11-05T04:31:54+00:00",
+      "antiguedad_evento_mas_reciente_min": 9.0
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 503,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-11-05T04:20:56.986000+00:00",
-      "antiguedad_evento_mas_reciente_min": 9.8
+      "antiguedad_evento_mas_reciente_min": 19.9
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-764"
     },
     "emsc": {
-      "id": "20261105_0000057",
-      "fecha_hora_utc": "2026-11-05T04:20:56.986669+00:00",
-      "magnitud": 3.1,
-      "profundidad_km": 64.5,
-      "latitud": 60.303,
-      "longitud": -150.78,
+      "id": "20261105_0000060",
+      "fecha_hora_utc": "2026-11-05T04:31:54+00:00",
+      "magnitud": 2.5,
+      "profundidad_km": 119.9,
+      "latitud": -21.08,
+      "longitud": -68.87,
       "pais": "",
-      "ciudad_referencia": "KENAI PENINSULA, ALASKA",
+      "ciudad_referencia": "TARAPACA, CHILE",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261105_0000057"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261105_0000060"
     },
     "usgs": {
       "id": "aka2026vxflhk",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-05T04:30:42.020477+00:00"
+    "hora_consulta_utc": "2026-11-05T04:40:52.289451+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-05T04:30:42.020477+00:00",
-  "combined_after_dedup": 2425
+  "updated_utc": "2026-11-05T04:40:52.289451+00:00",
+  "combined_after_dedup": 2423
 }
