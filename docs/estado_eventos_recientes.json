@@ -64705,7 +64705,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-764",
     "fecha_primera_recepcion": "2026-11-04T09:50:52.640757+00:00",
-    "fecha_ultima_observacion": "2026-11-05T00:35:29.648145+00:00"
+    "fecha_ultima_observacion": "2026-11-05T00:40:43.985938+00:00"
   },
   "EMSC:20261104_0000113": {
     "id": "20261104_0000113",
@@ -65672,5 +65672,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261105_0000001",
     "fecha_primera_recepcion": "2026-11-05T00:30:46.164613+00:00",
     "fecha_ultima_observacion": "2026-11-05T00:35:29.648145+00:00"
+  },
+  "EMSC:20261105_0000002": {
+    "id": "20261105_0000002",
+    "fecha_hora_utc": "2026-11-05T00:34:07+00:00",
+    "magnitud": 2.7,
+    "profundidad_km": 134.9,
+    "latitud": -21.83,
+    "longitud": -68.58,
+    "pais": "",
+    "ciudad_referencia": "ANTOFAGASTA, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261105_0000002",
+    "fecha_primera_recepcion": "2026-11-05T00:40:43.985938+00:00",
+    "fecha_ultima_observacion": "2026-11-05T00:40:43.985938+00:00"
+  },
+  "USGS:us7000tw4z": {
+    "id": "us7000tw4z",
+    "fecha_hora_utc": "2026-11-05T00:23:17.796000+00:00",
+    "magnitud": 4.1,
+    "profundidad_km": 10.0,
+    "latitud": 38.0156,
+    "longitud": 30.0682,
+    "pais": "",
+    "ciudad_referencia": "10 km WSW of Dinar, Turkey",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tw4z",
+    "fecha_primera_recepcion": "2026-11-05T00:40:43.985938+00:00",
+    "fecha_ultima_observacion": "2026-11-05T00:40:43.985938+00:00"
   }
 }
