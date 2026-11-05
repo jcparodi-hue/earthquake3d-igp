@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-05T10:15:44.793835+00:00",
+  "actualizado_utc": "2026-11-05T10:20:41.212828+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 74,
   "actualizacion_minutos": 5,
@@ -9,7 +9,7 @@
   "usgs": 491,
   "duplicados_eliminados": 426,
   "eventos_publicados": 2407,
-  "evento_mas_reciente_utc": "2026-11-05T10:05:21+00:00",
+  "evento_mas_reciente_utc": "2026-11-05T10:09:32.280000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 12,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-04T04:15:52+00:00",
-      "antiguedad_evento_mas_reciente_min": 1799.9
+      "antiguedad_evento_mas_reciente_min": 1804.8
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,8 +26,8 @@
       "eventos_validos": 2268,
       "eventos_recibidos": 2271,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-05T10:05:21+00:00",
-      "antiguedad_evento_mas_reciente_min": 10.4
+      "evento_mas_reciente_utc": "2026-11-05T10:09:32.280000+00:00",
+      "antiguedad_evento_mas_reciente_min": 11.1
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 495,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-11-05T09:34:42.805000+00:00",
-      "antiguedad_evento_mas_reciente_min": 41.0
+      "antiguedad_evento_mas_reciente_min": 46.0
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-764"
     },
     "emsc": {
-      "id": "20261105_0000134",
-      "fecha_hora_utc": "2026-11-05T10:05:21+00:00",
-      "magnitud": 2.8,
-      "profundidad_km": 48.8,
-      "latitud": -30.66,
-      "longitud": -71.34,
+      "id": "20261105_0000137",
+      "fecha_hora_utc": "2026-11-05T10:09:32.280000+00:00",
+      "magnitud": 5.2,
+      "profundidad_km": 524.0,
+      "latitud": 49.2694,
+      "longitud": 147.8116,
       "pais": "",
-      "ciudad_referencia": "COQUIMBO, CHILE",
+      "ciudad_referencia": "SEA OF OKHOTSK",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261105_0000134"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261105_0000137"
     },
     "usgs": {
       "id": "aka2026vxpxjd",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-05T10:15:44.793835+00:00"
+    "hora_consulta_utc": "2026-11-05T10:20:41.212828+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-05T10:15:44.793835+00:00",
+  "updated_utc": "2026-11-05T10:20:41.212828+00:00",
   "combined_after_dedup": 2407
 }

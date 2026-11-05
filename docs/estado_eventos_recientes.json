@@ -64705,7 +64705,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-764",
     "fecha_primera_recepcion": "2026-11-04T09:50:52.640757+00:00",
-    "fecha_ultima_observacion": "2026-11-05T10:15:44.793835+00:00"
+    "fecha_ultima_observacion": "2026-11-05T10:20:41.212828+00:00"
   },
   "EMSC:20261104_0000113": {
     "id": "20261104_0000113",
@@ -66329,7 +66329,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vxpxjd",
     "fecha_primera_recepcion": "2026-11-05T09:40:45.333076+00:00",
-    "fecha_ultima_observacion": "2026-11-05T10:15:44.793835+00:00"
+    "fecha_ultima_observacion": "2026-11-05T10:20:41.212828+00:00"
   },
   "EMSC:20261105_0000128": {
     "id": "20261105_0000128",
@@ -66372,5 +66372,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261105_0000134",
     "fecha_primera_recepcion": "2026-11-05T10:10:31.048953+00:00",
     "fecha_ultima_observacion": "2026-11-05T10:15:44.793835+00:00"
+  },
+  "EMSC:20261105_0000137": {
+    "id": "20261105_0000137",
+    "fecha_hora_utc": "2026-11-05T10:09:32.280000+00:00",
+    "magnitud": 5.2,
+    "profundidad_km": 524.0,
+    "latitud": 49.2694,
+    "longitud": 147.8116,
+    "pais": "",
+    "ciudad_referencia": "SEA OF OKHOTSK",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261105_0000137",
+    "fecha_primera_recepcion": "2026-11-05T10:20:41.212828+00:00",
+    "fecha_ultima_observacion": "2026-11-05T10:20:41.212828+00:00"
   }
 }
