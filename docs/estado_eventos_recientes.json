@@ -67729,7 +67729,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-765",
     "fecha_primera_recepcion": "2026-11-06T03:40:41.594580+00:00",
-    "fecha_ultima_observacion": "2026-11-06T06:30:50.301795+00:00"
+    "fecha_ultima_observacion": "2026-11-06T06:35:45.229131+00:00"
   },
   "EMSC:20261106_0000052": {
     "id": "20261106_0000052",
@@ -67898,5 +67898,33 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538583",
     "fecha_primera_recepcion": "2026-11-06T06:30:50.301795+00:00",
     "fecha_ultima_observacion": "2026-11-06T06:30:50.301795+00:00"
+  },
+  "EMSC:20261106_0000090": {
+    "id": "20261106_0000090",
+    "fecha_hora_utc": "2026-11-06T06:30:13.250750+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 90.4,
+    "latitud": 57.967,
+    "longitud": -154.924,
+    "pais": "",
+    "ciudad_referencia": "KODIAK ISLAND REGION, ALASKA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261106_0000090",
+    "fecha_primera_recepcion": "2026-11-06T06:35:45.229131+00:00",
+    "fecha_ultima_observacion": "2026-11-06T06:35:45.229131+00:00"
+  },
+  "USGS:aka2026vzftyy": {
+    "id": "aka2026vzftyy",
+    "fecha_hora_utc": "2026-11-06T06:30:13.250000+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 90.4,
+    "latitud": 57.967,
+    "longitud": -154.924,
+    "pais": "",
+    "ciudad_referencia": "52 km NNW of Karluk, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vzftyy",
+    "fecha_primera_recepcion": "2026-11-06T06:35:45.229131+00:00",
+    "fecha_ultima_observacion": "2026-11-06T06:35:45.229131+00:00"
   }
 }
