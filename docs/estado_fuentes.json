@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-06T11:10:47.568327+00:00",
+  "actualizado_utc": "2026-11-06T11:15:47.246231+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 75,
   "actualizacion_minutos": 5,
   "igp": 75,
-  "emsc": 2268,
-  "usgs": 504,
-  "duplicados_eliminados": 436,
-  "eventos_publicados": 2411,
-  "evento_mas_reciente_utc": "2026-11-06T11:01:44+00:00",
+  "emsc": 2267,
+  "usgs": 503,
+  "duplicados_eliminados": 435,
+  "eventos_publicados": 2410,
+  "evento_mas_reciente_utc": "2026-11-06T11:11:31.302297+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 11,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-06T01:10:11+00:00",
-      "antiguedad_evento_mas_reciente_min": 600.6
+      "antiguedad_evento_mas_reciente_min": 605.6
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2268,
-      "eventos_recibidos": 2271,
+      "eventos_validos": 2267,
+      "eventos_recibidos": 2270,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-06T11:01:44+00:00",
-      "antiguedad_evento_mas_reciente_min": 9.1
+      "evento_mas_reciente_utc": "2026-11-06T11:11:31.302297+00:00",
+      "antiguedad_evento_mas_reciente_min": 4.3
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 504,
-      "eventos_recibidos": 508,
+      "eventos_validos": 503,
+      "eventos_recibidos": 507,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-11-06T10:39:24.800000+00:00",
-      "antiguedad_evento_mas_reciente_min": 31.4
+      "antiguedad_evento_mas_reciente_min": 36.4
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-765"
     },
     "emsc": {
-      "id": "20261106_0000137",
-      "fecha_hora_utc": "2026-11-06T11:01:44+00:00",
-      "magnitud": 2.6,
-      "profundidad_km": 108.0,
-      "latitud": -31.99,
-      "longitud": -68.11,
+      "id": "20261106_0000138",
+      "fecha_hora_utc": "2026-11-06T11:11:31.302297+00:00",
+      "magnitud": 3.0,
+      "profundidad_km": 5.0,
+      "latitud": 37.2646,
+      "longitud": 22.1,
       "pais": "",
-      "ciudad_referencia": "SAN JUAN, ARGENTINA",
+      "ciudad_referencia": "SOUTHERN GREECE",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261106_0000137"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261106_0000138"
     },
     "usgs": {
       "id": "us7000twg9",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-06T11:10:47.568327+00:00"
+    "hora_consulta_utc": "2026-11-06T11:15:47.246231+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-06T11:10:47.568327+00:00",
-  "combined_after_dedup": 2411
+  "updated_utc": "2026-11-06T11:15:47.246231+00:00",
+  "combined_after_dedup": 2410
 }
