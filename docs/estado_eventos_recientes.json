@@ -67729,7 +67729,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-765",
     "fecha_primera_recepcion": "2026-11-06T03:40:41.594580+00:00",
-    "fecha_ultima_observacion": "2026-11-06T18:10:48.676682+00:00"
+    "fecha_ultima_observacion": "2026-11-06T18:15:35.702521+00:00"
   },
   "EMSC:20261106_0000052": {
     "id": "20261106_0000052",
@@ -68611,7 +68611,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twhq",
     "fecha_primera_recepcion": "2026-11-06T18:00:48.095069+00:00",
-    "fecha_ultima_observacion": "2026-11-06T18:10:48.676682+00:00"
+    "fecha_ultima_observacion": "2026-11-06T18:15:35.702521+00:00"
   },
   "EMSC:20261106_0000222": {
     "id": "20261106_0000222",
@@ -68626,5 +68626,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261106_0000222",
     "fecha_primera_recepcion": "2026-11-06T18:10:48.676682+00:00",
     "fecha_ultima_observacion": "2026-11-06T18:10:48.676682+00:00"
+  },
+  "EMSC:20261106_0000223": {
+    "id": "20261106_0000223",
+    "fecha_hora_utc": "2026-11-06T18:06:02+00:00",
+    "magnitud": 3.6,
+    "profundidad_km": 15.0,
+    "latitud": -1.58,
+    "longitud": 139.24,
+    "pais": "",
+    "ciudad_referencia": "NEAR N COAST OF PAPUA, INDONESIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261106_0000223",
+    "fecha_primera_recepcion": "2026-11-06T18:15:35.702521+00:00",
+    "fecha_ultima_observacion": "2026-11-06T18:15:35.702521+00:00"
   }
 }
