@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-06T09:10:45.120025+00:00",
+  "actualizado_utc": "2026-11-06T09:15:48.605822+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 75,
   "actualizacion_minutos": 5,
   "igp": 75,
   "emsc": 2281,
-  "usgs": 508,
-  "duplicados_eliminados": 440,
+  "usgs": 507,
+  "duplicados_eliminados": 439,
   "eventos_publicados": 2424,
-  "evento_mas_reciente_utc": "2026-11-06T08:14:08.319000+00:00",
+  "evento_mas_reciente_utc": "2026-11-06T09:03:30+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 11,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-06T01:10:11+00:00",
-      "antiguedad_evento_mas_reciente_min": 480.6
+      "antiguedad_evento_mas_reciente_min": 485.6
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2281,
       "eventos_recibidos": 2284,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-06T08:14:08.319000+00:00",
-      "antiguedad_evento_mas_reciente_min": 56.6
+      "evento_mas_reciente_utc": "2026-11-06T09:03:30+00:00",
+      "antiguedad_evento_mas_reciente_min": 12.3
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 508,
-      "eventos_recibidos": 512,
+      "eventos_validos": 507,
+      "eventos_recibidos": 511,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-11-06T08:14:08.319000+00:00",
-      "antiguedad_evento_mas_reciente_min": 56.6
+      "antiguedad_evento_mas_reciente_min": 61.7
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-765"
     },
     "emsc": {
-      "id": "20261106_0000110",
-      "fecha_hora_utc": "2026-11-06T08:14:08.319000+00:00",
-      "magnitud": 4.5,
-      "profundidad_km": 246.5,
-      "latitud": -18.7543,
-      "longitud": 169.2644,
+      "id": "20261106_0000118",
+      "fecha_hora_utc": "2026-11-06T09:03:30+00:00",
+      "magnitud": 3.8,
+      "profundidad_km": 10.0,
+      "latitud": 6.6096,
+      "longitud": -85.1904,
       "pais": "",
-      "ciudad_referencia": "VANUATU",
+      "ciudad_referencia": "OFF COAST OF CENTRAL AMERICA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261106_0000110"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261106_0000118"
     },
     "usgs": {
       "id": "us7000twfu",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-06T09:10:45.120025+00:00"
+    "hora_consulta_utc": "2026-11-06T09:15:48.605822+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-06T09:10:45.120025+00:00",
+  "updated_utc": "2026-11-06T09:15:48.605822+00:00",
   "combined_after_dedup": 2424
 }
