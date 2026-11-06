@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-06T20:30:42.915660+00:00",
+  "actualizado_utc": "2026-11-06T20:35:39.650201+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 76,
   "actualizacion_minutos": 5,
   "igp": 76,
-  "emsc": 2259,
-  "usgs": 492,
-  "duplicados_eliminados": 425,
-  "eventos_publicados": 2402,
-  "evento_mas_reciente_utc": "2026-11-06T20:26:35.717429+00:00",
+  "emsc": 2257,
+  "usgs": 493,
+  "duplicados_eliminados": 426,
+  "eventos_publicados": 2400,
+  "evento_mas_reciente_utc": "2026-11-06T20:26:35.774043+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 12,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-06T18:07:54+00:00",
-      "antiguedad_evento_mas_reciente_min": 142.8
+      "antiguedad_evento_mas_reciente_min": 147.8
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2259,
-      "eventos_recibidos": 2262,
+      "eventos_validos": 2257,
+      "eventos_recibidos": 2260,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-06T20:26:35.717429+00:00",
-      "antiguedad_evento_mas_reciente_min": 4.1
+      "evento_mas_reciente_utc": "2026-11-06T20:26:35.774043+00:00",
+      "antiguedad_evento_mas_reciente_min": 9.1
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 492,
-      "eventos_recibidos": 496,
+      "eventos_validos": 493,
+      "eventos_recibidos": 497,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-06T20:26:35.717000+00:00",
-      "antiguedad_evento_mas_reciente_min": 4.1
+      "evento_mas_reciente_utc": "2026-11-06T20:26:35.774000+00:00",
+      "antiguedad_evento_mas_reciente_min": 9.1
     }
   },
   "ultimo_evento": {
@@ -54,10 +54,10 @@
     },
     "emsc": {
       "id": "20261106_0000249",
-      "fecha_hora_utc": "2026-11-06T20:26:35.717429+00:00",
+      "fecha_hora_utc": "2026-11-06T20:26:35.774043+00:00",
       "magnitud": 3.0,
-      "profundidad_km": 58.5,
-      "latitud": 59.473,
+      "profundidad_km": 57.4,
+      "latitud": 59.472,
       "longitud": -151.891,
       "pais": "",
       "ciudad_referencia": "KENAI PENINSULA, ALASKA",
@@ -66,10 +66,10 @@
     },
     "usgs": {
       "id": "aka2026wahreq",
-      "fecha_hora_utc": "2026-11-06T20:26:35.717000+00:00",
+      "fecha_hora_utc": "2026-11-06T20:26:35.774000+00:00",
       "magnitud": 3.0,
-      "profundidad_km": 58.5,
-      "latitud": 59.473,
+      "profundidad_km": 57.4,
+      "latitud": 59.472,
       "longitud": -151.891,
       "pais": "",
       "ciudad_referencia": "10 km WNW of Seldovia, Alaska",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-06T20:30:42.915660+00:00"
+    "hora_consulta_utc": "2026-11-06T20:35:39.650201+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-06T20:30:42.915660+00:00",
-  "combined_after_dedup": 2402
+  "updated_utc": "2026-11-06T20:35:39.650201+00:00",
+  "combined_after_dedup": 2400
 }
