@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-06T09:30:42.080383+00:00",
+  "actualizado_utc": "2026-11-06T09:35:44.803659+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 75,
   "actualizacion_minutos": 5,
   "igp": 75,
-  "emsc": 2279,
+  "emsc": 2280,
   "usgs": 506,
   "duplicados_eliminados": 438,
-  "eventos_publicados": 2422,
-  "evento_mas_reciente_utc": "2026-11-06T09:03:30+00:00",
+  "eventos_publicados": 2423,
+  "evento_mas_reciente_utc": "2026-11-06T09:29:03+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 11,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-06T01:10:11+00:00",
-      "antiguedad_evento_mas_reciente_min": 500.5
+      "antiguedad_evento_mas_reciente_min": 505.6
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2279,
-      "eventos_recibidos": 2282,
+      "eventos_validos": 2280,
+      "eventos_recibidos": 2283,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-06T09:03:30+00:00",
-      "antiguedad_evento_mas_reciente_min": 27.2
+      "evento_mas_reciente_utc": "2026-11-06T09:29:03+00:00",
+      "antiguedad_evento_mas_reciente_min": 6.7
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 510,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-11-06T08:14:08.319000+00:00",
-      "antiguedad_evento_mas_reciente_min": 76.6
+      "antiguedad_evento_mas_reciente_min": 81.6
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-765"
     },
     "emsc": {
-      "id": "20261106_0000118",
-      "fecha_hora_utc": "2026-11-06T09:03:30+00:00",
-      "magnitud": 3.8,
-      "profundidad_km": 10.0,
-      "latitud": 6.6096,
-      "longitud": -85.1904,
+      "id": "20261106_0000119",
+      "fecha_hora_utc": "2026-11-06T09:29:03+00:00",
+      "magnitud": 4.2,
+      "profundidad_km": 464.0,
+      "latitud": -4.7,
+      "longitud": 125.53,
       "pais": "",
-      "ciudad_referencia": "OFF COAST OF CENTRAL AMERICA",
+      "ciudad_referencia": "BANDA SEA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261106_0000118"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261106_0000119"
     },
     "usgs": {
       "id": "us7000twfu",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-06T09:30:42.080383+00:00"
+    "hora_consulta_utc": "2026-11-06T09:35:44.803659+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-06T09:30:42.080383+00:00",
-  "combined_after_dedup": 2422
+  "updated_utc": "2026-11-06T09:35:44.803659+00:00",
+  "combined_after_dedup": 2423
 }
