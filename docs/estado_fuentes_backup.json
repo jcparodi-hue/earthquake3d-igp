@@ -1,13 +1,13 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-06T14:40:48.983922+00:00",
+  "actualizado_utc": "2026-11-06T14:45:31.566396+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 75,
   "actualizacion_minutos": 5,
   "igp": 75,
-  "emsc": 2274,
-  "usgs": 500,
-  "duplicados_eliminados": 433,
+  "emsc": 2273,
+  "usgs": 498,
+  "duplicados_eliminados": 430,
   "eventos_publicados": 2416,
   "evento_mas_reciente_utc": "2026-11-06T14:27:00+00:00",
   "salud_fuentes": {
@@ -18,25 +18,25 @@
       "eventos_recibidos": 11,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-06T01:10:11+00:00",
-      "antiguedad_evento_mas_reciente_min": 810.6
+      "antiguedad_evento_mas_reciente_min": 815.3
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2274,
-      "eventos_recibidos": 2277,
+      "eventos_validos": 2273,
+      "eventos_recibidos": 2276,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-06T14:27:00+00:00",
-      "antiguedad_evento_mas_reciente_min": 13.8
+      "antiguedad_evento_mas_reciente_min": 18.5
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 500,
-      "eventos_recibidos": 504,
+      "eventos_validos": 498,
+      "eventos_recibidos": 502,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-11-06T11:09:39.456000+00:00",
-      "antiguedad_evento_mas_reciente_min": 211.2
+      "antiguedad_evento_mas_reciente_min": 215.9
     }
   },
   "ultimo_evento": {
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-06T14:40:48.983922+00:00"
+    "hora_consulta_utc": "2026-11-06T14:45:31.566396+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-06T14:40:48.983922+00:00",
+  "updated_utc": "2026-11-06T14:45:31.566396+00:00",
   "combined_after_dedup": 2416
 }
