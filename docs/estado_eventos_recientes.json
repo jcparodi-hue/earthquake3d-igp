@@ -67729,7 +67729,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-765",
     "fecha_primera_recepcion": "2026-11-06T03:40:41.594580+00:00",
-    "fecha_ultima_observacion": "2026-11-06T04:20:46.312360+00:00"
+    "fecha_ultima_observacion": "2026-11-06T04:25:44.445223+00:00"
   },
   "EMSC:20261106_0000052": {
     "id": "20261106_0000052",
@@ -67799,6 +67799,20 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twey",
     "fecha_primera_recepcion": "2026-11-06T04:10:47.767789+00:00",
-    "fecha_ultima_observacion": "2026-11-06T04:20:46.312360+00:00"
+    "fecha_ultima_observacion": "2026-11-06T04:25:44.445223+00:00"
+  },
+  "EMSC:20261106_0000065": {
+    "id": "20261106_0000065",
+    "fecha_hora_utc": "2026-11-06T04:13:16+00:00",
+    "magnitud": 4.3,
+    "profundidad_km": 442.0,
+    "latitud": 2.19,
+    "longitud": 122.83,
+    "pais": "",
+    "ciudad_referencia": "CELEBES SEA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261106_0000065",
+    "fecha_primera_recepcion": "2026-11-06T04:25:44.445223+00:00",
+    "fecha_ultima_observacion": "2026-11-06T04:25:44.445223+00:00"
   }
 }
