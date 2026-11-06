@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-06T08:30:42.514857+00:00",
+  "actualizado_utc": "2026-11-06T08:35:44.324396+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 75,
   "actualizacion_minutos": 5,
   "igp": 75,
   "emsc": 2288,
-  "usgs": 509,
-  "duplicados_eliminados": 441,
+  "usgs": 510,
+  "duplicados_eliminados": 442,
   "eventos_publicados": 2431,
-  "evento_mas_reciente_utc": "2026-11-06T08:09:03+00:00",
+  "evento_mas_reciente_utc": "2026-11-06T08:14:08.319000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 11,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-06T01:10:11+00:00",
-      "antiguedad_evento_mas_reciente_min": 440.5
+      "antiguedad_evento_mas_reciente_min": 445.6
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2288,
       "eventos_recibidos": 2291,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-06T08:09:03+00:00",
-      "antiguedad_evento_mas_reciente_min": 21.7
+      "evento_mas_reciente_utc": "2026-11-06T08:14:08.319000+00:00",
+      "antiguedad_evento_mas_reciente_min": 21.6
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 509,
-      "eventos_recibidos": 513,
+      "eventos_validos": 510,
+      "eventos_recibidos": 514,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-06T06:44:09.190000+00:00",
-      "antiguedad_evento_mas_reciente_min": 106.6
+      "evento_mas_reciente_utc": "2026-11-06T08:14:08.319000+00:00",
+      "antiguedad_evento_mas_reciente_min": 21.6
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-765"
     },
     "emsc": {
-      "id": "20261106_0000108",
-      "fecha_hora_utc": "2026-11-06T08:09:03+00:00",
-      "magnitud": 3.8,
-      "profundidad_km": 10.0,
-      "latitud": 19.0238,
-      "longitud": 79.8622,
+      "id": "20261106_0000110",
+      "fecha_hora_utc": "2026-11-06T08:14:08.319000+00:00",
+      "magnitud": 4.5,
+      "profundidad_km": 246.5,
+      "latitud": -18.7543,
+      "longitud": 169.2644,
       "pais": "",
-      "ciudad_referencia": "MAHARASHTRA-ANDH. PRADESH, INDIA",
+      "ciudad_referencia": "VANUATU",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261106_0000108"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261106_0000110"
     },
     "usgs": {
-      "id": "ci41359103",
-      "fecha_hora_utc": "2026-11-06T06:44:09.190000+00:00",
-      "magnitud": 2.57,
-      "profundidad_km": 5.29,
-      "latitud": 33.407,
-      "longitud": -116.654333333333,
+      "id": "us7000twfu",
+      "fecha_hora_utc": "2026-11-06T08:14:08.319000+00:00",
+      "magnitud": 4.5,
+      "profundidad_km": 246.521,
+      "latitud": -18.7543,
+      "longitud": 169.2644,
       "pais": "",
-      "ciudad_referencia": "14 km N of Warner Springs, CA",
+      "ciudad_referencia": "87 km N of Isangel, Vanuatu",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41359103"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twfu"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-06T08:30:42.514857+00:00"
+    "hora_consulta_utc": "2026-11-06T08:35:44.324396+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-06T08:30:42.514857+00:00",
+  "updated_utc": "2026-11-06T08:35:44.324396+00:00",
   "combined_after_dedup": 2431
 }
