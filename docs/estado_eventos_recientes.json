@@ -68653,7 +68653,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-766",
     "fecha_primera_recepcion": "2026-11-06T18:20:34.488097+00:00",
-    "fecha_ultima_observacion": "2026-11-06T22:45:48.582871+00:00"
+    "fecha_ultima_observacion": "2026-11-06T22:50:32.905451+00:00"
   },
   "EMSC:20261106_0000224": {
     "id": "20261106_0000224",
@@ -68937,17 +68937,17 @@
   },
   "USGS:hv75068057": {
     "id": "hv75068057",
-    "fecha_hora_utc": "2026-11-06T22:08:38.930000+00:00",
-    "magnitud": 3.03,
-    "profundidad_km": 13.289999961853,
-    "latitud": 19.742166519165,
-    "longitud": -155.936492919922,
+    "fecha_hora_utc": "2026-11-06T22:08:38.790000+00:00",
+    "magnitud": 2.9,
+    "profundidad_km": 13.91,
+    "latitud": 19.7556666666667,
+    "longitud": -155.9415,
     "pais": "",
-    "ciudad_referencia": "4 km ENE of Kalaoa, Hawaii",
+    "ciudad_referencia": "5 km NE of Kalaoa, Hawaii",
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068057",
     "fecha_primera_recepcion": "2026-11-06T22:15:48.238696+00:00",
-    "fecha_ultima_observacion": "2026-11-06T22:45:48.582871+00:00"
+    "fecha_ultima_observacion": "2026-11-06T22:50:32.905451+00:00"
   },
   "EMSC:20261106_0000271": {
     "id": "20261106_0000271",
@@ -68975,6 +68975,6 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261106_0000276",
     "fecha_primera_recepcion": "2026-11-06T22:45:48.582871+00:00",
-    "fecha_ultima_observacion": "2026-11-06T22:45:48.582871+00:00"
+    "fecha_ultima_observacion": "2026-11-06T22:50:32.905451+00:00"
   }
 }

@@ -1,14 +1,14 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-06T22:45:48.582871+00:00",
+  "actualizado_utc": "2026-11-06T22:50:32.905451+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 76,
   "actualizacion_minutos": 5,
   "igp": 76,
-  "emsc": 2240,
+  "emsc": 2239,
   "usgs": 491,
   "duplicados_eliminados": 424,
-  "eventos_publicados": 2383,
+  "eventos_publicados": 2382,
   "evento_mas_reciente_utc": "2026-11-06T22:25:19+00:00",
   "salud_fuentes": {
     "igp": {
@@ -18,16 +18,16 @@
       "eventos_recibidos": 12,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-06T18:07:54+00:00",
-      "antiguedad_evento_mas_reciente_min": 277.9
+      "antiguedad_evento_mas_reciente_min": 282.6
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2240,
-      "eventos_recibidos": 2243,
+      "eventos_validos": 2239,
+      "eventos_recibidos": 2242,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-06T22:25:19+00:00",
-      "antiguedad_evento_mas_reciente_min": 20.5
+      "antiguedad_evento_mas_reciente_min": 25.2
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -35,8 +35,8 @@
       "eventos_validos": 491,
       "eventos_recibidos": 495,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-06T22:08:38.930000+00:00",
-      "antiguedad_evento_mas_reciente_min": 37.2
+      "evento_mas_reciente_utc": "2026-11-06T22:08:38.790000+00:00",
+      "antiguedad_evento_mas_reciente_min": 41.9
     }
   },
   "ultimo_evento": {
@@ -66,13 +66,13 @@
     },
     "usgs": {
       "id": "hv75068057",
-      "fecha_hora_utc": "2026-11-06T22:08:38.930000+00:00",
-      "magnitud": 3.03,
-      "profundidad_km": 13.289999961853,
-      "latitud": 19.742166519165,
-      "longitud": -155.936492919922,
+      "fecha_hora_utc": "2026-11-06T22:08:38.790000+00:00",
+      "magnitud": 2.9,
+      "profundidad_km": 13.91,
+      "latitud": 19.7556666666667,
+      "longitud": -155.9415,
       "pais": "",
-      "ciudad_referencia": "4 km ENE of Kalaoa, Hawaii",
+      "ciudad_referencia": "5 km NE of Kalaoa, Hawaii",
       "fuente": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068057"
     }
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-06T22:45:48.582871+00:00"
+    "hora_consulta_utc": "2026-11-06T22:50:32.905451+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-06T22:45:48.582871+00:00",
-  "combined_after_dedup": 2383
+  "updated_utc": "2026-11-06T22:50:32.905451+00:00",
+  "combined_after_dedup": 2382
 }
