@@ -67729,7 +67729,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-765",
     "fecha_primera_recepcion": "2026-11-06T03:40:41.594580+00:00",
-    "fecha_ultima_observacion": "2026-11-06T04:35:39.226484+00:00"
+    "fecha_ultima_observacion": "2026-11-06T04:40:39.743262+00:00"
   },
   "EMSC:20261106_0000052": {
     "id": "20261106_0000052",
@@ -67827,6 +67827,20 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twf2",
     "fecha_primera_recepcion": "2026-11-06T04:30:42.439175+00:00",
-    "fecha_ultima_observacion": "2026-11-06T04:35:39.226484+00:00"
+    "fecha_ultima_observacion": "2026-11-06T04:40:39.743262+00:00"
+  },
+  "EMSC:20261106_0000068": {
+    "id": "20261106_0000068",
+    "fecha_hora_utc": "2026-11-06T04:33:20+00:00",
+    "magnitud": 2.8,
+    "profundidad_km": 165.9,
+    "latitud": -23.97,
+    "longitud": -67.23,
+    "pais": "",
+    "ciudad_referencia": "SALTA, ARGENTINA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261106_0000068",
+    "fecha_primera_recepcion": "2026-11-06T04:40:39.743262+00:00",
+    "fecha_ultima_observacion": "2026-11-06T04:40:39.743262+00:00"
   }
 }
