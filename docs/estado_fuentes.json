@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-06T00:35:41.762874+00:00",
+  "actualizado_utc": "2026-11-06T00:40:46.740091+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 74,
   "actualizacion_minutos": 5,
   "igp": 74,
   "emsc": 2274,
-  "usgs": 499,
-  "duplicados_eliminados": 434,
+  "usgs": 500,
+  "duplicados_eliminados": 435,
   "eventos_publicados": 2413,
-  "evento_mas_reciente_utc": "2026-11-06T00:06:30+00:00",
+  "evento_mas_reciente_utc": "2026-11-06T00:30:43+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 11,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-04T04:15:52+00:00",
-      "antiguedad_evento_mas_reciente_min": 2659.8
+      "antiguedad_evento_mas_reciente_min": 2664.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2274,
       "eventos_recibidos": 2277,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-06T00:06:30+00:00",
-      "antiguedad_evento_mas_reciente_min": 29.2
+      "evento_mas_reciente_utc": "2026-11-06T00:30:43+00:00",
+      "antiguedad_evento_mas_reciente_min": 10.1
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 499,
-      "eventos_recibidos": 503,
+      "eventos_validos": 500,
+      "eventos_recibidos": 504,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-05T23:29:25.325000+00:00",
-      "antiguedad_evento_mas_reciente_min": 66.3
+      "evento_mas_reciente_utc": "2026-11-06T00:02:25.016000+00:00",
+      "antiguedad_evento_mas_reciente_min": 38.4
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-764"
     },
     "emsc": {
-      "id": "20261106_0000002",
-      "fecha_hora_utc": "2026-11-06T00:06:30+00:00",
-      "magnitud": 3.7,
-      "profundidad_km": 140.0,
-      "latitud": 35.2,
-      "longitud": 139.5,
+      "id": "20261106_0000005",
+      "fecha_hora_utc": "2026-11-06T00:30:43+00:00",
+      "magnitud": 2.8,
+      "profundidad_km": 10.0,
+      "latitud": 7.4872,
+      "longitud": -83.5283,
       "pais": "",
-      "ciudad_referencia": "NEAR S. COAST OF HONSHU, JAPAN",
+      "ciudad_referencia": "OFF COAST OF COSTA RICA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261106_0000002"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261106_0000005"
     },
     "usgs": {
-      "id": "aka2026vyrtad",
-      "fecha_hora_utc": "2026-11-05T23:29:25.325000+00:00",
-      "magnitud": 3.5,
-      "profundidad_km": 11.9,
-      "latitud": 53.585,
-      "longitud": -162.834,
+      "id": "us7000twdd",
+      "fecha_hora_utc": "2026-11-06T00:02:25.016000+00:00",
+      "magnitud": 4.6,
+      "profundidad_km": 97.804,
+      "latitud": -5.9168,
+      "longitud": 146.6624,
       "pais": "",
-      "ciudad_referencia": "146 km SSE of False Pass, Alaska",
+      "ciudad_referencia": "96 km NNW of Lae, Papua New Guinea",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vyrtad"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twdd"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-06T00:35:41.762874+00:00"
+    "hora_consulta_utc": "2026-11-06T00:40:46.740091+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-06T00:35:41.762874+00:00",
+  "updated_utc": "2026-11-06T00:40:46.740091+00:00",
   "combined_after_dedup": 2413
 }
