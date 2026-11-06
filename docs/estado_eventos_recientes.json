@@ -64705,7 +64705,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-764",
     "fecha_primera_recepcion": "2026-11-04T09:50:52.640757+00:00",
-    "fecha_ultima_observacion": "2026-11-06T02:25:36.437977+00:00"
+    "fecha_ultima_observacion": "2026-11-06T02:30:34.033828+00:00"
   },
   "EMSC:20261104_0000113": {
     "id": "20261104_0000113",
@@ -67575,7 +67575,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tweb",
     "fecha_primera_recepcion": "2026-11-06T01:55:37.043596+00:00",
-    "fecha_ultima_observacion": "2026-11-06T02:25:36.437977+00:00"
+    "fecha_ultima_observacion": "2026-11-06T02:30:34.033828+00:00"
   },
   "EMSC:20261106_0000036": {
     "id": "20261106_0000036",
@@ -67604,5 +67604,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261106_0000037",
     "fecha_primera_recepcion": "2026-11-06T02:25:36.437977+00:00",
     "fecha_ultima_observacion": "2026-11-06T02:25:36.437977+00:00"
+  },
+  "EMSC:20261106_0000038": {
+    "id": "20261106_0000038",
+    "fecha_hora_utc": "2026-11-06T02:24:53.820363+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 161.5,
+    "latitud": -36.9707,
+    "longitud": 177.7561,
+    "pais": "",
+    "ciudad_referencia": "OFF E. COAST OF N. ISLAND, N.Z.",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261106_0000038",
+    "fecha_primera_recepcion": "2026-11-06T02:30:34.033828+00:00",
+    "fecha_ultima_observacion": "2026-11-06T02:30:34.033828+00:00"
   }
 }
