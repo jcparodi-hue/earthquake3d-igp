@@ -67729,7 +67729,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-765",
     "fecha_primera_recepcion": "2026-11-06T03:40:41.594580+00:00",
-    "fecha_ultima_observacion": "2026-11-06T06:45:50.125623+00:00"
+    "fecha_ultima_observacion": "2026-11-06T06:50:39.079914+00:00"
   },
   "EMSC:20261106_0000052": {
     "id": "20261106_0000052",
@@ -67940,5 +67940,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261106_0000095",
     "fecha_primera_recepcion": "2026-11-06T06:45:50.125623+00:00",
     "fecha_ultima_observacion": "2026-11-06T06:45:50.125623+00:00"
+  },
+  "EMSC:20261106_0000096": {
+    "id": "20261106_0000096",
+    "fecha_hora_utc": "2026-11-06T06:44:09.190000+00:00",
+    "magnitud": 2.6,
+    "profundidad_km": 5.3,
+    "latitud": 33.407,
+    "longitud": -116.6543,
+    "pais": "",
+    "ciudad_referencia": "SOUTHERN CALIFORNIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261106_0000096",
+    "fecha_primera_recepcion": "2026-11-06T06:50:39.079914+00:00",
+    "fecha_ultima_observacion": "2026-11-06T06:50:39.079914+00:00"
+  },
+  "USGS:ci41359103": {
+    "id": "ci41359103",
+    "fecha_hora_utc": "2026-11-06T06:44:09.190000+00:00",
+    "magnitud": 2.57,
+    "profundidad_km": 5.29,
+    "latitud": 33.407,
+    "longitud": -116.654333333333,
+    "pais": "",
+    "ciudad_referencia": "14 km N of Warner Springs, CA",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41359103",
+    "fecha_primera_recepcion": "2026-11-06T06:50:39.079914+00:00",
+    "fecha_ultima_observacion": "2026-11-06T06:50:39.079914+00:00"
   }
 }
