@@ -68653,7 +68653,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-766",
     "fecha_primera_recepcion": "2026-11-06T18:20:34.488097+00:00",
-    "fecha_ultima_observacion": "2026-11-06T19:40:31.671557+00:00"
+    "fecha_ultima_observacion": "2026-11-06T19:45:47.014239+00:00"
   },
   "EMSC:20261106_0000224": {
     "id": "20261106_0000224",
@@ -68752,5 +68752,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261106_0000240",
     "fecha_primera_recepcion": "2026-11-06T19:30:50.163913+00:00",
     "fecha_ultima_observacion": "2026-11-06T19:40:31.671557+00:00"
+  },
+  "EMSC:20261106_0000244": {
+    "id": "20261106_0000244",
+    "fecha_hora_utc": "2026-11-06T19:38:54+00:00",
+    "magnitud": 2.8,
+    "profundidad_km": 102.1,
+    "latitud": -21.81,
+    "longitud": -68.71,
+    "pais": "",
+    "ciudad_referencia": "ANTOFAGASTA, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261106_0000244",
+    "fecha_primera_recepcion": "2026-11-06T19:45:47.014239+00:00",
+    "fecha_ultima_observacion": "2026-11-06T19:45:47.014239+00:00"
+  },
+  "USGS:aka2026wagewp": {
+    "id": "aka2026wagewp",
+    "fecha_hora_utc": "2026-11-06T19:42:28.122000+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 72.9,
+    "latitud": 57.087,
+    "longitud": -156.098,
+    "pais": "",
+    "ciudad_referencia": "91 km ESE of Ugashik, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wagewp",
+    "fecha_primera_recepcion": "2026-11-06T19:45:47.014239+00:00",
+    "fecha_ultima_observacion": "2026-11-06T19:45:47.014239+00:00"
   }
 }
