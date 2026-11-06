@@ -64705,7 +64705,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-764",
     "fecha_primera_recepcion": "2026-11-04T09:50:52.640757+00:00",
-    "fecha_ultima_observacion": "2026-11-06T02:20:45.814397+00:00"
+    "fecha_ultima_observacion": "2026-11-06T02:25:36.437977+00:00"
   },
   "EMSC:20261104_0000113": {
     "id": "20261104_0000113",
@@ -67575,7 +67575,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tweb",
     "fecha_primera_recepcion": "2026-11-06T01:55:37.043596+00:00",
-    "fecha_ultima_observacion": "2026-11-06T02:20:45.814397+00:00"
+    "fecha_ultima_observacion": "2026-11-06T02:25:36.437977+00:00"
   },
   "EMSC:20261106_0000036": {
     "id": "20261106_0000036",
@@ -67590,5 +67590,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261106_0000036",
     "fecha_primera_recepcion": "2026-11-06T02:15:44.897843+00:00",
     "fecha_ultima_observacion": "2026-11-06T02:20:45.814397+00:00"
+  },
+  "EMSC:20261106_0000037": {
+    "id": "20261106_0000037",
+    "fecha_hora_utc": "2026-11-06T02:11:26+00:00",
+    "magnitud": 3.4,
+    "profundidad_km": 10.0,
+    "latitud": 32.4,
+    "longitud": 93.78,
+    "pais": "",
+    "ciudad_referencia": "XIZANG-QINGHAI BORDER REGION",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261106_0000037",
+    "fecha_primera_recepcion": "2026-11-06T02:25:36.437977+00:00",
+    "fecha_ultima_observacion": "2026-11-06T02:25:36.437977+00:00"
   }
 }
