@@ -67729,7 +67729,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-765",
     "fecha_primera_recepcion": "2026-11-06T03:40:41.594580+00:00",
-    "fecha_ultima_observacion": "2026-11-06T11:30:36.536749+00:00"
+    "fecha_ultima_observacion": "2026-11-06T11:35:32.537834+00:00"
   },
   "EMSC:20261106_0000052": {
     "id": "20261106_0000052",
@@ -68261,6 +68261,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261106_0000142",
     "fecha_primera_recepcion": "2026-11-06T11:30:36.536749+00:00",
-    "fecha_ultima_observacion": "2026-11-06T11:30:36.536749+00:00"
+    "fecha_ultima_observacion": "2026-11-06T11:35:32.537834+00:00"
+  },
+  "USGS:pr71538608": {
+    "id": "pr71538608",
+    "fecha_hora_utc": "2026-11-06T10:59:41.730000+00:00",
+    "magnitud": 3.15,
+    "profundidad_km": 60.24,
+    "latitud": 18.8921666666667,
+    "longitud": -65.4766666666667,
+    "pais": "",
+    "ciudad_referencia": "62 km NNE of Luquillo, Puerto Rico",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538608",
+    "fecha_primera_recepcion": "2026-11-06T11:35:32.537834+00:00",
+    "fecha_ultima_observacion": "2026-11-06T11:35:32.537834+00:00"
   }
 }
