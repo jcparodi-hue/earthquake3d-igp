@@ -68653,7 +68653,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-766",
     "fecha_primera_recepcion": "2026-11-06T18:20:34.488097+00:00",
-    "fecha_ultima_observacion": "2026-11-07T08:45:49.089306+00:00"
+    "fecha_ultima_observacion": "2026-11-07T08:50:31.482703+00:00"
   },
   "EMSC:20261106_0000224": {
     "id": "20261106_0000224",
@@ -69564,5 +69564,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261107_0000084",
     "fecha_primera_recepcion": "2026-11-07T08:40:31.889370+00:00",
     "fecha_ultima_observacion": "2026-11-07T08:45:49.089306+00:00"
+  },
+  "EMSC:20261107_0000089": {
+    "id": "20261107_0000089",
+    "fecha_hora_utc": "2026-11-07T08:40:51+00:00",
+    "magnitud": 3.2,
+    "profundidad_km": 275.8,
+    "latitud": -22.64,
+    "longitud": -66.74,
+    "pais": "",
+    "ciudad_referencia": "JUJUY, ARGENTINA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261107_0000089",
+    "fecha_primera_recepcion": "2026-11-07T08:50:31.482703+00:00",
+    "fecha_ultima_observacion": "2026-11-07T08:50:31.482703+00:00"
+  },
+  "USGS:us7000twr6": {
+    "id": "us7000twr6",
+    "fecha_hora_utc": "2026-11-07T08:40:50.536000+00:00",
+    "magnitud": 2.7,
+    "profundidad_km": 52.669,
+    "latitud": 18.7302,
+    "longitud": -65.48,
+    "pais": "",
+    "ciudad_referencia": "46 km NNE of Luquillo, Puerto Rico",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twr6",
+    "fecha_primera_recepcion": "2026-11-07T08:50:31.482703+00:00",
+    "fecha_ultima_observacion": "2026-11-07T08:50:31.482703+00:00"
   }
 }
