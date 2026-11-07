@@ -68653,7 +68653,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-766",
     "fecha_primera_recepcion": "2026-11-06T18:20:34.488097+00:00",
-    "fecha_ultima_observacion": "2026-11-07T02:40:30.532227+00:00"
+    "fecha_ultima_observacion": "2026-11-07T02:45:41.293458+00:00"
   },
   "EMSC:20261106_0000224": {
     "id": "20261106_0000224",
@@ -69171,6 +69171,20 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026watjic",
     "fecha_primera_recepcion": "2026-11-07T02:25:43.028990+00:00",
-    "fecha_ultima_observacion": "2026-11-07T02:40:30.532227+00:00"
+    "fecha_ultima_observacion": "2026-11-07T02:45:41.293458+00:00"
+  },
+  "EMSC:20261107_0000025": {
+    "id": "20261107_0000025",
+    "fecha_hora_utc": "2026-11-07T02:34:25+00:00",
+    "magnitud": 3.8,
+    "profundidad_km": 110.0,
+    "latitud": -29.71,
+    "longitud": -68.95,
+    "pais": "",
+    "ciudad_referencia": "SAN JUAN, ARGENTINA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261107_0000025",
+    "fecha_primera_recepcion": "2026-11-07T02:45:41.293458+00:00",
+    "fecha_ultima_observacion": "2026-11-07T02:45:41.293458+00:00"
   }
 }
