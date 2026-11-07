@@ -1,14 +1,14 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-07T18:55:46.242804+00:00",
+  "actualizado_utc": "2026-11-07T19:00:52.741626+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 78,
   "actualizacion_minutos": 5,
   "igp": 78,
-  "emsc": 2185,
+  "emsc": 2183,
   "usgs": 467,
   "duplicados_eliminados": 402,
-  "eventos_publicados": 2328,
+  "eventos_publicados": 2326,
   "evento_mas_reciente_utc": "2026-11-07T18:44:59+00:00",
   "salud_fuentes": {
     "igp": {
@@ -18,16 +18,16 @@
       "eventos_recibidos": 12,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-07T07:27:16+00:00",
-      "antiguedad_evento_mas_reciente_min": 688.5
+      "antiguedad_evento_mas_reciente_min": 693.6
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2185,
-      "eventos_recibidos": 2189,
+      "eventos_validos": 2183,
+      "eventos_recibidos": 2187,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-11-07T18:44:59+00:00",
-      "antiguedad_evento_mas_reciente_min": 10.8
+      "antiguedad_evento_mas_reciente_min": 15.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -35,8 +35,8 @@
       "eventos_validos": 467,
       "eventos_recibidos": 472,
       "invalidos_rechazados": 5,
-      "evento_mas_reciente_utc": "2026-11-07T18:10:56.180000+00:00",
-      "antiguedad_evento_mas_reciente_min": 44.8
+      "evento_mas_reciente_utc": "2026-11-07T18:10:56.160000+00:00",
+      "antiguedad_evento_mas_reciente_min": 49.9
     }
   },
   "ultimo_evento": {
@@ -66,11 +66,11 @@
     },
     "usgs": {
       "id": "uu80163521",
-      "fecha_hora_utc": "2026-11-07T18:10:56.180000+00:00",
-      "magnitud": 3.11,
-      "profundidad_km": 3.67,
-      "latitud": 38.4775,
-      "longitud": -112.8895,
+      "fecha_hora_utc": "2026-11-07T18:10:56.160000+00:00",
+      "magnitud": 3.12,
+      "profundidad_km": 3.5,
+      "latitud": 38.4783333333333,
+      "longitud": -112.895166666667,
       "pais": "",
       "ciudad_referencia": "13 km NE of Milford, Utah",
       "fuente": "USGS",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-07T18:55:46.242804+00:00"
+    "hora_consulta_utc": "2026-11-07T19:00:52.741626+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-07T18:55:46.242804+00:00",
-  "combined_after_dedup": 2328
+  "updated_utc": "2026-11-07T19:00:52.741626+00:00",
+  "combined_after_dedup": 2326
 }
