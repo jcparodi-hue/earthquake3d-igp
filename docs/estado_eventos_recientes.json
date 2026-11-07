@@ -68653,7 +68653,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-766",
     "fecha_primera_recepcion": "2026-11-06T18:20:34.488097+00:00",
-    "fecha_ultima_observacion": "2026-11-07T01:34:23.472242+00:00"
+    "fecha_ultima_observacion": "2026-11-07T01:35:34.205736+00:00"
   },
   "EMSC:20261106_0000224": {
     "id": "20261106_0000224",
@@ -69074,5 +69074,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261107_0000006",
     "fecha_primera_recepcion": "2026-11-07T00:40:39.325187+00:00",
     "fecha_ultima_observacion": "2026-11-07T01:34:23.472242+00:00"
+  },
+  "EMSC:20261107_0000014": {
+    "id": "20261107_0000014",
+    "fecha_hora_utc": "2026-11-07T01:18:03.617000+00:00",
+    "magnitud": 2.7,
+    "profundidad_km": 5.0,
+    "latitud": 43.275,
+    "longitud": -110.7175,
+    "pais": "",
+    "ciudad_referencia": "WYOMING",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261107_0000014",
+    "fecha_primera_recepcion": "2026-11-07T01:35:34.205736+00:00",
+    "fecha_ultima_observacion": "2026-11-07T01:35:34.205736+00:00"
+  },
+  "USGS:us7000twpl": {
+    "id": "us7000twpl",
+    "fecha_hora_utc": "2026-11-07T01:18:03.617000+00:00",
+    "magnitud": 2.7,
+    "profundidad_km": 5.0,
+    "latitud": 43.275,
+    "longitud": -110.7175,
+    "pais": "",
+    "ciudad_referencia": "5 km E of Hoback, Wyoming",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twpl",
+    "fecha_primera_recepcion": "2026-11-07T01:35:34.205736+00:00",
+    "fecha_ultima_observacion": "2026-11-07T01:35:34.205736+00:00"
   }
 }
