@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-07T11:15:31.463358+00:00",
+  "actualizado_utc": "2026-11-07T11:20:38.933812+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 78,
   "actualizacion_minutos": 5,
@@ -9,7 +9,7 @@
   "usgs": 478,
   "duplicados_eliminados": 409,
   "eventos_publicados": 2331,
-  "evento_mas_reciente_utc": "2026-11-07T11:07:44.340000+00:00",
+  "evento_mas_reciente_utc": "2026-11-07T11:07:41.090000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 13,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-07T07:27:16+00:00",
-      "antiguedad_evento_mas_reciente_min": 228.3
+      "antiguedad_evento_mas_reciente_min": 233.4
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,8 +26,8 @@
       "eventos_validos": 2184,
       "eventos_recibidos": 2188,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-07T11:07:44.340000+00:00",
-      "antiguedad_evento_mas_reciente_min": 7.8
+      "evento_mas_reciente_utc": "2026-11-07T11:07:41.090000+00:00",
+      "antiguedad_evento_mas_reciente_min": 13.0
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 483,
       "invalidos_rechazados": 5,
       "evento_mas_reciente_utc": "2026-11-07T08:40:51+00:00",
-      "antiguedad_evento_mas_reciente_min": 154.7
+      "antiguedad_evento_mas_reciente_min": 159.8
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261107_0000118",
-      "fecha_hora_utc": "2026-11-07T11:07:44.340000+00:00",
-      "magnitud": 5.7,
-      "profundidad_km": 41.0,
-      "latitud": 36.2821,
-      "longitud": 141.4313,
+      "fecha_hora_utc": "2026-11-07T11:07:41.090000+00:00",
+      "magnitud": 5.5,
+      "profundidad_km": 10.0,
+      "latitud": 36.211,
+      "longitud": 141.44,
       "pais": "",
       "ciudad_referencia": "NEAR EAST COAST OF HONSHU, JAPAN",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-07T11:15:31.463358+00:00"
+    "hora_consulta_utc": "2026-11-07T11:20:38.933812+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-07T11:15:31.463358+00:00",
+  "updated_utc": "2026-11-07T11:20:38.933812+00:00",
   "combined_after_dedup": 2331
 }
