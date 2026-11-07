@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-07T06:10:51.395894+00:00",
+  "actualizado_utc": "2026-11-07T06:15:47.271024+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 76,
   "actualizacion_minutos": 5,
   "igp": 76,
-  "emsc": 2218,
-  "usgs": 479,
-  "duplicados_eliminados": 409,
-  "eventos_publicados": 2364,
-  "evento_mas_reciente_utc": "2026-11-07T05:36:54+00:00",
+  "emsc": 2217,
+  "usgs": 478,
+  "duplicados_eliminados": 408,
+  "eventos_publicados": 2363,
+  "evento_mas_reciente_utc": "2026-11-07T06:02:26+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 11,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-06T18:07:54+00:00",
-      "antiguedad_evento_mas_reciente_min": 723.0
+      "antiguedad_evento_mas_reciente_min": 727.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2218,
-      "eventos_recibidos": 2222,
+      "eventos_validos": 2217,
+      "eventos_recibidos": 2221,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-07T05:36:54+00:00",
-      "antiguedad_evento_mas_reciente_min": 34.0
+      "evento_mas_reciente_utc": "2026-11-07T06:02:26+00:00",
+      "antiguedad_evento_mas_reciente_min": 13.4
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 479,
-      "eventos_recibidos": 484,
+      "eventos_validos": 478,
+      "eventos_recibidos": 483,
       "invalidos_rechazados": 5,
       "evento_mas_reciente_utc": "2026-11-07T04:34:32.802000+00:00",
-      "antiguedad_evento_mas_reciente_min": 96.3
+      "antiguedad_evento_mas_reciente_min": 101.2
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-766"
     },
     "emsc": {
-      "id": "20261107_0000058",
-      "fecha_hora_utc": "2026-11-07T05:36:54+00:00",
-      "magnitud": 4.6,
-      "profundidad_km": 143.0,
-      "latitud": -10.01,
-      "longitud": -75.84,
+      "id": "20261107_0000060",
+      "fecha_hora_utc": "2026-11-07T06:02:26+00:00",
+      "magnitud": 3.1,
+      "profundidad_km": 10.0,
+      "latitud": 21.219,
+      "longitud": 96.12,
       "pais": "",
-      "ciudad_referencia": "CENTRAL PERU",
+      "ciudad_referencia": "MYANMAR",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261107_0000058"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261107_0000060"
     },
     "usgs": {
       "id": "aka2026waxyfq",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-07T06:10:51.395894+00:00"
+    "hora_consulta_utc": "2026-11-07T06:15:47.271024+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-07T06:10:51.395894+00:00",
-  "combined_after_dedup": 2364
+  "updated_utc": "2026-11-07T06:15:47.271024+00:00",
+  "combined_after_dedup": 2363
 }
