@@ -1,42 +1,42 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-07T01:35:34.205736+00:00",
+  "actualizado_utc": "2026-11-07T01:40:46.362349+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 76,
   "actualizacion_minutos": 5,
   "igp": 76,
-  "emsc": 2211,
-  "usgs": 484,
-  "duplicados_eliminados": 416,
+  "emsc": 2210,
+  "usgs": 483,
+  "duplicados_eliminados": 414,
   "eventos_publicados": 2355,
-  "evento_mas_reciente_utc": "2026-11-07T01:18:03.617000+00:00",
+  "evento_mas_reciente_utc": "2026-11-07T01:20:19+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
       "eventos_validos": 76,
-      "eventos_recibidos": 12,
+      "eventos_recibidos": 11,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-06T18:07:54+00:00",
-      "antiguedad_evento_mas_reciente_min": 447.7
+      "antiguedad_evento_mas_reciente_min": 452.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2211,
-      "eventos_recibidos": 2215,
+      "eventos_validos": 2210,
+      "eventos_recibidos": 2214,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-07T01:18:03.617000+00:00",
-      "antiguedad_evento_mas_reciente_min": 17.5
+      "evento_mas_reciente_utc": "2026-11-07T01:20:19+00:00",
+      "antiguedad_evento_mas_reciente_min": 20.5
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 484,
-      "eventos_recibidos": 489,
+      "eventos_validos": 483,
+      "eventos_recibidos": 488,
       "invalidos_rechazados": 5,
       "evento_mas_reciente_utc": "2026-11-07T01:18:03.617000+00:00",
-      "antiguedad_evento_mas_reciente_min": 17.5
+      "antiguedad_evento_mas_reciente_min": 22.7
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-766"
     },
     "emsc": {
-      "id": "20261107_0000014",
-      "fecha_hora_utc": "2026-11-07T01:18:03.617000+00:00",
-      "magnitud": 2.7,
-      "profundidad_km": 5.0,
-      "latitud": 43.275,
-      "longitud": -110.7175,
+      "id": "20261107_0000015",
+      "fecha_hora_utc": "2026-11-07T01:20:19+00:00",
+      "magnitud": 3.4,
+      "profundidad_km": 10.0,
+      "latitud": 12.13,
+      "longitud": 123.89,
       "pais": "",
-      "ciudad_referencia": "WYOMING",
+      "ciudad_referencia": "MASBATE REGION, PHILIPPINES",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261107_0000014"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261107_0000015"
     },
     "usgs": {
       "id": "us7000twpl",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-07T01:35:34.205736+00:00"
+    "hora_consulta_utc": "2026-11-07T01:40:46.362349+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-07T01:35:34.205736+00:00",
+  "updated_utc": "2026-11-07T01:40:46.362349+00:00",
   "combined_after_dedup": 2355
 }
