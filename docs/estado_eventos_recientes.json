@@ -69619,7 +69619,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-768",
     "fecha_primera_recepcion": "2026-11-07T09:30:56.745538+00:00",
-    "fecha_ultima_observacion": "2026-11-07T23:40:40.225030+00:00"
+    "fecha_ultima_observacion": "2026-11-07T23:45:32.748398+00:00"
   },
   "EMSC:20261107_0000101": {
     "id": "20261107_0000101",
@@ -70796,5 +70796,33 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twun",
     "fecha_primera_recepcion": "2026-11-07T23:40:40.225030+00:00",
     "fecha_ultima_observacion": "2026-11-07T23:40:40.225030+00:00"
+  },
+  "EMSC:20261107_0000292": {
+    "id": "20261107_0000292",
+    "fecha_hora_utc": "2026-11-07T23:27:09.444000+00:00",
+    "magnitud": 5.1,
+    "profundidad_km": 10.0,
+    "latitud": -15.6837,
+    "longitud": -172.9847,
+    "pais": "",
+    "ciudad_referencia": "SAMOA ISLANDS REGION",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261107_0000292",
+    "fecha_primera_recepcion": "2026-11-07T23:45:32.748398+00:00",
+    "fecha_ultima_observacion": "2026-11-07T23:45:32.748398+00:00"
+  },
+  "USGS:us7000twus": {
+    "id": "us7000twus",
+    "fecha_hora_utc": "2026-11-07T23:27:09.444000+00:00",
+    "magnitud": 5.1,
+    "profundidad_km": 10.0,
+    "latitud": -15.6837,
+    "longitud": -172.9847,
+    "pais": "",
+    "ciudad_referencia": "91 km ENE of Hihifo, Tonga",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twus",
+    "fecha_primera_recepcion": "2026-11-07T23:45:32.748398+00:00",
+    "fecha_ultima_observacion": "2026-11-07T23:45:32.748398+00:00"
   }
 }
