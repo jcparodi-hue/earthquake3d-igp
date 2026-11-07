@@ -69619,7 +69619,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-768",
     "fecha_primera_recepcion": "2026-11-07T09:30:56.745538+00:00",
-    "fecha_ultima_observacion": "2026-11-07T17:35:37.693439+00:00"
+    "fecha_ultima_observacion": "2026-11-07T17:40:42.943023+00:00"
   },
   "EMSC:20261107_0000101": {
     "id": "20261107_0000101",
@@ -70291,6 +70291,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261107_0000212",
     "fecha_primera_recepcion": "2026-11-07T17:35:37.693439+00:00",
-    "fecha_ultima_observacion": "2026-11-07T17:35:37.693439+00:00"
+    "fecha_ultima_observacion": "2026-11-07T17:40:42.943023+00:00"
+  },
+  "USGS:us7000twt8": {
+    "id": "us7000twt8",
+    "fecha_hora_utc": "2026-11-07T17:17:38.931000+00:00",
+    "magnitud": 4.7,
+    "profundidad_km": 10.0,
+    "latitud": -1.8505,
+    "longitud": -81.1439,
+    "pais": "",
+    "ciudad_referencia": "45 km NNW of Salinas, Ecuador",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twt8",
+    "fecha_primera_recepcion": "2026-11-07T17:40:42.943023+00:00",
+    "fecha_ultima_observacion": "2026-11-07T17:40:42.943023+00:00"
   }
 }
