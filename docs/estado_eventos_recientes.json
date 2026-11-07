@@ -68653,7 +68653,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-766",
     "fecha_primera_recepcion": "2026-11-06T18:20:34.488097+00:00",
-    "fecha_ultima_observacion": "2026-11-07T01:45:45.002239+00:00"
+    "fecha_ultima_observacion": "2026-11-07T01:50:44.502261+00:00"
   },
   "EMSC:20261106_0000224": {
     "id": "20261106_0000224",
@@ -69101,7 +69101,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twpl",
     "fecha_primera_recepcion": "2026-11-07T01:35:34.205736+00:00",
-    "fecha_ultima_observacion": "2026-11-07T01:45:45.002239+00:00"
+    "fecha_ultima_observacion": "2026-11-07T01:50:44.502261+00:00"
   },
   "EMSC:20261107_0000015": {
     "id": "20261107_0000015",
@@ -69116,5 +69116,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261107_0000015",
     "fecha_primera_recepcion": "2026-11-07T01:40:46.362349+00:00",
     "fecha_ultima_observacion": "2026-11-07T01:45:45.002239+00:00"
+  },
+  "EMSC:20261107_0000017": {
+    "id": "20261107_0000017",
+    "fecha_hora_utc": "2026-11-07T01:41:25+00:00",
+    "magnitud": 4.0,
+    "profundidad_km": 40.0,
+    "latitud": -11.61,
+    "longitud": 122.4,
+    "pais": "",
+    "ciudad_referencia": "SOUTH OF TIMOR",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261107_0000017",
+    "fecha_primera_recepcion": "2026-11-07T01:50:44.502261+00:00",
+    "fecha_ultima_observacion": "2026-11-07T01:50:44.502261+00:00"
   }
 }
