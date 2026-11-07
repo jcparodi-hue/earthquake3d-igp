@@ -69619,7 +69619,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-768",
     "fecha_primera_recepcion": "2026-11-07T09:30:56.745538+00:00",
-    "fecha_ultima_observacion": "2026-11-07T17:55:31.291681+00:00"
+    "fecha_ultima_observacion": "2026-11-07T18:00:36.886343+00:00"
   },
   "EMSC:20261107_0000101": {
     "id": "20261107_0000101",
@@ -70306,5 +70306,33 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twt8",
     "fecha_primera_recepcion": "2026-11-07T17:40:42.943023+00:00",
     "fecha_ultima_observacion": "2026-11-07T17:55:31.291681+00:00"
+  },
+  "EMSC:20261107_0000218": {
+    "id": "20261107_0000218",
+    "fecha_hora_utc": "2026-11-07T17:58:54.447715+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 77.8,
+    "latitud": 59.761,
+    "longitud": -151.725,
+    "pais": "",
+    "ciudad_referencia": "KENAI PENINSULA, ALASKA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261107_0000218",
+    "fecha_primera_recepcion": "2026-11-07T18:00:36.886343+00:00",
+    "fecha_ultima_observacion": "2026-11-07T18:00:36.886343+00:00"
+  },
+  "USGS:aka2026wbytqz": {
+    "id": "aka2026wbytqz",
+    "fecha_hora_utc": "2026-11-07T17:58:54.447000+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 77.8,
+    "latitud": 59.761,
+    "longitud": -151.725,
+    "pais": "",
+    "ciudad_referencia": "6 km ESE of Anchor Point, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wbytqz",
+    "fecha_primera_recepcion": "2026-11-07T18:00:36.886343+00:00",
+    "fecha_ultima_observacion": "2026-11-07T18:00:36.886343+00:00"
   }
 }
