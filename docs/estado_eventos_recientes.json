@@ -69619,7 +69619,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-768",
     "fecha_primera_recepcion": "2026-11-07T09:30:56.745538+00:00",
-    "fecha_ultima_observacion": "2026-11-07T16:00:56.215537+00:00"
+    "fecha_ultima_observacion": "2026-11-07T16:05:40.993040+00:00"
   },
   "EMSC:20261107_0000101": {
     "id": "20261107_0000101",
@@ -70095,7 +70095,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twss",
     "fecha_primera_recepcion": "2026-11-07T15:45:49.160383+00:00",
-    "fecha_ultima_observacion": "2026-11-07T16:00:56.215537+00:00"
+    "fecha_ultima_observacion": "2026-11-07T16:05:40.993040+00:00"
   },
   "EMSC:20261107_0000187": {
     "id": "20261107_0000187",
@@ -70124,5 +70124,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261107_0000189",
     "fecha_primera_recepcion": "2026-11-07T16:00:56.215537+00:00",
     "fecha_ultima_observacion": "2026-11-07T16:00:56.215537+00:00"
+  },
+  "EMSC:20261107_0000191": {
+    "id": "20261107_0000191",
+    "fecha_hora_utc": "2026-11-07T15:56:16+00:00",
+    "magnitud": 2.9,
+    "profundidad_km": 43.9,
+    "latitud": -32.93,
+    "longitud": -71.42,
+    "pais": "",
+    "ciudad_referencia": "VALPARAISO, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261107_0000191",
+    "fecha_primera_recepcion": "2026-11-07T16:05:40.993040+00:00",
+    "fecha_ultima_observacion": "2026-11-07T16:05:40.993040+00:00"
   }
 }
