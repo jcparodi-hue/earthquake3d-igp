@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-07T11:50:41.589179+00:00",
+  "actualizado_utc": "2026-11-07T11:55:44.379473+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 78,
   "actualizacion_minutos": 5,
   "igp": 78,
   "emsc": 2184,
-  "usgs": 478,
-  "duplicados_eliminados": 409,
+  "usgs": 479,
+  "duplicados_eliminados": 410,
   "eventos_publicados": 2331,
-  "evento_mas_reciente_utc": "2026-11-07T11:40:57+00:00",
+  "evento_mas_reciente_utc": "2026-11-07T11:53:43.414919+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 13,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-07T07:27:16+00:00",
-      "antiguedad_evento_mas_reciente_min": 263.4
+      "antiguedad_evento_mas_reciente_min": 268.5
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2184,
       "eventos_recibidos": 2188,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-07T11:40:57+00:00",
-      "antiguedad_evento_mas_reciente_min": 9.7
+      "evento_mas_reciente_utc": "2026-11-07T11:53:43.414919+00:00",
+      "antiguedad_evento_mas_reciente_min": 2.0
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 478,
-      "eventos_recibidos": 483,
+      "eventos_validos": 479,
+      "eventos_recibidos": 484,
       "invalidos_rechazados": 5,
-      "evento_mas_reciente_utc": "2026-11-07T11:07:43.355000+00:00",
-      "antiguedad_evento_mas_reciente_min": 43.0
+      "evento_mas_reciente_utc": "2026-11-07T11:53:43.414000+00:00",
+      "antiguedad_evento_mas_reciente_min": 2.0
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-768"
     },
     "emsc": {
-      "id": "20261107_0000126",
-      "fecha_hora_utc": "2026-11-07T11:40:57+00:00",
-      "magnitud": 2.6,
-      "profundidad_km": 133.2,
-      "latitud": -20.24,
-      "longitud": -68.88,
+      "id": "20261107_0000128",
+      "fecha_hora_utc": "2026-11-07T11:53:43.414919+00:00",
+      "magnitud": 3.5,
+      "profundidad_km": 4.5,
+      "latitud": 35.6103,
+      "longitud": -98.0407,
       "pais": "",
-      "ciudad_referencia": "TARAPACA, CHILE",
+      "ciudad_referencia": "OKLAHOMA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261107_0000126"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261107_0000128"
     },
     "usgs": {
-      "id": "us7000twrq",
-      "fecha_hora_utc": "2026-11-07T11:07:43.355000+00:00",
-      "magnitud": 5.5,
-      "profundidad_km": 31.748,
-      "latitud": 36.1884,
-      "longitud": 141.4404,
+      "id": "ok2026vvhm",
+      "fecha_hora_utc": "2026-11-07T11:53:43.414000+00:00",
+      "magnitud": 3.48,
+      "profundidad_km": 4.521183968,
+      "latitud": 35.61029053,
+      "longitud": -98.04071045,
       "pais": "",
-      "ciudad_referencia": "74 km NE of Hasaki, Japan",
+      "ciudad_referencia": "7 km E of Calumet, Oklahoma",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twrq"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026vvhm"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-07T11:50:41.589179+00:00"
+    "hora_consulta_utc": "2026-11-07T11:55:44.379473+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-07T11:50:41.589179+00:00",
+  "updated_utc": "2026-11-07T11:55:44.379473+00:00",
   "combined_after_dedup": 2331
 }
