@@ -68653,7 +68653,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-766",
     "fecha_primera_recepcion": "2026-11-06T18:20:34.488097+00:00",
-    "fecha_ultima_observacion": "2026-11-07T03:45:32.964011+00:00"
+    "fecha_ultima_observacion": "2026-11-07T03:50:46.707591+00:00"
   },
   "EMSC:20261106_0000224": {
     "id": "20261106_0000224",
@@ -69241,6 +69241,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261107_0000037",
     "fecha_primera_recepcion": "2026-11-07T03:40:47.778683+00:00",
-    "fecha_ultima_observacion": "2026-11-07T03:45:32.964011+00:00"
+    "fecha_ultima_observacion": "2026-11-07T03:50:46.707591+00:00"
+  },
+  "USGS:pr71538668": {
+    "id": "pr71538668",
+    "fecha_hora_utc": "2026-11-07T02:47:40.170000+00:00",
+    "magnitud": 2.74,
+    "profundidad_km": 47.57,
+    "latitud": 18.7055,
+    "longitud": -64.6126666666667,
+    "pais": "",
+    "ciudad_referencia": "45 km NNE of Cruz Bay, U.S. Virgin Islands",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538668",
+    "fecha_primera_recepcion": "2026-11-07T03:50:46.707591+00:00",
+    "fecha_ultima_observacion": "2026-11-07T03:50:46.707591+00:00"
   }
 }
