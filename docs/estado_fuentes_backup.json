@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-08T22:52:52.335553+00:00",
+  "actualizado_utc": "2026-11-08T22:55:42.247649+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 81,
   "actualizacion_minutos": 5,
@@ -9,7 +9,7 @@
   "usgs": 454,
   "duplicados_eliminados": 397,
   "eventos_publicados": 2249,
-  "evento_mas_reciente_utc": "2026-11-08T22:46:27+00:00",
+  "evento_mas_reciente_utc": "2026-11-08T22:51:23.660000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 13,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-08T11:58:29+00:00",
-      "antiguedad_evento_mas_reciente_min": 654.4
+      "antiguedad_evento_mas_reciente_min": 657.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,8 +26,8 @@
       "eventos_validos": 2111,
       "eventos_recibidos": 2114,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-08T22:46:27+00:00",
-      "antiguedad_evento_mas_reciente_min": 6.4
+      "evento_mas_reciente_utc": "2026-11-08T22:51:23.660000+00:00",
+      "antiguedad_evento_mas_reciente_min": 4.3
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 460,
       "invalidos_rechazados": 6,
       "evento_mas_reciente_utc": "2026-11-08T20:16:30.347000+00:00",
-      "antiguedad_evento_mas_reciente_min": 156.4
+      "antiguedad_evento_mas_reciente_min": 159.2
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-771"
     },
     "emsc": {
-      "id": "20261108_0000271",
-      "fecha_hora_utc": "2026-11-08T22:46:27+00:00",
+      "id": "20261108_0000273",
+      "fecha_hora_utc": "2026-11-08T22:51:23.660000+00:00",
       "magnitud": 2.5,
-      "profundidad_km": 35.0,
-      "latitud": 12.294,
-      "longitud": -87.688,
+      "profundidad_km": 65.3,
+      "latitud": 19.1862,
+      "longitud": -156.313,
       "pais": "",
-      "ciudad_referencia": "NEAR COAST OF NICARAGUA",
+      "ciudad_referencia": "HAWAII REGION, HAWAII",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261108_0000271"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261108_0000273"
     },
     "usgs": {
       "id": "us7000twz2",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-08T22:52:52.335553+00:00"
+    "hora_consulta_utc": "2026-11-08T22:55:42.247649+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-08T22:52:52.335553+00:00",
+  "updated_utc": "2026-11-08T22:55:42.247649+00:00",
   "combined_after_dedup": 2249
 }
