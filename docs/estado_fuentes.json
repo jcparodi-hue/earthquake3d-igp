@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-08T00:35:46.705113+00:00",
+  "actualizado_utc": "2026-11-08T00:40:34.712461+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 78,
   "actualizacion_minutos": 5,
   "igp": 78,
   "emsc": 2162,
-  "usgs": 468,
-  "duplicados_eliminados": 404,
+  "usgs": 469,
+  "duplicados_eliminados": 405,
   "eventos_publicados": 2304,
-  "evento_mas_reciente_utc": "2026-11-08T00:24:26.454693+00:00",
+  "evento_mas_reciente_utc": "2026-11-08T00:24:26.630000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 12,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-07T07:27:16+00:00",
-      "antiguedad_evento_mas_reciente_min": 1028.5
+      "antiguedad_evento_mas_reciente_min": 1033.3
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2162,
       "eventos_recibidos": 2166,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-08T00:24:26.454693+00:00",
-      "antiguedad_evento_mas_reciente_min": 11.3
+      "evento_mas_reciente_utc": "2026-11-08T00:24:26.630000+00:00",
+      "antiguedad_evento_mas_reciente_min": 16.1
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 468,
-      "eventos_recibidos": 473,
+      "eventos_validos": 469,
+      "eventos_recibidos": 474,
       "invalidos_rechazados": 5,
       "evento_mas_reciente_utc": "2026-11-07T23:27:09.444000+00:00",
-      "antiguedad_evento_mas_reciente_min": 68.6
+      "antiguedad_evento_mas_reciente_min": 73.4
     }
   },
   "ultimo_evento": {
@@ -54,7 +54,7 @@
     },
     "emsc": {
       "id": "20261108_0000005",
-      "fecha_hora_utc": "2026-11-08T00:24:26.454693+00:00",
+      "fecha_hora_utc": "2026-11-08T00:24:26.630000+00:00",
       "magnitud": 2.6,
       "profundidad_km": 19.0,
       "latitud": 38.7863,
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-08T00:35:46.705113+00:00"
+    "hora_consulta_utc": "2026-11-08T00:40:34.712461+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-08T00:35:46.705113+00:00",
+  "updated_utc": "2026-11-08T00:40:34.712461+00:00",
   "combined_after_dedup": 2304
 }
