@@ -69619,7 +69619,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-768",
     "fecha_primera_recepcion": "2026-11-07T09:30:56.745538+00:00",
-    "fecha_ultima_observacion": "2026-11-08T10:35:47.629439+00:00"
+    "fecha_ultima_observacion": "2026-11-08T10:40:35.651916+00:00"
   },
   "EMSC:20261107_0000101": {
     "id": "20261107_0000101",
@@ -71734,5 +71734,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261108_0000120",
     "fecha_primera_recepcion": "2026-11-08T10:35:47.629439+00:00",
     "fecha_ultima_observacion": "2026-11-08T10:35:47.629439+00:00"
+  },
+  "EMSC:20261108_0000122": {
+    "id": "20261108_0000122",
+    "fecha_hora_utc": "2026-11-08T10:34:25.714000+00:00",
+    "magnitud": 3.4,
+    "profundidad_km": 5.0,
+    "latitud": 37.0823,
+    "longitud": -104.9914,
+    "pais": "",
+    "ciudad_referencia": "COLORADO",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261108_0000122",
+    "fecha_primera_recepcion": "2026-11-08T10:40:35.651916+00:00",
+    "fecha_ultima_observacion": "2026-11-08T10:40:35.651916+00:00"
+  },
+  "USGS:us7000twx5": {
+    "id": "us7000twx5",
+    "fecha_hora_utc": "2026-11-08T10:34:25.714000+00:00",
+    "magnitud": 3.4,
+    "profundidad_km": 5.0,
+    "latitud": 37.0823,
+    "longitud": -104.9914,
+    "pais": "",
+    "ciudad_referencia": "8 km SSE of Stonewall Gap, Colorado",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twx5",
+    "fecha_primera_recepcion": "2026-11-08T10:40:35.651916+00:00",
+    "fecha_ultima_observacion": "2026-11-08T10:40:35.651916+00:00"
   }
 }
