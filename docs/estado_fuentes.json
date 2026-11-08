@@ -1,33 +1,33 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-08T15:55:48.759380+00:00",
+  "actualizado_utc": "2026-11-08T16:00:53.861245+00:00",
   "periodo_mundial_dias": 10,
-  "igp_historico": 78,
+  "igp_historico": 81,
   "actualizacion_minutos": 5,
-  "igp": 78,
-  "emsc": 2122,
+  "igp": 81,
+  "emsc": 2123,
   "usgs": 465,
-  "duplicados_eliminados": 402,
-  "eventos_publicados": 2263,
-  "evento_mas_reciente_utc": "2026-11-08T15:39:09.501774+00:00",
+  "duplicados_eliminados": 405,
+  "eventos_publicados": 2264,
+  "evento_mas_reciente_utc": "2026-11-08T15:42:48+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
-      "actividad": "SIN_EVENTOS_RECIENTES",
-      "eventos_validos": 78,
-      "eventos_recibidos": 10,
+      "actividad": "EVENTO_RECIENTE",
+      "eventos_validos": 81,
+      "eventos_recibidos": 13,
       "invalidos_rechazados": 0,
-      "evento_mas_reciente_utc": "2026-11-07T07:27:16+00:00",
-      "antiguedad_evento_mas_reciente_min": 1948.5
+      "evento_mas_reciente_utc": "2026-11-08T11:58:29+00:00",
+      "antiguedad_evento_mas_reciente_min": 242.4
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2122,
-      "eventos_recibidos": 2125,
+      "eventos_validos": 2123,
+      "eventos_recibidos": 2126,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-08T15:39:09.501774+00:00",
-      "antiguedad_evento_mas_reciente_min": 16.7
+      "evento_mas_reciente_utc": "2026-11-08T15:42:48+00:00",
+      "antiguedad_evento_mas_reciente_min": 18.1
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,33 +36,33 @@
       "eventos_recibidos": 471,
       "invalidos_rechazados": 6,
       "evento_mas_reciente_utc": "2026-11-08T15:33:24.810000+00:00",
-      "antiguedad_evento_mas_reciente_min": 22.4
+      "antiguedad_evento_mas_reciente_min": 27.5
     }
   },
   "ultimo_evento": {
     "igp": {
-      "id": "2026-768",
-      "fecha_hora_utc": "2026-11-07T07:27:16+00:00",
-      "magnitud": 3.8,
-      "profundidad_km": 38.0,
-      "latitud": -3.48,
-      "longitud": -79.76,
+      "id": "2026-771",
+      "fecha_hora_utc": "2026-11-08T11:58:29+00:00",
+      "magnitud": 4.8,
+      "profundidad_km": 64.0,
+      "latitud": -19.79,
+      "longitud": -70.28,
       "pais": "Perú",
-      "ciudad_referencia": "57 km al E de Zarumilla, Zarumilla - Tumbes",
+      "ciudad_referencia": "198 km al S de Tacna, Tacna - Tacna",
       "fuente": "IGP",
-      "url": "https://ultimosismo.igp.gob.pe/evento/2026-768"
+      "url": "https://ultimosismo.igp.gob.pe/evento/2026-771"
     },
     "emsc": {
-      "id": "20261108_0000182",
-      "fecha_hora_utc": "2026-11-08T15:39:09.501774+00:00",
-      "magnitud": 3.2,
-      "profundidad_km": 184.9,
-      "latitud": -36.4758,
-      "longitud": 177.6619,
+      "id": "20261108_0000185",
+      "fecha_hora_utc": "2026-11-08T15:42:48+00:00",
+      "magnitud": 2.6,
+      "profundidad_km": 21.0,
+      "latitud": -8.07,
+      "longitud": 124.64,
       "pais": "",
-      "ciudad_referencia": "OFF E. COAST OF N. ISLAND, N.Z.",
+      "ciudad_referencia": "KEPULAUAN ALOR, INDONESIA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261108_0000182"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261108_0000185"
     },
     "usgs": {
       "id": "hv75068552",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-08T15:55:48.759380+00:00"
+    "hora_consulta_utc": "2026-11-08T16:00:53.861245+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-08T15:55:48.759380+00:00",
-  "combined_after_dedup": 2263
+  "updated_utc": "2026-11-08T16:00:53.861245+00:00",
+  "combined_after_dedup": 2264
 }
