@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-08T02:15:49.046914+00:00",
+  "actualizado_utc": "2026-11-08T02:20:48.730534+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 78,
   "actualizacion_minutos": 5,
   "igp": 78,
   "emsc": 2170,
-  "usgs": 467,
-  "duplicados_eliminados": 403,
-  "eventos_publicados": 2312,
-  "evento_mas_reciente_utc": "2026-11-08T02:10:48+00:00",
+  "usgs": 465,
+  "duplicados_eliminados": 402,
+  "eventos_publicados": 2311,
+  "evento_mas_reciente_utc": "2026-11-08T02:12:24+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 12,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-07T07:27:16+00:00",
-      "antiguedad_evento_mas_reciente_min": 1128.6
+      "antiguedad_evento_mas_reciente_min": 1133.5
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2170,
       "eventos_recibidos": 2174,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-08T02:10:48+00:00",
-      "antiguedad_evento_mas_reciente_min": 5.0
+      "evento_mas_reciente_utc": "2026-11-08T02:12:24+00:00",
+      "antiguedad_evento_mas_reciente_min": 8.4
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 467,
-      "eventos_recibidos": 472,
+      "eventos_validos": 465,
+      "eventos_recibidos": 470,
       "invalidos_rechazados": 5,
       "evento_mas_reciente_utc": "2026-11-07T23:27:09.444000+00:00",
-      "antiguedad_evento_mas_reciente_min": 168.7
+      "antiguedad_evento_mas_reciente_min": 173.7
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-768"
     },
     "emsc": {
-      "id": "20261108_0000031",
-      "fecha_hora_utc": "2026-11-08T02:10:48+00:00",
-      "magnitud": 4.1,
-      "profundidad_km": 227.6,
-      "latitud": 31.3572,
-      "longitud": 77.6482,
+      "id": "20261108_0000032",
+      "fecha_hora_utc": "2026-11-08T02:12:24+00:00",
+      "magnitud": 3.2,
+      "profundidad_km": 122.3,
+      "latitud": -21.74,
+      "longitud": -68.49,
       "pais": "",
-      "ciudad_referencia": "HIMACHAL PRADESH, INDIA",
+      "ciudad_referencia": "ANTOFAGASTA, CHILE",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261108_0000031"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261108_0000032"
     },
     "usgs": {
       "id": "us7000twus",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-08T02:15:49.046914+00:00"
+    "hora_consulta_utc": "2026-11-08T02:20:48.730534+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-08T02:15:49.046914+00:00",
-  "combined_after_dedup": 2312
+  "updated_utc": "2026-11-08T02:20:48.730534+00:00",
+  "combined_after_dedup": 2311
 }
