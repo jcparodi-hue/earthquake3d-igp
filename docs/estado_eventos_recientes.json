@@ -72209,7 +72209,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-771",
     "fecha_primera_recepcion": "2026-11-08T16:00:53.861245+00:00",
-    "fecha_ultima_observacion": "2026-11-08T17:00:39.171705+00:00"
+    "fecha_ultima_observacion": "2026-11-08T17:05:31.841746+00:00"
   },
   "EMSC:20261108_0000185": {
     "id": "20261108_0000185",
@@ -72294,5 +72294,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261108_0000194",
     "fecha_primera_recepcion": "2026-11-08T17:00:39.171705+00:00",
     "fecha_ultima_observacion": "2026-11-08T17:00:39.171705+00:00"
+  },
+  "EMSC:20261108_0000196": {
+    "id": "20261108_0000196",
+    "fecha_hora_utc": "2026-11-08T16:58:36.440000+00:00",
+    "magnitud": 3.4,
+    "profundidad_km": 10.0,
+    "latitud": 39.0888,
+    "longitud": 16.4106,
+    "pais": "",
+    "ciudad_referencia": "SOUTHERN ITALY",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261108_0000196",
+    "fecha_primera_recepcion": "2026-11-08T17:05:31.841746+00:00",
+    "fecha_ultima_observacion": "2026-11-08T17:05:31.841746+00:00"
+  },
+  "USGS:us7000twyd": {
+    "id": "us7000twyd",
+    "fecha_hora_utc": "2026-11-08T16:45:12.938000+00:00",
+    "magnitud": 4.6,
+    "profundidad_km": 224.59,
+    "latitud": 2.5497,
+    "longitud": 128.6755,
+    "pais": "",
+    "ciudad_referencia": "117 km NE of Tobelo, Indonesia",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twyd",
+    "fecha_primera_recepcion": "2026-11-08T17:05:31.841746+00:00",
+    "fecha_ultima_observacion": "2026-11-08T17:05:31.841746+00:00"
   }
 }
