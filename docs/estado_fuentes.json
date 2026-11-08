@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-08T15:10:55.033583+00:00",
+  "actualizado_utc": "2026-11-08T15:15:48.605642+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 78,
   "actualizacion_minutos": 5,
@@ -18,7 +18,7 @@
       "eventos_recibidos": 10,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-07T07:27:16+00:00",
-      "antiguedad_evento_mas_reciente_min": 1903.7
+      "antiguedad_evento_mas_reciente_min": 1908.5
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -27,7 +27,7 @@
       "eventos_recibidos": 2125,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-08T15:00:13+00:00",
-      "antiguedad_evento_mas_reciente_min": 10.7
+      "antiguedad_evento_mas_reciente_min": 15.6
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -35,8 +35,8 @@
       "eventos_validos": 465,
       "eventos_recibidos": 471,
       "invalidos_rechazados": 6,
-      "evento_mas_reciente_utc": "2026-11-08T14:46:03.596000+00:00",
-      "antiguedad_evento_mas_reciente_min": 24.9
+      "evento_mas_reciente_utc": "2026-11-08T14:46:03.581000+00:00",
+      "antiguedad_evento_mas_reciente_min": 29.8
     }
   },
   "ultimo_evento": {
@@ -66,13 +66,13 @@
     },
     "usgs": {
       "id": "aka2026wdoizt",
-      "fecha_hora_utc": "2026-11-08T14:46:03.596000+00:00",
+      "fecha_hora_utc": "2026-11-08T14:46:03.581000+00:00",
       "magnitud": 3.5,
-      "profundidad_km": 34.8,
-      "latitud": 60.689,
-      "longitud": -150.1,
+      "profundidad_km": 34.9,
+      "latitud": 60.69,
+      "longitud": -150.093,
       "pais": "",
-      "ciudad_referencia": "26 km NW of Cooper Landing, Alaska",
+      "ciudad_referencia": "26 km NNW of Cooper Landing, Alaska",
       "fuente": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wdoizt"
     }
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-08T15:10:55.033583+00:00"
+    "hora_consulta_utc": "2026-11-08T15:15:48.605642+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-08T15:10:55.033583+00:00",
+  "updated_utc": "2026-11-08T15:15:48.605642+00:00",
   "combined_after_dedup": 2264
 }
