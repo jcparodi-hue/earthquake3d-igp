@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-08T11:20:48.269629+00:00",
+  "actualizado_utc": "2026-11-08T11:25:53.584618+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 78,
   "actualizacion_minutos": 5,
@@ -9,7 +9,7 @@
   "usgs": 466,
   "duplicados_eliminados": 400,
   "eventos_publicados": 2267,
-  "evento_mas_reciente_utc": "2026-11-08T11:12:45+00:00",
+  "evento_mas_reciente_utc": "2026-11-08T11:12:44+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 11,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-07T07:27:16+00:00",
-      "antiguedad_evento_mas_reciente_min": 1673.5
+      "antiguedad_evento_mas_reciente_min": 1678.6
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,8 +26,8 @@
       "eventos_validos": 2123,
       "eventos_recibidos": 2127,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-08T11:12:45+00:00",
-      "antiguedad_evento_mas_reciente_min": 8.1
+      "evento_mas_reciente_utc": "2026-11-08T11:12:44+00:00",
+      "antiguedad_evento_mas_reciente_min": 13.2
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 472,
       "invalidos_rechazados": 6,
       "evento_mas_reciente_utc": "2026-11-08T11:10:08.102000+00:00",
-      "antiguedad_evento_mas_reciente_min": 10.7
+      "antiguedad_evento_mas_reciente_min": 15.8
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261108_0000131",
-      "fecha_hora_utc": "2026-11-08T11:12:45+00:00",
+      "fecha_hora_utc": "2026-11-08T11:12:44+00:00",
       "magnitud": 3.2,
-      "profundidad_km": 112.4,
-      "latitud": -20.71,
-      "longitud": -69.23,
+      "profundidad_km": 113.9,
+      "latitud": -20.72,
+      "longitud": -69.2,
       "pais": "",
       "ciudad_referencia": "TARAPACA, CHILE",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-08T11:20:48.269629+00:00"
+    "hora_consulta_utc": "2026-11-08T11:25:53.584618+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-08T11:20:48.269629+00:00",
+  "updated_utc": "2026-11-08T11:25:53.584618+00:00",
   "combined_after_dedup": 2267
 }
