@@ -69619,7 +69619,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-768",
     "fecha_primera_recepcion": "2026-11-07T09:30:56.745538+00:00",
-    "fecha_ultima_observacion": "2026-11-08T15:20:44.153539+00:00"
+    "fecha_ultima_observacion": "2026-11-08T15:25:49.144473+00:00"
   },
   "EMSC:20261107_0000101": {
     "id": "20261107_0000101",
@@ -72083,7 +72083,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wdoizt",
     "fecha_primera_recepcion": "2026-11-08T14:50:52.212386+00:00",
-    "fecha_ultima_observacion": "2026-11-08T15:20:44.153539+00:00"
+    "fecha_ultima_observacion": "2026-11-08T15:25:49.144473+00:00"
   },
   "EMSC:20261108_0000170": {
     "id": "20261108_0000170",
@@ -72112,5 +72112,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261108_0000172",
     "fecha_primera_recepcion": "2026-11-08T15:10:55.033583+00:00",
     "fecha_ultima_observacion": "2026-11-08T15:20:44.153539+00:00"
+  },
+  "EMSC:20261108_0000173": {
+    "id": "20261108_0000173",
+    "fecha_hora_utc": "2026-11-08T15:16:38.500000+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 15.0,
+    "latitud": 36.849,
+    "longitud": -24.085,
+    "pais": "",
+    "ciudad_referencia": "AZORES ISLANDS REGION",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261108_0000173",
+    "fecha_primera_recepcion": "2026-11-08T15:25:49.144473+00:00",
+    "fecha_ultima_observacion": "2026-11-08T15:25:49.144473+00:00"
   }
 }
