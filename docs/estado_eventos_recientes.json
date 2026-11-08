@@ -72209,7 +72209,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-771",
     "fecha_primera_recepcion": "2026-11-08T16:00:53.861245+00:00",
-    "fecha_ultima_observacion": "2026-11-08T20:35:48.193237+00:00"
+    "fecha_ultima_observacion": "2026-11-08T20:40:34.241167+00:00"
   },
   "EMSC:20261108_0000185": {
     "id": "20261108_0000185",
@@ -72535,30 +72535,30 @@
   },
   "EMSC:20261108_0000249": {
     "id": "20261108_0000249",
-    "fecha_hora_utc": "2026-11-08T20:16:30.710000+00:00",
-    "magnitud": 4.8,
-    "profundidad_km": 58.1,
-    "latitud": 38.3824,
-    "longitud": 141.8815,
+    "fecha_hora_utc": "2026-11-08T20:16:30.347000+00:00",
+    "magnitud": 4.5,
+    "profundidad_km": 55.7,
+    "latitud": 38.3782,
+    "longitud": 141.937,
     "pais": "",
     "ciudad_referencia": "NEAR EAST COAST OF HONSHU, JAPAN",
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261108_0000249",
     "fecha_primera_recepcion": "2026-11-08T20:35:48.193237+00:00",
-    "fecha_ultima_observacion": "2026-11-08T20:35:48.193237+00:00"
+    "fecha_ultima_observacion": "2026-11-08T20:40:34.241167+00:00"
   },
   "USGS:us7000twz2": {
     "id": "us7000twz2",
-    "fecha_hora_utc": "2026-11-08T20:16:30.710000+00:00",
-    "magnitud": 4.8,
-    "profundidad_km": 58.079,
-    "latitud": 38.3824,
-    "longitud": 141.8815,
+    "fecha_hora_utc": "2026-11-08T20:16:30.347000+00:00",
+    "magnitud": 4.5,
+    "profundidad_km": 55.699,
+    "latitud": 38.3782,
+    "longitud": 141.937,
     "pais": "",
-    "ciudad_referencia": "38 km E of Onagawa Chō, Japan",
+    "ciudad_referencia": "43 km E of Onagawa Chō, Japan",
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twz2",
     "fecha_primera_recepcion": "2026-11-08T20:35:48.193237+00:00",
-    "fecha_ultima_observacion": "2026-11-08T20:35:48.193237+00:00"
+    "fecha_ultima_observacion": "2026-11-08T20:40:34.241167+00:00"
   }
 }
