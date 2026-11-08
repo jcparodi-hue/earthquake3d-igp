@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-08T14:15:50.578870+00:00",
+  "actualizado_utc": "2026-11-08T14:20:51.507403+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 78,
   "actualizacion_minutos": 5,
   "igp": 78,
-  "emsc": 2123,
-  "usgs": 466,
-  "duplicados_eliminados": 402,
-  "eventos_publicados": 2265,
-  "evento_mas_reciente_utc": "2026-11-08T13:55:16.238000+00:00",
+  "emsc": 2121,
+  "usgs": 465,
+  "duplicados_eliminados": 401,
+  "eventos_publicados": 2263,
+  "evento_mas_reciente_utc": "2026-11-08T13:55:17.032000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 10,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-07T07:27:16+00:00",
-      "antiguedad_evento_mas_reciente_min": 1848.6
+      "antiguedad_evento_mas_reciente_min": 1853.6
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2123,
-      "eventos_recibidos": 2126,
+      "eventos_validos": 2121,
+      "eventos_recibidos": 2124,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-08T13:55:16.238000+00:00",
-      "antiguedad_evento_mas_reciente_min": 20.6
+      "evento_mas_reciente_utc": "2026-11-08T13:55:17.032000+00:00",
+      "antiguedad_evento_mas_reciente_min": 25.6
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 466,
-      "eventos_recibidos": 472,
+      "eventos_validos": 465,
+      "eventos_recibidos": 471,
       "invalidos_rechazados": 6,
-      "evento_mas_reciente_utc": "2026-11-08T13:55:16.096000+00:00",
-      "antiguedad_evento_mas_reciente_min": 20.6
+      "evento_mas_reciente_utc": "2026-11-08T13:55:17.032000+00:00",
+      "antiguedad_evento_mas_reciente_min": 25.6
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261108_0000155",
-      "fecha_hora_utc": "2026-11-08T13:55:16.238000+00:00",
+      "fecha_hora_utc": "2026-11-08T13:55:17.032000+00:00",
       "magnitud": 3.5,
-      "profundidad_km": 10.0,
-      "latitud": 38.9457,
-      "longitud": -115.3794,
+      "profundidad_km": 4.8,
+      "latitud": 38.9507,
+      "longitud": -115.3064,
       "pais": "",
       "ciudad_referencia": "NEVADA",
       "fuente": "EMSC",
@@ -66,13 +66,13 @@
     },
     "usgs": {
       "id": "nn00926785",
-      "fecha_hora_utc": "2026-11-08T13:55:16.096000+00:00",
-      "magnitud": 3.7,
-      "profundidad_km": 4.3465,
-      "latitud": 38.9246,
-      "longitud": -115.3163,
+      "fecha_hora_utc": "2026-11-08T13:55:17.032000+00:00",
+      "magnitud": 3.54,
+      "profundidad_km": 4.7569,
+      "latitud": 38.9507,
+      "longitud": -115.3064,
       "pais": "",
-      "ciudad_referencia": "22 km W of Preston, Nevada",
+      "ciudad_referencia": "21 km W of Preston, Nevada",
       "fuente": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926785"
     }
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-08T14:15:50.578870+00:00"
+    "hora_consulta_utc": "2026-11-08T14:20:51.507403+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-08T14:15:50.578870+00:00",
-  "combined_after_dedup": 2265
+  "updated_utc": "2026-11-08T14:20:51.507403+00:00",
+  "combined_after_dedup": 2263
 }
