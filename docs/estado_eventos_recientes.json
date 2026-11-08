@@ -69619,7 +69619,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-768",
     "fecha_primera_recepcion": "2026-11-07T09:30:56.745538+00:00",
-    "fecha_ultima_observacion": "2026-11-08T05:15:50.462164+00:00"
+    "fecha_ultima_observacion": "2026-11-08T05:20:49.657616+00:00"
   },
   "EMSC:20261107_0000101": {
     "id": "20261107_0000101",
@@ -71258,5 +71258,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261108_0000060",
     "fecha_primera_recepcion": "2026-11-08T05:15:50.462164+00:00",
     "fecha_ultima_observacion": "2026-11-08T05:15:50.462164+00:00"
+  },
+  "EMSC:20261108_0000061": {
+    "id": "20261108_0000061",
+    "fecha_hora_utc": "2026-11-08T05:17:39.081584+00:00",
+    "magnitud": 3.8,
+    "profundidad_km": 6.0,
+    "latitud": 67.29,
+    "longitud": -144.258,
+    "pais": "",
+    "ciudad_referencia": "NORTHERN ALASKA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261108_0000061",
+    "fecha_primera_recepcion": "2026-11-08T05:20:49.657616+00:00",
+    "fecha_ultima_observacion": "2026-11-08T05:20:49.657616+00:00"
+  },
+  "USGS:aka2026wcvkhi": {
+    "id": "aka2026wcvkhi",
+    "fecha_hora_utc": "2026-11-08T05:17:39.081000+00:00",
+    "magnitud": 3.8,
+    "profundidad_km": 6.0,
+    "latitud": 67.29,
+    "longitud": -144.258,
+    "pais": "",
+    "ciudad_referencia": "74 km NNW of Chalkyitsik, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wcvkhi",
+    "fecha_primera_recepcion": "2026-11-08T05:20:49.657616+00:00",
+    "fecha_ultima_observacion": "2026-11-08T05:20:49.657616+00:00"
   }
 }
