@@ -69619,7 +69619,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-768",
     "fecha_primera_recepcion": "2026-11-07T09:30:56.745538+00:00",
-    "fecha_ultima_observacion": "2026-11-08T02:35:46.178877+00:00"
+    "fecha_ultima_observacion": "2026-11-08T02:40:42.005064+00:00"
   },
   "EMSC:20261107_0000101": {
     "id": "20261107_0000101",
@@ -71061,6 +71061,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261108_0000033",
     "fecha_primera_recepcion": "2026-11-08T02:25:45.325812+00:00",
-    "fecha_ultima_observacion": "2026-11-08T02:35:46.178877+00:00"
+    "fecha_ultima_observacion": "2026-11-08T02:40:42.005064+00:00"
+  },
+  "USGS:us7000twvb": {
+    "id": "us7000twvb",
+    "fecha_hora_utc": "2026-11-08T01:53:16.193000+00:00",
+    "magnitud": 4.5,
+    "profundidad_km": 10.0,
+    "latitud": 32.5014,
+    "longitud": 130.4721,
+    "pais": "",
+    "ciudad_referencia": "11 km W of Honmachi, Japan",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twvb",
+    "fecha_primera_recepcion": "2026-11-08T02:40:42.005064+00:00",
+    "fecha_ultima_observacion": "2026-11-08T02:40:42.005064+00:00"
   }
 }
