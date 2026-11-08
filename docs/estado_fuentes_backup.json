@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-08T19:00:53.202183+00:00",
+  "actualizado_utc": "2026-11-08T19:05:47.969488+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 81,
   "actualizacion_minutos": 5,
@@ -18,7 +18,7 @@
       "eventos_recibidos": 13,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-08T11:58:29+00:00",
-      "antiguedad_evento_mas_reciente_min": 422.4
+      "antiguedad_evento_mas_reciente_min": 427.3
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -27,7 +27,7 @@
       "eventos_recibidos": 2130,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-08T18:51:10+00:00",
-      "antiguedad_evento_mas_reciente_min": 9.7
+      "antiguedad_evento_mas_reciente_min": 14.6
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 466,
       "invalidos_rechazados": 6,
       "evento_mas_reciente_utc": "2026-11-08T16:45:12.938000+00:00",
-      "antiguedad_evento_mas_reciente_min": 135.7
+      "antiguedad_evento_mas_reciente_min": 140.6
     }
   },
   "ultimo_evento": {
@@ -55,10 +55,10 @@
     "emsc": {
       "id": "20261108_0000226",
       "fecha_hora_utc": "2026-11-08T18:51:10+00:00",
-      "magnitud": 3.1,
-      "profundidad_km": 37.0,
-      "latitud": 15.595,
-      "longitud": -89.745,
+      "magnitud": 3.4,
+      "profundidad_km": 1.0,
+      "latitud": 15.461,
+      "longitud": -89.7,
       "pais": "",
       "ciudad_referencia": "GUATEMALA",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-08T19:00:53.202183+00:00"
+    "hora_consulta_utc": "2026-11-08T19:05:47.969488+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-08T19:00:53.202183+00:00",
+  "updated_utc": "2026-11-08T19:05:47.969488+00:00",
   "combined_after_dedup": 2266
 }
