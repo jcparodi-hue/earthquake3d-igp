@@ -74547,7 +74547,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-775",
     "fecha_primera_recepcion": "2026-11-09T21:30:56.734704+00:00",
-    "fecha_ultima_observacion": "2026-11-09T22:15:49.805003+00:00"
+    "fecha_ultima_observacion": "2026-11-09T22:20:46.272891+00:00"
   },
   "EMSC:20261109_0000312": {
     "id": "20261109_0000312",
@@ -74604,5 +74604,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261109_0000318",
     "fecha_primera_recepcion": "2026-11-09T21:55:34.855028+00:00",
     "fecha_ultima_observacion": "2026-11-09T22:15:49.805003+00:00"
+  },
+  "EMSC:20261109_0000322": {
+    "id": "20261109_0000322",
+    "fecha_hora_utc": "2026-11-09T22:03:07.165000+00:00",
+    "magnitud": 4.7,
+    "profundidad_km": 10.0,
+    "latitud": 52.7289,
+    "longitud": 171.6154,
+    "pais": "",
+    "ciudad_referencia": "NEAR ISLANDS, ALEUTIAN ISLANDS",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261109_0000322",
+    "fecha_primera_recepcion": "2026-11-09T22:20:46.272891+00:00",
+    "fecha_ultima_observacion": "2026-11-09T22:20:46.272891+00:00"
+  },
+  "USGS:us7000tx7h": {
+    "id": "us7000tx7h",
+    "fecha_hora_utc": "2026-11-09T22:03:07.165000+00:00",
+    "magnitud": 4.7,
+    "profundidad_km": 10.0,
+    "latitud": 52.7289,
+    "longitud": 171.6154,
+    "pais": "",
+    "ciudad_referencia": "106 km W of Attu Station, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx7h",
+    "fecha_primera_recepcion": "2026-11-09T22:20:46.272891+00:00",
+    "fecha_ultima_observacion": "2026-11-09T22:20:46.272891+00:00"
   }
 }
