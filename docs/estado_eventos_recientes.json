@@ -72209,7 +72209,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-771",
     "fecha_primera_recepcion": "2026-11-08T16:00:53.861245+00:00",
-    "fecha_ultima_observacion": "2026-11-09T00:45:35.807898+00:00"
+    "fecha_ultima_observacion": "2026-11-09T00:50:35.286120+00:00"
   },
   "EMSC:20261108_0000185": {
     "id": "20261108_0000185",
@@ -72784,5 +72784,33 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wehiax",
     "fecha_primera_recepcion": "2026-11-09T00:20:45.489253+00:00",
     "fecha_ultima_observacion": "2026-11-09T00:45:35.807898+00:00"
+  },
+  "EMSC:20261109_0000010": {
+    "id": "20261109_0000010",
+    "fecha_hora_utc": "2026-11-09T00:46:08+00:00",
+    "magnitud": 2.8,
+    "profundidad_km": 127.6,
+    "latitud": 29.4672,
+    "longitud": 79.2257,
+    "pais": "",
+    "ciudad_referencia": "UTTARANCHAL, INDIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261109_0000010",
+    "fecha_primera_recepcion": "2026-11-09T00:50:35.286120+00:00",
+    "fecha_ultima_observacion": "2026-11-09T00:50:35.286120+00:00"
+  },
+  "USGS:nc75464202": {
+    "id": "nc75464202",
+    "fecha_hora_utc": "2026-11-09T00:44:35.380000+00:00",
+    "magnitud": 2.59,
+    "profundidad_km": 0.430000007152557,
+    "latitud": 38.7890014648438,
+    "longitud": -122.761497497559,
+    "pais": "",
+    "ciudad_referencia": "1 km NNW of The Geysers, CA",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75464202",
+    "fecha_primera_recepcion": "2026-11-09T00:50:35.286120+00:00",
+    "fecha_ultima_observacion": "2026-11-09T00:50:35.286120+00:00"
   }
 }
