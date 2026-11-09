@@ -73749,7 +73749,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-772",
     "fecha_primera_recepcion": "2026-11-09T11:20:42.931173+00:00",
-    "fecha_ultima_observacion": "2026-11-09T17:50:44.051200+00:00"
+    "fecha_ultima_observacion": "2026-11-09T17:55:52.022885+00:00"
   },
   "EMSC:20261109_0000156": {
     "id": "20261109_0000156",
@@ -74226,5 +74226,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261109_0000253",
     "fecha_primera_recepcion": "2026-11-09T17:50:44.051200+00:00",
     "fecha_ultima_observacion": "2026-11-09T17:50:44.051200+00:00"
+  },
+  "EMSC:20261109_0000255": {
+    "id": "20261109_0000255",
+    "fecha_hora_utc": "2026-11-09T17:50:55.148883+00:00",
+    "magnitud": 3.4,
+    "profundidad_km": 23.5,
+    "latitud": 57.407,
+    "longitud": -153.911,
+    "pais": "",
+    "ciudad_referencia": "KODIAK ISLAND REGION, ALASKA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261109_0000255",
+    "fecha_primera_recepcion": "2026-11-09T17:55:52.022885+00:00",
+    "fecha_ultima_observacion": "2026-11-09T17:55:52.022885+00:00"
+  },
+  "USGS:aka2026wfqnyl": {
+    "id": "aka2026wfqnyl",
+    "fecha_hora_utc": "2026-11-09T17:50:55.148000+00:00",
+    "magnitud": 3.4,
+    "profundidad_km": 23.5,
+    "latitud": 57.407,
+    "longitud": -153.911,
+    "pais": "",
+    "ciudad_referencia": "15 km SSE of Larsen Bay, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wfqnyl",
+    "fecha_primera_recepcion": "2026-11-09T17:55:52.022885+00:00",
+    "fecha_ultima_observacion": "2026-11-09T17:55:52.022885+00:00"
   }
 }
