@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-09T00:15:53.544220+00:00",
+  "actualizado_utc": "2026-11-09T00:20:45.489253+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 81,
   "actualizacion_minutos": 5,
   "igp": 81,
   "emsc": 2106,
-  "usgs": 454,
-  "duplicados_eliminados": 396,
+  "usgs": 455,
+  "duplicados_eliminados": 397,
   "eventos_publicados": 2245,
-  "evento_mas_reciente_utc": "2026-11-09T00:09:19+00:00",
+  "evento_mas_reciente_utc": "2026-11-09T00:15:10.114000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 13,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-08T11:58:29+00:00",
-      "antiguedad_evento_mas_reciente_min": 737.4
+      "antiguedad_evento_mas_reciente_min": 742.3
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2106,
       "eventos_recibidos": 2109,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-09T00:09:19+00:00",
-      "antiguedad_evento_mas_reciente_min": 6.6
+      "evento_mas_reciente_utc": "2026-11-09T00:15:10.114000+00:00",
+      "antiguedad_evento_mas_reciente_min": 5.6
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 454,
-      "eventos_recibidos": 460,
+      "eventos_validos": 455,
+      "eventos_recibidos": 461,
       "invalidos_rechazados": 6,
-      "evento_mas_reciente_utc": "2026-11-08T20:16:30.347000+00:00",
-      "antiguedad_evento_mas_reciente_min": 239.4
+      "evento_mas_reciente_utc": "2026-11-09T00:15:10.114000+00:00",
+      "antiguedad_evento_mas_reciente_min": 5.6
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-771"
     },
     "emsc": {
-      "id": "20261109_0000001",
-      "fecha_hora_utc": "2026-11-09T00:09:19+00:00",
-      "magnitud": 3.8,
-      "profundidad_km": 10.0,
-      "latitud": -27.3,
-      "longitud": -71.46,
+      "id": "20261109_0000002",
+      "fecha_hora_utc": "2026-11-09T00:15:10.114000+00:00",
+      "magnitud": 2.9,
+      "profundidad_km": 60.9,
+      "latitud": 61.428,
+      "longitud": -150.604,
       "pais": "",
-      "ciudad_referencia": "OFFSHORE ATACAMA, CHILE",
+      "ciudad_referencia": "SOUTHERN ALASKA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261109_0000001"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261109_0000002"
     },
     "usgs": {
-      "id": "us7000twz2",
-      "fecha_hora_utc": "2026-11-08T20:16:30.347000+00:00",
-      "magnitud": 4.5,
-      "profundidad_km": 55.699,
-      "latitud": 38.3782,
-      "longitud": 141.937,
+      "id": "aka2026wehiax",
+      "fecha_hora_utc": "2026-11-09T00:15:10.114000+00:00",
+      "magnitud": 2.9,
+      "profundidad_km": 60.9,
+      "latitud": 61.428,
+      "longitud": -150.604,
       "pais": "",
-      "ciudad_referencia": "43 km E of Onagawa Chō, Japan",
+      "ciudad_referencia": "13 km SSW of Susitna, Alaska",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twz2"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wehiax"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-09T00:15:53.544220+00:00"
+    "hora_consulta_utc": "2026-11-09T00:20:45.489253+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-09T00:15:53.544220+00:00",
+  "updated_utc": "2026-11-09T00:20:45.489253+00:00",
   "combined_after_dedup": 2245
 }
