@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-09T04:20:52.843306+00:00",
+  "actualizado_utc": "2026-11-09T04:25:33.898817+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 81,
   "actualizacion_minutos": 5,
   "igp": 81,
-  "emsc": 2116,
+  "emsc": 2117,
   "usgs": 462,
   "duplicados_eliminados": 406,
-  "eventos_publicados": 2253,
-  "evento_mas_reciente_utc": "2026-11-09T04:02:47+00:00",
+  "eventos_publicados": 2254,
+  "evento_mas_reciente_utc": "2026-11-09T04:18:37+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 13,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-08T11:58:29+00:00",
-      "antiguedad_evento_mas_reciente_min": 982.4
+      "antiguedad_evento_mas_reciente_min": 987.1
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2116,
-      "eventos_recibidos": 2119,
+      "eventos_validos": 2117,
+      "eventos_recibidos": 2120,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-09T04:02:47+00:00",
-      "antiguedad_evento_mas_reciente_min": 18.1
+      "evento_mas_reciente_utc": "2026-11-09T04:18:37+00:00",
+      "antiguedad_evento_mas_reciente_min": 6.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 468,
       "invalidos_rechazados": 6,
       "evento_mas_reciente_utc": "2026-11-09T03:34:59.466000+00:00",
-      "antiguedad_evento_mas_reciente_min": 45.9
+      "antiguedad_evento_mas_reciente_min": 50.6
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-771"
     },
     "emsc": {
-      "id": "20261109_0000053",
-      "fecha_hora_utc": "2026-11-09T04:02:47+00:00",
-      "magnitud": 3.2,
-      "profundidad_km": 10.0,
-      "latitud": -8.31,
-      "longitud": 110.3,
+      "id": "20261109_0000059",
+      "fecha_hora_utc": "2026-11-09T04:18:37+00:00",
+      "magnitud": 2.8,
+      "profundidad_km": 5.0,
+      "latitud": 14.366,
+      "longitud": -90.101,
       "pais": "",
-      "ciudad_referencia": "JAVA, INDONESIA",
+      "ciudad_referencia": "GUATEMALA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261109_0000053"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261109_0000059"
     },
     "usgs": {
       "id": "us7000tx16",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-09T04:20:52.843306+00:00"
+    "hora_consulta_utc": "2026-11-09T04:25:33.898817+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-09T04:20:52.843306+00:00",
-  "combined_after_dedup": 2253
+  "updated_utc": "2026-11-09T04:25:33.898817+00:00",
+  "combined_after_dedup": 2254
 }

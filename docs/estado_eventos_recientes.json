@@ -72209,7 +72209,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-771",
     "fecha_primera_recepcion": "2026-11-08T16:00:53.861245+00:00",
-    "fecha_ultima_observacion": "2026-11-09T04:20:52.843306+00:00"
+    "fecha_ultima_observacion": "2026-11-09T04:25:33.898817+00:00"
   },
   "EMSC:20261108_0000185": {
     "id": "20261108_0000185",
@@ -73091,7 +73091,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx16",
     "fecha_primera_recepcion": "2026-11-09T03:45:53.010021+00:00",
-    "fecha_ultima_observacion": "2026-11-09T04:20:52.843306+00:00"
+    "fecha_ultima_observacion": "2026-11-09T04:25:33.898817+00:00"
   },
   "EMSC:20261109_0000053": {
     "id": "20261109_0000053",
@@ -73106,5 +73106,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261109_0000053",
     "fecha_primera_recepcion": "2026-11-09T04:11:00.112262+00:00",
     "fecha_ultima_observacion": "2026-11-09T04:20:52.843306+00:00"
+  },
+  "EMSC:20261109_0000059": {
+    "id": "20261109_0000059",
+    "fecha_hora_utc": "2026-11-09T04:18:37+00:00",
+    "magnitud": 2.8,
+    "profundidad_km": 5.0,
+    "latitud": 14.366,
+    "longitud": -90.101,
+    "pais": "",
+    "ciudad_referencia": "GUATEMALA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261109_0000059",
+    "fecha_primera_recepcion": "2026-11-09T04:25:33.898817+00:00",
+    "fecha_ultima_observacion": "2026-11-09T04:25:33.898817+00:00"
   }
 }
