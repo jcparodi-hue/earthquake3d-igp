@@ -73749,7 +73749,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-772",
     "fecha_primera_recepcion": "2026-11-09T11:20:42.931173+00:00",
-    "fecha_ultima_observacion": "2026-11-09T12:45:45.380221+00:00"
+    "fecha_ultima_observacion": "2026-11-09T12:50:47.309337+00:00"
   },
   "EMSC:20261109_0000156": {
     "id": "20261109_0000156",
@@ -73847,6 +73847,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261109_0000172",
     "fecha_primera_recepcion": "2026-11-09T12:45:45.380221+00:00",
-    "fecha_ultima_observacion": "2026-11-09T12:45:45.380221+00:00"
+    "fecha_ultima_observacion": "2026-11-09T12:50:47.309337+00:00"
+  },
+  "USGS:us7000tx3n": {
+    "id": "us7000tx3n",
+    "fecha_hora_utc": "2026-11-09T12:28:18.182000+00:00",
+    "magnitud": 4.7,
+    "profundidad_km": 10.0,
+    "latitud": 37.39,
+    "longitud": 35.5394,
+    "pais": "",
+    "ciudad_referencia": "17 km NW of İmamoğlu, Turkey",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx3n",
+    "fecha_primera_recepcion": "2026-11-09T12:50:47.309337+00:00",
+    "fecha_ultima_observacion": "2026-11-09T12:50:47.309337+00:00"
   }
 }
