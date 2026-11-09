@@ -73749,7 +73749,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-772",
     "fecha_primera_recepcion": "2026-11-09T11:20:42.931173+00:00",
-    "fecha_ultima_observacion": "2026-11-09T19:10:43.753284+00:00"
+    "fecha_ultima_observacion": "2026-11-09T19:15:56.525061+00:00"
   },
   "EMSC:20261109_0000156": {
     "id": "20261109_0000156",
@@ -74327,16 +74327,30 @@
   },
   "EMSC:20261109_0000274": {
     "id": "20261109_0000274",
-    "fecha_hora_utc": "2026-11-09T19:04:40+00:00",
-    "magnitud": 3.6,
-    "profundidad_km": 205.7,
-    "latitud": -24.14,
-    "longitud": -67.43,
+    "fecha_hora_utc": "2026-11-09T19:04:37+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 215.0,
+    "latitud": -24.05,
+    "longitud": -67.39,
     "pais": "",
     "ciudad_referencia": "SALTA, ARGENTINA",
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261109_0000274",
     "fecha_primera_recepcion": "2026-11-09T19:10:43.753284+00:00",
-    "fecha_ultima_observacion": "2026-11-09T19:10:43.753284+00:00"
+    "fecha_ultima_observacion": "2026-11-09T19:15:56.525061+00:00"
+  },
+  "USGS:us7000tx6j": {
+    "id": "us7000tx6j",
+    "fecha_hora_utc": "2026-11-09T18:51:45.515000+00:00",
+    "magnitud": 4.6,
+    "profundidad_km": 10.0,
+    "latitud": -10.5301,
+    "longitud": 163.8048,
+    "pais": "",
+    "ciudad_referencia": "206 km E of Kirakira, Solomon Islands",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx6j",
+    "fecha_primera_recepcion": "2026-11-09T19:15:56.525061+00:00",
+    "fecha_ultima_observacion": "2026-11-09T19:15:56.525061+00:00"
   }
 }
