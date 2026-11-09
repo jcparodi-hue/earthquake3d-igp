@@ -73749,7 +73749,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-772",
     "fecha_primera_recepcion": "2026-11-09T11:20:42.931173+00:00",
-    "fecha_ultima_observacion": "2026-11-09T12:25:32.895854+00:00"
+    "fecha_ultima_observacion": "2026-11-09T12:30:46.896984+00:00"
   },
   "EMSC:20261109_0000156": {
     "id": "20261109_0000156",
@@ -73791,7 +73791,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068782",
     "fecha_primera_recepcion": "2026-11-09T11:45:52.926910+00:00",
-    "fecha_ultima_observacion": "2026-11-09T12:25:32.895854+00:00"
+    "fecha_ultima_observacion": "2026-11-09T12:30:46.896984+00:00"
   },
   "EMSC:20261109_0000161": {
     "id": "20261109_0000161",
@@ -73806,5 +73806,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261109_0000161",
     "fecha_primera_recepcion": "2026-11-09T11:50:52.700423+00:00",
     "fecha_ultima_observacion": "2026-11-09T12:25:32.895854+00:00"
+  },
+  "EMSC:20261109_0000170": {
+    "id": "20261109_0000170",
+    "fecha_hora_utc": "2026-11-09T12:15:20+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 6.0,
+    "latitud": 5.45,
+    "longitud": 125.4,
+    "pais": "",
+    "ciudad_referencia": "MINDANAO, PHILIPPINES",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261109_0000170",
+    "fecha_primera_recepcion": "2026-11-09T12:30:46.896984+00:00",
+    "fecha_ultima_observacion": "2026-11-09T12:30:46.896984+00:00"
   }
 }
