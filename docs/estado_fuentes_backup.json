@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-09T23:00:45.996121+00:00",
+  "actualizado_utc": "2026-11-09T23:05:47.152889+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 85,
   "actualizacion_minutos": 5,
   "igp": 85,
-  "emsc": 2092,
-  "usgs": 463,
-  "duplicados_eliminados": 409,
-  "eventos_publicados": 2231,
-  "evento_mas_reciente_utc": "2026-11-09T22:40:08+00:00",
+  "emsc": 2091,
+  "usgs": 464,
+  "duplicados_eliminados": 410,
+  "eventos_publicados": 2230,
+  "evento_mas_reciente_utc": "2026-11-09T22:56:58.770000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 15,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-09T19:38:56+00:00",
-      "antiguedad_evento_mas_reciente_min": 201.8
+      "antiguedad_evento_mas_reciente_min": 206.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2092,
-      "eventos_recibidos": 2094,
+      "eventos_validos": 2091,
+      "eventos_recibidos": 2093,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-11-09T22:40:08+00:00",
-      "antiguedad_evento_mas_reciente_min": 20.6
+      "evento_mas_reciente_utc": "2026-11-09T22:56:58.770000+00:00",
+      "antiguedad_evento_mas_reciente_min": 8.8
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 463,
-      "eventos_recibidos": 466,
+      "eventos_validos": 464,
+      "eventos_recibidos": 467,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-09T22:03:07.482000+00:00",
-      "antiguedad_evento_mas_reciente_min": 57.6
+      "evento_mas_reciente_utc": "2026-11-09T22:56:58.770000+00:00",
+      "antiguedad_evento_mas_reciente_min": 8.8
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-775"
     },
     "emsc": {
-      "id": "20261109_0000327",
-      "fecha_hora_utc": "2026-11-09T22:40:08+00:00",
-      "magnitud": 3.6,
-      "profundidad_km": 10.0,
-      "latitud": -0.66,
-      "longitud": 130.31,
+      "id": "20261109_0000330",
+      "fecha_hora_utc": "2026-11-09T22:56:58.770000+00:00",
+      "magnitud": 3.0,
+      "profundidad_km": 3.3,
+      "latitud": 39.0967,
+      "longitud": -115.3113,
       "pais": "",
-      "ciudad_referencia": "PAPUA REGION, INDONESIA",
+      "ciudad_referencia": "NEVADA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261109_0000327"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261109_0000330"
     },
     "usgs": {
-      "id": "us7000tx7h",
-      "fecha_hora_utc": "2026-11-09T22:03:07.482000+00:00",
-      "magnitud": 4.7,
-      "profundidad_km": 10.0,
-      "latitud": 52.7984,
-      "longitud": 171.6466,
+      "id": "nn00926833",
+      "fecha_hora_utc": "2026-11-09T22:56:58.770000+00:00",
+      "magnitud": 2.99,
+      "profundidad_km": 3.3382,
+      "latitud": 39.0967,
+      "longitud": -115.3113,
       "pais": "",
-      "ciudad_referencia": "103 km W of Attu Station, Alaska",
+      "ciudad_referencia": "29 km NW of Preston, Nevada",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx7h"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926833"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-09T23:00:45.996121+00:00"
+    "hora_consulta_utc": "2026-11-09T23:05:47.152889+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-09T23:00:45.996121+00:00",
-  "combined_after_dedup": 2231
+  "updated_utc": "2026-11-09T23:05:47.152889+00:00",
+  "combined_after_dedup": 2230
 }
