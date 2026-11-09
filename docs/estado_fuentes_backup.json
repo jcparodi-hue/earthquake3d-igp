@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-09T16:55:50.696961+00:00",
+  "actualizado_utc": "2026-11-09T17:00:43.257865+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 82,
   "actualizacion_minutos": 5,
   "igp": 82,
-  "emsc": 2104,
+  "emsc": 2105,
   "usgs": 462,
   "duplicados_eliminados": 412,
-  "eventos_publicados": 2236,
-  "evento_mas_reciente_utc": "2026-11-09T16:49:57+00:00",
+  "eventos_publicados": 2237,
+  "evento_mas_reciente_utc": "2026-11-09T16:52:43+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 14,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-09T10:23:54+00:00",
-      "antiguedad_evento_mas_reciente_min": 391.9
+      "antiguedad_evento_mas_reciente_min": 396.8
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2104,
-      "eventos_recibidos": 2107,
+      "eventos_validos": 2105,
+      "eventos_recibidos": 2108,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-09T16:49:57+00:00",
-      "antiguedad_evento_mas_reciente_min": 5.9
+      "evento_mas_reciente_utc": "2026-11-09T16:52:43+00:00",
+      "antiguedad_evento_mas_reciente_min": 8.0
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 467,
       "invalidos_rechazados": 5,
       "evento_mas_reciente_utc": "2026-11-09T15:27:46.066000+00:00",
-      "antiguedad_evento_mas_reciente_min": 88.1
+      "antiguedad_evento_mas_reciente_min": 93.0
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-772"
     },
     "emsc": {
-      "id": "20261109_0000239",
-      "fecha_hora_utc": "2026-11-09T16:49:57+00:00",
-      "magnitud": 2.6,
-      "profundidad_km": 93.2,
-      "latitud": -19.05,
-      "longitud": -69.48,
+      "id": "20261109_0000240",
+      "fecha_hora_utc": "2026-11-09T16:52:43+00:00",
+      "magnitud": 4.2,
+      "profundidad_km": 10.0,
+      "latitud": -2.9,
+      "longitud": 130.37,
       "pais": "",
-      "ciudad_referencia": "TARAPACA, CHILE",
+      "ciudad_referencia": "CERAM SEA, INDONESIA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261109_0000239"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261109_0000240"
     },
     "usgs": {
       "id": "tx2026wbxhyh",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-09T16:55:50.696961+00:00"
+    "hora_consulta_utc": "2026-11-09T17:00:43.257865+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-09T16:55:50.696961+00:00",
-  "combined_after_dedup": 2236
+  "updated_utc": "2026-11-09T17:00:43.257865+00:00",
+  "combined_after_dedup": 2237
 }
