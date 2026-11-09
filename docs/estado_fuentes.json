@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-09T02:45:52.643169+00:00",
+  "actualizado_utc": "2026-11-09T02:50:43.027975+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 81,
   "actualizacion_minutos": 5,
   "igp": 81,
-  "emsc": 2120,
-  "usgs": 459,
-  "duplicados_eliminados": 402,
-  "eventos_publicados": 2258,
-  "evento_mas_reciente_utc": "2026-11-09T02:26:05+00:00",
+  "emsc": 2121,
+  "usgs": 460,
+  "duplicados_eliminados": 403,
+  "eventos_publicados": 2259,
+  "evento_mas_reciente_utc": "2026-11-09T02:28:10.020303+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 13,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-08T11:58:29+00:00",
-      "antiguedad_evento_mas_reciente_min": 887.4
+      "antiguedad_evento_mas_reciente_min": 892.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2120,
-      "eventos_recibidos": 2123,
+      "eventos_validos": 2121,
+      "eventos_recibidos": 2124,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-09T02:26:05+00:00",
-      "antiguedad_evento_mas_reciente_min": 19.8
+      "evento_mas_reciente_utc": "2026-11-09T02:28:10.020303+00:00",
+      "antiguedad_evento_mas_reciente_min": 22.6
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 459,
-      "eventos_recibidos": 465,
+      "eventos_validos": 460,
+      "eventos_recibidos": 466,
       "invalidos_rechazados": 6,
-      "evento_mas_reciente_utc": "2026-11-09T02:21:57.196000+00:00",
-      "antiguedad_evento_mas_reciente_min": 23.9
+      "evento_mas_reciente_utc": "2026-11-09T02:28:10.020000+00:00",
+      "antiguedad_evento_mas_reciente_min": 22.6
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-771"
     },
     "emsc": {
-      "id": "20261109_0000037",
-      "fecha_hora_utc": "2026-11-09T02:26:05+00:00",
-      "magnitud": 3.1,
-      "profundidad_km": 23.0,
-      "latitud": 12.934,
-      "longitud": -89.573,
+      "id": "20261109_0000040",
+      "fecha_hora_utc": "2026-11-09T02:28:10.020303+00:00",
+      "magnitud": 2.8,
+      "profundidad_km": 7.2,
+      "latitud": 28.876,
+      "longitud": -98.938,
       "pais": "",
-      "ciudad_referencia": "OFFSHORE EL SALVADOR",
+      "ciudad_referencia": "SOUTHERN TEXAS",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261109_0000037"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261109_0000040"
     },
     "usgs": {
-      "id": "us7000tx0x",
-      "fecha_hora_utc": "2026-11-09T02:21:57.196000+00:00",
-      "magnitud": 4.9,
-      "profundidad_km": 136.311,
-      "latitud": -25.1858,
-      "longitud": -176.9956,
+      "id": "tx2026waxmhq",
+      "fecha_hora_utc": "2026-11-09T02:28:10.020000+00:00",
+      "magnitud": 2.8,
+      "profundidad_km": 7.1535,
+      "latitud": 28.876,
+      "longitud": -98.938,
       "pais": "",
-      "ciudad_referencia": "south of the Fiji Islands",
+      "ciudad_referencia": "15 km E of Pearsall, Texas",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx0x"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026waxmhq"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-09T02:45:52.643169+00:00"
+    "hora_consulta_utc": "2026-11-09T02:50:43.027975+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-09T02:45:52.643169+00:00",
-  "combined_after_dedup": 2258
+  "updated_utc": "2026-11-09T02:50:43.027975+00:00",
+  "combined_after_dedup": 2259
 }
