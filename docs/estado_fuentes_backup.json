@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-09T10:31:00.192721+00:00",
+  "actualizado_utc": "2026-11-09T10:35:41.942872+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 81,
   "actualizacion_minutos": 5,
@@ -9,7 +9,7 @@
   "usgs": 458,
   "duplicados_eliminados": 405,
   "eventos_publicados": 2241,
-  "evento_mas_reciente_utc": "2026-11-09T10:23:57.260000+00:00",
+  "evento_mas_reciente_utc": "2026-11-09T10:23:57.570000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 13,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-08T11:58:29+00:00",
-      "antiguedad_evento_mas_reciente_min": 1352.5
+      "antiguedad_evento_mas_reciente_min": 1357.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,8 +26,8 @@
       "eventos_validos": 2107,
       "eventos_recibidos": 2110,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-09T10:23:57.260000+00:00",
-      "antiguedad_evento_mas_reciente_min": 7.0
+      "evento_mas_reciente_utc": "2026-11-09T10:23:57.570000+00:00",
+      "antiguedad_evento_mas_reciente_min": 11.7
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 463,
       "invalidos_rechazados": 5,
       "evento_mas_reciente_utc": "2026-11-09T09:53:38.135000+00:00",
-      "antiguedad_evento_mas_reciente_min": 37.4
+      "antiguedad_evento_mas_reciente_min": 42.1
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261109_0000142",
-      "fecha_hora_utc": "2026-11-09T10:23:57.260000+00:00",
-      "magnitud": 5.8,
+      "fecha_hora_utc": "2026-11-09T10:23:57.570000+00:00",
+      "magnitud": 5.3,
       "profundidad_km": 35.0,
-      "latitud": -4.9211,
-      "longitud": -75.0969,
+      "latitud": -4.9434,
+      "longitud": -75.0586,
       "pais": "",
       "ciudad_referencia": "NORTHERN PERU",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-09T10:31:00.192721+00:00"
+    "hora_consulta_utc": "2026-11-09T10:35:41.942872+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-09T10:31:00.192721+00:00",
+  "updated_utc": "2026-11-09T10:35:41.942872+00:00",
   "combined_after_dedup": 2241
 }
