@@ -1,14 +1,14 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-09T06:35:44.782586+00:00",
+  "actualizado_utc": "2026-11-09T06:40:52.180889+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 81,
   "actualizacion_minutos": 5,
   "igp": 81,
-  "emsc": 2120,
+  "emsc": 2118,
   "usgs": 461,
   "duplicados_eliminados": 405,
-  "eventos_publicados": 2257,
+  "eventos_publicados": 2255,
   "evento_mas_reciente_utc": "2026-11-09T06:22:33+00:00",
   "salud_fuentes": {
     "igp": {
@@ -18,16 +18,16 @@
       "eventos_recibidos": 13,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-08T11:58:29+00:00",
-      "antiguedad_evento_mas_reciente_min": 1117.3
+      "antiguedad_evento_mas_reciente_min": 1122.4
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2120,
-      "eventos_recibidos": 2123,
+      "eventos_validos": 2118,
+      "eventos_recibidos": 2121,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-09T06:22:33+00:00",
-      "antiguedad_evento_mas_reciente_min": 13.2
+      "antiguedad_evento_mas_reciente_min": 18.3
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 467,
       "invalidos_rechazados": 6,
       "evento_mas_reciente_utc": "2026-11-09T05:36:21.170000+00:00",
-      "antiguedad_evento_mas_reciente_min": 59.4
+      "antiguedad_evento_mas_reciente_min": 64.5
     }
   },
   "ultimo_evento": {
@@ -56,9 +56,9 @@
       "id": "20261109_0000090",
       "fecha_hora_utc": "2026-11-09T06:22:33+00:00",
       "magnitud": 3.9,
-      "profundidad_km": 106.1,
-      "latitud": -22.37,
-      "longitud": -68.56,
+      "profundidad_km": 108.5,
+      "latitud": -22.38,
+      "longitud": -68.58,
       "pais": "",
       "ciudad_referencia": "ANTOFAGASTA, CHILE",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-09T06:35:44.782586+00:00"
+    "hora_consulta_utc": "2026-11-09T06:40:52.180889+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-09T06:35:44.782586+00:00",
-  "combined_after_dedup": 2257
+  "updated_utc": "2026-11-09T06:40:52.180889+00:00",
+  "combined_after_dedup": 2255
 }
