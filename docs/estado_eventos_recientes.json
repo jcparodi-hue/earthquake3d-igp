@@ -73749,7 +73749,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-772",
     "fecha_primera_recepcion": "2026-11-09T11:20:42.931173+00:00",
-    "fecha_ultima_observacion": "2026-11-09T11:40:50.802654+00:00"
+    "fecha_ultima_observacion": "2026-11-09T11:45:52.926910+00:00"
   },
   "EMSC:20261109_0000156": {
     "id": "20261109_0000156",
@@ -73764,5 +73764,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261109_0000156",
     "fecha_primera_recepcion": "2026-11-09T11:25:49.658792+00:00",
     "fecha_ultima_observacion": "2026-11-09T11:40:50.802654+00:00"
+  },
+  "EMSC:20261109_0000158": {
+    "id": "20261109_0000158",
+    "fecha_hora_utc": "2026-11-09T11:39:10.090000+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 29.7,
+    "latitud": 19.1958,
+    "longitud": -155.4985,
+    "pais": "",
+    "ciudad_referencia": "ISLAND OF HAWAII, HAWAII",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261109_0000158",
+    "fecha_primera_recepcion": "2026-11-09T11:45:52.926910+00:00",
+    "fecha_ultima_observacion": "2026-11-09T11:45:52.926910+00:00"
+  },
+  "USGS:hv75068782": {
+    "id": "hv75068782",
+    "fecha_hora_utc": "2026-11-09T11:39:10.090000+00:00",
+    "magnitud": 2.98,
+    "profundidad_km": 29.6900005340576,
+    "latitud": 19.1958332061768,
+    "longitud": -155.498504638672,
+    "pais": "",
+    "ciudad_referencia": "2 km WSW of Pāhala, Hawaii",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068782",
+    "fecha_primera_recepcion": "2026-11-09T11:45:52.926910+00:00",
+    "fecha_ultima_observacion": "2026-11-09T11:45:52.926910+00:00"
   }
 }
