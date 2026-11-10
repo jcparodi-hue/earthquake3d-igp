@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-10T07:30:49.245718+00:00",
+  "actualizado_utc": "2026-11-10T07:35:37.095019+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 85,
   "actualizacion_minutos": 5,
   "igp": 85,
-  "emsc": 2107,
-  "usgs": 470,
-  "duplicados_eliminados": 414,
-  "eventos_publicados": 2248,
-  "evento_mas_reciente_utc": "2026-11-10T07:23:45+00:00",
+  "emsc": 2108,
+  "usgs": 471,
+  "duplicados_eliminados": 415,
+  "eventos_publicados": 2249,
+  "evento_mas_reciente_utc": "2026-11-10T07:31:11+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 15,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-09T19:38:56+00:00",
-      "antiguedad_evento_mas_reciente_min": 711.9
+      "antiguedad_evento_mas_reciente_min": 716.7
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2107,
-      "eventos_recibidos": 2109,
+      "eventos_validos": 2108,
+      "eventos_recibidos": 2110,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-11-10T07:23:45+00:00",
-      "antiguedad_evento_mas_reciente_min": 7.1
+      "evento_mas_reciente_utc": "2026-11-10T07:31:11+00:00",
+      "antiguedad_evento_mas_reciente_min": 4.4
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 470,
-      "eventos_recibidos": 473,
+      "eventos_validos": 471,
+      "eventos_recibidos": 474,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-10T06:37:42.800000+00:00",
-      "antiguedad_evento_mas_reciente_min": 53.1
+      "evento_mas_reciente_utc": "2026-11-10T06:43:11.261000+00:00",
+      "antiguedad_evento_mas_reciente_min": 52.4
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-775"
     },
     "emsc": {
-      "id": "20261110_0000091",
-      "fecha_hora_utc": "2026-11-10T07:23:45+00:00",
-      "magnitud": 2.7,
+      "id": "20261110_0000092",
+      "fecha_hora_utc": "2026-11-10T07:31:11+00:00",
+      "magnitud": 3.4,
       "profundidad_km": 10.0,
-      "latitud": -29.96,
-      "longitud": -67.37,
+      "latitud": 4.79,
+      "longitud": 96.17,
       "pais": "",
-      "ciudad_referencia": "LA RIOJA, ARGENTINA",
+      "ciudad_referencia": "NORTHERN SUMATRA, INDONESIA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261110_0000091"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261110_0000092"
     },
     "usgs": {
-      "id": "pr71538963",
-      "fecha_hora_utc": "2026-11-10T06:37:42.800000+00:00",
-      "magnitud": 2.89,
-      "profundidad_km": 25.98,
-      "latitud": 19.0353333333333,
-      "longitud": -65.5113333333333,
+      "id": "us7000tx9n",
+      "fecha_hora_utc": "2026-11-10T06:43:11.261000+00:00",
+      "magnitud": 4.8,
+      "profundidad_km": 10.0,
+      "latitud": 34.8774,
+      "longitud": -35.075,
       "pais": "",
-      "ciudad_referencia": "75 km NNE of Vieques, Puerto Rico",
+      "ciudad_referencia": "northern Mid-Atlantic Ridge",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538963"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx9n"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-10T07:30:49.245718+00:00"
+    "hora_consulta_utc": "2026-11-10T07:35:37.095019+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-10T07:30:49.245718+00:00",
-  "combined_after_dedup": 2248
+  "updated_utc": "2026-11-10T07:35:37.095019+00:00",
+  "combined_after_dedup": 2249
 }

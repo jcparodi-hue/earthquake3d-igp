@@ -74547,7 +74547,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-775",
     "fecha_primera_recepcion": "2026-11-09T21:30:56.734704+00:00",
-    "fecha_ultima_observacion": "2026-11-10T07:30:49.245718+00:00"
+    "fecha_ultima_observacion": "2026-11-10T07:35:37.095019+00:00"
   },
   "EMSC:20261109_0000312": {
     "id": "20261109_0000312",
@@ -75374,5 +75374,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261110_0000091",
     "fecha_primera_recepcion": "2026-11-10T07:30:49.245718+00:00",
     "fecha_ultima_observacion": "2026-11-10T07:30:49.245718+00:00"
+  },
+  "EMSC:20261110_0000092": {
+    "id": "20261110_0000092",
+    "fecha_hora_utc": "2026-11-10T07:31:11+00:00",
+    "magnitud": 3.4,
+    "profundidad_km": 10.0,
+    "latitud": 4.79,
+    "longitud": 96.17,
+    "pais": "",
+    "ciudad_referencia": "NORTHERN SUMATRA, INDONESIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261110_0000092",
+    "fecha_primera_recepcion": "2026-11-10T07:35:37.095019+00:00",
+    "fecha_ultima_observacion": "2026-11-10T07:35:37.095019+00:00"
+  },
+  "USGS:us7000tx9n": {
+    "id": "us7000tx9n",
+    "fecha_hora_utc": "2026-11-10T06:43:11.261000+00:00",
+    "magnitud": 4.8,
+    "profundidad_km": 10.0,
+    "latitud": 34.8774,
+    "longitud": -35.075,
+    "pais": "",
+    "ciudad_referencia": "northern Mid-Atlantic Ridge",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx9n",
+    "fecha_primera_recepcion": "2026-11-10T07:35:37.095019+00:00",
+    "fecha_ultima_observacion": "2026-11-10T07:35:37.095019+00:00"
   }
 }
