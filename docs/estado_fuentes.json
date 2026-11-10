@@ -1,14 +1,14 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-10T07:20:52.885069+00:00",
+  "actualizado_utc": "2026-11-10T07:25:35.529695+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 85,
   "actualizacion_minutos": 5,
   "igp": 85,
-  "emsc": 2103,
-  "usgs": 469,
-  "duplicados_eliminados": 413,
-  "eventos_publicados": 2244,
+  "emsc": 2104,
+  "usgs": 470,
+  "duplicados_eliminados": 414,
+  "eventos_publicados": 2245,
   "evento_mas_reciente_utc": "2026-11-10T07:04:40+00:00",
   "salud_fuentes": {
     "igp": {
@@ -18,25 +18,25 @@
       "eventos_recibidos": 15,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-09T19:38:56+00:00",
-      "antiguedad_evento_mas_reciente_min": 701.9
+      "antiguedad_evento_mas_reciente_min": 706.7
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2103,
-      "eventos_recibidos": 2105,
+      "eventos_validos": 2104,
+      "eventos_recibidos": 2106,
       "invalidos_rechazados": 2,
       "evento_mas_reciente_utc": "2026-11-10T07:04:40+00:00",
-      "antiguedad_evento_mas_reciente_min": 16.2
+      "antiguedad_evento_mas_reciente_min": 20.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 469,
-      "eventos_recibidos": 472,
+      "eventos_validos": 470,
+      "eventos_recibidos": 473,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-10T05:56:53.630000+00:00",
-      "antiguedad_evento_mas_reciente_min": 84.0
+      "evento_mas_reciente_utc": "2026-11-10T06:37:42.800000+00:00",
+      "antiguedad_evento_mas_reciente_min": 47.9
     }
   },
   "ultimo_evento": {
@@ -65,24 +65,24 @@
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261110_0000086"
     },
     "usgs": {
-      "id": "pr71538948",
-      "fecha_hora_utc": "2026-11-10T05:56:53.630000+00:00",
-      "magnitud": 3.41,
-      "profundidad_km": 52.01,
-      "latitud": 18.446,
-      "longitud": -68.5245,
+      "id": "pr71538963",
+      "fecha_hora_utc": "2026-11-10T06:37:42.800000+00:00",
+      "magnitud": 2.89,
+      "profundidad_km": 25.98,
+      "latitud": 19.0353333333333,
+      "longitud": -65.5113333333333,
       "pais": "",
-      "ciudad_referencia": "11 km NE of Boca de Yuma, Dominican Republic",
+      "ciudad_referencia": "75 km NNE of Vieques, Puerto Rico",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538948"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538963"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-10T07:20:52.885069+00:00"
+    "hora_consulta_utc": "2026-11-10T07:25:35.529695+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-10T07:20:52.885069+00:00",
-  "combined_after_dedup": 2244
+  "updated_utc": "2026-11-10T07:25:35.529695+00:00",
+  "combined_after_dedup": 2245
 }
