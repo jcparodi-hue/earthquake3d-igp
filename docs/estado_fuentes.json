@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-10T12:30:49.122479+00:00",
+  "actualizado_utc": "2026-11-10T12:35:47.955922+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 86,
   "actualizacion_minutos": 5,
   "igp": 86,
-  "emsc": 2098,
-  "usgs": 470,
+  "emsc": 2096,
+  "usgs": 471,
   "duplicados_eliminados": 413,
-  "eventos_publicados": 2241,
-  "evento_mas_reciente_utc": "2026-11-10T12:23:45+00:00",
+  "eventos_publicados": 2240,
+  "evento_mas_reciente_utc": "2026-11-10T12:30:36.703000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 15,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-10T10:35:51+00:00",
-      "antiguedad_evento_mas_reciente_min": 115.0
+      "antiguedad_evento_mas_reciente_min": 119.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2098,
-      "eventos_recibidos": 2099,
+      "eventos_validos": 2096,
+      "eventos_recibidos": 2097,
       "invalidos_rechazados": 1,
       "evento_mas_reciente_utc": "2026-11-10T12:23:45+00:00",
-      "antiguedad_evento_mas_reciente_min": 7.1
+      "antiguedad_evento_mas_reciente_min": 12.0
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 470,
-      "eventos_recibidos": 473,
+      "eventos_validos": 471,
+      "eventos_recibidos": 474,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-10T10:02:02.815000+00:00",
-      "antiguedad_evento_mas_reciente_min": 148.8
+      "evento_mas_reciente_utc": "2026-11-10T12:30:36.703000+00:00",
+      "antiguedad_evento_mas_reciente_min": 5.2
     }
   },
   "ultimo_evento": {
@@ -65,24 +65,24 @@
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261110_0000169"
     },
     "usgs": {
-      "id": "aka2026wgwxww",
-      "fecha_hora_utc": "2026-11-10T10:02:02.815000+00:00",
-      "magnitud": 2.5,
-      "profundidad_km": 111.1,
-      "latitud": 59.696,
-      "longitud": -153.067,
+      "id": "aka2026whbwrl",
+      "fecha_hora_utc": "2026-11-10T12:30:36.703000+00:00",
+      "magnitud": 2.6,
+      "profundidad_km": 64.3,
+      "latitud": 58.516,
+      "longitud": -152.996,
       "pais": "",
-      "ciudad_referencia": "59 km E of Pedro Bay, Alaska",
+      "ciudad_referencia": "51 km N of Aleneva, Alaska",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wgwxww"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026whbwrl"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-10T12:30:49.122479+00:00"
+    "hora_consulta_utc": "2026-11-10T12:35:47.955922+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-10T12:30:49.122479+00:00",
-  "combined_after_dedup": 2241
+  "updated_utc": "2026-11-10T12:35:47.955922+00:00",
+  "combined_after_dedup": 2240
 }
