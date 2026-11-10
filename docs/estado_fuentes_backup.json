@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-10T15:05:46.451643+00:00",
+  "actualizado_utc": "2026-11-10T15:10:58.431719+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 86,
   "actualizacion_minutos": 5,
   "igp": 86,
-  "emsc": 2104,
-  "usgs": 467,
-  "duplicados_eliminados": 408,
-  "eventos_publicados": 2249,
-  "evento_mas_reciente_utc": "2026-11-10T14:54:18.650000+00:00",
+  "emsc": 2103,
+  "usgs": 466,
+  "duplicados_eliminados": 407,
+  "eventos_publicados": 2248,
+  "evento_mas_reciente_utc": "2026-11-10T14:54:14.460000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 15,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-10T10:35:51+00:00",
-      "antiguedad_evento_mas_reciente_min": 269.9
+      "antiguedad_evento_mas_reciente_min": 275.1
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2104,
-      "eventos_recibidos": 2105,
+      "eventos_validos": 2103,
+      "eventos_recibidos": 2104,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-11-10T14:54:18.650000+00:00",
-      "antiguedad_evento_mas_reciente_min": 11.5
+      "evento_mas_reciente_utc": "2026-11-10T14:54:14.460000+00:00",
+      "antiguedad_evento_mas_reciente_min": 16.7
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 467,
-      "eventos_recibidos": 470,
+      "eventos_validos": 466,
+      "eventos_recibidos": 469,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-10T14:20:06.337000+00:00",
-      "antiguedad_evento_mas_reciente_min": 45.7
+      "antiguedad_evento_mas_reciente_min": 50.9
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261110_0000213",
-      "fecha_hora_utc": "2026-11-10T14:54:18.650000+00:00",
+      "fecha_hora_utc": "2026-11-10T14:54:14.460000+00:00",
       "magnitud": 5.6,
-      "profundidad_km": 30.0,
-      "latitud": 13.6439,
-      "longitud": -90.8437,
+      "profundidad_km": 10.0,
+      "latitud": 13.664,
+      "longitud": -90.648,
       "pais": "",
       "ciudad_referencia": "OFFSHORE GUATEMALA",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-10T15:05:46.451643+00:00"
+    "hora_consulta_utc": "2026-11-10T15:10:58.431719+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-10T15:05:46.451643+00:00",
-  "combined_after_dedup": 2249
+  "updated_utc": "2026-11-10T15:10:58.431719+00:00",
+  "combined_after_dedup": 2248
 }
