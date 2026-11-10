@@ -75737,7 +75737,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-776",
     "fecha_primera_recepcion": "2026-11-10T11:55:35.289216+00:00",
-    "fecha_ultima_observacion": "2026-11-10T13:40:56.926839+00:00"
+    "fecha_ultima_observacion": "2026-11-10T13:45:44.244600+00:00"
   },
   "EMSC:20261110_0000161": {
     "id": "20261110_0000161",
@@ -75835,7 +75835,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026whbwrl",
     "fecha_primera_recepcion": "2026-11-10T12:35:47.955922+00:00",
-    "fecha_ultima_observacion": "2026-11-10T13:40:56.926839+00:00"
+    "fecha_ultima_observacion": "2026-11-10T13:45:44.244600+00:00"
   },
   "EMSC:20261110_0000171": {
     "id": "20261110_0000171",
@@ -75878,5 +75878,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261110_0000176",
     "fecha_primera_recepcion": "2026-11-10T13:26:03.819476+00:00",
     "fecha_ultima_observacion": "2026-11-10T13:40:56.926839+00:00"
+  },
+  "EMSC:20261110_0000179": {
+    "id": "20261110_0000179",
+    "fecha_hora_utc": "2026-11-10T13:37:50.300000+00:00",
+    "magnitud": 3.3,
+    "profundidad_km": 1.1,
+    "latitud": 64.67,
+    "longitud": -17.424,
+    "pais": "",
+    "ciudad_referencia": "ICELAND",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261110_0000179",
+    "fecha_primera_recepcion": "2026-11-10T13:45:44.244600+00:00",
+    "fecha_ultima_observacion": "2026-11-10T13:45:44.244600+00:00"
   }
 }
