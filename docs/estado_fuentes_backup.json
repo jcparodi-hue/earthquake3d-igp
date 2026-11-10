@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-10T03:50:46.171019+00:00",
+  "actualizado_utc": "2026-11-10T04:00:58.069191+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 85,
   "actualizacion_minutos": 5,
   "igp": 85,
-  "emsc": 2096,
-  "usgs": 463,
-  "duplicados_eliminados": 407,
-  "eventos_publicados": 2237,
-  "evento_mas_reciente_utc": "2026-11-10T03:42:37.440000+00:00",
+  "emsc": 2095,
+  "usgs": 464,
+  "duplicados_eliminados": 408,
+  "eventos_publicados": 2236,
+  "evento_mas_reciente_utc": "2026-11-10T03:42:37.320000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 15,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-09T19:38:56+00:00",
-      "antiguedad_evento_mas_reciente_min": 491.8
+      "antiguedad_evento_mas_reciente_min": 502.0
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2096,
-      "eventos_recibidos": 2098,
+      "eventos_validos": 2095,
+      "eventos_recibidos": 2097,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-11-10T03:42:37.440000+00:00",
-      "antiguedad_evento_mas_reciente_min": 8.1
+      "evento_mas_reciente_utc": "2026-11-10T03:42:37.320000+00:00",
+      "antiguedad_evento_mas_reciente_min": 18.3
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 463,
-      "eventos_recibidos": 466,
+      "eventos_validos": 464,
+      "eventos_recibidos": 467,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-10T02:15:33.390000+00:00",
-      "antiguedad_evento_mas_reciente_min": 95.2
+      "evento_mas_reciente_utc": "2026-11-10T03:37:46.152000+00:00",
+      "antiguedad_evento_mas_reciente_min": 23.2
     }
   },
   "ultimo_evento": {
@@ -54,7 +54,7 @@
     },
     "emsc": {
       "id": "20261110_0000041",
-      "fecha_hora_utc": "2026-11-10T03:42:37.440000+00:00",
+      "fecha_hora_utc": "2026-11-10T03:42:37.320000+00:00",
       "magnitud": 3.5,
       "profundidad_km": 13.2,
       "latitud": 37.5327,
@@ -65,24 +65,24 @@
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261110_0000041"
     },
     "usgs": {
-      "id": "pr71538933",
-      "fecha_hora_utc": "2026-11-10T02:15:33.390000+00:00",
-      "magnitud": 3.07,
-      "profundidad_km": 21.89,
-      "latitud": 18.8905,
-      "longitud": -65.0016666666667,
+      "id": "us7000tx8s",
+      "fecha_hora_utc": "2026-11-10T03:37:46.152000+00:00",
+      "magnitud": 5.2,
+      "profundidad_km": 10.0,
+      "latitud": -10.7818,
+      "longitud": 165.6239,
       "pais": "",
-      "ciudad_referencia": "61 km N of Charlotte Amalie, U.S. Virgin Islands",
+      "ciudad_referencia": "19 km WSW of Lata, Solomon Islands",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538933"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8s"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-10T03:50:46.171019+00:00"
+    "hora_consulta_utc": "2026-11-10T04:00:58.069191+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-10T03:50:46.171019+00:00",
-  "combined_after_dedup": 2237
+  "updated_utc": "2026-11-10T04:00:58.069191+00:00",
+  "combined_after_dedup": 2236
 }
