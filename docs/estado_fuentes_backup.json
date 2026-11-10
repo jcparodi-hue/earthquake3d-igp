@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-10T15:40:44.590316+00:00",
+  "actualizado_utc": "2026-11-10T15:45:51.196522+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 86,
   "actualizacion_minutos": 5,
   "igp": 86,
-  "emsc": 2127,
+  "emsc": 2126,
   "usgs": 465,
   "duplicados_eliminados": 404,
-  "eventos_publicados": 2274,
-  "evento_mas_reciente_utc": "2026-11-10T15:32:59+00:00",
+  "eventos_publicados": 2273,
+  "evento_mas_reciente_utc": "2026-11-10T15:32:58+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 15,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-10T10:35:51+00:00",
-      "antiguedad_evento_mas_reciente_min": 304.9
+      "antiguedad_evento_mas_reciente_min": 310.0
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2127,
-      "eventos_recibidos": 2128,
+      "eventos_validos": 2126,
+      "eventos_recibidos": 2127,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-11-10T15:32:59+00:00",
-      "antiguedad_evento_mas_reciente_min": 7.8
+      "evento_mas_reciente_utc": "2026-11-10T15:32:58+00:00",
+      "antiguedad_evento_mas_reciente_min": 12.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 468,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-10T14:54:17.647000+00:00",
-      "antiguedad_evento_mas_reciente_min": 46.4
+      "antiguedad_evento_mas_reciente_min": 51.6
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261110_0000225",
-      "fecha_hora_utc": "2026-11-10T15:32:59+00:00",
+      "fecha_hora_utc": "2026-11-10T15:32:58+00:00",
       "magnitud": 3.5,
-      "profundidad_km": 115.9,
-      "latitud": -22.1,
-      "longitud": -68.54,
+      "profundidad_km": 122.1,
+      "latitud": -22.12,
+      "longitud": -68.57,
       "pais": "",
       "ciudad_referencia": "ANTOFAGASTA, CHILE",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-10T15:40:44.590316+00:00"
+    "hora_consulta_utc": "2026-11-10T15:45:51.196522+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-10T15:40:44.590316+00:00",
-  "combined_after_dedup": 2274
+  "updated_utc": "2026-11-10T15:45:51.196522+00:00",
+  "combined_after_dedup": 2273
 }
