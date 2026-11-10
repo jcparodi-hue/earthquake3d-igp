@@ -74547,7 +74547,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-775",
     "fecha_primera_recepcion": "2026-11-09T21:30:56.734704+00:00",
-    "fecha_ultima_observacion": "2026-11-10T10:30:46.961212+00:00"
+    "fecha_ultima_observacion": "2026-11-10T10:35:49.101649+00:00"
   },
   "EMSC:20261109_0000312": {
     "id": "20261109_0000312",
@@ -75583,7 +75583,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wgwxww",
     "fecha_primera_recepcion": "2026-11-10T10:05:54.761209+00:00",
-    "fecha_ultima_observacion": "2026-11-10T10:30:46.961212+00:00"
+    "fecha_ultima_observacion": "2026-11-10T10:35:49.101649+00:00"
   },
   "EMSC:20261110_0000129": {
     "id": "20261110_0000129",
@@ -75598,5 +75598,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261110_0000129",
     "fecha_primera_recepcion": "2026-11-10T10:25:55.762129+00:00",
     "fecha_ultima_observacion": "2026-11-10T10:30:46.961212+00:00"
+  },
+  "EMSC:20261110_0000133": {
+    "id": "20261110_0000133",
+    "fecha_hora_utc": "2026-11-10T10:30:59.870000+00:00",
+    "magnitud": 2.9,
+    "profundidad_km": 10.0,
+    "latitud": 36.2776,
+    "longitud": -3.2043,
+    "pais": "",
+    "ciudad_referencia": "STRAIT OF GIBRALTAR",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261110_0000133",
+    "fecha_primera_recepcion": "2026-11-10T10:35:49.101649+00:00",
+    "fecha_ultima_observacion": "2026-11-10T10:35:49.101649+00:00"
   }
 }
