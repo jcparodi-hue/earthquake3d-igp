@@ -73,6 +73,7 @@ YEAR, MON, DAY, HOUR, MIN, DEP, MAG, LAT, LONG, URL   // IGP history + EMSC-RTS 
 2026,11,10,08,15,10.0,3.1,38.820000,25.840000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261110_0000109
 2026,11,10,08,11,10.0,3.0,22.156000,96.338000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261110_0000110
 2026,11,10,08,06,7.0,2.5,37.556000,35.642300,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261110_0000104
+2026,11,10,08,02,12.0,3.2,-25.899000,-66.594000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261110_0000243
 2026,11,10,07,53,23.0,3.4,0.890000,126.460000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261110_0000101
 2026,11,10,07,53,40.0,3.0,33.400000,132.400000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261110_0000100
 2026,11,10,07,52,105.0,2.5,-31.650000,-69.410000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261110_0000098
@@ -2204,10 +2205,6 @@ YEAR, MON, DAY, HOUR, MIN, DEP, MAG, LAT, LONG, URL   // IGP history + EMSC-RTS 
 2026,10,31,17,05,69.2,2.8,-29.930000,-71.440000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261031_0000216
 2026,10,31,17,00,28.3,4.3,79.656000,4.370000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261031_0000328
 2026,10,31,16,52,52.5,3.4,17.224000,-94.492000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261031_0000318
-2026,10,31,16,44,5.0,2.8,37.432000,-121.443700,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261031_0000212
-2026,10,31,16,42,45.0,3.5,3.460000,127.090000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261031_0000213
-2026,10,31,16,41,20.0,3.4,50.550000,-173.857000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261031_0000329
-2026,10,31,16,41,10.0,3.5,50.236500,-173.287600,10,https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuvb
 2026,10,31,11,44,35.0,3.6,-9.510000,-79.110000,10,https://ultimosismo.igp.gob.pe/evento/2026-761
 2026,10,30,22,46,193.0,4.3,-16.700000,-69.600000,10,https://ultimosismo.igp.gob.pe/evento/2026-760
 2026,10,30,17,52,149.0,4.0,-18.070000,-69.670000,10,https://ultimosismo.igp.gob.pe/evento/2026-759
