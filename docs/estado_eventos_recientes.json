@@ -75583,7 +75583,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wgwxww",
     "fecha_primera_recepcion": "2026-11-10T10:05:54.761209+00:00",
-    "fecha_ultima_observacion": "2026-11-10T12:25:50.544143+00:00"
+    "fecha_ultima_observacion": "2026-11-10T12:30:49.122479+00:00"
   },
   "EMSC:20261110_0000129": {
     "id": "20261110_0000129",
@@ -75737,7 +75737,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-776",
     "fecha_primera_recepcion": "2026-11-10T11:55:35.289216+00:00",
-    "fecha_ultima_observacion": "2026-11-10T12:25:50.544143+00:00"
+    "fecha_ultima_observacion": "2026-11-10T12:30:49.122479+00:00"
   },
   "EMSC:20261110_0000161": {
     "id": "20261110_0000161",
@@ -75808,5 +75808,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261110_0000168",
     "fecha_primera_recepcion": "2026-11-10T12:25:50.544143+00:00",
     "fecha_ultima_observacion": "2026-11-10T12:25:50.544143+00:00"
+  },
+  "EMSC:20261110_0000169": {
+    "id": "20261110_0000169",
+    "fecha_hora_utc": "2026-11-10T12:23:45+00:00",
+    "magnitud": 4.1,
+    "profundidad_km": 124.0,
+    "latitud": -9.9,
+    "longitud": -76.38,
+    "pais": "",
+    "ciudad_referencia": "CENTRAL PERU",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261110_0000169",
+    "fecha_primera_recepcion": "2026-11-10T12:30:49.122479+00:00",
+    "fecha_ultima_observacion": "2026-11-10T12:30:49.122479+00:00"
   }
 }
