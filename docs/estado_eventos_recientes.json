@@ -75737,7 +75737,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-776",
     "fecha_primera_recepcion": "2026-11-10T11:55:35.289216+00:00",
-    "fecha_ultima_observacion": "2026-11-10T15:10:58.431719+00:00"
+    "fecha_ultima_observacion": "2026-11-10T15:16:06.079404+00:00"
   },
   "EMSC:20261110_0000161": {
     "id": "20261110_0000161",
@@ -75990,5 +75990,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261110_0000213",
     "fecha_primera_recepcion": "2026-11-10T15:05:46.451643+00:00",
     "fecha_ultima_observacion": "2026-11-10T15:10:58.431719+00:00"
+  },
+  "EMSC:20261110_0000216": {
+    "id": "20261110_0000216",
+    "fecha_hora_utc": "2026-11-10T15:08:00+00:00",
+    "magnitud": 3.5,
+    "profundidad_km": 5.0,
+    "latitud": 7.6731,
+    "longitud": -81.0347,
+    "pais": "",
+    "ciudad_referencia": "PANAMA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261110_0000216",
+    "fecha_primera_recepcion": "2026-11-10T15:16:06.079404+00:00",
+    "fecha_ultima_observacion": "2026-11-10T15:16:06.079404+00:00"
+  },
+  "USGS:us7000txb8": {
+    "id": "us7000txb8",
+    "fecha_hora_utc": "2026-11-10T14:54:17.647000+00:00",
+    "magnitud": 5.6,
+    "profundidad_km": 35.0,
+    "latitud": 13.5381,
+    "longitud": -90.8798,
+    "pais": "",
+    "ciudad_referencia": "43 km S of Puerto San José, Guatemala",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txb8",
+    "fecha_primera_recepcion": "2026-11-10T15:16:06.079404+00:00",
+    "fecha_ultima_observacion": "2026-11-10T15:16:06.079404+00:00"
   }
 }
