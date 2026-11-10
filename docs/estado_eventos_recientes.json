@@ -75737,7 +75737,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-776",
     "fecha_primera_recepcion": "2026-11-10T11:55:35.289216+00:00",
-    "fecha_ultima_observacion": "2026-11-10T14:10:39.477174+00:00"
+    "fecha_ultima_observacion": "2026-11-10T14:15:56.176884+00:00"
   },
   "EMSC:20261110_0000161": {
     "id": "20261110_0000161",
@@ -75919,6 +75919,20 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wheyys",
     "fecha_primera_recepcion": "2026-11-10T14:05:36.622330+00:00",
-    "fecha_ultima_observacion": "2026-11-10T14:10:39.477174+00:00"
+    "fecha_ultima_observacion": "2026-11-10T14:15:56.176884+00:00"
+  },
+  "EMSC:20261110_0000186": {
+    "id": "20261110_0000186",
+    "fecha_hora_utc": "2026-11-10T14:05:32+00:00",
+    "magnitud": 2.9,
+    "profundidad_km": 10.0,
+    "latitud": -0.69,
+    "longitud": 123.4,
+    "pais": "",
+    "ciudad_referencia": "SULAWESI, INDONESIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261110_0000186",
+    "fecha_primera_recepcion": "2026-11-10T14:15:56.176884+00:00",
+    "fecha_ultima_observacion": "2026-11-10T14:15:56.176884+00:00"
   }
 }

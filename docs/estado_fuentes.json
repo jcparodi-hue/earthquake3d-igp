@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-10T14:10:39.477174+00:00",
+  "actualizado_utc": "2026-11-10T14:15:56.176884+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 86,
   "actualizacion_minutos": 5,
   "igp": 86,
-  "emsc": 2086,
+  "emsc": 2087,
   "usgs": 466,
   "duplicados_eliminados": 408,
-  "eventos_publicados": 2230,
-  "evento_mas_reciente_utc": "2026-11-10T14:03:11.153000+00:00",
+  "eventos_publicados": 2231,
+  "evento_mas_reciente_utc": "2026-11-10T14:05:32+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 15,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-10T10:35:51+00:00",
-      "antiguedad_evento_mas_reciente_min": 214.8
+      "antiguedad_evento_mas_reciente_min": 220.1
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2086,
-      "eventos_recibidos": 2087,
+      "eventos_validos": 2087,
+      "eventos_recibidos": 2088,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-11-10T13:45:21+00:00",
-      "antiguedad_evento_mas_reciente_min": 25.3
+      "evento_mas_reciente_utc": "2026-11-10T14:05:32+00:00",
+      "antiguedad_evento_mas_reciente_min": 10.4
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 469,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-10T14:03:11.153000+00:00",
-      "antiguedad_evento_mas_reciente_min": 7.5
+      "antiguedad_evento_mas_reciente_min": 12.8
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-776"
     },
     "emsc": {
-      "id": "20261110_0000180",
-      "fecha_hora_utc": "2026-11-10T13:45:21+00:00",
-      "magnitud": 3.2,
-      "profundidad_km": 186.0,
-      "latitud": -4.23,
-      "longitud": 128.34,
+      "id": "20261110_0000186",
+      "fecha_hora_utc": "2026-11-10T14:05:32+00:00",
+      "magnitud": 2.9,
+      "profundidad_km": 10.0,
+      "latitud": -0.69,
+      "longitud": 123.4,
       "pais": "",
-      "ciudad_referencia": "BANDA SEA",
+      "ciudad_referencia": "SULAWESI, INDONESIA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261110_0000180"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261110_0000186"
     },
     "usgs": {
       "id": "aka2026wheyys",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-10T14:10:39.477174+00:00"
+    "hora_consulta_utc": "2026-11-10T14:15:56.176884+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-10T14:10:39.477174+00:00",
-  "combined_after_dedup": 2230
+  "updated_utc": "2026-11-10T14:15:56.176884+00:00",
+  "combined_after_dedup": 2231
 }
