@@ -76297,7 +76297,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-777",
     "fecha_primera_recepcion": "2026-11-10T18:55:51.865754+00:00",
-    "fecha_ultima_observacion": "2026-11-10T22:25:55.427916+00:00"
+    "fecha_ultima_observacion": "2026-11-10T22:30:41.475903+00:00"
   },
   "EMSC:20261110_0000280": {
     "id": "20261110_0000280",
@@ -76381,7 +76381,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txea",
     "fecha_primera_recepcion": "2026-11-10T20:15:48.297426+00:00",
-    "fecha_ultima_observacion": "2026-11-10T22:25:55.427916+00:00"
+    "fecha_ultima_observacion": "2026-11-10T22:30:41.475903+00:00"
   },
   "EMSC:20261110_0000296": {
     "id": "20261110_0000296",
@@ -76466,5 +76466,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261110_0000318",
     "fecha_primera_recepcion": "2026-11-10T22:25:55.427916+00:00",
     "fecha_ultima_observacion": "2026-11-10T22:25:55.427916+00:00"
+  },
+  "EMSC:20261110_0000320": {
+    "id": "20261110_0000320",
+    "fecha_hora_utc": "2026-11-10T22:15:08+00:00",
+    "magnitud": 3.9,
+    "profundidad_km": 20.0,
+    "latitud": 32.62,
+    "longitud": 119.6,
+    "pais": "",
+    "ciudad_referencia": "JIANGSU, CHINA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261110_0000320",
+    "fecha_primera_recepcion": "2026-11-10T22:30:41.475903+00:00",
+    "fecha_ultima_observacion": "2026-11-10T22:30:41.475903+00:00"
   }
 }
