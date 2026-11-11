@@ -76563,7 +76563,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-778",
     "fecha_primera_recepcion": "2026-11-10T23:55:45.340384+00:00",
-    "fecha_ultima_observacion": "2026-11-11T19:35:57.306551+00:00"
+    "fecha_ultima_observacion": "2026-11-11T19:40:40.898228+00:00"
   },
   "EMSC:20261111_0000001": {
     "id": "20261111_0000001",
@@ -78117,6 +78117,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261111_0000266",
     "fecha_primera_recepcion": "2026-11-11T19:30:41.194605+00:00",
-    "fecha_ultima_observacion": "2026-11-11T19:35:57.306551+00:00"
+    "fecha_ultima_observacion": "2026-11-11T19:40:40.898228+00:00"
+  },
+  "USGS:us7000txmq": {
+    "id": "us7000txmq",
+    "fecha_hora_utc": "2026-11-11T19:21:17.374000+00:00",
+    "magnitud": 5.0,
+    "profundidad_km": 34.893,
+    "latitud": -41.5234,
+    "longitud": -74.1759,
+    "pais": "",
+    "ciudad_referencia": "48 km NW of Ancud, Chile",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txmq",
+    "fecha_primera_recepcion": "2026-11-11T19:40:40.898228+00:00",
+    "fecha_ultima_observacion": "2026-11-11T19:40:40.898228+00:00"
   }
 }
