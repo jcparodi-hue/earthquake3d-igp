@@ -76563,7 +76563,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-778",
     "fecha_primera_recepcion": "2026-11-10T23:55:45.340384+00:00",
-    "fecha_ultima_observacion": "2026-11-11T07:40:47.714348+00:00"
+    "fecha_ultima_observacion": "2026-11-11T07:45:49.850066+00:00"
   },
   "EMSC:20261111_0000001": {
     "id": "20261111_0000001",
@@ -77169,30 +77169,30 @@
   },
   "EMSC:20261111_0000089": {
     "id": "20261111_0000089",
-    "fecha_hora_utc": "2026-11-11T07:38:46.787556+00:00",
+    "fecha_hora_utc": "2026-11-11T07:38:45.773895+00:00",
     "magnitud": 3.7,
-    "profundidad_km": 49.9,
-    "latitud": 58.556,
-    "longitud": -150.556,
+    "profundidad_km": 42.0,
+    "latitud": 58.528,
+    "longitud": -150.546,
     "pais": "",
     "ciudad_referencia": "GULF OF ALASKA",
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261111_0000089",
     "fecha_primera_recepcion": "2026-11-11T07:40:47.714348+00:00",
-    "fecha_ultima_observacion": "2026-11-11T07:40:47.714348+00:00"
+    "fecha_ultima_observacion": "2026-11-11T07:45:49.850066+00:00"
   },
   "USGS:aka2026wioent": {
     "id": "aka2026wioent",
-    "fecha_hora_utc": "2026-11-11T07:38:45.783000+00:00",
+    "fecha_hora_utc": "2026-11-11T07:38:45.773000+00:00",
     "magnitud": 3.7,
-    "profundidad_km": 34.8,
-    "latitud": 58.558,
-    "longitud": -150.598,
+    "profundidad_km": 42.0,
+    "latitud": 58.528,
+    "longitud": -150.546,
     "pais": "",
-    "ciudad_referencia": "113 km SE of Port Graham, Alaska",
+    "ciudad_referencia": "117 km SE of Port Graham, Alaska",
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wioent",
     "fecha_primera_recepcion": "2026-11-11T07:40:47.714348+00:00",
-    "fecha_ultima_observacion": "2026-11-11T07:40:47.714348+00:00"
+    "fecha_ultima_observacion": "2026-11-11T07:45:49.850066+00:00"
   }
 }
