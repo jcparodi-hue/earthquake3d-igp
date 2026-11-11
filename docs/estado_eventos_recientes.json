@@ -76563,7 +76563,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-778",
     "fecha_primera_recepcion": "2026-11-10T23:55:45.340384+00:00",
-    "fecha_ultima_observacion": "2026-11-11T05:40:57.049797+00:00"
+    "fecha_ultima_observacion": "2026-11-11T05:45:46.501427+00:00"
   },
   "EMSC:20261111_0000001": {
     "id": "20261111_0000001",
@@ -76970,5 +76970,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261111_0000059",
     "fecha_primera_recepcion": "2026-11-11T05:35:45.390992+00:00",
     "fecha_ultima_observacion": "2026-11-11T05:40:57.049797+00:00"
+  },
+  "EMSC:20261111_0000061": {
+    "id": "20261111_0000061",
+    "fecha_hora_utc": "2026-11-11T05:35:10+00:00",
+    "magnitud": 2.9,
+    "profundidad_km": 33.0,
+    "latitud": -1.6,
+    "longitud": 100.69,
+    "pais": "",
+    "ciudad_referencia": "SOUTHERN SUMATRA, INDONESIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261111_0000061",
+    "fecha_primera_recepcion": "2026-11-11T05:45:46.501427+00:00",
+    "fecha_ultima_observacion": "2026-11-11T05:45:46.501427+00:00"
+  },
+  "USGS:us7000txgv": {
+    "id": "us7000txgv",
+    "fecha_hora_utc": "2026-11-11T05:26:28.222000+00:00",
+    "magnitud": 5.0,
+    "profundidad_km": 30.338,
+    "latitud": 44.3915,
+    "longitud": 149.4063,
+    "pais": "",
+    "ciudad_referencia": "152 km SE of Kuril’sk, Russia",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txgv",
+    "fecha_primera_recepcion": "2026-11-11T05:45:46.501427+00:00",
+    "fecha_ultima_observacion": "2026-11-11T05:45:46.501427+00:00"
   }
 }
