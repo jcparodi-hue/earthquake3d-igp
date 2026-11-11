@@ -76563,7 +76563,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-778",
     "fecha_primera_recepcion": "2026-11-10T23:55:45.340384+00:00",
-    "fecha_ultima_observacion": "2026-11-11T11:25:56.703868+00:00"
+    "fecha_ultima_observacion": "2026-11-11T11:30:48.677793+00:00"
   },
   "EMSC:20261111_0000001": {
     "id": "20261111_0000001",
@@ -77445,6 +77445,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261111_0000146",
     "fecha_primera_recepcion": "2026-11-11T11:25:56.703868+00:00",
-    "fecha_ultima_observacion": "2026-11-11T11:25:56.703868+00:00"
+    "fecha_ultima_observacion": "2026-11-11T11:30:48.677793+00:00"
+  },
+  "USGS:pr71539048": {
+    "id": "pr71539048",
+    "fecha_hora_utc": "2026-11-11T10:51:06.090000+00:00",
+    "magnitud": 2.92,
+    "profundidad_km": 15.98,
+    "latitud": 18.4223333333333,
+    "longitud": -65.1045,
+    "pais": "",
+    "ciudad_referencia": "20 km WNW of Charlotte Amalie, U.S. Virgin Islands",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71539048",
+    "fecha_primera_recepcion": "2026-11-11T11:30:48.677793+00:00",
+    "fecha_ultima_observacion": "2026-11-11T11:30:48.677793+00:00"
   }
 }
