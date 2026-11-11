@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-11T16:51:04.152754+00:00",
+  "actualizado_utc": "2026-11-11T16:55:54.382697+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 88,
   "actualizacion_minutos": 5,
@@ -9,7 +9,7 @@
   "usgs": 483,
   "duplicados_eliminados": 404,
   "eventos_publicados": 2317,
-  "evento_mas_reciente_utc": "2026-11-11T16:33:13.163110+00:00",
+  "evento_mas_reciente_utc": "2026-11-11T16:33:13.180000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 16,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-10T20:37:14+00:00",
-      "antiguedad_evento_mas_reciente_min": 1213.8
+      "antiguedad_evento_mas_reciente_min": 1218.7
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,8 +26,8 @@
       "eventos_validos": 2150,
       "eventos_recibidos": 2151,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-11-11T16:33:13.163110+00:00",
-      "antiguedad_evento_mas_reciente_min": 17.8
+      "evento_mas_reciente_utc": "2026-11-11T16:33:13.180000+00:00",
+      "antiguedad_evento_mas_reciente_min": 22.7
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 486,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-11T16:27:06.604000+00:00",
-      "antiguedad_evento_mas_reciente_min": 24.0
+      "antiguedad_evento_mas_reciente_min": 28.8
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261111_0000223",
-      "fecha_hora_utc": "2026-11-11T16:33:13.163110+00:00",
-      "magnitud": 2.7,
-      "profundidad_km": 11.6,
-      "latitud": 36.8802,
-      "longitud": 27.009,
+      "fecha_hora_utc": "2026-11-11T16:33:13.180000+00:00",
+      "magnitud": 2.6,
+      "profundidad_km": 15.7,
+      "latitud": 36.829,
+      "longitud": 27.0019,
       "pais": "",
       "ciudad_referencia": "DODECANESE IS.-TURKEY BORDER REG",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-11T16:51:04.152754+00:00"
+    "hora_consulta_utc": "2026-11-11T16:55:54.382697+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-11T16:51:04.152754+00:00",
+  "updated_utc": "2026-11-11T16:55:54.382697+00:00",
   "combined_after_dedup": 2317
 }
