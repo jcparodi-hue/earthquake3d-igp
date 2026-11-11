@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-11T16:55:54.382697+00:00",
+  "actualizado_utc": "2026-11-11T17:00:57.210204+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 88,
   "actualizacion_minutos": 5,
   "igp": 88,
   "emsc": 2150,
-  "usgs": 483,
-  "duplicados_eliminados": 404,
+  "usgs": 484,
+  "duplicados_eliminados": 405,
   "eventos_publicados": 2317,
-  "evento_mas_reciente_utc": "2026-11-11T16:33:13.180000+00:00",
+  "evento_mas_reciente_utc": "2026-11-11T16:44:37.386000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 16,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-10T20:37:14+00:00",
-      "antiguedad_evento_mas_reciente_min": 1218.7
+      "antiguedad_evento_mas_reciente_min": 1223.7
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2150,
       "eventos_recibidos": 2151,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-11-11T16:33:13.180000+00:00",
-      "antiguedad_evento_mas_reciente_min": 22.7
+      "evento_mas_reciente_utc": "2026-11-11T16:44:37.386000+00:00",
+      "antiguedad_evento_mas_reciente_min": 16.3
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 483,
-      "eventos_recibidos": 486,
+      "eventos_validos": 484,
+      "eventos_recibidos": 487,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-11T16:27:06.604000+00:00",
-      "antiguedad_evento_mas_reciente_min": 28.8
+      "evento_mas_reciente_utc": "2026-11-11T16:44:37.386000+00:00",
+      "antiguedad_evento_mas_reciente_min": 16.3
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-778"
     },
     "emsc": {
-      "id": "20261111_0000223",
-      "fecha_hora_utc": "2026-11-11T16:33:13.180000+00:00",
-      "magnitud": 2.6,
-      "profundidad_km": 15.7,
-      "latitud": 36.829,
-      "longitud": 27.0019,
+      "id": "20261111_0000226",
+      "fecha_hora_utc": "2026-11-11T16:44:37.386000+00:00",
+      "magnitud": 2.5,
+      "profundidad_km": 5.0,
+      "latitud": 28.9086,
+      "longitud": -99.0225,
       "pais": "",
-      "ciudad_referencia": "DODECANESE IS.-TURKEY BORDER REG",
+      "ciudad_referencia": "SOUTHERN TEXAS",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261111_0000223"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261111_0000226"
     },
     "usgs": {
-      "id": "aka2026wjfuiv",
-      "fecha_hora_utc": "2026-11-11T16:27:06.604000+00:00",
+      "id": "us7000txkp",
+      "fecha_hora_utc": "2026-11-11T16:44:37.386000+00:00",
       "magnitud": 2.5,
-      "profundidad_km": 17.3,
-      "latitud": 63.297,
-      "longitud": -151.547,
+      "profundidad_km": 5.0,
+      "latitud": 28.9086,
+      "longitud": -99.0225,
       "pais": "",
-      "ciudad_referencia": "28 km SSE of Denali National Park, Alaska",
+      "ciudad_referencia": "7 km E of North Pearsall, Texas",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wjfuiv"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txkp"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-11T16:55:54.382697+00:00"
+    "hora_consulta_utc": "2026-11-11T17:00:57.210204+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-11T16:55:54.382697+00:00",
+  "updated_utc": "2026-11-11T17:00:57.210204+00:00",
   "combined_after_dedup": 2317
 }
