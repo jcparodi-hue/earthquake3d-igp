@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-11T18:20:48.313696+00:00",
+  "actualizado_utc": "2026-11-11T18:25:44.928358+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 88,
   "actualizacion_minutos": 5,
@@ -18,7 +18,7 @@
       "eventos_recibidos": 16,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-10T20:37:14+00:00",
-      "antiguedad_evento_mas_reciente_min": 1303.6
+      "antiguedad_evento_mas_reciente_min": 1308.5
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -27,7 +27,7 @@
       "eventos_recibidos": 2157,
       "invalidos_rechazados": 1,
       "evento_mas_reciente_utc": "2026-11-11T17:45:09+00:00",
-      "antiguedad_evento_mas_reciente_min": 35.7
+      "antiguedad_evento_mas_reciente_min": 40.6
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -35,8 +35,8 @@
       "eventos_validos": 483,
       "eventos_recibidos": 486,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-11T17:38:23.985000+00:00",
-      "antiguedad_evento_mas_reciente_min": 42.4
+      "evento_mas_reciente_utc": "2026-11-11T17:38:22.582000+00:00",
+      "antiguedad_evento_mas_reciente_min": 47.4
     }
   },
   "ultimo_evento": {
@@ -66,13 +66,13 @@
     },
     "usgs": {
       "id": "us7000txm8",
-      "fecha_hora_utc": "2026-11-11T17:38:23.985000+00:00",
+      "fecha_hora_utc": "2026-11-11T17:38:22.582000+00:00",
       "magnitud": 5.1,
-      "profundidad_km": 71.547,
-      "latitud": -6.3016,
-      "longitud": 154.7371,
+      "profundidad_km": 58.822,
+      "latitud": -6.3288,
+      "longitud": 154.7612,
       "pais": "",
-      "ciudad_referencia": "82 km W of Panguna, Papua New Guinea",
+      "ciudad_referencia": "80 km W of Panguna, Papua New Guinea",
       "fuente": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txm8"
     }
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-11T18:20:48.313696+00:00"
+    "hora_consulta_utc": "2026-11-11T18:25:44.928358+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-11T18:20:48.313696+00:00",
+  "updated_utc": "2026-11-11T18:25:44.928358+00:00",
   "combined_after_dedup": 2324
 }
