@@ -76563,7 +76563,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-778",
     "fecha_primera_recepcion": "2026-11-10T23:55:45.340384+00:00",
-    "fecha_ultima_observacion": "2026-11-11T06:00:52.176002+00:00"
+    "fecha_ultima_observacion": "2026-11-11T06:05:54.099658+00:00"
   },
   "EMSC:20261111_0000001": {
     "id": "20261111_0000001",
@@ -76997,7 +76997,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txgv",
     "fecha_primera_recepcion": "2026-11-11T05:45:46.501427+00:00",
-    "fecha_ultima_observacion": "2026-11-11T06:00:52.176002+00:00"
+    "fecha_ultima_observacion": "2026-11-11T06:05:54.099658+00:00"
   },
   "EMSC:20261111_0000063": {
     "id": "20261111_0000063",
@@ -77026,5 +77026,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261111_0000066",
     "fecha_primera_recepcion": "2026-11-11T06:00:52.176002+00:00",
     "fecha_ultima_observacion": "2026-11-11T06:00:52.176002+00:00"
+  },
+  "EMSC:20261111_0000069": {
+    "id": "20261111_0000069",
+    "fecha_hora_utc": "2026-11-11T05:56:16+00:00",
+    "magnitud": 3.5,
+    "profundidad_km": 25.9,
+    "latitud": -28.72,
+    "longitud": -71.38,
+    "pais": "",
+    "ciudad_referencia": "OFFSHORE ATACAMA, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261111_0000069",
+    "fecha_primera_recepcion": "2026-11-11T06:05:54.099658+00:00",
+    "fecha_ultima_observacion": "2026-11-11T06:05:54.099658+00:00"
   }
 }
