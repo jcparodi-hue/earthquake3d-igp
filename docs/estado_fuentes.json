@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-11T17:36:01.069464+00:00",
+  "actualizado_utc": "2026-11-11T17:40:57.577178+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 88,
   "actualizacion_minutos": 5,
@@ -18,7 +18,7 @@
       "eventos_recibidos": 16,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-10T20:37:14+00:00",
-      "antiguedad_evento_mas_reciente_min": 1258.8
+      "antiguedad_evento_mas_reciente_min": 1263.7
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -27,7 +27,7 @@
       "eventos_recibidos": 2157,
       "invalidos_rechazados": 1,
       "evento_mas_reciente_utc": "2026-11-11T17:30:33+00:00",
-      "antiguedad_evento_mas_reciente_min": 5.5
+      "antiguedad_evento_mas_reciente_min": 10.4
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -35,8 +35,8 @@
       "eventos_validos": 482,
       "eventos_recibidos": 485,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-11T16:44:37.386000+00:00",
-      "antiguedad_evento_mas_reciente_min": 51.4
+      "evento_mas_reciente_utc": "2026-11-11T16:44:33.750000+00:00",
+      "antiguedad_evento_mas_reciente_min": 56.4
     }
   },
   "ultimo_evento": {
@@ -65,24 +65,24 @@
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261111_0000244"
     },
     "usgs": {
-      "id": "us7000txkp",
-      "fecha_hora_utc": "2026-11-11T16:44:37.386000+00:00",
-      "magnitud": 2.5,
-      "profundidad_km": 5.0,
-      "latitud": 28.9086,
-      "longitud": -99.0225,
+      "id": "tx2026wfribb",
+      "fecha_hora_utc": "2026-11-11T16:44:33.750000+00:00",
+      "magnitud": 2.6,
+      "profundidad_km": 8.4451,
+      "latitud": 28.87,
+      "longitud": -98.943,
       "pais": "",
-      "ciudad_referencia": "7 km E of North Pearsall, Texas",
+      "ciudad_referencia": "15 km E of Pearsall, Texas",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txkp"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026wfribb"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-11T17:36:01.069464+00:00"
+    "hora_consulta_utc": "2026-11-11T17:40:57.577178+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-11T17:36:01.069464+00:00",
+  "updated_utc": "2026-11-11T17:40:57.577178+00:00",
   "combined_after_dedup": 2323
 }
