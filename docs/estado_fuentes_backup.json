@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-11T13:51:03.889200+00:00",
+  "actualizado_utc": "2026-11-11T13:55:44.602262+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 88,
   "actualizacion_minutos": 5,
@@ -9,7 +9,7 @@
   "usgs": 480,
   "duplicados_eliminados": 403,
   "eventos_publicados": 2304,
-  "evento_mas_reciente_utc": "2026-11-11T13:48:07.942000+00:00",
+  "evento_mas_reciente_utc": "2026-11-11T13:48:08.117000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 16,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-10T20:37:14+00:00",
-      "antiguedad_evento_mas_reciente_min": 1033.8
+      "antiguedad_evento_mas_reciente_min": 1038.5
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -27,7 +27,7 @@
       "eventos_recibidos": 2140,
       "invalidos_rechazados": 1,
       "evento_mas_reciente_utc": "2026-11-11T13:45:38+00:00",
-      "antiguedad_evento_mas_reciente_min": 5.4
+      "antiguedad_evento_mas_reciente_min": 10.1
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -35,8 +35,8 @@
       "eventos_validos": 480,
       "eventos_recibidos": 483,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-11T13:48:07.942000+00:00",
-      "antiguedad_evento_mas_reciente_min": 2.9
+      "evento_mas_reciente_utc": "2026-11-11T13:48:08.117000+00:00",
+      "antiguedad_evento_mas_reciente_min": 7.6
     }
   },
   "ultimo_evento": {
@@ -56,8 +56,8 @@
       "id": "20261111_0000180",
       "fecha_hora_utc": "2026-11-11T13:45:38+00:00",
       "magnitud": 3.3,
-      "profundidad_km": 6.9,
-      "latitud": -33.74,
+      "profundidad_km": 11.8,
+      "latitud": -33.71,
       "longitud": -70.1,
       "pais": "",
       "ciudad_referencia": "REGION METROPOLITANA, CHILE",
@@ -66,10 +66,10 @@
     },
     "usgs": {
       "id": "aka2026wjamms",
-      "fecha_hora_utc": "2026-11-11T13:48:07.942000+00:00",
-      "magnitud": 2.5,
+      "fecha_hora_utc": "2026-11-11T13:48:08.117000+00:00",
+      "magnitud": 2.8,
       "profundidad_km": 5.0,
-      "latitud": 68.034,
+      "latitud": 68.052,
       "longitud": -147.39,
       "pais": "",
       "ciudad_referencia": "77 km W of Arctic Village, Alaska",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-11T13:51:03.889200+00:00"
+    "hora_consulta_utc": "2026-11-11T13:55:44.602262+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-11T13:51:03.889200+00:00",
+  "updated_utc": "2026-11-11T13:55:44.602262+00:00",
   "combined_after_dedup": 2304
 }
