@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-11T19:50:49.875622+00:00",
+  "actualizado_utc": "2026-11-11T19:55:50.238583+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 88,
   "actualizacion_minutos": 5,
   "igp": 88,
-  "emsc": 2156,
+  "emsc": 2157,
   "usgs": 483,
   "duplicados_eliminados": 401,
-  "eventos_publicados": 2326,
-  "evento_mas_reciente_utc": "2026-11-11T19:38:00+00:00",
+  "eventos_publicados": 2327,
+  "evento_mas_reciente_utc": "2026-11-11T19:50:56+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 16,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-10T20:37:14+00:00",
-      "antiguedad_evento_mas_reciente_min": 1393.6
+      "antiguedad_evento_mas_reciente_min": 1398.6
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2156,
-      "eventos_recibidos": 2157,
+      "eventos_validos": 2157,
+      "eventos_recibidos": 2158,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-11-11T19:38:00+00:00",
-      "antiguedad_evento_mas_reciente_min": 12.8
+      "evento_mas_reciente_utc": "2026-11-11T19:50:56+00:00",
+      "antiguedad_evento_mas_reciente_min": 4.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 486,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-11T19:21:17.374000+00:00",
-      "antiguedad_evento_mas_reciente_min": 29.5
+      "antiguedad_evento_mas_reciente_min": 34.5
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-778"
     },
     "emsc": {
-      "id": "20261111_0000270",
-      "fecha_hora_utc": "2026-11-11T19:38:00+00:00",
-      "magnitud": 2.5,
-      "profundidad_km": 10.0,
-      "latitud": 32.289,
-      "longitud": 78.433,
+      "id": "20261111_0000272",
+      "fecha_hora_utc": "2026-11-11T19:50:56+00:00",
+      "magnitud": 3.4,
+      "profundidad_km": 40.0,
+      "latitud": -23.02,
+      "longitud": -70.23,
       "pais": "",
-      "ciudad_referencia": "KASHMIR-XIZANG BORDER REGION",
+      "ciudad_referencia": "ANTOFAGASTA, CHILE",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261111_0000270"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261111_0000272"
     },
     "usgs": {
       "id": "us7000txmq",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-11T19:50:49.875622+00:00"
+    "hora_consulta_utc": "2026-11-11T19:55:50.238583+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-11T19:50:49.875622+00:00",
-  "combined_after_dedup": 2326
+  "updated_utc": "2026-11-11T19:55:50.238583+00:00",
+  "combined_after_dedup": 2327
 }
