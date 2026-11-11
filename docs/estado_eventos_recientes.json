@@ -76563,7 +76563,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-778",
     "fecha_primera_recepcion": "2026-11-10T23:55:45.340384+00:00",
-    "fecha_ultima_observacion": "2026-11-11T06:35:51.861072+00:00"
+    "fecha_ultima_observacion": "2026-11-11T06:40:35.323057+00:00"
   },
   "EMSC:20261111_0000001": {
     "id": "20261111_0000001",
@@ -77096,5 +77096,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261111_0000075",
     "fecha_primera_recepcion": "2026-11-11T06:30:42.857217+00:00",
     "fecha_ultima_observacion": "2026-11-11T06:35:51.861072+00:00"
+  },
+  "EMSC:20261111_0000076": {
+    "id": "20261111_0000076",
+    "fecha_hora_utc": "2026-11-11T06:23:55+00:00",
+    "magnitud": 4.3,
+    "profundidad_km": 16.0,
+    "latitud": 13.8953,
+    "longitud": -82.3621,
+    "pais": "",
+    "ciudad_referencia": "CARIBBEAN SEA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261111_0000076",
+    "fecha_primera_recepcion": "2026-11-11T06:40:35.323057+00:00",
+    "fecha_ultima_observacion": "2026-11-11T06:40:35.323057+00:00"
+  },
+  "USGS:us7000txhi": {
+    "id": "us7000txhi",
+    "fecha_hora_utc": "2026-11-11T06:21:45.383000+00:00",
+    "magnitud": 5.1,
+    "profundidad_km": 10.0,
+    "latitud": -62.4284,
+    "longitud": 155.0206,
+    "pais": "",
+    "ciudad_referencia": "Balleny Islands region",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txhi",
+    "fecha_primera_recepcion": "2026-11-11T06:40:35.323057+00:00",
+    "fecha_ultima_observacion": "2026-11-11T06:40:35.323057+00:00"
   }
 }
