@@ -76563,7 +76563,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-778",
     "fecha_primera_recepcion": "2026-11-10T23:55:45.340384+00:00",
-    "fecha_ultima_observacion": "2026-11-11T21:31:00.271278+00:00"
+    "fecha_ultima_observacion": "2026-11-11T21:36:04.617658+00:00"
   },
   "EMSC:20261111_0000001": {
     "id": "20261111_0000001",
@@ -78229,6 +78229,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261111_0000285",
     "fecha_primera_recepcion": "2026-11-11T21:25:42.804717+00:00",
-    "fecha_ultima_observacion": "2026-11-11T21:31:00.271278+00:00"
+    "fecha_ultima_observacion": "2026-11-11T21:36:04.617658+00:00"
+  },
+  "USGS:us7000txns": {
+    "id": "us7000txns",
+    "fecha_hora_utc": "2026-11-11T21:15:22.109000+00:00",
+    "magnitud": 4.4,
+    "profundidad_km": 10.0,
+    "latitud": 13.7841,
+    "longitud": -92.9294,
+    "pais": "",
+    "ciudad_referencia": "112 km SW of Brisas Barra de Suchiate, Mexico",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txns",
+    "fecha_primera_recepcion": "2026-11-11T21:36:04.617658+00:00",
+    "fecha_ultima_observacion": "2026-11-11T21:36:04.617658+00:00"
   }
 }
