@@ -1,14 +1,14 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-11T17:55:36.907031+00:00",
+  "actualizado_utc": "2026-11-11T18:01:02.793217+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 88,
   "actualizacion_minutos": 5,
   "igp": 88,
-  "emsc": 2159,
+  "emsc": 2158,
   "usgs": 483,
   "duplicados_eliminados": 403,
-  "eventos_publicados": 2327,
+  "eventos_publicados": 2326,
   "evento_mas_reciente_utc": "2026-11-11T17:45:09+00:00",
   "salud_fuentes": {
     "igp": {
@@ -18,16 +18,16 @@
       "eventos_recibidos": 16,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-10T20:37:14+00:00",
-      "antiguedad_evento_mas_reciente_min": 1278.4
+      "antiguedad_evento_mas_reciente_min": 1283.8
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2159,
-      "eventos_recibidos": 2160,
+      "eventos_validos": 2158,
+      "eventos_recibidos": 2159,
       "invalidos_rechazados": 1,
       "evento_mas_reciente_utc": "2026-11-11T17:45:09+00:00",
-      "antiguedad_evento_mas_reciente_min": 10.5
+      "antiguedad_evento_mas_reciente_min": 15.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -35,8 +35,8 @@
       "eventos_validos": 483,
       "eventos_recibidos": 486,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-11T16:44:33.750000+00:00",
-      "antiguedad_evento_mas_reciente_min": 71.1
+      "evento_mas_reciente_utc": "2026-11-11T17:38:23.985000+00:00",
+      "antiguedad_evento_mas_reciente_min": 22.6
     }
   },
   "ultimo_evento": {
@@ -65,24 +65,24 @@
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261111_0000248"
     },
     "usgs": {
-      "id": "tx2026wfribb",
-      "fecha_hora_utc": "2026-11-11T16:44:33.750000+00:00",
-      "magnitud": 2.6,
-      "profundidad_km": 8.4451,
-      "latitud": 28.87,
-      "longitud": -98.943,
+      "id": "us7000txm8",
+      "fecha_hora_utc": "2026-11-11T17:38:23.985000+00:00",
+      "magnitud": 5.1,
+      "profundidad_km": 71.547,
+      "latitud": -6.3016,
+      "longitud": 154.7371,
       "pais": "",
-      "ciudad_referencia": "15 km E of Pearsall, Texas",
+      "ciudad_referencia": "82 km W of Panguna, Papua New Guinea",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026wfribb"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txm8"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-11T17:55:36.907031+00:00"
+    "hora_consulta_utc": "2026-11-11T18:01:02.793217+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-11T17:55:36.907031+00:00",
-  "combined_after_dedup": 2327
+  "updated_utc": "2026-11-11T18:01:02.793217+00:00",
+  "combined_after_dedup": 2326
 }
