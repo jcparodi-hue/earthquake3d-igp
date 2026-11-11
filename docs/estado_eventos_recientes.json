@@ -76563,7 +76563,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-778",
     "fecha_primera_recepcion": "2026-11-10T23:55:45.340384+00:00",
-    "fecha_ultima_observacion": "2026-11-11T04:15:53.098460+00:00"
+    "fecha_ultima_observacion": "2026-11-11T04:20:54.322770+00:00"
   },
   "EMSC:20261111_0000001": {
     "id": "20261111_0000001",
@@ -76830,5 +76830,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261111_0000042",
     "fecha_primera_recepcion": "2026-11-11T04:00:59.315897+00:00",
     "fecha_ultima_observacion": "2026-11-11T04:15:53.098460+00:00"
+  },
+  "EMSC:20261111_0000046": {
+    "id": "20261111_0000046",
+    "fecha_hora_utc": "2026-11-11T03:56:52.372000+00:00",
+    "magnitud": 4.6,
+    "profundidad_km": 10.0,
+    "latitud": 36.1492,
+    "longitud": 142.185,
+    "pais": "",
+    "ciudad_referencia": "OFF EAST COAST OF HONSHU, JAPAN",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261111_0000046",
+    "fecha_primera_recepcion": "2026-11-11T04:20:54.322770+00:00",
+    "fecha_ultima_observacion": "2026-11-11T04:20:54.322770+00:00"
+  },
+  "USGS:us7000txgg": {
+    "id": "us7000txgg",
+    "fecha_hora_utc": "2026-11-11T03:56:52.372000+00:00",
+    "magnitud": 4.6,
+    "profundidad_km": 10.0,
+    "latitud": 36.1492,
+    "longitud": 142.185,
+    "pais": "",
+    "ciudad_referencia": "130 km ENE of Hasaki, Japan",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txgg",
+    "fecha_primera_recepcion": "2026-11-11T04:20:54.322770+00:00",
+    "fecha_ultima_observacion": "2026-11-11T04:20:54.322770+00:00"
   }
 }
