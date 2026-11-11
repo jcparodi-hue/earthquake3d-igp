@@ -76563,7 +76563,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-778",
     "fecha_primera_recepcion": "2026-11-10T23:55:45.340384+00:00",
-    "fecha_ultima_observacion": "2026-11-11T21:20:42.690005+00:00"
+    "fecha_ultima_observacion": "2026-11-11T21:25:42.804717+00:00"
   },
   "EMSC:20261111_0000001": {
     "id": "20261111_0000001",
@@ -78215,6 +78215,20 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wjnswr",
     "fecha_primera_recepcion": "2026-11-11T20:57:46.468870+00:00",
-    "fecha_ultima_observacion": "2026-11-11T21:20:42.690005+00:00"
+    "fecha_ultima_observacion": "2026-11-11T21:25:42.804717+00:00"
+  },
+  "EMSC:20261111_0000285": {
+    "id": "20261111_0000285",
+    "fecha_hora_utc": "2026-11-11T21:15:24+00:00",
+    "magnitud": 4.3,
+    "profundidad_km": 18.0,
+    "latitud": 13.98,
+    "longitud": -92.924,
+    "pais": "",
+    "ciudad_referencia": "OFFSHORE CHIAPAS, MEXICO",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261111_0000285",
+    "fecha_primera_recepcion": "2026-11-11T21:25:42.804717+00:00",
+    "fecha_ultima_observacion": "2026-11-11T21:25:42.804717+00:00"
   }
 }
