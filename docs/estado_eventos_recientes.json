@@ -76563,7 +76563,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-778",
     "fecha_primera_recepcion": "2026-11-10T23:55:45.340384+00:00",
-    "fecha_ultima_observacion": "2026-11-11T22:15:43.601180+00:00"
+    "fecha_ultima_observacion": "2026-11-11T22:20:48.776820+00:00"
   },
   "EMSC:20261111_0000001": {
     "id": "20261111_0000001",
@@ -78272,5 +78272,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261111_0000291",
     "fecha_primera_recepcion": "2026-11-11T21:55:55.731665+00:00",
     "fecha_ultima_observacion": "2026-11-11T22:15:43.601180+00:00"
+  },
+  "EMSC:20261111_0000296": {
+    "id": "20261111_0000296",
+    "fecha_hora_utc": "2026-11-11T22:13:12+00:00",
+    "magnitud": 2.9,
+    "profundidad_km": 7.0,
+    "latitud": 37.5462,
+    "longitud": 35.6303,
+    "pais": "",
+    "ciudad_referencia": "CENTRAL TURKEY",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261111_0000296",
+    "fecha_primera_recepcion": "2026-11-11T22:20:48.776820+00:00",
+    "fecha_ultima_observacion": "2026-11-11T22:20:48.776820+00:00"
+  },
+  "USGS:us7000txpa": {
+    "id": "us7000txpa",
+    "fecha_hora_utc": "2026-11-11T22:03:42.610000+00:00",
+    "magnitud": 4.9,
+    "profundidad_km": 10.0,
+    "latitud": -7.957,
+    "longitud": -13.4059,
+    "pais": "",
+    "ciudad_referencia": "110 km E of Georgetown, Saint Helena",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txpa",
+    "fecha_primera_recepcion": "2026-11-11T22:20:48.776820+00:00",
+    "fecha_ultima_observacion": "2026-11-11T22:20:48.776820+00:00"
   }
 }
