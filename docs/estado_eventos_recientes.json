@@ -79056,5 +79056,47 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261112_0000084",
     "fecha_primera_recepcion": "2026-11-12T08:01:09.173401+00:00",
     "fecha_ultima_observacion": "2026-11-12T08:20:57.607153+00:00"
+  },
+  "IGP:2026-781": {
+    "id": "2026-781",
+    "fecha_hora_utc": "2026-11-12T06:03:52+00:00",
+    "magnitud": 3.3,
+    "profundidad_km": 11.0,
+    "latitud": -12.22,
+    "longitud": -75.33,
+    "pais": "Perú",
+    "ciudad_referencia": "14 km al NO de Huasicancha, Huancayo - Junín",
+    "fuente": "IGP",
+    "url": "https://ultimosismo.igp.gob.pe/evento/2026-781",
+    "fecha_primera_recepcion": "2026-11-12T08:25:45.968951+00:00",
+    "fecha_ultima_observacion": "2026-11-12T08:25:45.968951+00:00"
+  },
+  "EMSC:20261112_0000087": {
+    "id": "20261112_0000087",
+    "fecha_hora_utc": "2026-11-12T08:18:29+00:00",
+    "magnitud": 3.1,
+    "profundidad_km": 8.0,
+    "latitud": 46.2085,
+    "longitud": -124.1043,
+    "pais": "",
+    "ciudad_referencia": "OFFSHORE OREGON",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261112_0000087",
+    "fecha_primera_recepcion": "2026-11-12T08:25:45.968951+00:00",
+    "fecha_ultima_observacion": "2026-11-12T08:25:45.968951+00:00"
+  },
+  "USGS:uw714138021": {
+    "id": "uw714138021",
+    "fecha_hora_utc": "2026-11-12T08:18:29+00:00",
+    "magnitud": 3.14031291007996,
+    "profundidad_km": 8.03999996185303,
+    "latitud": 46.2084999084473,
+    "longitud": -124.104331970215,
+    "pais": "",
+    "ciudad_referencia": "11 km W of Hammond, Oregon",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714138021",
+    "fecha_primera_recepcion": "2026-11-12T08:25:45.968951+00:00",
+    "fecha_ultima_observacion": "2026-11-12T08:25:45.968951+00:00"
   }
 }
