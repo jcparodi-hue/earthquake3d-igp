@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-12T09:10:48.287195+00:00",
+  "actualizado_utc": "2026-11-12T09:15:56.674513+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 91,
   "actualizacion_minutos": 5,
   "igp": 91,
-  "emsc": 2137,
+  "emsc": 2138,
   "usgs": 488,
   "duplicados_eliminados": 404,
-  "eventos_publicados": 2312,
-  "evento_mas_reciente_utc": "2026-11-12T09:04:11+00:00",
+  "eventos_publicados": 2313,
+  "evento_mas_reciente_utc": "2026-11-12T09:08:33+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 19,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-12T06:03:52+00:00",
-      "antiguedad_evento_mas_reciente_min": 186.9
+      "antiguedad_evento_mas_reciente_min": 192.1
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2137,
-      "eventos_recibidos": 2138,
+      "eventos_validos": 2138,
+      "eventos_recibidos": 2139,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-11-12T09:04:11+00:00",
-      "antiguedad_evento_mas_reciente_min": 6.6
+      "evento_mas_reciente_utc": "2026-11-12T09:08:33+00:00",
+      "antiguedad_evento_mas_reciente_min": 7.4
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 491,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-12T08:26:40.140000+00:00",
-      "antiguedad_evento_mas_reciente_min": 44.1
+      "antiguedad_evento_mas_reciente_min": 49.3
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-781"
     },
     "emsc": {
-      "id": "20261112_0000102",
-      "fecha_hora_utc": "2026-11-12T09:04:11+00:00",
-      "magnitud": 4.3,
-      "profundidad_km": 6.2,
-      "latitud": 22.6912,
-      "longitud": 78.2028,
+      "id": "20261112_0000103",
+      "fecha_hora_utc": "2026-11-12T09:08:33+00:00",
+      "magnitud": 2.6,
+      "profundidad_km": 7.0,
+      "latitud": 8.2955,
+      "longitud": -82.9961,
       "pais": "",
-      "ciudad_referencia": "MADHYA PRADESH, INDIA",
+      "ciudad_referencia": "PANAMA-COSTA RICA BORDER REGION",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261112_0000102"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261112_0000103"
     },
     "usgs": {
       "id": "us7000txrm",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-12T09:10:48.287195+00:00"
+    "hora_consulta_utc": "2026-11-12T09:15:56.674513+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-12T09:10:48.287195+00:00",
-  "combined_after_dedup": 2312
+  "updated_utc": "2026-11-12T09:15:56.674513+00:00",
+  "combined_after_dedup": 2313
 }
