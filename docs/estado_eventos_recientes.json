@@ -79685,7 +79685,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wlbocy",
     "fecha_primera_recepcion": "2026-11-12T16:25:58.799413+00:00",
-    "fecha_ultima_observacion": "2026-11-12T19:00:44.192695+00:00"
+    "fecha_ultima_observacion": "2026-11-12T19:05:35.677283+00:00"
   },
   "EMSC:20261112_0000212": {
     "id": "20261112_0000212",
@@ -79713,7 +79713,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-782",
     "fecha_primera_recepcion": "2026-11-12T16:55:58.128503+00:00",
-    "fecha_ultima_observacion": "2026-11-12T19:00:44.192695+00:00"
+    "fecha_ultima_observacion": "2026-11-12T19:05:35.677283+00:00"
   },
   "EMSC:20261112_0000226": {
     "id": "20261112_0000226",
@@ -79798,5 +79798,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261112_0000242",
     "fecha_primera_recepcion": "2026-11-12T19:00:44.192695+00:00",
     "fecha_ultima_observacion": "2026-11-12T19:00:44.192695+00:00"
+  },
+  "EMSC:20261112_0000243": {
+    "id": "20261112_0000243",
+    "fecha_hora_utc": "2026-11-12T18:56:59.300000+00:00",
+    "magnitud": 4.4,
+    "profundidad_km": 10.0,
+    "latitud": 30.16,
+    "longitud": 80.05,
+    "pais": "",
+    "ciudad_referencia": "WESTERN XIZANG-INDIA BORDER REG.",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261112_0000243",
+    "fecha_primera_recepcion": "2026-11-12T19:05:35.677283+00:00",
+    "fecha_ultima_observacion": "2026-11-12T19:05:35.677283+00:00"
   }
 }
