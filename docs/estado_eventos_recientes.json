@@ -76563,7 +76563,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-778",
     "fecha_primera_recepcion": "2026-11-10T23:55:45.340384+00:00",
-    "fecha_ultima_observacion": "2026-11-12T04:35:53.302482+00:00"
+    "fecha_ultima_observacion": "2026-11-12T04:40:58.278180+00:00"
   },
   "EMSC:20261111_0000001": {
     "id": "20261111_0000001",
@@ -78761,7 +78761,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wkdeju",
     "fecha_primera_recepcion": "2026-11-12T04:15:54.626918+00:00",
-    "fecha_ultima_observacion": "2026-11-12T04:35:53.302482+00:00"
+    "fecha_ultima_observacion": "2026-11-12T04:40:58.278180+00:00"
   },
   "EMSC:20261112_0000047": {
     "id": "20261112_0000047",
@@ -78776,5 +78776,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261112_0000047",
     "fecha_primera_recepcion": "2026-11-12T04:25:57.148767+00:00",
     "fecha_ultima_observacion": "2026-11-12T04:35:53.302482+00:00"
+  },
+  "EMSC:20261112_0000050": {
+    "id": "20261112_0000050",
+    "fecha_hora_utc": "2026-11-12T04:21:00+00:00",
+    "magnitud": 3.8,
+    "profundidad_km": 77.4,
+    "latitud": 13.7067,
+    "longitud": -90.2998,
+    "pais": "",
+    "ciudad_referencia": "OFFSHORE GUATEMALA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261112_0000050",
+    "fecha_primera_recepcion": "2026-11-12T04:40:58.278180+00:00",
+    "fecha_ultima_observacion": "2026-11-12T04:40:58.278180+00:00"
   }
 }
