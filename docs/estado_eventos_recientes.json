@@ -76563,7 +76563,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-778",
     "fecha_primera_recepcion": "2026-11-10T23:55:45.340384+00:00",
-    "fecha_ultima_observacion": "2026-11-12T04:46:02.099796+00:00"
+    "fecha_ultima_observacion": "2026-11-12T04:50:48.785066+00:00"
   },
   "EMSC:20261111_0000001": {
     "id": "20261111_0000001",
@@ -78761,7 +78761,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wkdeju",
     "fecha_primera_recepcion": "2026-11-12T04:15:54.626918+00:00",
-    "fecha_ultima_observacion": "2026-11-12T04:46:02.099796+00:00"
+    "fecha_ultima_observacion": "2026-11-12T04:50:48.785066+00:00"
   },
   "EMSC:20261112_0000047": {
     "id": "20261112_0000047",
@@ -78804,5 +78804,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261112_0000051",
     "fecha_primera_recepcion": "2026-11-12T04:46:02.099796+00:00",
     "fecha_ultima_observacion": "2026-11-12T04:46:02.099796+00:00"
+  },
+  "EMSC:20261112_0000053": {
+    "id": "20261112_0000053",
+    "fecha_hora_utc": "2026-11-12T04:43:37+00:00",
+    "magnitud": 3.5,
+    "profundidad_km": 40.0,
+    "latitud": -12.51,
+    "longitud": -77.03,
+    "pais": "",
+    "ciudad_referencia": "NEAR COAST OF CENTRAL PERU",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261112_0000053",
+    "fecha_primera_recepcion": "2026-11-12T04:50:48.785066+00:00",
+    "fecha_ultima_observacion": "2026-11-12T04:50:48.785066+00:00"
   }
 }
