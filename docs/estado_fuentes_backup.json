@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-12T21:40:41.845058+00:00",
+  "actualizado_utc": "2026-11-12T21:46:00.032689+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 92,
   "actualizacion_minutos": 5,
   "igp": 92,
-  "emsc": 2135,
+  "emsc": 2136,
   "usgs": 480,
   "duplicados_eliminados": 397,
-  "eventos_publicados": 2310,
-  "evento_mas_reciente_utc": "2026-11-12T21:16:23+00:00",
+  "eventos_publicados": 2311,
+  "evento_mas_reciente_utc": "2026-11-12T21:27:09.600000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 19,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-12T15:51:59+00:00",
-      "antiguedad_evento_mas_reciente_min": 348.7
+      "antiguedad_evento_mas_reciente_min": 354.0
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2135,
-      "eventos_recibidos": 2138,
+      "eventos_validos": 2136,
+      "eventos_recibidos": 2139,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-12T21:16:23+00:00",
-      "antiguedad_evento_mas_reciente_min": 24.3
+      "evento_mas_reciente_utc": "2026-11-12T21:27:09.600000+00:00",
+      "antiguedad_evento_mas_reciente_min": 18.8
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 485,
       "invalidos_rechazados": 5,
       "evento_mas_reciente_utc": "2026-11-12T20:03:14.062000+00:00",
-      "antiguedad_evento_mas_reciente_min": 97.5
+      "antiguedad_evento_mas_reciente_min": 102.8
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-782"
     },
     "emsc": {
-      "id": "20261112_0000270",
-      "fecha_hora_utc": "2026-11-12T21:16:23+00:00",
-      "magnitud": 4.1,
-      "profundidad_km": 7.0,
-      "latitud": 13.2423,
-      "longitud": -82.6344,
+      "id": "20261112_0000273",
+      "fecha_hora_utc": "2026-11-12T21:27:09.600000+00:00",
+      "magnitud": 2.5,
+      "profundidad_km": 11.0,
+      "latitud": 36.94,
+      "longitud": 21.16,
       "pais": "",
-      "ciudad_referencia": "CARIBBEAN SEA",
+      "ciudad_referencia": "SOUTHERN GREECE",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261112_0000270"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261112_0000273"
     },
     "usgs": {
       "id": "us7000txvw",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-12T21:40:41.845058+00:00"
+    "hora_consulta_utc": "2026-11-12T21:46:00.032689+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-12T21:40:41.845058+00:00",
-  "combined_after_dedup": 2310
+  "updated_utc": "2026-11-12T21:46:00.032689+00:00",
+  "combined_after_dedup": 2311
 }
