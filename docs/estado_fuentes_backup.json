@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-12T06:25:47.109911+00:00",
+  "actualizado_utc": "2026-11-12T06:30:43.205509+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 88,
   "actualizacion_minutos": 5,
@@ -18,7 +18,7 @@
       "eventos_recibidos": 16,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-10T20:37:14+00:00",
-      "antiguedad_evento_mas_reciente_min": 2028.6
+      "antiguedad_evento_mas_reciente_min": 2033.5
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,8 +26,8 @@
       "eventos_validos": 2145,
       "eventos_recibidos": 2146,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-11-12T06:04:19+00:00",
-      "antiguedad_evento_mas_reciente_min": 21.5
+      "evento_mas_reciente_utc": "2026-11-12T06:04:21+00:00",
+      "antiguedad_evento_mas_reciente_min": 26.4
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 494,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-12T06:14:36.292000+00:00",
-      "antiguedad_evento_mas_reciente_min": 11.2
+      "antiguedad_evento_mas_reciente_min": 16.1
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261112_0000064",
-      "fecha_hora_utc": "2026-11-12T06:04:19+00:00",
-      "magnitud": 4.0,
-      "profundidad_km": 59.3,
-      "latitud": 27.885,
-      "longitud": 87.7937,
+      "fecha_hora_utc": "2026-11-12T06:04:21+00:00",
+      "magnitud": 3.0,
+      "profundidad_km": 60.0,
+      "latitud": 27.691,
+      "longitud": 87.94,
       "pais": "",
       "ciudad_referencia": "NEPAL",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-12T06:25:47.109911+00:00"
+    "hora_consulta_utc": "2026-11-12T06:30:43.205509+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-12T06:25:47.109911+00:00",
+  "updated_utc": "2026-11-12T06:30:43.205509+00:00",
   "combined_after_dedup": 2323
 }
