@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-12T10:16:00.355400+00:00",
+  "actualizado_utc": "2026-11-12T10:20:59.843895+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 91,
   "actualizacion_minutos": 5,
   "igp": 91,
   "emsc": 2128,
-  "usgs": 488,
+  "usgs": 489,
   "duplicados_eliminados": 405,
-  "eventos_publicados": 2302,
-  "evento_mas_reciente_utc": "2026-11-12T09:35:33+00:00",
+  "eventos_publicados": 2303,
+  "evento_mas_reciente_utc": "2026-11-12T10:17:31.050000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 19,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-12T06:03:52+00:00",
-      "antiguedad_evento_mas_reciente_min": 252.1
+      "antiguedad_evento_mas_reciente_min": 257.1
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -27,16 +27,16 @@
       "eventos_recibidos": 2129,
       "invalidos_rechazados": 1,
       "evento_mas_reciente_utc": "2026-11-12T09:35:33+00:00",
-      "antiguedad_evento_mas_reciente_min": 40.5
+      "antiguedad_evento_mas_reciente_min": 45.4
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 488,
-      "eventos_recibidos": 491,
+      "eventos_validos": 489,
+      "eventos_recibidos": 492,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-12T09:20:18.720000+00:00",
-      "antiguedad_evento_mas_reciente_min": 55.7
+      "evento_mas_reciente_utc": "2026-11-12T10:17:31.050000+00:00",
+      "antiguedad_evento_mas_reciente_min": 3.5
     }
   },
   "ultimo_evento": {
@@ -65,24 +65,24 @@
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261112_0000110"
     },
     "usgs": {
-      "id": "tx2026wgyidv",
-      "fecha_hora_utc": "2026-11-12T09:20:18.720000+00:00",
-      "magnitud": 3.2,
-      "profundidad_km": 7.8676,
-      "latitud": 28.877,
-      "longitud": -98.943,
+      "id": "aka2026wkpmlh",
+      "fecha_hora_utc": "2026-11-12T10:17:31.050000+00:00",
+      "magnitud": 2.7,
+      "profundidad_km": 5.0,
+      "latitud": 60.328,
+      "longitud": -143.639,
       "pais": "",
-      "ciudad_referencia": "14 km E of Pearsall, Texas",
+      "ciudad_referencia": "119 km ESE of Cordova, Alaska",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026wgyidv"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wkpmlh"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-12T10:16:00.355400+00:00"
+    "hora_consulta_utc": "2026-11-12T10:20:59.843895+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-12T10:16:00.355400+00:00",
-  "combined_after_dedup": 2302
+  "updated_utc": "2026-11-12T10:20:59.843895+00:00",
+  "combined_after_dedup": 2303
 }
