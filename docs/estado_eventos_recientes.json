@@ -76563,7 +76563,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-778",
     "fecha_primera_recepcion": "2026-11-10T23:55:45.340384+00:00",
-    "fecha_ultima_observacion": "2026-11-12T02:55:46.830481+00:00"
+    "fecha_ultima_observacion": "2026-11-12T03:00:59.908432+00:00"
   },
   "EMSC:20261111_0000001": {
     "id": "20261111_0000001",
@@ -78608,5 +78608,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261112_0000020",
     "fecha_primera_recepcion": "2026-11-12T02:40:58.203216+00:00",
     "fecha_ultima_observacion": "2026-11-12T02:55:46.830481+00:00"
+  },
+  "EMSC:20261112_0000022": {
+    "id": "20261112_0000022",
+    "fecha_hora_utc": "2026-11-12T02:54:09.740000+00:00",
+    "magnitud": 2.6,
+    "profundidad_km": 22.2,
+    "latitud": 47.5282,
+    "longitud": -122.4368,
+    "pais": "",
+    "ciudad_referencia": "SEATTLE-TACOMA AREA, WASHINGTON",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261112_0000022",
+    "fecha_primera_recepcion": "2026-11-12T03:00:59.908432+00:00",
+    "fecha_ultima_observacion": "2026-11-12T03:00:59.908432+00:00"
+  },
+  "USGS:uw714137991": {
+    "id": "uw714137991",
+    "fecha_hora_utc": "2026-11-12T02:54:09.740000+00:00",
+    "magnitud": 2.5649254322052,
+    "profundidad_km": 22.1599998474121,
+    "latitud": 47.5281677246094,
+    "longitud": -122.436836242676,
+    "pais": "",
+    "ciudad_referencia": "5 km ENE of Southworth, Washington",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714137991",
+    "fecha_primera_recepcion": "2026-11-12T03:00:59.908432+00:00",
+    "fecha_ultima_observacion": "2026-11-12T03:00:59.908432+00:00"
   }
 }
