@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-12T19:31:02.211881+00:00",
+  "actualizado_utc": "2026-11-12T19:36:03.655677+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 92,
   "actualizacion_minutos": 5,
   "igp": 92,
-  "emsc": 2136,
+  "emsc": 2137,
   "usgs": 485,
   "duplicados_eliminados": 401,
-  "eventos_publicados": 2312,
-  "evento_mas_reciente_utc": "2026-11-12T19:25:20+00:00",
+  "eventos_publicados": 2313,
+  "evento_mas_reciente_utc": "2026-11-12T19:29:11+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 19,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-12T15:51:59+00:00",
-      "antiguedad_evento_mas_reciente_min": 219.1
+      "antiguedad_evento_mas_reciente_min": 224.1
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2136,
-      "eventos_recibidos": 2138,
+      "eventos_validos": 2137,
+      "eventos_recibidos": 2139,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-11-12T19:25:20+00:00",
-      "antiguedad_evento_mas_reciente_min": 5.7
+      "evento_mas_reciente_utc": "2026-11-12T19:29:11+00:00",
+      "antiguedad_evento_mas_reciente_min": 6.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 489,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-11-12T19:18:39.951000+00:00",
-      "antiguedad_evento_mas_reciente_min": 12.4
+      "antiguedad_evento_mas_reciente_min": 17.4
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-782"
     },
     "emsc": {
-      "id": "20261112_0000252",
-      "fecha_hora_utc": "2026-11-12T19:25:20+00:00",
-      "magnitud": 3.4,
-      "profundidad_km": 10.0,
-      "latitud": -8.35,
-      "longitud": 116.71,
+      "id": "20261112_0000253",
+      "fecha_hora_utc": "2026-11-12T19:29:11+00:00",
+      "magnitud": 2.5,
+      "profundidad_km": 136.7,
+      "latitud": -21.63,
+      "longitud": -68.55,
       "pais": "",
-      "ciudad_referencia": "LOMBOK REGION, INDONESIA",
+      "ciudad_referencia": "ANTOFAGASTA, CHILE",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261112_0000252"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261112_0000253"
     },
     "usgs": {
       "id": "aka2026wlhnqh",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-12T19:31:02.211881+00:00"
+    "hora_consulta_utc": "2026-11-12T19:36:03.655677+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-12T19:31:02.211881+00:00",
-  "combined_after_dedup": 2312
+  "updated_utc": "2026-11-12T19:36:03.655677+00:00",
+  "combined_after_dedup": 2313
 }
