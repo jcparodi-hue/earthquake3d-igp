@@ -80385,7 +80385,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-784",
     "fecha_primera_recepcion": "2026-11-13T02:55:58.187016+00:00",
-    "fecha_ultima_observacion": "2026-11-13T13:35:48.972224+00:00"
+    "fecha_ultima_observacion": "2026-11-13T13:41:08.151597+00:00"
   },
   "EMSC:20261113_0000031": {
     "id": "20261113_0000031",
@@ -81071,7 +81071,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty0g",
     "fecha_primera_recepcion": "2026-11-13T12:55:59.320460+00:00",
-    "fecha_ultima_observacion": "2026-11-13T13:35:48.972224+00:00"
+    "fecha_ultima_observacion": "2026-11-13T13:41:08.151597+00:00"
   },
   "EMSC:20261113_0000145": {
     "id": "20261113_0000145",
@@ -81086,5 +81086,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261113_0000145",
     "fecha_primera_recepcion": "2026-11-13T13:16:02.410283+00:00",
     "fecha_ultima_observacion": "2026-11-13T13:35:48.972224+00:00"
+  },
+  "EMSC:20261113_0000147": {
+    "id": "20261113_0000147",
+    "fecha_hora_utc": "2026-11-13T13:27:48+00:00",
+    "magnitud": 3.1,
+    "profundidad_km": 12.0,
+    "latitud": 7.707,
+    "longitud": -81.0343,
+    "pais": "",
+    "ciudad_referencia": "PANAMA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261113_0000147",
+    "fecha_primera_recepcion": "2026-11-13T13:41:08.151597+00:00",
+    "fecha_ultima_observacion": "2026-11-13T13:41:08.151597+00:00"
   }
 }
