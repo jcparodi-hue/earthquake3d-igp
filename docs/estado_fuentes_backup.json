@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-13T23:05:58.411317+00:00",
+  "actualizado_utc": "2026-11-13T23:10:58.404148+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 99,
   "actualizacion_minutos": 5,
   "igp": 99,
-  "emsc": 2146,
+  "emsc": 2145,
   "usgs": 475,
   "duplicados_eliminados": 412,
-  "eventos_publicados": 2308,
-  "evento_mas_reciente_utc": "2026-11-13T22:34:38+00:00",
+  "eventos_publicados": 2307,
+  "evento_mas_reciente_utc": "2026-11-13T23:05:57.912000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 26,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-13T20:37:58+00:00",
-      "antiguedad_evento_mas_reciente_min": 148.0
+      "antiguedad_evento_mas_reciente_min": 153.0
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2146,
-      "eventos_recibidos": 2149,
+      "eventos_validos": 2145,
+      "eventos_recibidos": 2148,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-13T22:34:38+00:00",
-      "antiguedad_evento_mas_reciente_min": 31.3
+      "antiguedad_evento_mas_reciente_min": 36.3
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -35,8 +35,8 @@
       "eventos_validos": 475,
       "eventos_recibidos": 480,
       "invalidos_rechazados": 5,
-      "evento_mas_reciente_utc": "2026-11-13T22:10:42.124000+00:00",
-      "antiguedad_evento_mas_reciente_min": 55.3
+      "evento_mas_reciente_utc": "2026-11-13T23:05:57.912000+00:00",
+      "antiguedad_evento_mas_reciente_min": 5.0
     }
   },
   "ultimo_evento": {
@@ -65,24 +65,24 @@
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261113_0000296"
     },
     "usgs": {
-      "id": "us7000ty4w",
-      "fecha_hora_utc": "2026-11-13T22:10:42.124000+00:00",
-      "magnitud": 4.9,
-      "profundidad_km": 36.931,
-      "latitud": -32.746,
-      "longitud": -178.6351,
+      "id": "aka2026wnldjc",
+      "fecha_hora_utc": "2026-11-13T23:05:57.912000+00:00",
+      "magnitud": 2.6,
+      "profundidad_km": 14.8,
+      "latitud": 56.46,
+      "longitud": -156.67,
       "pais": "",
-      "ciudad_referencia": "south of the Kermadec Islands",
+      "ciudad_referencia": "108 km E of Chignik, Alaska",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty4w"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wnldjc"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-13T23:05:58.411317+00:00"
+    "hora_consulta_utc": "2026-11-13T23:10:58.404148+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-13T23:05:58.411317+00:00",
-  "combined_after_dedup": 2308
+  "updated_utc": "2026-11-13T23:10:58.404148+00:00",
+  "combined_after_dedup": 2307
 }
