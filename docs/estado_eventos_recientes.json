@@ -81407,7 +81407,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-788",
     "fecha_primera_recepcion": "2026-11-13T17:45:40.895862+00:00",
-    "fecha_ultima_observacion": "2026-11-13T22:30:53.723246+00:00"
+    "fecha_ultima_observacion": "2026-11-13T22:36:00.109654+00:00"
   },
   "EMSC:20261113_0000225": {
     "id": "20261113_0000225",
@@ -81663,17 +81663,17 @@
   },
   "USGS:tx2026wjsbol": {
     "id": "tx2026wjsbol",
-    "fecha_hora_utc": "2026-11-13T21:25:32.805000+00:00",
-    "magnitud": 3.2,
-    "profundidad_km": 5.6769,
-    "latitud": 31.656,
-    "longitud": -104.454,
+    "fecha_hora_utc": "2026-11-13T21:25:33.084000+00:00",
+    "magnitud": 3.4,
+    "profundidad_km": 6.0999,
+    "latitud": 31.67,
+    "longitud": -104.436,
     "pais": "",
-    "ciudad_referencia": "58 km S of Whites City, New Mexico",
+    "ciudad_referencia": "56 km S of Whites City, New Mexico",
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026wjsbol",
     "fecha_primera_recepcion": "2026-11-13T21:35:37.880828+00:00",
-    "fecha_ultima_observacion": "2026-11-13T22:30:53.723246+00:00"
+    "fecha_ultima_observacion": "2026-11-13T22:36:00.109654+00:00"
   },
   "EMSC:20261113_0000291": {
     "id": "20261113_0000291",
@@ -81688,5 +81688,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261113_0000291",
     "fecha_primera_recepcion": "2026-11-13T22:15:54.054945+00:00",
     "fecha_ultima_observacion": "2026-11-13T22:30:53.723246+00:00"
+  },
+  "EMSC:20261113_0000293": {
+    "id": "20261113_0000293",
+    "fecha_hora_utc": "2026-11-13T22:29:54+00:00",
+    "magnitud": 3.3,
+    "profundidad_km": 10.0,
+    "latitud": 2.53,
+    "longitud": 96.91,
+    "pais": "",
+    "ciudad_referencia": "SIMEULUE, INDONESIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261113_0000293",
+    "fecha_primera_recepcion": "2026-11-13T22:36:00.109654+00:00",
+    "fecha_ultima_observacion": "2026-11-13T22:36:00.109654+00:00"
   }
 }
