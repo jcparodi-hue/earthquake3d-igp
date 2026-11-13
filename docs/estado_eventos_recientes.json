@@ -80385,7 +80385,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-784",
     "fecha_primera_recepcion": "2026-11-13T02:55:58.187016+00:00",
-    "fecha_ultima_observacion": "2026-11-13T10:20:49.773007+00:00"
+    "fecha_ultima_observacion": "2026-11-13T10:25:48.101901+00:00"
   },
   "EMSC:20261113_0000031": {
     "id": "20261113_0000031",
@@ -80908,7 +80908,7 @@
   "EMSC:20261113_0000116": {
     "id": "20261113_0000116",
     "fecha_hora_utc": "2026-11-13T10:11:32+00:00",
-    "magnitud": 2.6,
+    "magnitud": 2.5,
     "profundidad_km": 17.1,
     "latitud": -30.23,
     "longitud": -69.49,
@@ -80917,6 +80917,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261113_0000116",
     "fecha_primera_recepcion": "2026-11-13T10:20:49.773007+00:00",
-    "fecha_ultima_observacion": "2026-11-13T10:20:49.773007+00:00"
+    "fecha_ultima_observacion": "2026-11-13T10:25:48.101901+00:00"
+  },
+  "USGS:us7000txz3": {
+    "id": "us7000txz3",
+    "fecha_hora_utc": "2026-11-13T09:55:45.053000+00:00",
+    "magnitud": 4.9,
+    "profundidad_km": 10.0,
+    "latitud": -22.3729,
+    "longitud": 173.4492,
+    "pais": "",
+    "ciudad_referencia": "southeast of the Loyalty Islands",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txz3",
+    "fecha_primera_recepcion": "2026-11-13T10:25:48.101901+00:00",
+    "fecha_ultima_observacion": "2026-11-13T10:25:48.101901+00:00"
   }
 }
