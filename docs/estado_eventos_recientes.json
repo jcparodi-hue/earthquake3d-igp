@@ -81743,7 +81743,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-789",
     "fecha_primera_recepcion": "2026-11-13T22:55:50.579568+00:00",
-    "fecha_ultima_observacion": "2026-11-13T23:45:46.159639+00:00"
+    "fecha_ultima_observacion": "2026-11-13T23:51:00.002801+00:00"
   },
   "USGS:aka2026wnldjc": {
     "id": "aka2026wnldjc",
@@ -81827,6 +81827,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261113_0000313",
     "fecha_primera_recepcion": "2026-11-13T23:45:46.159639+00:00",
-    "fecha_ultima_observacion": "2026-11-13T23:45:46.159639+00:00"
+    "fecha_ultima_observacion": "2026-11-13T23:51:00.002801+00:00"
+  },
+  "USGS:us7000ty56": {
+    "id": "us7000ty56",
+    "fecha_hora_utc": "2026-11-13T23:30:38.320000+00:00",
+    "magnitud": 5.1,
+    "profundidad_km": 10.0,
+    "latitud": -1.5038,
+    "longitud": 149.92,
+    "pais": "",
+    "ciudad_referencia": "153 km NW of Kavieng, Papua New Guinea",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty56",
+    "fecha_primera_recepcion": "2026-11-13T23:51:00.002801+00:00",
+    "fecha_ultima_observacion": "2026-11-13T23:51:00.002801+00:00"
   }
 }
