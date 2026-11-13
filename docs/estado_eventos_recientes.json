@@ -80385,7 +80385,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-784",
     "fecha_primera_recepcion": "2026-11-13T02:55:58.187016+00:00",
-    "fecha_ultima_observacion": "2026-11-13T17:00:55.983410+00:00"
+    "fecha_ultima_observacion": "2026-11-13T17:05:59.325699+00:00"
   },
   "EMSC:20261113_0000031": {
     "id": "20261113_0000031",
@@ -81313,17 +81313,17 @@
   },
   "EMSC:20261113_0000213": {
     "id": "20261113_0000213",
-    "fecha_hora_utc": "2026-11-13T16:43:01.850000+00:00",
-    "magnitud": 5.7,
-    "profundidad_km": 1.5,
-    "latitud": -14.8342,
-    "longitud": -75.7316,
+    "fecha_hora_utc": "2026-11-13T16:43:02.131000+00:00",
+    "magnitud": 5.8,
+    "profundidad_km": 10.0,
+    "latitud": -14.9934,
+    "longitud": -75.8807,
     "pais": "",
     "ciudad_referencia": "NEAR COAST OF CENTRAL PERU",
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261113_0000213",
     "fecha_primera_recepcion": "2026-11-13T16:50:51.482756+00:00",
-    "fecha_ultima_observacion": "2026-11-13T17:00:55.983410+00:00"
+    "fecha_ultima_observacion": "2026-11-13T17:05:59.325699+00:00"
   },
   "USGS:us7000ty16": {
     "id": "us7000ty16",
@@ -81338,5 +81338,19 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty16",
     "fecha_primera_recepcion": "2026-11-13T16:50:51.482756+00:00",
     "fecha_ultima_observacion": "2026-11-13T17:00:55.983410+00:00"
+  },
+  "USGS:us7000ty1a": {
+    "id": "us7000ty1a",
+    "fecha_hora_utc": "2026-11-13T16:43:02.131000+00:00",
+    "magnitud": 5.8,
+    "profundidad_km": 10.0,
+    "latitud": -14.9934,
+    "longitud": -75.8807,
+    "pais": "",
+    "ciudad_referencia": "79 km WSW of Changuillo, Peru",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty1a",
+    "fecha_primera_recepcion": "2026-11-13T17:05:59.325699+00:00",
+    "fecha_ultima_observacion": "2026-11-13T17:05:59.325699+00:00"
   }
 }
