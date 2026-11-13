@@ -81407,7 +81407,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-788",
     "fecha_primera_recepcion": "2026-11-13T17:45:40.895862+00:00",
-    "fecha_ultima_observacion": "2026-11-13T20:06:02.469331+00:00"
+    "fecha_ultima_observacion": "2026-11-13T20:11:03.913670+00:00"
   },
   "EMSC:20261113_0000225": {
     "id": "20261113_0000225",
@@ -81534,5 +81534,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261113_0000258",
     "fecha_primera_recepcion": "2026-11-13T19:50:42.461387+00:00",
     "fecha_ultima_observacion": "2026-11-13T20:06:02.469331+00:00"
+  },
+  "EMSC:20261113_0000264": {
+    "id": "20261113_0000264",
+    "fecha_hora_utc": "2026-11-13T20:06:36.688315+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 17.2,
+    "latitud": 69.512,
+    "longitud": -144.019,
+    "pais": "",
+    "ciudad_referencia": "NORTHERN ALASKA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261113_0000264",
+    "fecha_primera_recepcion": "2026-11-13T20:11:03.913670+00:00",
+    "fecha_ultima_observacion": "2026-11-13T20:11:03.913670+00:00"
+  },
+  "USGS:aka2026wnfdnx": {
+    "id": "aka2026wnfdnx",
+    "fecha_hora_utc": "2026-11-13T20:06:36.688000+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 17.2,
+    "latitud": 69.512,
+    "longitud": -144.019,
+    "pais": "",
+    "ciudad_referencia": "70 km SSW of Kaktovik, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wnfdnx",
+    "fecha_primera_recepcion": "2026-11-13T20:11:03.913670+00:00",
+    "fecha_ultima_observacion": "2026-11-13T20:11:03.913670+00:00"
   }
 }
