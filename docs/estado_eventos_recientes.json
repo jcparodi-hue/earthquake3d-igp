@@ -81407,7 +81407,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-788",
     "fecha_primera_recepcion": "2026-11-13T17:45:40.895862+00:00",
-    "fecha_ultima_observacion": "2026-11-13T19:10:55.453306+00:00"
+    "fecha_ultima_observacion": "2026-11-13T19:15:45.142812+00:00"
   },
   "EMSC:20261113_0000225": {
     "id": "20261113_0000225",
@@ -81491,6 +81491,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261113_0000241",
     "fecha_primera_recepcion": "2026-11-13T19:01:14.065392+00:00",
-    "fecha_ultima_observacion": "2026-11-13T19:10:55.453306+00:00"
+    "fecha_ultima_observacion": "2026-11-13T19:15:45.142812+00:00"
+  },
+  "USGS:aka2026wndfoc": {
+    "id": "aka2026wndfoc",
+    "fecha_hora_utc": "2026-11-13T19:08:39.475000+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 19.5,
+    "latitud": 62.384,
+    "longitud": -148.711,
+    "pais": "",
+    "ciudad_referencia": "64 km ENE of Susitna North, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wndfoc",
+    "fecha_primera_recepcion": "2026-11-13T19:15:45.142812+00:00",
+    "fecha_ultima_observacion": "2026-11-13T19:15:45.142812+00:00"
   }
 }
