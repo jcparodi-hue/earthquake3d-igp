@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-13T16:35:58.340859+00:00",
+  "actualizado_utc": "2026-11-13T16:41:01.041074+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 94,
   "actualizacion_minutos": 5,
   "igp": 94,
   "emsc": 2149,
-  "usgs": 478,
+  "usgs": 477,
   "duplicados_eliminados": 405,
-  "eventos_publicados": 2316,
-  "evento_mas_reciente_utc": "2026-11-13T16:27:59+00:00",
+  "eventos_publicados": 2315,
+  "evento_mas_reciente_utc": "2026-11-13T16:27:57.400000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 21,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-13T02:32:02+00:00",
-      "antiguedad_evento_mas_reciente_min": 843.9
+      "antiguedad_evento_mas_reciente_min": 849.0
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2149,
       "eventos_recibidos": 2152,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-13T16:27:59+00:00",
-      "antiguedad_evento_mas_reciente_min": 8.0
+      "evento_mas_reciente_utc": "2026-11-13T16:27:57.400000+00:00",
+      "antiguedad_evento_mas_reciente_min": 13.1
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 478,
-      "eventos_recibidos": 483,
+      "eventos_validos": 477,
+      "eventos_recibidos": 482,
       "invalidos_rechazados": 5,
       "evento_mas_reciente_utc": "2026-11-13T16:17:51.680000+00:00",
-      "antiguedad_evento_mas_reciente_min": 18.1
+      "antiguedad_evento_mas_reciente_min": 23.2
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261113_0000207",
-      "fecha_hora_utc": "2026-11-13T16:27:59+00:00",
-      "magnitud": 3.8,
-      "profundidad_km": 10.0,
-      "latitud": -0.96,
-      "longitud": -79.84,
+      "fecha_hora_utc": "2026-11-13T16:27:57.400000+00:00",
+      "magnitud": 3.4,
+      "profundidad_km": 59.0,
+      "latitud": -0.95,
+      "longitud": -79.8,
       "pais": "",
       "ciudad_referencia": "ECUADOR",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-13T16:35:58.340859+00:00"
+    "hora_consulta_utc": "2026-11-13T16:41:01.041074+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-13T16:35:58.340859+00:00",
-  "combined_after_dedup": 2316
+  "updated_utc": "2026-11-13T16:41:01.041074+00:00",
+  "combined_after_dedup": 2315
 }
