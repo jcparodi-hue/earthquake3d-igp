@@ -80385,7 +80385,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-784",
     "fecha_primera_recepcion": "2026-11-13T02:55:58.187016+00:00",
-    "fecha_ultima_observacion": "2026-11-13T12:51:02.760377+00:00"
+    "fecha_ultima_observacion": "2026-11-13T12:55:59.320460+00:00"
   },
   "EMSC:20261113_0000031": {
     "id": "20261113_0000031",
@@ -81044,5 +81044,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261113_0000132",
     "fecha_primera_recepcion": "2026-11-13T12:25:56.779079+00:00",
     "fecha_ultima_observacion": "2026-11-13T12:51:02.760377+00:00"
+  },
+  "EMSC:20261113_0000137": {
+    "id": "20261113_0000137",
+    "fecha_hora_utc": "2026-11-13T12:50:28+00:00",
+    "magnitud": 3.4,
+    "profundidad_km": 105.2,
+    "latitud": -22.42,
+    "longitud": -68.57,
+    "pais": "",
+    "ciudad_referencia": "ANTOFAGASTA, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261113_0000137",
+    "fecha_primera_recepcion": "2026-11-13T12:55:59.320460+00:00",
+    "fecha_ultima_observacion": "2026-11-13T12:55:59.320460+00:00"
+  },
+  "USGS:us7000ty0g": {
+    "id": "us7000ty0g",
+    "fecha_hora_utc": "2026-11-13T12:12:57.241000+00:00",
+    "magnitud": 4.4,
+    "profundidad_km": 79.163,
+    "latitud": 7.3953,
+    "longitud": 126.6864,
+    "pais": "",
+    "ciudad_referencia": "12 km ESE of Baculin, Philippines",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty0g",
+    "fecha_primera_recepcion": "2026-11-13T12:55:59.320460+00:00",
+    "fecha_ultima_observacion": "2026-11-13T12:55:59.320460+00:00"
   }
 }
