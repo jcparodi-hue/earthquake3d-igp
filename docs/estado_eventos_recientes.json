@@ -80385,7 +80385,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-784",
     "fecha_primera_recepcion": "2026-11-13T02:55:58.187016+00:00",
-    "fecha_ultima_observacion": "2026-11-13T07:35:45.187806+00:00"
+    "fecha_ultima_observacion": "2026-11-13T07:40:54.796500+00:00"
   },
   "EMSC:20261113_0000031": {
     "id": "20261113_0000031",
@@ -80553,7 +80553,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txy5",
     "fecha_primera_recepcion": "2026-11-13T05:10:48.635407+00:00",
-    "fecha_ultima_observacion": "2026-11-13T07:35:45.187806+00:00"
+    "fecha_ultima_observacion": "2026-11-13T07:40:54.796500+00:00"
   },
   "EMSC:20261113_0000052": {
     "id": "20261113_0000052",
@@ -80680,5 +80680,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261113_0000072",
     "fecha_primera_recepcion": "2026-11-13T07:31:01.737877+00:00",
     "fecha_ultima_observacion": "2026-11-13T07:35:45.187806+00:00"
+  },
+  "EMSC:20261113_0000076": {
+    "id": "20261113_0000076",
+    "fecha_hora_utc": "2026-11-13T07:36:16+00:00",
+    "magnitud": 3.4,
+    "profundidad_km": 39.9,
+    "latitud": -21.77,
+    "longitud": -70.22,
+    "pais": "",
+    "ciudad_referencia": "OFFSHORE ANTOFAGASTA, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261113_0000076",
+    "fecha_primera_recepcion": "2026-11-13T07:40:54.796500+00:00",
+    "fecha_ultima_observacion": "2026-11-13T07:40:54.796500+00:00"
   }
 }
