@@ -80385,7 +80385,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-784",
     "fecha_primera_recepcion": "2026-11-13T02:55:58.187016+00:00",
-    "fecha_ultima_observacion": "2026-11-13T08:30:50.081049+00:00"
+    "fecha_ultima_observacion": "2026-11-13T08:35:58.404624+00:00"
   },
   "EMSC:20261113_0000031": {
     "id": "20261113_0000031",
@@ -80753,17 +80753,17 @@
   },
   "EMSC:20261113_0000093": {
     "id": "20261113_0000093",
-    "fecha_hora_utc": "2026-11-13T08:26:27+00:00",
-    "magnitud": 4.3,
-    "profundidad_km": 5.0,
-    "latitud": 7.6121,
-    "longitud": -81.5049,
+    "fecha_hora_utc": "2026-11-13T08:26:48+00:00",
+    "magnitud": 3.6,
+    "profundidad_km": 22.0,
+    "latitud": 8.2707,
+    "longitud": -82.7728,
     "pais": "",
-    "ciudad_referencia": "PANAMA",
+    "ciudad_referencia": "PANAMA-COSTA RICA BORDER REGION",
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261113_0000093",
     "fecha_primera_recepcion": "2026-11-13T08:30:50.081049+00:00",
-    "fecha_ultima_observacion": "2026-11-13T08:30:50.081049+00:00"
+    "fecha_ultima_observacion": "2026-11-13T08:35:58.404624+00:00"
   },
   "USGS:us7000txyq": {
     "id": "us7000txyq",
@@ -80777,6 +80777,6 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txyq",
     "fecha_primera_recepcion": "2026-11-13T08:30:50.081049+00:00",
-    "fecha_ultima_observacion": "2026-11-13T08:30:50.081049+00:00"
+    "fecha_ultima_observacion": "2026-11-13T08:35:58.404624+00:00"
   }
 }
