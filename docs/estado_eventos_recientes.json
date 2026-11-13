@@ -80385,7 +80385,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-784",
     "fecha_primera_recepcion": "2026-11-13T02:55:58.187016+00:00",
-    "fecha_ultima_observacion": "2026-11-13T03:05:55.682955+00:00"
+    "fecha_ultima_observacion": "2026-11-13T03:10:40.466346+00:00"
   },
   "EMSC:20261113_0000031": {
     "id": "20261113_0000031",
@@ -80400,5 +80400,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261113_0000031",
     "fecha_primera_recepcion": "2026-11-13T02:55:58.187016+00:00",
     "fecha_ultima_observacion": "2026-11-13T03:05:55.682955+00:00"
+  },
+  "EMSC:20261113_0000033": {
+    "id": "20261113_0000033",
+    "fecha_hora_utc": "2026-11-13T02:55:03.370000+00:00",
+    "magnitud": 4.9,
+    "profundidad_km": 219.6,
+    "latitud": 18.8925,
+    "longitud": 145.6025,
+    "pais": "",
+    "ciudad_referencia": "PAGAN REG., N. MARIANA ISLANDS",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261113_0000033",
+    "fecha_primera_recepcion": "2026-11-13T03:10:40.466346+00:00",
+    "fecha_ultima_observacion": "2026-11-13T03:10:40.466346+00:00"
+  },
+  "USGS:us7000txxy": {
+    "id": "us7000txxy",
+    "fecha_hora_utc": "2026-11-13T02:55:03.370000+00:00",
+    "magnitud": 4.9,
+    "profundidad_km": 219.572,
+    "latitud": 18.8925,
+    "longitud": 145.6025,
+    "pais": "",
+    "ciudad_referencia": "Pagan region, Northern Mariana Islands",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txxy",
+    "fecha_primera_recepcion": "2026-11-13T03:10:40.466346+00:00",
+    "fecha_ultima_observacion": "2026-11-13T03:10:40.466346+00:00"
   }
 }
