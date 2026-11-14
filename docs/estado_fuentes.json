@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-14T22:16:00.643438+00:00",
+  "actualizado_utc": "2026-11-14T22:21:04.450547+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 100,
   "actualizacion_minutos": 5,
   "igp": 100,
-  "emsc": 2135,
+  "emsc": 2136,
   "usgs": 481,
   "duplicados_eliminados": 436,
-  "eventos_publicados": 2280,
-  "evento_mas_reciente_utc": "2026-11-14T22:00:18.405154+00:00",
+  "eventos_publicados": 2281,
+  "evento_mas_reciente_utc": "2026-11-14T22:08:09.470000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 26,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-14T08:21:54+00:00",
-      "antiguedad_evento_mas_reciente_min": 834.1
+      "antiguedad_evento_mas_reciente_min": 839.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2135,
-      "eventos_recibidos": 2138,
+      "eventos_validos": 2136,
+      "eventos_recibidos": 2139,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-14T22:00:18.405154+00:00",
-      "antiguedad_evento_mas_reciente_min": 15.7
+      "evento_mas_reciente_utc": "2026-11-14T22:08:09.470000+00:00",
+      "antiguedad_evento_mas_reciente_min": 12.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 485,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-11-14T22:00:18.405000+00:00",
-      "antiguedad_evento_mas_reciente_min": 15.7
+      "antiguedad_evento_mas_reciente_min": 20.8
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-790"
     },
     "emsc": {
-      "id": "20261114_0000246",
-      "fecha_hora_utc": "2026-11-14T22:00:18.405154+00:00",
-      "magnitud": 3.4,
-      "profundidad_km": 0.8,
-      "latitud": 59.968,
-      "longitud": -147.376,
+      "id": "20261114_0000248",
+      "fecha_hora_utc": "2026-11-14T22:08:09.470000+00:00",
+      "magnitud": 2.5,
+      "profundidad_km": 8.0,
+      "latitud": 46.7134,
+      "longitud": 12.9853,
       "pais": "",
-      "ciudad_referencia": "GULF OF ALASKA",
+      "ciudad_referencia": "AUSTRIA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261114_0000246"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261114_0000248"
     },
     "usgs": {
       "id": "aka2026wpeyzd",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-14T22:16:00.643438+00:00"
+    "hora_consulta_utc": "2026-11-14T22:21:04.450547+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-14T22:16:00.643438+00:00",
-  "combined_after_dedup": 2280
+  "updated_utc": "2026-11-14T22:21:04.450547+00:00",
+  "combined_after_dedup": 2281
 }

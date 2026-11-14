@@ -82681,7 +82681,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-790",
     "fecha_primera_recepcion": "2026-11-14T09:35:50.934389+00:00",
-    "fecha_ultima_observacion": "2026-11-14T22:16:00.643438+00:00"
+    "fecha_ultima_observacion": "2026-11-14T22:21:04.450547+00:00"
   },
   "EMSC:20261114_0000118": {
     "id": "20261114_0000118",
@@ -83619,6 +83619,20 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wpeyzd",
     "fecha_primera_recepcion": "2026-11-14T22:05:57.172192+00:00",
-    "fecha_ultima_observacion": "2026-11-14T22:16:00.643438+00:00"
+    "fecha_ultima_observacion": "2026-11-14T22:21:04.450547+00:00"
+  },
+  "EMSC:20261114_0000248": {
+    "id": "20261114_0000248",
+    "fecha_hora_utc": "2026-11-14T22:08:09.470000+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 8.0,
+    "latitud": 46.7134,
+    "longitud": 12.9853,
+    "pais": "",
+    "ciudad_referencia": "AUSTRIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261114_0000248",
+    "fecha_primera_recepcion": "2026-11-14T22:21:04.450547+00:00",
+    "fecha_ultima_observacion": "2026-11-14T22:21:04.450547+00:00"
   }
 }
