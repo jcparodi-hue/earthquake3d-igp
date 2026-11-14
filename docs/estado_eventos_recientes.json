@@ -82681,7 +82681,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-790",
     "fecha_primera_recepcion": "2026-11-14T09:35:50.934389+00:00",
-    "fecha_ultima_observacion": "2026-11-14T23:51:02.518647+00:00"
+    "fecha_ultima_observacion": "2026-11-14T23:56:01.918150+00:00"
   },
   "EMSC:20261114_0000118": {
     "id": "20261114_0000118",
@@ -83773,6 +83773,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261114_0000268",
     "fecha_primera_recepcion": "2026-11-14T23:51:02.518647+00:00",
-    "fecha_ultima_observacion": "2026-11-14T23:51:02.518647+00:00"
+    "fecha_ultima_observacion": "2026-11-14T23:56:01.918150+00:00"
+  },
+  "USGS:us7000tyb5": {
+    "id": "us7000tyb5",
+    "fecha_hora_utc": "2026-11-14T23:22:03.473000+00:00",
+    "magnitud": 3.4,
+    "profundidad_km": 10.0,
+    "latitud": 42.0686,
+    "longitud": -125.6473,
+    "pais": "",
+    "ciudad_referencia": "106 km WSW of Pistol River, Oregon",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyb5",
+    "fecha_primera_recepcion": "2026-11-14T23:56:01.918150+00:00",
+    "fecha_ultima_observacion": "2026-11-14T23:56:01.918150+00:00"
   }
 }
