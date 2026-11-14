@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-14T18:10:42.315211+00:00",
+  "actualizado_utc": "2026-11-14T18:16:01.034240+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 100,
   "actualizacion_minutos": 5,
   "igp": 100,
   "emsc": 2153,
-  "usgs": 485,
-  "duplicados_eliminados": 436,
+  "usgs": 486,
+  "duplicados_eliminados": 437,
   "eventos_publicados": 2302,
-  "evento_mas_reciente_utc": "2026-11-14T17:51:30.143205+00:00",
+  "evento_mas_reciente_utc": "2026-11-14T18:04:03+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 26,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-14T08:21:54+00:00",
-      "antiguedad_evento_mas_reciente_min": 588.8
+      "antiguedad_evento_mas_reciente_min": 594.1
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2153,
       "eventos_recibidos": 2156,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-14T17:51:30.143205+00:00",
-      "antiguedad_evento_mas_reciente_min": 19.2
+      "evento_mas_reciente_utc": "2026-11-14T18:04:03+00:00",
+      "antiguedad_evento_mas_reciente_min": 12.0
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 485,
-      "eventos_recibidos": 490,
+      "eventos_validos": 486,
+      "eventos_recibidos": 491,
       "invalidos_rechazados": 5,
-      "evento_mas_reciente_utc": "2026-11-14T16:36:19.635000+00:00",
-      "antiguedad_evento_mas_reciente_min": 94.4
+      "evento_mas_reciente_utc": "2026-11-14T16:56:39.533000+00:00",
+      "antiguedad_evento_mas_reciente_min": 79.4
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-790"
     },
     "emsc": {
-      "id": "20261114_0000210",
-      "fecha_hora_utc": "2026-11-14T17:51:30.143205+00:00",
-      "magnitud": 4.2,
-      "profundidad_km": 18.6,
-      "latitud": -39.9709,
-      "longitud": 176.2955,
+      "id": "20261114_0000213",
+      "fecha_hora_utc": "2026-11-14T18:04:03+00:00",
+      "magnitud": 4.6,
+      "profundidad_km": 520.0,
+      "latitud": -22.34,
+      "longitud": -63.75,
       "pais": "",
-      "ciudad_referencia": "NORTH ISLAND OF NEW ZEALAND",
+      "ciudad_referencia": "SALTA, ARGENTINA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261114_0000210"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261114_0000213"
     },
     "usgs": {
-      "id": "us7000ty9n",
-      "fecha_hora_utc": "2026-11-14T16:36:19.635000+00:00",
+      "id": "us7000ty9v",
+      "fecha_hora_utc": "2026-11-14T16:56:39.533000+00:00",
       "magnitud": 4.6,
-      "profundidad_km": 197.571,
-      "latitud": -24.049,
-      "longitud": -66.9029,
+      "profundidad_km": 65.399,
+      "latitud": 5.5982,
+      "longitud": 126.6097,
       "pais": "",
-      "ciudad_referencia": "62 km WNW of San Antonio de los Cobres, Argentina",
+      "ciudad_referencia": "96 km SSE of Pondaguitan, Philippines",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9n"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9v"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-14T18:10:42.315211+00:00"
+    "hora_consulta_utc": "2026-11-14T18:16:01.034240+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-14T18:10:42.315211+00:00",
+  "updated_utc": "2026-11-14T18:16:01.034240+00:00",
   "combined_after_dedup": 2302
 }

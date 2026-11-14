@@ -82681,7 +82681,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-790",
     "fecha_primera_recepcion": "2026-11-14T09:35:50.934389+00:00",
-    "fecha_ultima_observacion": "2026-11-14T18:10:42.315211+00:00"
+    "fecha_ultima_observacion": "2026-11-14T18:16:01.034240+00:00"
   },
   "EMSC:20261114_0000118": {
     "id": "20261114_0000118",
@@ -83326,5 +83326,33 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9n",
     "fecha_primera_recepcion": "2026-11-14T18:01:13.139031+00:00",
     "fecha_ultima_observacion": "2026-11-14T18:10:42.315211+00:00"
+  },
+  "EMSC:20261114_0000213": {
+    "id": "20261114_0000213",
+    "fecha_hora_utc": "2026-11-14T18:04:03+00:00",
+    "magnitud": 4.6,
+    "profundidad_km": 520.0,
+    "latitud": -22.34,
+    "longitud": -63.75,
+    "pais": "",
+    "ciudad_referencia": "SALTA, ARGENTINA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261114_0000213",
+    "fecha_primera_recepcion": "2026-11-14T18:16:01.034240+00:00",
+    "fecha_ultima_observacion": "2026-11-14T18:16:01.034240+00:00"
+  },
+  "USGS:us7000ty9v": {
+    "id": "us7000ty9v",
+    "fecha_hora_utc": "2026-11-14T16:56:39.533000+00:00",
+    "magnitud": 4.6,
+    "profundidad_km": 65.399,
+    "latitud": 5.5982,
+    "longitud": 126.6097,
+    "pais": "",
+    "ciudad_referencia": "96 km SSE of Pondaguitan, Philippines",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9v",
+    "fecha_primera_recepcion": "2026-11-14T18:16:01.034240+00:00",
+    "fecha_ultima_observacion": "2026-11-14T18:16:01.034240+00:00"
   }
 }
