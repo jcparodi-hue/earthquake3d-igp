@@ -81743,7 +81743,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-789",
     "fecha_primera_recepcion": "2026-11-13T22:55:50.579568+00:00",
-    "fecha_ultima_observacion": "2026-11-14T06:55:40.791968+00:00"
+    "fecha_ultima_observacion": "2026-11-14T07:01:16.037986+00:00"
   },
   "USGS:aka2026wnldjc": {
     "id": "aka2026wnldjc",
@@ -82402,5 +82402,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261114_0000081",
     "fecha_primera_recepcion": "2026-11-14T06:46:09.604882+00:00",
     "fecha_ultima_observacion": "2026-11-14T06:55:40.791968+00:00"
+  },
+  "EMSC:20261114_0000088": {
+    "id": "20261114_0000088",
+    "fecha_hora_utc": "2026-11-14T06:52:27.340000+00:00",
+    "magnitud": 5.6,
+    "profundidad_km": 10.0,
+    "latitud": 9.726,
+    "longitud": 147.291,
+    "pais": "",
+    "ciudad_referencia": "STATE OF YAP, MICRONESIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261114_0000088",
+    "fecha_primera_recepcion": "2026-11-14T07:01:16.037986+00:00",
+    "fecha_ultima_observacion": "2026-11-14T07:01:16.037986+00:00"
+  },
+  "USGS:aka2026woawtk": {
+    "id": "aka2026woawtk",
+    "fecha_hora_utc": "2026-11-14T06:58:06.258000+00:00",
+    "magnitud": 2.7,
+    "profundidad_km": 18.3,
+    "latitud": 63.333,
+    "longitud": -151.742,
+    "pais": "",
+    "ciudad_referencia": "23 km S of Denali National Park, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026woawtk",
+    "fecha_primera_recepcion": "2026-11-14T07:01:16.037986+00:00",
+    "fecha_ultima_observacion": "2026-11-14T07:01:16.037986+00:00"
   }
 }
