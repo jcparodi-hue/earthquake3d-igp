@@ -81743,7 +81743,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-789",
     "fecha_primera_recepcion": "2026-11-13T22:55:50.579568+00:00",
-    "fecha_ultima_observacion": "2026-11-14T05:11:03.196265+00:00"
+    "fecha_ultima_observacion": "2026-11-14T05:16:01.416479+00:00"
   },
   "USGS:aka2026wnldjc": {
     "id": "aka2026wnldjc",
@@ -82304,5 +82304,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261114_0000066",
     "fecha_primera_recepcion": "2026-11-14T05:05:51.464173+00:00",
     "fecha_ultima_observacion": "2026-11-14T05:11:03.196265+00:00"
+  },
+  "EMSC:20261114_0000069": {
+    "id": "20261114_0000069",
+    "fecha_hora_utc": "2026-11-14T04:59:27+00:00",
+    "magnitud": 3.9,
+    "profundidad_km": 10.0,
+    "latitud": 34.156,
+    "longitud": 76.611,
+    "pais": "",
+    "ciudad_referencia": "EASTERN KASHMIR",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261114_0000069",
+    "fecha_primera_recepcion": "2026-11-14T05:16:01.416479+00:00",
+    "fecha_ultima_observacion": "2026-11-14T05:16:01.416479+00:00"
+  },
+  "USGS:us7000ty73": {
+    "id": "us7000ty73",
+    "fecha_hora_utc": "2026-11-14T04:59:00.633000+00:00",
+    "magnitud": 4.5,
+    "profundidad_km": 10.0,
+    "latitud": -50.3735,
+    "longitud": 139.6657,
+    "pais": "",
+    "ciudad_referencia": "western Indian-Antarctic Ridge",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty73",
+    "fecha_primera_recepcion": "2026-11-14T05:16:01.416479+00:00",
+    "fecha_ultima_observacion": "2026-11-14T05:16:01.416479+00:00"
   }
 }
