@@ -82681,7 +82681,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-790",
     "fecha_primera_recepcion": "2026-11-14T09:35:50.934389+00:00",
-    "fecha_ultima_observacion": "2026-11-14T17:35:50.948534+00:00"
+    "fecha_ultima_observacion": "2026-11-14T17:41:02.897031+00:00"
   },
   "EMSC:20261114_0000118": {
     "id": "20261114_0000118",
@@ -83241,7 +83241,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71539258",
     "fecha_primera_recepcion": "2026-11-14T16:56:03.110678+00:00",
-    "fecha_ultima_observacion": "2026-11-14T17:35:50.948534+00:00"
+    "fecha_ultima_observacion": "2026-11-14T17:41:02.897031+00:00"
   },
   "EMSC:20261114_0000201": {
     "id": "20261114_0000201",
@@ -83270,5 +83270,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261114_0000206",
     "fecha_primera_recepcion": "2026-11-14T17:31:01.419724+00:00",
     "fecha_ultima_observacion": "2026-11-14T17:35:50.948534+00:00"
+  },
+  "EMSC:20261114_0000207": {
+    "id": "20261114_0000207",
+    "fecha_hora_utc": "2026-11-14T17:12:58.170000+00:00",
+    "magnitud": 2.6,
+    "profundidad_km": 1.6,
+    "latitud": 35.0309,
+    "longitud": 33.0022,
+    "pais": "",
+    "ciudad_referencia": "CYPRUS REGION",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261114_0000207",
+    "fecha_primera_recepcion": "2026-11-14T17:41:02.897031+00:00",
+    "fecha_ultima_observacion": "2026-11-14T17:41:02.897031+00:00"
   }
 }
