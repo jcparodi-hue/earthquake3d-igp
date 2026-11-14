@@ -81743,7 +81743,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-789",
     "fecha_primera_recepcion": "2026-11-13T22:55:50.579568+00:00",
-    "fecha_ultima_observacion": "2026-11-14T04:25:57.580887+00:00"
+    "fecha_ultima_observacion": "2026-11-14T04:31:04.017309+00:00"
   },
   "USGS:aka2026wnldjc": {
     "id": "aka2026wnldjc",
@@ -82261,6 +82261,20 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wnvaqb",
     "fecha_primera_recepcion": "2026-11-14T04:11:01.577236+00:00",
-    "fecha_ultima_observacion": "2026-11-14T04:25:57.580887+00:00"
+    "fecha_ultima_observacion": "2026-11-14T04:31:04.017309+00:00"
+  },
+  "EMSC:20261114_0000062": {
+    "id": "20261114_0000062",
+    "fecha_hora_utc": "2026-11-14T04:25:12+00:00",
+    "magnitud": 3.6,
+    "profundidad_km": 20.0,
+    "latitud": 13.413,
+    "longitud": -90.291,
+    "pais": "",
+    "ciudad_referencia": "OFFSHORE EL SALVADOR",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261114_0000062",
+    "fecha_primera_recepcion": "2026-11-14T04:31:04.017309+00:00",
+    "fecha_ultima_observacion": "2026-11-14T04:31:04.017309+00:00"
   }
 }
