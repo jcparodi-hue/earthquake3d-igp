@@ -82681,7 +82681,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-790",
     "fecha_primera_recepcion": "2026-11-14T09:35:50.934389+00:00",
-    "fecha_ultima_observacion": "2026-11-14T11:15:50.305563+00:00"
+    "fecha_ultima_observacion": "2026-11-14T11:20:43.118903+00:00"
   },
   "EMSC:20261114_0000118": {
     "id": "20261114_0000118",
@@ -82780,5 +82780,33 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41361943",
     "fecha_primera_recepcion": "2026-11-14T11:15:50.305563+00:00",
     "fecha_ultima_observacion": "2026-11-14T11:15:50.305563+00:00"
+  },
+  "EMSC:20261114_0000134": {
+    "id": "20261114_0000134",
+    "fecha_hora_utc": "2026-11-14T11:14:17.440000+00:00",
+    "magnitud": 2.7,
+    "profundidad_km": 7.0,
+    "latitud": 32.8195,
+    "longitud": -115.4633,
+    "pais": "",
+    "ciudad_referencia": "SOUTHERN CALIFORNIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261114_0000134",
+    "fecha_primera_recepcion": "2026-11-14T11:20:43.118903+00:00",
+    "fecha_ultima_observacion": "2026-11-14T11:20:43.118903+00:00"
+  },
+  "USGS:ci41361959": {
+    "id": "ci41361959",
+    "fecha_hora_utc": "2026-11-14T11:14:17.440000+00:00",
+    "magnitud": 2.66,
+    "profundidad_km": 7.0,
+    "latitud": 32.8195,
+    "longitud": -115.46333,
+    "pais": "",
+    "ciudad_referencia": "8 km W of Holtville, CA",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41361959",
+    "fecha_primera_recepcion": "2026-11-14T11:20:43.118903+00:00",
+    "fecha_ultima_observacion": "2026-11-14T11:20:43.118903+00:00"
   }
 }
