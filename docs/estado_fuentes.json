@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-14T18:16:01.034240+00:00",
+  "actualizado_utc": "2026-11-14T18:20:42.210586+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 100,
   "actualizacion_minutos": 5,
   "igp": 100,
-  "emsc": 2153,
-  "usgs": 486,
-  "duplicados_eliminados": 437,
-  "eventos_publicados": 2302,
-  "evento_mas_reciente_utc": "2026-11-14T18:04:03+00:00",
+  "emsc": 2152,
+  "usgs": 487,
+  "duplicados_eliminados": 438,
+  "eventos_publicados": 2301,
+  "evento_mas_reciente_utc": "2026-11-14T18:04:01.078000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 26,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-14T08:21:54+00:00",
-      "antiguedad_evento_mas_reciente_min": 594.1
+      "antiguedad_evento_mas_reciente_min": 598.8
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2153,
-      "eventos_recibidos": 2156,
+      "eventos_validos": 2152,
+      "eventos_recibidos": 2155,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-14T18:04:03+00:00",
-      "antiguedad_evento_mas_reciente_min": 12.0
+      "evento_mas_reciente_utc": "2026-11-14T18:04:01.078000+00:00",
+      "antiguedad_evento_mas_reciente_min": 16.7
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 486,
-      "eventos_recibidos": 491,
+      "eventos_validos": 487,
+      "eventos_recibidos": 492,
       "invalidos_rechazados": 5,
-      "evento_mas_reciente_utc": "2026-11-14T16:56:39.533000+00:00",
-      "antiguedad_evento_mas_reciente_min": 79.4
+      "evento_mas_reciente_utc": "2026-11-14T18:04:01.078000+00:00",
+      "antiguedad_evento_mas_reciente_min": 16.7
     }
   },
   "ultimo_evento": {
@@ -54,35 +54,35 @@
     },
     "emsc": {
       "id": "20261114_0000213",
-      "fecha_hora_utc": "2026-11-14T18:04:03+00:00",
-      "magnitud": 4.6,
-      "profundidad_km": 520.0,
-      "latitud": -22.34,
-      "longitud": -63.75,
+      "fecha_hora_utc": "2026-11-14T18:04:01.078000+00:00",
+      "magnitud": 4.7,
+      "profundidad_km": 506.3,
+      "latitud": -22.2364,
+      "longitud": -63.653,
       "pais": "",
       "ciudad_referencia": "SALTA, ARGENTINA",
       "fuente": "EMSC",
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261114_0000213"
     },
     "usgs": {
-      "id": "us7000ty9v",
-      "fecha_hora_utc": "2026-11-14T16:56:39.533000+00:00",
-      "magnitud": 4.6,
-      "profundidad_km": 65.399,
-      "latitud": 5.5982,
-      "longitud": 126.6097,
+      "id": "us7000ty9z",
+      "fecha_hora_utc": "2026-11-14T18:04:01.078000+00:00",
+      "magnitud": 4.7,
+      "profundidad_km": 506.268,
+      "latitud": -22.2364,
+      "longitud": -63.653,
       "pais": "",
-      "ciudad_referencia": "96 km SSE of Pondaguitan, Philippines",
+      "ciudad_referencia": "24 km S of Yacuiba, Bolivia",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9v"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9z"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-14T18:16:01.034240+00:00"
+    "hora_consulta_utc": "2026-11-14T18:20:42.210586+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-14T18:16:01.034240+00:00",
-  "combined_after_dedup": 2302
+  "updated_utc": "2026-11-14T18:20:42.210586+00:00",
+  "combined_after_dedup": 2301
 }
