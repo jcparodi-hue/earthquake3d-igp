@@ -82681,7 +82681,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-790",
     "fecha_primera_recepcion": "2026-11-14T09:35:50.934389+00:00",
-    "fecha_ultima_observacion": "2026-11-14T16:21:00.800566+00:00"
+    "fecha_ultima_observacion": "2026-11-14T16:26:00.134722+00:00"
   },
   "EMSC:20261114_0000118": {
     "id": "20261114_0000118",
@@ -83186,5 +83186,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261114_0000193",
     "fecha_primera_recepcion": "2026-11-14T16:00:50.879829+00:00",
     "fecha_ultima_observacion": "2026-11-14T16:21:00.800566+00:00"
+  },
+  "EMSC:20261114_0000195": {
+    "id": "20261114_0000195",
+    "fecha_hora_utc": "2026-11-14T16:04:21.572000+00:00",
+    "magnitud": 4.9,
+    "profundidad_km": 147.2,
+    "latitud": 8.406,
+    "longitud": 126.2174,
+    "pais": "",
+    "ciudad_referencia": "MINDANAO, PHILIPPINES",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261114_0000195",
+    "fecha_primera_recepcion": "2026-11-14T16:26:00.134722+00:00",
+    "fecha_ultima_observacion": "2026-11-14T16:26:00.134722+00:00"
+  },
+  "USGS:us7000ty9l": {
+    "id": "us7000ty9l",
+    "fecha_hora_utc": "2026-11-14T16:04:21.572000+00:00",
+    "magnitud": 4.9,
+    "profundidad_km": 147.186,
+    "latitud": 8.406,
+    "longitud": 126.2174,
+    "pais": "",
+    "ciudad_referencia": "7 km SE of Tagbina, Philippines",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9l",
+    "fecha_primera_recepcion": "2026-11-14T16:26:00.134722+00:00",
+    "fecha_ultima_observacion": "2026-11-14T16:26:00.134722+00:00"
   }
 }
