@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-14T21:20:55.755155+00:00",
+  "actualizado_utc": "2026-11-14T21:26:01.724541+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 100,
   "actualizacion_minutos": 5,
   "igp": 100,
   "emsc": 2136,
-  "usgs": 484,
-  "duplicados_eliminados": 438,
+  "usgs": 482,
+  "duplicados_eliminados": 436,
   "eventos_publicados": 2282,
-  "evento_mas_reciente_utc": "2026-11-14T21:08:31.060000+00:00",
+  "evento_mas_reciente_utc": "2026-11-14T21:17:30+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 26,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-14T08:21:54+00:00",
-      "antiguedad_evento_mas_reciente_min": 779.0
+      "antiguedad_evento_mas_reciente_min": 784.1
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2136,
       "eventos_recibidos": 2139,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-14T21:08:31.060000+00:00",
-      "antiguedad_evento_mas_reciente_min": 12.4
+      "evento_mas_reciente_utc": "2026-11-14T21:17:30+00:00",
+      "antiguedad_evento_mas_reciente_min": 8.5
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 484,
-      "eventos_recibidos": 489,
+      "eventos_validos": 482,
+      "eventos_recibidos": 487,
       "invalidos_rechazados": 5,
-      "evento_mas_reciente_utc": "2026-11-14T21:08:31.060000+00:00",
-      "antiguedad_evento_mas_reciente_min": 12.4
+      "evento_mas_reciente_utc": "2026-11-14T20:40:25.910000+00:00",
+      "antiguedad_evento_mas_reciente_min": 45.6
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-790"
     },
     "emsc": {
-      "id": "20261114_0000231",
-      "fecha_hora_utc": "2026-11-14T21:08:31.060000+00:00",
-      "magnitud": 2.6,
-      "profundidad_km": 14.4,
-      "latitud": 45.1832,
-      "longitud": -122.7875,
+      "id": "20261114_0000234",
+      "fecha_hora_utc": "2026-11-14T21:17:30+00:00",
+      "magnitud": 3.8,
+      "profundidad_km": 10.0,
+      "latitud": 32.4,
+      "longitud": 130.5,
       "pais": "",
-      "ciudad_referencia": "OREGON",
+      "ciudad_referencia": "KYUSHU, JAPAN",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261114_0000231"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261114_0000234"
     },
     "usgs": {
-      "id": "uw714139281",
-      "fecha_hora_utc": "2026-11-14T21:08:31.060000+00:00",
-      "magnitud": 2.55777502059937,
-      "profundidad_km": 14.4300003051758,
-      "latitud": 45.1831665039062,
-      "longitud": -122.787498474121,
+      "id": "pr71539273",
+      "fecha_hora_utc": "2026-11-14T20:40:25.910000+00:00",
+      "magnitud": 2.87,
+      "profundidad_km": 19.63,
+      "latitud": 18.6018333333333,
+      "longitud": -66.934,
       "pais": "",
-      "ciudad_referencia": "1 km E of Hubbard, Oregon",
+      "ciudad_referencia": "14 km N of Quebradillas, Puerto Rico",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714139281"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71539273"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-14T21:20:55.755155+00:00"
+    "hora_consulta_utc": "2026-11-14T21:26:01.724541+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-14T21:20:55.755155+00:00",
+  "updated_utc": "2026-11-14T21:26:01.724541+00:00",
   "combined_after_dedup": 2282
 }

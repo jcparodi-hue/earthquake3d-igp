@@ -82681,7 +82681,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-790",
     "fecha_primera_recepcion": "2026-11-14T09:35:50.934389+00:00",
-    "fecha_ultima_observacion": "2026-11-14T21:20:55.755155+00:00"
+    "fecha_ultima_observacion": "2026-11-14T21:26:01.724541+00:00"
   },
   "EMSC:20261114_0000118": {
     "id": "20261114_0000118",
@@ -83508,5 +83508,33 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714139281",
     "fecha_primera_recepcion": "2026-11-14T21:16:05.861837+00:00",
     "fecha_ultima_observacion": "2026-11-14T21:20:55.755155+00:00"
+  },
+  "EMSC:20261114_0000234": {
+    "id": "20261114_0000234",
+    "fecha_hora_utc": "2026-11-14T21:17:30+00:00",
+    "magnitud": 3.8,
+    "profundidad_km": 10.0,
+    "latitud": 32.4,
+    "longitud": 130.5,
+    "pais": "",
+    "ciudad_referencia": "KYUSHU, JAPAN",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261114_0000234",
+    "fecha_primera_recepcion": "2026-11-14T21:26:01.724541+00:00",
+    "fecha_ultima_observacion": "2026-11-14T21:26:01.724541+00:00"
+  },
+  "USGS:pr71539273": {
+    "id": "pr71539273",
+    "fecha_hora_utc": "2026-11-14T20:40:25.910000+00:00",
+    "magnitud": 2.87,
+    "profundidad_km": 19.63,
+    "latitud": 18.6018333333333,
+    "longitud": -66.934,
+    "pais": "",
+    "ciudad_referencia": "14 km N of Quebradillas, Puerto Rico",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71539273",
+    "fecha_primera_recepcion": "2026-11-14T21:26:01.724541+00:00",
+    "fecha_ultima_observacion": "2026-11-14T21:26:01.724541+00:00"
   }
 }
