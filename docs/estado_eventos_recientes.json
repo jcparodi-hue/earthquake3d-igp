@@ -82681,7 +82681,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-790",
     "fecha_primera_recepcion": "2026-11-14T09:35:50.934389+00:00",
-    "fecha_ultima_observacion": "2026-11-14T22:00:55.970371+00:00"
+    "fecha_ultima_observacion": "2026-11-14T22:05:57.172192+00:00"
   },
   "EMSC:20261114_0000118": {
     "id": "20261114_0000118",
@@ -83592,5 +83592,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261114_0000245",
     "fecha_primera_recepcion": "2026-11-14T21:50:50.542398+00:00",
     "fecha_ultima_observacion": "2026-11-14T22:00:55.970371+00:00"
+  },
+  "EMSC:20261114_0000246": {
+    "id": "20261114_0000246",
+    "fecha_hora_utc": "2026-11-14T22:00:18.405154+00:00",
+    "magnitud": 3.4,
+    "profundidad_km": 0.8,
+    "latitud": 59.968,
+    "longitud": -147.376,
+    "pais": "",
+    "ciudad_referencia": "GULF OF ALASKA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261114_0000246",
+    "fecha_primera_recepcion": "2026-11-14T22:05:57.172192+00:00",
+    "fecha_ultima_observacion": "2026-11-14T22:05:57.172192+00:00"
+  },
+  "USGS:aka2026wpeyzd": {
+    "id": "aka2026wpeyzd",
+    "fecha_hora_utc": "2026-11-14T22:00:18.405000+00:00",
+    "magnitud": 3.4,
+    "profundidad_km": 0.8,
+    "latitud": 59.968,
+    "longitud": -147.376,
+    "pais": "",
+    "ciudad_referencia": "37 km ESE of Chenega, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wpeyzd",
+    "fecha_primera_recepcion": "2026-11-14T22:05:57.172192+00:00",
+    "fecha_ultima_observacion": "2026-11-14T22:05:57.172192+00:00"
   }
 }

@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-14T22:00:55.970371+00:00",
+  "actualizado_utc": "2026-11-14T22:05:57.172192+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 100,
   "actualizacion_minutos": 5,
   "igp": 100,
-  "emsc": 2134,
-  "usgs": 480,
-  "duplicados_eliminados": 435,
-  "eventos_publicados": 2279,
-  "evento_mas_reciente_utc": "2026-11-14T21:42:25+00:00",
+  "emsc": 2135,
+  "usgs": 481,
+  "duplicados_eliminados": 436,
+  "eventos_publicados": 2280,
+  "evento_mas_reciente_utc": "2026-11-14T22:00:18.405154+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 26,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-14T08:21:54+00:00",
-      "antiguedad_evento_mas_reciente_min": 819.0
+      "antiguedad_evento_mas_reciente_min": 824.1
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2134,
-      "eventos_recibidos": 2137,
+      "eventos_validos": 2135,
+      "eventos_recibidos": 2138,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-14T21:42:25+00:00",
-      "antiguedad_evento_mas_reciente_min": 18.5
+      "evento_mas_reciente_utc": "2026-11-14T22:00:18.405154+00:00",
+      "antiguedad_evento_mas_reciente_min": 5.6
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 480,
-      "eventos_recibidos": 484,
+      "eventos_validos": 481,
+      "eventos_recibidos": 485,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-14T20:40:25.910000+00:00",
-      "antiguedad_evento_mas_reciente_min": 80.5
+      "evento_mas_reciente_utc": "2026-11-14T22:00:18.405000+00:00",
+      "antiguedad_evento_mas_reciente_min": 5.6
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-790"
     },
     "emsc": {
-      "id": "20261114_0000245",
-      "fecha_hora_utc": "2026-11-14T21:42:25+00:00",
-      "magnitud": 3.5,
-      "profundidad_km": 30.0,
-      "latitud": 13.483,
-      "longitud": -91.037,
+      "id": "20261114_0000246",
+      "fecha_hora_utc": "2026-11-14T22:00:18.405154+00:00",
+      "magnitud": 3.4,
+      "profundidad_km": 0.8,
+      "latitud": 59.968,
+      "longitud": -147.376,
       "pais": "",
-      "ciudad_referencia": "OFFSHORE GUATEMALA",
+      "ciudad_referencia": "GULF OF ALASKA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261114_0000245"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261114_0000246"
     },
     "usgs": {
-      "id": "pr71539273",
-      "fecha_hora_utc": "2026-11-14T20:40:25.910000+00:00",
-      "magnitud": 2.87,
-      "profundidad_km": 19.63,
-      "latitud": 18.6018333333333,
-      "longitud": -66.934,
+      "id": "aka2026wpeyzd",
+      "fecha_hora_utc": "2026-11-14T22:00:18.405000+00:00",
+      "magnitud": 3.4,
+      "profundidad_km": 0.8,
+      "latitud": 59.968,
+      "longitud": -147.376,
       "pais": "",
-      "ciudad_referencia": "14 km N of Quebradillas, Puerto Rico",
+      "ciudad_referencia": "37 km ESE of Chenega, Alaska",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71539273"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wpeyzd"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-14T22:00:55.970371+00:00"
+    "hora_consulta_utc": "2026-11-14T22:05:57.172192+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-14T22:00:55.970371+00:00",
-  "combined_after_dedup": 2279
+  "updated_utc": "2026-11-14T22:05:57.172192+00:00",
+  "combined_after_dedup": 2280
 }
