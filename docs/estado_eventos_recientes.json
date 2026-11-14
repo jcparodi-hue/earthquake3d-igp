@@ -82681,7 +82681,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-790",
     "fecha_primera_recepcion": "2026-11-14T09:35:50.934389+00:00",
-    "fecha_ultima_observacion": "2026-11-14T13:05:58.893966+00:00"
+    "fecha_ultima_observacion": "2026-11-14T13:10:59.096362+00:00"
   },
   "EMSC:20261114_0000118": {
     "id": "20261114_0000118",
@@ -82934,5 +82934,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261114_0000147",
     "fecha_primera_recepcion": "2026-11-14T12:55:51.164919+00:00",
     "fecha_ultima_observacion": "2026-11-14T13:05:58.893966+00:00"
+  },
+  "EMSC:20261114_0000151": {
+    "id": "20261114_0000151",
+    "fecha_hora_utc": "2026-11-14T13:02:04+00:00",
+    "magnitud": 3.5,
+    "profundidad_km": 5.0,
+    "latitud": 7.573,
+    "longitud": -80.6823,
+    "pais": "",
+    "ciudad_referencia": "PANAMA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261114_0000151",
+    "fecha_primera_recepcion": "2026-11-14T13:10:59.096362+00:00",
+    "fecha_ultima_observacion": "2026-11-14T13:10:59.096362+00:00"
+  },
+  "USGS:us7000ty8u": {
+    "id": "us7000ty8u",
+    "fecha_hora_utc": "2026-11-14T12:28:00.653000+00:00",
+    "magnitud": 4.5,
+    "profundidad_km": 17.439,
+    "latitud": 52.3603,
+    "longitud": 160.2984,
+    "pais": "",
+    "ciudad_referencia": "137 km SE of Petropavlovsk-Kamchatsky, Russia",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty8u",
+    "fecha_primera_recepcion": "2026-11-14T13:10:59.096362+00:00",
+    "fecha_ultima_observacion": "2026-11-14T13:10:59.096362+00:00"
   }
 }
