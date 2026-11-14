@@ -82681,7 +82681,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-790",
     "fecha_primera_recepcion": "2026-11-14T09:35:50.934389+00:00",
-    "fecha_ultima_observacion": "2026-11-14T17:56:02.499899+00:00"
+    "fecha_ultima_observacion": "2026-11-14T18:01:13.139031+00:00"
   },
   "EMSC:20261114_0000118": {
     "id": "20261114_0000118",
@@ -83298,5 +83298,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261114_0000208",
     "fecha_primera_recepcion": "2026-11-14T17:46:03.066476+00:00",
     "fecha_ultima_observacion": "2026-11-14T17:56:02.499899+00:00"
+  },
+  "EMSC:20261114_0000210": {
+    "id": "20261114_0000210",
+    "fecha_hora_utc": "2026-11-14T17:51:30.143205+00:00",
+    "magnitud": 4.2,
+    "profundidad_km": 18.6,
+    "latitud": -39.9709,
+    "longitud": 176.2955,
+    "pais": "",
+    "ciudad_referencia": "NORTH ISLAND OF NEW ZEALAND",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261114_0000210",
+    "fecha_primera_recepcion": "2026-11-14T18:01:13.139031+00:00",
+    "fecha_ultima_observacion": "2026-11-14T18:01:13.139031+00:00"
+  },
+  "USGS:us7000ty9n": {
+    "id": "us7000ty9n",
+    "fecha_hora_utc": "2026-11-14T16:36:19.635000+00:00",
+    "magnitud": 4.6,
+    "profundidad_km": 197.571,
+    "latitud": -24.049,
+    "longitud": -66.9029,
+    "pais": "",
+    "ciudad_referencia": "62 km WNW of San Antonio de los Cobres, Argentina",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9n",
+    "fecha_primera_recepcion": "2026-11-14T18:01:13.139031+00:00",
+    "fecha_ultima_observacion": "2026-11-14T18:01:13.139031+00:00"
   }
 }
