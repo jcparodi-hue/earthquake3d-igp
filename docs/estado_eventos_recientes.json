@@ -82681,7 +82681,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-790",
     "fecha_primera_recepcion": "2026-11-14T09:35:50.934389+00:00",
-    "fecha_ultima_observacion": "2026-11-14T23:15:51.046670+00:00"
+    "fecha_ultima_observacion": "2026-11-14T23:20:41.063564+00:00"
   },
   "EMSC:20261114_0000118": {
     "id": "20261114_0000118",
@@ -83675,6 +83675,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261114_0000259",
     "fecha_primera_recepcion": "2026-11-14T23:15:51.046670+00:00",
-    "fecha_ultima_observacion": "2026-11-14T23:15:51.046670+00:00"
+    "fecha_ultima_observacion": "2026-11-14T23:20:41.063564+00:00"
+  },
+  "USGS:us7000tyay": {
+    "id": "us7000tyay",
+    "fecha_hora_utc": "2026-11-14T22:23:46.411000+00:00",
+    "magnitud": 4.7,
+    "profundidad_km": 10.0,
+    "latitud": 3.7323,
+    "longitud": -99.113,
+    "pais": "",
+    "ciudad_referencia": "east central Pacific Ocean",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyay",
+    "fecha_primera_recepcion": "2026-11-14T23:20:41.063564+00:00",
+    "fecha_ultima_observacion": "2026-11-14T23:20:41.063564+00:00"
   }
 }
