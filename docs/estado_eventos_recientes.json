@@ -81743,7 +81743,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-789",
     "fecha_primera_recepcion": "2026-11-13T22:55:50.579568+00:00",
-    "fecha_ultima_observacion": "2026-11-14T07:20:45.223571+00:00"
+    "fecha_ultima_observacion": "2026-11-14T07:26:00.573224+00:00"
   },
   "USGS:aka2026wnldjc": {
     "id": "aka2026wnldjc",
@@ -82471,6 +82471,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261114_0000091",
     "fecha_primera_recepcion": "2026-11-14T07:20:45.223571+00:00",
-    "fecha_ultima_observacion": "2026-11-14T07:20:45.223571+00:00"
+    "fecha_ultima_observacion": "2026-11-14T07:26:00.573224+00:00"
+  },
+  "USGS:aka2026wobqvm": {
+    "id": "aka2026wobqvm",
+    "fecha_hora_utc": "2026-11-14T07:21:19.785000+00:00",
+    "magnitud": 2.7,
+    "profundidad_km": 14.4,
+    "latitud": 59.852,
+    "longitud": -148.534,
+    "pais": "",
+    "ciudad_referencia": "37 km SW of Chenega, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wobqvm",
+    "fecha_primera_recepcion": "2026-11-14T07:26:00.573224+00:00",
+    "fecha_ultima_observacion": "2026-11-14T07:26:00.573224+00:00"
   }
 }
