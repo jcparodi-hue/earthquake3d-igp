@@ -85062,5 +85062,47 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261115_0000153",
     "fecha_primera_recepcion": "2026-11-15T14:11:03.914976+00:00",
     "fecha_ultima_observacion": "2026-11-15T14:20:57.008187+00:00"
+  },
+  "IGP:2026-794": {
+    "id": "2026-794",
+    "fecha_hora_utc": "2026-11-15T09:33:10+00:00",
+    "magnitud": 3.8,
+    "profundidad_km": 28.0,
+    "latitud": -10.66,
+    "longitud": -78.59,
+    "pais": "Perú",
+    "ciudad_referencia": "81 km al SO de Huarmey, Huarmey - Áncash",
+    "fuente": "IGP",
+    "url": "https://ultimosismo.igp.gob.pe/evento/2026-794",
+    "fecha_primera_recepcion": "2026-11-15T14:25:55.265498+00:00",
+    "fecha_ultima_observacion": "2026-11-15T14:25:55.265498+00:00"
+  },
+  "EMSC:20261115_0000167": {
+    "id": "20261115_0000167",
+    "fecha_hora_utc": "2026-11-15T14:14:50+00:00",
+    "magnitud": 2.8,
+    "profundidad_km": 76.3,
+    "latitud": -22.35,
+    "longitud": -68.69,
+    "pais": "",
+    "ciudad_referencia": "ANTOFAGASTA, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261115_0000167",
+    "fecha_primera_recepcion": "2026-11-15T14:25:55.265498+00:00",
+    "fecha_ultima_observacion": "2026-11-15T14:25:55.265498+00:00"
+  },
+  "USGS:aka2026wqlqvn": {
+    "id": "aka2026wqlqvn",
+    "fecha_hora_utc": "2026-11-15T14:20:30.226000+00:00",
+    "magnitud": 2.6,
+    "profundidad_km": 68.3,
+    "latitud": 62.973,
+    "longitud": -148.187,
+    "pais": "",
+    "ciudad_referencia": "60 km SE of Cantwell, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wqlqvn",
+    "fecha_primera_recepcion": "2026-11-15T14:25:55.265498+00:00",
+    "fecha_ultima_observacion": "2026-11-15T14:25:55.265498+00:00"
   }
 }
