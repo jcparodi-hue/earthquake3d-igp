@@ -85075,7 +85075,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-794",
     "fecha_primera_recepcion": "2026-11-15T14:25:55.265498+00:00",
-    "fecha_ultima_observacion": "2026-11-15T15:55:48.067505+00:00"
+    "fecha_ultima_observacion": "2026-11-15T16:01:10.616059+00:00"
   },
   "EMSC:20261115_0000167": {
     "id": "20261115_0000167",
@@ -85188,5 +85188,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261115_0000183",
     "fecha_primera_recepcion": "2026-11-15T15:50:45.886813+00:00",
     "fecha_ultima_observacion": "2026-11-15T15:55:48.067505+00:00"
+  },
+  "EMSC:20261115_0000185": {
+    "id": "20261115_0000185",
+    "fecha_hora_utc": "2026-11-15T15:48:12+00:00",
+    "magnitud": 2.8,
+    "profundidad_km": 124.1,
+    "latitud": -29.33,
+    "longitud": -69.56,
+    "pais": "",
+    "ciudad_referencia": "SAN JUAN, ARGENTINA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261115_0000185",
+    "fecha_primera_recepcion": "2026-11-15T16:01:10.616059+00:00",
+    "fecha_ultima_observacion": "2026-11-15T16:01:10.616059+00:00"
+  },
+  "USGS:us7000tyf4": {
+    "id": "us7000tyf4",
+    "fecha_hora_utc": "2026-11-15T15:41:14.978000+00:00",
+    "magnitud": 5.1,
+    "profundidad_km": 487.384,
+    "latitud": 1.7527,
+    "longitud": 122.1345,
+    "pais": "",
+    "ciudad_referencia": "169 km NW of Gorontalo, Indonesia",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyf4",
+    "fecha_primera_recepcion": "2026-11-15T16:01:10.616059+00:00",
+    "fecha_ultima_observacion": "2026-11-15T16:01:10.616059+00:00"
   }
 }
