@@ -84347,7 +84347,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-792",
     "fecha_primera_recepcion": "2026-11-15T06:51:02.896016+00:00",
-    "fecha_ultima_observacion": "2026-11-15T13:15:55.463100+00:00"
+    "fecha_ultima_observacion": "2026-11-15T13:20:44.018562+00:00"
   },
   "EMSC:20261115_0000061": {
     "id": "20261115_0000061",
@@ -84950,5 +84950,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261115_0000139",
     "fecha_primera_recepcion": "2026-11-15T13:15:55.463100+00:00",
     "fecha_ultima_observacion": "2026-11-15T13:15:55.463100+00:00"
+  },
+  "EMSC:20261115_0000140": {
+    "id": "20261115_0000140",
+    "fecha_hora_utc": "2026-11-15T13:16:38.863000+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 11.1,
+    "latitud": 39.3237,
+    "longitud": -119.0431,
+    "pais": "",
+    "ciudad_referencia": "NEVADA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261115_0000140",
+    "fecha_primera_recepcion": "2026-11-15T13:20:44.018562+00:00",
+    "fecha_ultima_observacion": "2026-11-15T13:20:44.018562+00:00"
+  },
+  "USGS:nn00927002": {
+    "id": "nn00927002",
+    "fecha_hora_utc": "2026-11-15T13:16:38.863000+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 11.0907,
+    "latitud": 39.3237,
+    "longitud": -119.0431,
+    "pais": "",
+    "ciudad_referencia": "18 km ESE of Silver Springs, Nevada",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00927002",
+    "fecha_primera_recepcion": "2026-11-15T13:20:44.018562+00:00",
+    "fecha_ultima_observacion": "2026-11-15T13:20:44.018562+00:00"
   }
 }
