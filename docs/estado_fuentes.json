@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-15T22:11:11.455225+00:00",
+  "actualizado_utc": "2026-11-15T22:16:04.937729+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 105,
   "actualizacion_minutos": 5,
@@ -9,7 +9,7 @@
   "usgs": 497,
   "duplicados_eliminados": 456,
   "eventos_publicados": 2290,
-  "evento_mas_reciente_utc": "2026-11-15T21:57:02+00:00",
+  "evento_mas_reciente_utc": "2026-11-15T22:09:23+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 31,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-15T18:52:21+00:00",
-      "antiguedad_evento_mas_reciente_min": 198.8
+      "antiguedad_evento_mas_reciente_min": 203.7
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,8 +26,8 @@
       "eventos_validos": 2144,
       "eventos_recibidos": 2147,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-15T21:57:02+00:00",
-      "antiguedad_evento_mas_reciente_min": 14.2
+      "evento_mas_reciente_utc": "2026-11-15T22:09:23+00:00",
+      "antiguedad_evento_mas_reciente_min": 6.7
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 501,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-11-15T21:48:48.120000+00:00",
-      "antiguedad_evento_mas_reciente_min": 22.4
+      "antiguedad_evento_mas_reciente_min": 27.3
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-795"
     },
     "emsc": {
-      "id": "20261115_0000266",
-      "fecha_hora_utc": "2026-11-15T21:57:02+00:00",
-      "magnitud": 3.5,
-      "profundidad_km": 28.0,
-      "latitud": 12.528,
-      "longitud": -89.344,
+      "id": "20261115_0000268",
+      "fecha_hora_utc": "2026-11-15T22:09:23+00:00",
+      "magnitud": 3.3,
+      "profundidad_km": 10.0,
+      "latitud": -1.12,
+      "longitud": 120.4,
       "pais": "",
-      "ciudad_referencia": "OFFSHORE EL SALVADOR",
+      "ciudad_referencia": "SULAWESI, INDONESIA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261115_0000266"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261115_0000268"
     },
     "usgs": {
       "id": "aka2026wraoug",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-15T22:11:11.455225+00:00"
+    "hora_consulta_utc": "2026-11-15T22:16:04.937729+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-15T22:11:11.455225+00:00",
+  "updated_utc": "2026-11-15T22:16:04.937729+00:00",
   "combined_after_dedup": 2290
 }
