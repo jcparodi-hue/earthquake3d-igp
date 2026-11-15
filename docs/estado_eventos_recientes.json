@@ -85495,7 +85495,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-795",
     "fecha_primera_recepcion": "2026-11-15T19:56:02.936422+00:00",
-    "fecha_ultima_observacion": "2026-11-15T21:45:53.022670+00:00"
+    "fecha_ultima_observacion": "2026-11-15T21:51:06.966022+00:00"
   },
   "EMSC:20261115_0000241": {
     "id": "20261115_0000241",
@@ -85650,5 +85650,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261115_0000259",
     "fecha_primera_recepcion": "2026-11-15T21:45:53.022670+00:00",
     "fecha_ultima_observacion": "2026-11-15T21:45:53.022670+00:00"
+  },
+  "EMSC:20261115_0000261": {
+    "id": "20261115_0000261",
+    "fecha_hora_utc": "2026-11-15T21:42:24+00:00",
+    "magnitud": 2.7,
+    "profundidad_km": 127.5,
+    "latitud": -21.63,
+    "longitud": -68.58,
+    "pais": "",
+    "ciudad_referencia": "ANTOFAGASTA, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261115_0000261",
+    "fecha_primera_recepcion": "2026-11-15T21:51:06.966022+00:00",
+    "fecha_ultima_observacion": "2026-11-15T21:51:06.966022+00:00"
+  },
+  "USGS:aka2026wraoug": {
+    "id": "aka2026wraoug",
+    "fecha_hora_utc": "2026-11-15T21:48:48.120000+00:00",
+    "magnitud": 2.6,
+    "profundidad_km": 8.0,
+    "latitud": 61.39,
+    "longitud": -149.717,
+    "pais": "",
+    "ciudad_referencia": "7 km S of Knik, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wraoug",
+    "fecha_primera_recepcion": "2026-11-15T21:51:06.966022+00:00",
+    "fecha_ultima_observacion": "2026-11-15T21:51:06.966022+00:00"
   }
 }
