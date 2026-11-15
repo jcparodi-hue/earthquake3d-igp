@@ -84347,7 +84347,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-792",
     "fecha_primera_recepcion": "2026-11-15T06:51:02.896016+00:00",
-    "fecha_ultima_observacion": "2026-11-15T11:31:03.757004+00:00"
+    "fecha_ultima_observacion": "2026-11-15T11:36:03.790358+00:00"
   },
   "EMSC:20261115_0000061": {
     "id": "20261115_0000061",
@@ -84813,30 +84813,30 @@
   },
   "EMSC:20261115_0000121": {
     "id": "20261115_0000121",
-    "fecha_hora_utc": "2026-11-15T11:29:07.981839+00:00",
+    "fecha_hora_utc": "2026-11-15T11:29:07.904000+00:00",
     "magnitud": 3.2,
-    "profundidad_km": 4.4,
-    "latitud": 35.6097,
-    "longitud": -98.0376,
+    "profundidad_km": 5.0,
+    "latitud": 35.5908,
+    "longitud": -98.0388,
     "pais": "",
     "ciudad_referencia": "OKLAHOMA",
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261115_0000121",
     "fecha_primera_recepcion": "2026-11-15T11:31:03.757004+00:00",
-    "fecha_ultima_observacion": "2026-11-15T11:31:03.757004+00:00"
+    "fecha_ultima_observacion": "2026-11-15T11:36:03.790358+00:00"
   },
   "USGS:ok2026wjws": {
     "id": "ok2026wjws",
-    "fecha_hora_utc": "2026-11-15T11:29:07.981000+00:00",
-    "magnitud": 3.18,
-    "profundidad_km": 4.418019772,
-    "latitud": 35.60971832,
-    "longitud": -98.03757477,
+    "fecha_hora_utc": "2026-11-15T11:29:08.611000+00:00",
+    "magnitud": 3.2,
+    "profundidad_km": 1.657231808,
+    "latitud": 35.62510681,
+    "longitud": -98.03107452,
     "pais": "",
-    "ciudad_referencia": "7 km E of Calumet, Oklahoma",
+    "ciudad_referencia": "8 km ENE of Calumet, Oklahoma",
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026wjws",
     "fecha_primera_recepcion": "2026-11-15T11:31:03.757004+00:00",
-    "fecha_ultima_observacion": "2026-11-15T11:31:03.757004+00:00"
+    "fecha_ultima_observacion": "2026-11-15T11:36:03.790358+00:00"
   }
 }
