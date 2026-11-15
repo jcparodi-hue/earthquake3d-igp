@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-15T20:05:55.560830+00:00",
+  "actualizado_utc": "2026-11-15T20:11:06.866892+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 105,
   "actualizacion_minutos": 5,
   "igp": 105,
-  "emsc": 2137,
+  "emsc": 2138,
   "usgs": 493,
   "duplicados_eliminados": 448,
-  "eventos_publicados": 2287,
-  "evento_mas_reciente_utc": "2026-11-15T19:58:06.017000+00:00",
+  "eventos_publicados": 2288,
+  "evento_mas_reciente_utc": "2026-11-15T20:04:10+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 31,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-15T18:52:21+00:00",
-      "antiguedad_evento_mas_reciente_min": 73.6
+      "antiguedad_evento_mas_reciente_min": 78.8
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2137,
-      "eventos_recibidos": 2140,
+      "eventos_validos": 2138,
+      "eventos_recibidos": 2141,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-15T19:58:06.017000+00:00",
-      "antiguedad_evento_mas_reciente_min": 7.8
+      "evento_mas_reciente_utc": "2026-11-15T20:04:10+00:00",
+      "antiguedad_evento_mas_reciente_min": 6.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 497,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-11-15T19:58:06.017000+00:00",
-      "antiguedad_evento_mas_reciente_min": 7.8
+      "antiguedad_evento_mas_reciente_min": 13.0
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-795"
     },
     "emsc": {
-      "id": "20261115_0000241",
-      "fecha_hora_utc": "2026-11-15T19:58:06.017000+00:00",
-      "magnitud": 2.9,
-      "profundidad_km": 1.7,
-      "latitud": 39.3238,
-      "longitud": -119.0378,
+      "id": "20261115_0000244",
+      "fecha_hora_utc": "2026-11-15T20:04:10+00:00",
+      "magnitud": 2.5,
+      "profundidad_km": 12.7,
+      "latitud": 37.5607,
+      "longitud": 35.6355,
       "pais": "",
-      "ciudad_referencia": "NEVADA",
+      "ciudad_referencia": "CENTRAL TURKEY",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261115_0000241"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261115_0000244"
     },
     "usgs": {
       "id": "nn00927024",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-15T20:05:55.560830+00:00"
+    "hora_consulta_utc": "2026-11-15T20:11:06.866892+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-15T20:05:55.560830+00:00",
-  "combined_after_dedup": 2287
+  "updated_utc": "2026-11-15T20:11:06.866892+00:00",
+  "combined_after_dedup": 2288
 }
