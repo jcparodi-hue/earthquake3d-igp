@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-15T23:01:10.447157+00:00",
+  "actualizado_utc": "2026-11-15T23:05:42.725492+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 105,
   "actualizacion_minutos": 5,
   "igp": 105,
-  "emsc": 2137,
-  "usgs": 496,
-  "duplicados_eliminados": 455,
-  "eventos_publicados": 2283,
-  "evento_mas_reciente_utc": "2026-11-15T22:38:22.638000+00:00",
+  "emsc": 2136,
+  "usgs": 495,
+  "duplicados_eliminados": 454,
+  "eventos_publicados": 2282,
+  "evento_mas_reciente_utc": "2026-11-15T22:38:19.154000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 31,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-15T18:52:21+00:00",
-      "antiguedad_evento_mas_reciente_min": 248.8
+      "antiguedad_evento_mas_reciente_min": 253.4
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2137,
-      "eventos_recibidos": 2140,
+      "eventos_validos": 2136,
+      "eventos_recibidos": 2139,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-15T22:38:22.638000+00:00",
-      "antiguedad_evento_mas_reciente_min": 22.8
+      "evento_mas_reciente_utc": "2026-11-15T22:38:19.154000+00:00",
+      "antiguedad_evento_mas_reciente_min": 27.4
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 496,
-      "eventos_recibidos": 500,
+      "eventos_validos": 495,
+      "eventos_recibidos": 499,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-15T22:38:22.638000+00:00",
-      "antiguedad_evento_mas_reciente_min": 22.8
+      "evento_mas_reciente_utc": "2026-11-15T22:38:19.154000+00:00",
+      "antiguedad_evento_mas_reciente_min": 27.4
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261115_0000272",
-      "fecha_hora_utc": "2026-11-15T22:38:22.638000+00:00",
+      "fecha_hora_utc": "2026-11-15T22:38:19.154000+00:00",
       "magnitud": 4.8,
-      "profundidad_km": 35.0,
-      "latitud": 52.4403,
-      "longitud": 160.4859,
+      "profundidad_km": 10.0,
+      "latitud": 52.4937,
+      "longitud": 160.494,
       "pais": "",
       "ciudad_referencia": "OFF EAST COAST OF KAMCHATKA",
       "fuente": "EMSC",
@@ -66,13 +66,13 @@
     },
     "usgs": {
       "id": "us7000tygk",
-      "fecha_hora_utc": "2026-11-15T22:38:22.638000+00:00",
+      "fecha_hora_utc": "2026-11-15T22:38:19.154000+00:00",
       "magnitud": 4.8,
-      "profundidad_km": 35.0,
-      "latitud": 52.4403,
-      "longitud": 160.4859,
+      "profundidad_km": 10.0,
+      "latitud": 52.4937,
+      "longitud": 160.494,
       "pais": "",
-      "ciudad_referencia": "143 km ESE of Petropavlovsk-Kamchatsky, Russia",
+      "ciudad_referencia": "141 km ESE of Petropavlovsk-Kamchatsky, Russia",
       "fuente": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tygk"
     }
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-15T23:01:10.447157+00:00"
+    "hora_consulta_utc": "2026-11-15T23:05:42.725492+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-15T23:01:10.447157+00:00",
-  "combined_after_dedup": 2283
+  "updated_utc": "2026-11-15T23:05:42.725492+00:00",
+  "combined_after_dedup": 2282
 }
