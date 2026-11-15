@@ -82681,7 +82681,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-790",
     "fecha_primera_recepcion": "2026-11-14T09:35:50.934389+00:00",
-    "fecha_ultima_observacion": "2026-11-15T02:35:41.576366+00:00"
+    "fecha_ultima_observacion": "2026-11-15T02:40:51.173979+00:00"
   },
   "EMSC:20261114_0000118": {
     "id": "20261114_0000118",
@@ -83956,5 +83956,33 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tybl",
     "fecha_primera_recepcion": "2026-11-15T02:35:41.576366+00:00",
     "fecha_ultima_observacion": "2026-11-15T02:35:41.576366+00:00"
+  },
+  "EMSC:20261115_0000020": {
+    "id": "20261115_0000020",
+    "fecha_hora_utc": "2026-11-15T02:27:52+00:00",
+    "magnitud": 4.0,
+    "profundidad_km": 10.0,
+    "latitud": 7.4261,
+    "longitud": -82.2089,
+    "pais": "",
+    "ciudad_referencia": "SOUTH OF PANAMA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261115_0000020",
+    "fecha_primera_recepcion": "2026-11-15T02:40:51.173979+00:00",
+    "fecha_ultima_observacion": "2026-11-15T02:40:51.173979+00:00"
+  },
+  "USGS:tx2026wlxsjc": {
+    "id": "tx2026wlxsjc",
+    "fecha_hora_utc": "2026-11-15T02:24:39.785000+00:00",
+    "magnitud": 3.2,
+    "profundidad_km": 7.1509,
+    "latitud": 32.009,
+    "longitud": -103.797,
+    "pais": "",
+    "ciudad_referencia": "35 km SE of Malaga, New Mexico",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026wlxsjc",
+    "fecha_primera_recepcion": "2026-11-15T02:40:51.173979+00:00",
+    "fecha_ultima_observacion": "2026-11-15T02:40:51.173979+00:00"
   }
 }
