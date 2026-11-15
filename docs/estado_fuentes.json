@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-15T08:15:42.690714+00:00",
+  "actualizado_utc": "2026-11-15T08:21:02.857089+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 102,
   "actualizacion_minutos": 5,
   "igp": 102,
   "emsc": 2126,
-  "usgs": 489,
+  "usgs": 490,
   "duplicados_eliminados": 446,
-  "eventos_publicados": 2271,
-  "evento_mas_reciente_utc": "2026-11-15T07:59:53+00:00",
+  "eventos_publicados": 2272,
+  "evento_mas_reciente_utc": "2026-11-15T08:15:06.997000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 28,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-15T02:53:37+00:00",
-      "antiguedad_evento_mas_reciente_min": 322.1
+      "antiguedad_evento_mas_reciente_min": 327.4
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -27,16 +27,16 @@
       "eventos_recibidos": 2129,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-15T07:59:53+00:00",
-      "antiguedad_evento_mas_reciente_min": 15.8
+      "antiguedad_evento_mas_reciente_min": 21.2
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 489,
-      "eventos_recibidos": 493,
+      "eventos_validos": 490,
+      "eventos_recibidos": 494,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-15T07:36:37.211000+00:00",
-      "antiguedad_evento_mas_reciente_min": 39.1
+      "evento_mas_reciente_utc": "2026-11-15T08:15:06.997000+00:00",
+      "antiguedad_evento_mas_reciente_min": 5.9
     }
   },
   "ultimo_evento": {
@@ -65,24 +65,24 @@
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261115_0000071"
     },
     "usgs": {
-      "id": "us7000tyd3",
-      "fecha_hora_utc": "2026-11-15T07:36:37.211000+00:00",
-      "magnitud": 4.7,
-      "profundidad_km": 177.524,
-      "latitud": -20.589,
-      "longitud": -175.9354,
+      "id": "aka2026wpzmaj",
+      "fecha_hora_utc": "2026-11-15T08:15:06.997000+00:00",
+      "magnitud": 2.5,
+      "profundidad_km": 78.6,
+      "latitud": 59.392,
+      "longitud": -153.045,
       "pais": "",
-      "ciudad_referencia": "92 km NW of Houma, Tonga",
+      "ciudad_referencia": "64 km W of Nanwalek, Alaska",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyd3"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wpzmaj"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-15T08:15:42.690714+00:00"
+    "hora_consulta_utc": "2026-11-15T08:21:02.857089+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-15T08:15:42.690714+00:00",
-  "combined_after_dedup": 2271
+  "updated_utc": "2026-11-15T08:21:02.857089+00:00",
+  "combined_after_dedup": 2272
 }
