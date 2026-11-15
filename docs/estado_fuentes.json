@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-15T01:55:56.904906+00:00",
+  "actualizado_utc": "2026-11-15T02:01:00.571566+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 100,
   "actualizacion_minutos": 5,
@@ -18,7 +18,7 @@
       "eventos_recibidos": 26,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-14T08:21:54+00:00",
-      "antiguedad_evento_mas_reciente_min": 1054.0
+      "antiguedad_evento_mas_reciente_min": 1059.1
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -27,7 +27,7 @@
       "eventos_recibidos": 2134,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-15T01:47:53+00:00",
-      "antiguedad_evento_mas_reciente_min": 8.1
+      "antiguedad_evento_mas_reciente_min": 13.1
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 485,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-11-15T01:40:03.330000+00:00",
-      "antiguedad_evento_mas_reciente_min": 15.9
+      "antiguedad_evento_mas_reciente_min": 21.0
     }
   },
   "ultimo_evento": {
@@ -56,9 +56,9 @@
       "id": "20261115_0000013",
       "fecha_hora_utc": "2026-11-15T01:47:53+00:00",
       "magnitud": 2.9,
-      "profundidad_km": 80.5,
+      "profundidad_km": 81.0,
       "latitud": -32.12,
-      "longitud": -71.15,
+      "longitud": -71.17,
       "pais": "",
       "ciudad_referencia": "COQUIMBO, CHILE",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-15T01:55:56.904906+00:00"
+    "hora_consulta_utc": "2026-11-15T02:01:00.571566+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-15T01:55:56.904906+00:00",
+  "updated_utc": "2026-11-15T02:01:00.571566+00:00",
   "combined_after_dedup": 2275
 }
