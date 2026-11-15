@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-15T02:51:01.532316+00:00",
+  "actualizado_utc": "2026-11-15T02:55:48.486840+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 100,
   "actualizacion_minutos": 5,
   "igp": 100,
-  "emsc": 2137,
+  "emsc": 2136,
   "usgs": 482,
   "duplicados_eliminados": 439,
-  "eventos_publicados": 2280,
-  "evento_mas_reciente_utc": "2026-11-15T02:46:04.800000+00:00",
+  "eventos_publicados": 2279,
+  "evento_mas_reciente_utc": "2026-11-15T02:46:04+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 26,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-14T08:21:54+00:00",
-      "antiguedad_evento_mas_reciente_min": 1109.1
+      "antiguedad_evento_mas_reciente_min": 1113.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2137,
-      "eventos_recibidos": 2140,
+      "eventos_validos": 2136,
+      "eventos_recibidos": 2139,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-15T02:46:04.800000+00:00",
-      "antiguedad_evento_mas_reciente_min": 4.9
+      "evento_mas_reciente_utc": "2026-11-15T02:46:04+00:00",
+      "antiguedad_evento_mas_reciente_min": 9.7
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 486,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-11-15T02:24:39.785000+00:00",
-      "antiguedad_evento_mas_reciente_min": 26.4
+      "antiguedad_evento_mas_reciente_min": 31.1
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261115_0000022",
-      "fecha_hora_utc": "2026-11-15T02:46:04.800000+00:00",
-      "magnitud": 3.7,
-      "profundidad_km": 10.0,
-      "latitud": 36.92,
-      "longitud": 27.89,
+      "fecha_hora_utc": "2026-11-15T02:46:04+00:00",
+      "magnitud": 3.8,
+      "profundidad_km": 10.9,
+      "latitud": 36.948,
+      "longitud": 27.7923,
       "pais": "",
       "ciudad_referencia": "DODECANESE IS.-TURKEY BORDER REG",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-15T02:51:01.532316+00:00"
+    "hora_consulta_utc": "2026-11-15T02:55:48.486840+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-15T02:51:01.532316+00:00",
-  "combined_after_dedup": 2280
+  "updated_utc": "2026-11-15T02:55:48.486840+00:00",
+  "combined_after_dedup": 2279
 }
