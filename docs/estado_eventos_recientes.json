@@ -84347,7 +84347,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-792",
     "fecha_primera_recepcion": "2026-11-15T06:51:02.896016+00:00",
-    "fecha_ultima_observacion": "2026-11-15T09:25:52.080801+00:00"
+    "fecha_ultima_observacion": "2026-11-15T09:30:46.935164+00:00"
   },
   "EMSC:20261115_0000061": {
     "id": "20261115_0000061",
@@ -84572,5 +84572,33 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wqbozu",
     "fecha_primera_recepcion": "2026-11-15T09:25:52.080801+00:00",
     "fecha_ultima_observacion": "2026-11-15T09:25:52.080801+00:00"
+  },
+  "EMSC:20261115_0000087": {
+    "id": "20261115_0000087",
+    "fecha_hora_utc": "2026-11-15T09:27:34.240000+00:00",
+    "magnitud": 3.4,
+    "profundidad_km": 7.7,
+    "latitud": 38.0212,
+    "longitud": -111.3895,
+    "pais": "",
+    "ciudad_referencia": "UTAH",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261115_0000087",
+    "fecha_primera_recepcion": "2026-11-15T09:30:46.935164+00:00",
+    "fecha_ultima_observacion": "2026-11-15T09:30:46.935164+00:00"
+  },
+  "USGS:uu80164671": {
+    "id": "uu80164671",
+    "fecha_hora_utc": "2026-11-15T09:27:34.240000+00:00",
+    "magnitud": 3.41,
+    "profundidad_km": 7.69999980926514,
+    "latitud": 38.021167755127,
+    "longitud": -111.389503479004,
+    "pais": "",
+    "ciudad_referencia": "12 km NNE of Boulder Town, Utah",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80164671",
+    "fecha_primera_recepcion": "2026-11-15T09:30:46.935164+00:00",
+    "fecha_ultima_observacion": "2026-11-15T09:30:46.935164+00:00"
   }
 }
