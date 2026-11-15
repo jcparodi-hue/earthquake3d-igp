@@ -85467,7 +85467,7 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261115_0000236",
     "fecha_primera_recepcion": "2026-11-15T19:45:55.258003+00:00",
-    "fecha_ultima_observacion": "2026-11-15T19:50:57.047534+00:00"
+    "fecha_ultima_observacion": "2026-11-15T19:56:02.936422+00:00"
   },
   "USGS:aka2026wqwoem": {
     "id": "aka2026wqwoem",
@@ -85481,6 +85481,20 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wqwoem",
     "fecha_primera_recepcion": "2026-11-15T19:50:57.047534+00:00",
-    "fecha_ultima_observacion": "2026-11-15T19:50:57.047534+00:00"
+    "fecha_ultima_observacion": "2026-11-15T19:56:02.936422+00:00"
+  },
+  "IGP:2026-795": {
+    "id": "2026-795",
+    "fecha_hora_utc": "2026-11-15T18:52:21+00:00",
+    "magnitud": 4.3,
+    "profundidad_km": 154.0,
+    "latitud": -17.68,
+    "longitud": -69.88,
+    "pais": "Perú",
+    "ciudad_referencia": "28 km al SE de Tarata, Tarata - Tacna",
+    "fuente": "IGP",
+    "url": "https://ultimosismo.igp.gob.pe/evento/2026-795",
+    "fecha_primera_recepcion": "2026-11-15T19:56:02.936422+00:00",
+    "fecha_ultima_observacion": "2026-11-15T19:56:02.936422+00:00"
   }
 }

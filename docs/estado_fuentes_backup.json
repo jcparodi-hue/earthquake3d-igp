@@ -1,24 +1,24 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-15T19:50:57.047534+00:00",
+  "actualizado_utc": "2026-11-15T19:56:02.936422+00:00",
   "periodo_mundial_dias": 10,
-  "igp_historico": 104,
+  "igp_historico": 105,
   "actualizacion_minutos": 5,
-  "igp": 104,
+  "igp": 105,
   "emsc": 2138,
   "usgs": 492,
-  "duplicados_eliminados": 446,
+  "duplicados_eliminados": 447,
   "eventos_publicados": 2288,
   "evento_mas_reciente_utc": "2026-11-15T19:47:38.312000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 104,
-      "eventos_recibidos": 30,
+      "eventos_validos": 105,
+      "eventos_recibidos": 31,
       "invalidos_rechazados": 0,
-      "evento_mas_reciente_utc": "2026-11-15T09:33:10+00:00",
-      "antiguedad_evento_mas_reciente_min": 617.8
+      "evento_mas_reciente_utc": "2026-11-15T18:52:21+00:00",
+      "antiguedad_evento_mas_reciente_min": 63.7
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -27,7 +27,7 @@
       "eventos_recibidos": 2141,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-15T19:38:37+00:00",
-      "antiguedad_evento_mas_reciente_min": 12.3
+      "antiguedad_evento_mas_reciente_min": 17.4
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,21 +36,21 @@
       "eventos_recibidos": 496,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-11-15T19:47:38.312000+00:00",
-      "antiguedad_evento_mas_reciente_min": 3.3
+      "antiguedad_evento_mas_reciente_min": 8.4
     }
   },
   "ultimo_evento": {
     "igp": {
-      "id": "2026-794",
-      "fecha_hora_utc": "2026-11-15T09:33:10+00:00",
-      "magnitud": 3.8,
-      "profundidad_km": 28.0,
-      "latitud": -10.66,
-      "longitud": -78.59,
+      "id": "2026-795",
+      "fecha_hora_utc": "2026-11-15T18:52:21+00:00",
+      "magnitud": 4.3,
+      "profundidad_km": 154.0,
+      "latitud": -17.68,
+      "longitud": -69.88,
       "pais": "Perú",
-      "ciudad_referencia": "81 km al SO de Huarmey, Huarmey - Áncash",
+      "ciudad_referencia": "28 km al SE de Tarata, Tarata - Tacna",
       "fuente": "IGP",
-      "url": "https://ultimosismo.igp.gob.pe/evento/2026-794"
+      "url": "https://ultimosismo.igp.gob.pe/evento/2026-795"
     },
     "emsc": {
       "id": "20261115_0000236",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-15T19:50:57.047534+00:00"
+    "hora_consulta_utc": "2026-11-15T19:56:02.936422+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-15T19:50:57.047534+00:00",
+  "updated_utc": "2026-11-15T19:56:02.936422+00:00",
   "combined_after_dedup": 2288
 }
