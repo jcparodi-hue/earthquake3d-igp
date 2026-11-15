@@ -84347,7 +84347,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-792",
     "fecha_primera_recepcion": "2026-11-15T06:51:02.896016+00:00",
-    "fecha_ultima_observacion": "2026-11-15T11:50:53.139436+00:00"
+    "fecha_ultima_observacion": "2026-11-15T11:55:40.666742+00:00"
   },
   "EMSC:20261115_0000061": {
     "id": "20261115_0000061",
@@ -84827,17 +84827,17 @@
   },
   "USGS:ok2026wjws": {
     "id": "ok2026wjws",
-    "fecha_hora_utc": "2026-11-15T11:29:08.611000+00:00",
-    "magnitud": 3.2,
-    "profundidad_km": 1.657231808,
-    "latitud": 35.62510681,
-    "longitud": -98.03107452,
+    "fecha_hora_utc": "2026-11-15T11:29:08.070000+00:00",
+    "magnitud": 3.06,
+    "profundidad_km": 6.34,
+    "latitud": 35.61283333,
+    "longitud": -98.04283333,
     "pais": "",
-    "ciudad_referencia": "8 km ENE of Calumet, Oklahoma",
+    "ciudad_referencia": "6 km E of Calumet, Oklahoma",
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026wjws",
     "fecha_primera_recepcion": "2026-11-15T11:31:03.757004+00:00",
-    "fecha_ultima_observacion": "2026-11-15T11:50:53.139436+00:00"
+    "fecha_ultima_observacion": "2026-11-15T11:55:40.666742+00:00"
   },
   "EMSC:20261115_0000123": {
     "id": "20261115_0000123",
@@ -84865,6 +84865,6 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261115_0000127",
     "fecha_primera_recepcion": "2026-11-15T11:50:53.139436+00:00",
-    "fecha_ultima_observacion": "2026-11-15T11:50:53.139436+00:00"
+    "fecha_ultima_observacion": "2026-11-15T11:55:40.666742+00:00"
   }
 }
