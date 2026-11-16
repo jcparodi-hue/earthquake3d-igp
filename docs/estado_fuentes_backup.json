@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-16T14:11:15.746420+00:00",
+  "actualizado_utc": "2026-11-16T14:15:55.513013+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 106,
   "actualizacion_minutos": 5,
   "igp": 106,
   "emsc": 2095,
-  "usgs": 462,
-  "duplicados_eliminados": 433,
+  "usgs": 461,
+  "duplicados_eliminados": 432,
   "eventos_publicados": 2230,
-  "evento_mas_reciente_utc": "2026-11-16T13:36:03+00:00",
+  "evento_mas_reciente_utc": "2026-11-16T14:09:53+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 31,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-15T21:03:02+00:00",
-      "antiguedad_evento_mas_reciente_min": 1028.2
+      "antiguedad_evento_mas_reciente_min": 1032.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2095,
       "eventos_recibidos": 2098,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-16T13:36:03+00:00",
-      "antiguedad_evento_mas_reciente_min": 35.2
+      "evento_mas_reciente_utc": "2026-11-16T14:09:53+00:00",
+      "antiguedad_evento_mas_reciente_min": 6.0
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 462,
-      "eventos_recibidos": 466,
+      "eventos_validos": 461,
+      "eventos_recibidos": 465,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-11-16T12:36:09.554000+00:00",
-      "antiguedad_evento_mas_reciente_min": 95.1
+      "antiguedad_evento_mas_reciente_min": 99.8
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-796"
     },
     "emsc": {
-      "id": "20261116_0000169",
-      "fecha_hora_utc": "2026-11-16T13:36:03+00:00",
-      "magnitud": 2.7,
-      "profundidad_km": 29.4,
-      "latitud": -25.51,
-      "longitud": -70.88,
+      "id": "20261116_0000187",
+      "fecha_hora_utc": "2026-11-16T14:09:53+00:00",
+      "magnitud": 4.0,
+      "profundidad_km": 23.0,
+      "latitud": 1.72,
+      "longitud": 126.61,
       "pais": "",
-      "ciudad_referencia": "OFFSHORE ANTOFAGASTA, CHILE",
+      "ciudad_referencia": "MOLUCCA SEA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261116_0000169"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261116_0000187"
     },
     "usgs": {
       "id": "aka2026wsedpt",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-16T14:11:15.746420+00:00"
+    "hora_consulta_utc": "2026-11-16T14:15:55.513013+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-16T14:11:15.746420+00:00",
+  "updated_utc": "2026-11-16T14:15:55.513013+00:00",
   "combined_after_dedup": 2230
 }
