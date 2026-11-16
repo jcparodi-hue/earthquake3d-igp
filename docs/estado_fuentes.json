@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-16T10:10:59.938321+00:00",
+  "actualizado_utc": "2026-11-16T10:15:51.477996+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 106,
   "actualizacion_minutos": 5,
   "igp": 106,
-  "emsc": 2098,
-  "usgs": 467,
+  "emsc": 2096,
+  "usgs": 466,
   "duplicados_eliminados": 436,
-  "eventos_publicados": 2235,
-  "evento_mas_reciente_utc": "2026-11-16T09:57:26.025781+00:00",
+  "eventos_publicados": 2232,
+  "evento_mas_reciente_utc": "2026-11-16T09:57:25.694434+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 31,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-15T21:03:02+00:00",
-      "antiguedad_evento_mas_reciente_min": 788.0
+      "antiguedad_evento_mas_reciente_min": 792.8
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2098,
-      "eventos_recibidos": 2101,
+      "eventos_validos": 2096,
+      "eventos_recibidos": 2099,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-16T09:57:26.025781+00:00",
-      "antiguedad_evento_mas_reciente_min": 13.6
+      "evento_mas_reciente_utc": "2026-11-16T09:57:25.694434+00:00",
+      "antiguedad_evento_mas_reciente_min": 18.4
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 467,
-      "eventos_recibidos": 471,
+      "eventos_validos": 466,
+      "eventos_recibidos": 470,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-11-16T07:14:14.483000+00:00",
-      "antiguedad_evento_mas_reciente_min": 176.8
+      "antiguedad_evento_mas_reciente_min": 181.6
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261116_0000127",
-      "fecha_hora_utc": "2026-11-16T09:57:26.025781+00:00",
+      "fecha_hora_utc": "2026-11-16T09:57:25.694434+00:00",
       "magnitud": 3.2,
-      "profundidad_km": 10.0,
-      "latitud": -39.5661,
-      "longitud": 173.3768,
+      "profundidad_km": 5.0,
+      "latitud": -39.612,
+      "longitud": 173.3866,
       "pais": "",
       "ciudad_referencia": "OFF W. COAST OF N. ISLAND, N.Z.",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-16T10:10:59.938321+00:00"
+    "hora_consulta_utc": "2026-11-16T10:15:51.477996+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-16T10:10:59.938321+00:00",
-  "combined_after_dedup": 2235
+  "updated_utc": "2026-11-16T10:15:51.477996+00:00",
+  "combined_after_dedup": 2232
 }
