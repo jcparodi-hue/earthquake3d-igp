@@ -87385,7 +87385,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-802",
     "fecha_primera_recepcion": "2026-11-16T21:01:05.433282+00:00",
-    "fecha_ultima_observacion": "2026-11-16T22:55:58.703594+00:00"
+    "fecha_ultima_observacion": "2026-11-16T23:01:15.532141+00:00"
   },
   "EMSC:20261116_0000295": {
     "id": "20261116_0000295",
@@ -87483,7 +87483,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyns",
     "fecha_primera_recepcion": "2026-11-16T22:16:04.296140+00:00",
-    "fecha_ultima_observacion": "2026-11-16T22:55:58.703594+00:00"
+    "fecha_ultima_observacion": "2026-11-16T23:01:15.532141+00:00"
   },
   "EMSC:20261116_0000311": {
     "id": "20261116_0000311",
@@ -87498,5 +87498,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261116_0000311",
     "fecha_primera_recepcion": "2026-11-16T22:36:06.187747+00:00",
     "fecha_ultima_observacion": "2026-11-16T22:55:58.703594+00:00"
+  },
+  "EMSC:20261116_0000316": {
+    "id": "20261116_0000316",
+    "fecha_hora_utc": "2026-11-16T22:45:55+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 2.0,
+    "latitud": 20.03,
+    "longitud": 97.871,
+    "pais": "",
+    "ciudad_referencia": "MYANMAR",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261116_0000316",
+    "fecha_primera_recepcion": "2026-11-16T23:01:15.532141+00:00",
+    "fecha_ultima_observacion": "2026-11-16T23:01:15.532141+00:00"
   }
 }
