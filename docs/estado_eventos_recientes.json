@@ -85803,7 +85803,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-796",
     "fecha_primera_recepcion": "2026-11-15T23:40:42.560317+00:00",
-    "fecha_ultima_observacion": "2026-11-16T15:25:53.925118+00:00"
+    "fecha_ultima_observacion": "2026-11-16T15:31:13.862104+00:00"
   },
   "EMSC:20261115_0000280": {
     "id": "20261115_0000280",
@@ -86923,6 +86923,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261116_0000206",
     "fecha_primera_recepcion": "2026-11-16T15:25:53.925118+00:00",
-    "fecha_ultima_observacion": "2026-11-16T15:25:53.925118+00:00"
+    "fecha_ultima_observacion": "2026-11-16T15:31:13.862104+00:00"
+  },
+  "USGS:us7000tyjz": {
+    "id": "us7000tyjz",
+    "fecha_hora_utc": "2026-11-16T13:32:25.974000+00:00",
+    "magnitud": 4.6,
+    "profundidad_km": 10.0,
+    "latitud": 26.8491,
+    "longitud": 129.6312,
+    "pais": "",
+    "ciudad_referencia": "113 km ESE of Wadomari, Japan",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyjz",
+    "fecha_primera_recepcion": "2026-11-16T15:31:13.862104+00:00",
+    "fecha_ultima_observacion": "2026-11-16T15:31:13.862104+00:00"
   }
 }
