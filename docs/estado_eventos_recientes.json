@@ -87889,7 +87889,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-805",
     "fecha_primera_recepcion": "2026-11-17T03:31:13.143669+00:00",
-    "fecha_ultima_observacion": "2026-11-17T11:01:15.778459+00:00"
+    "fecha_ultima_observacion": "2026-11-17T11:05:59.097227+00:00"
   },
   "EMSC:20261117_0000049": {
     "id": "20261117_0000049",
@@ -88421,7 +88421,7 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261117_0000132",
     "fecha_primera_recepcion": "2026-11-17T10:51:04.006218+00:00",
-    "fecha_ultima_observacion": "2026-11-17T11:01:15.778459+00:00"
+    "fecha_ultima_observacion": "2026-11-17T11:05:59.097227+00:00"
   },
   "USGS:us7000tyrv": {
     "id": "us7000tyrv",
@@ -88436,5 +88436,19 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyrv",
     "fecha_primera_recepcion": "2026-11-17T10:51:04.006218+00:00",
     "fecha_ultima_observacion": "2026-11-17T11:01:15.778459+00:00"
+  },
+  "USGS:us7000tyrw": {
+    "id": "us7000tyrw",
+    "fecha_hora_utc": "2026-11-17T10:32:58.639000+00:00",
+    "magnitud": 4.9,
+    "profundidad_km": 26.644,
+    "latitud": 40.6353,
+    "longitud": 143.7461,
+    "pais": "",
+    "ciudad_referencia": "173 km ENE of Noda, Japan",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyrw",
+    "fecha_primera_recepcion": "2026-11-17T11:05:59.097227+00:00",
+    "fecha_ultima_observacion": "2026-11-17T11:05:59.097227+00:00"
   }
 }
