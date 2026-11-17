@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-17T23:35:28.472409+00:00",
+  "actualizado_utc": "2026-11-17T23:36:16.313583+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 115,
   "actualizacion_minutos": 5,
   "igp": 115,
-  "emsc": 2121,
-  "usgs": 456,
+  "emsc": 2122,
+  "usgs": 457,
   "duplicados_eliminados": 430,
-  "eventos_publicados": 2262,
-  "evento_mas_reciente_utc": "2026-11-17T23:18:38+00:00",
+  "eventos_publicados": 2264,
+  "evento_mas_reciente_utc": "2026-11-17T23:20:15+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 37,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-17T02:23:08+00:00",
-      "antiguedad_evento_mas_reciente_min": 1272.3
+      "antiguedad_evento_mas_reciente_min": 1273.1
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2121,
-      "eventos_recibidos": 2123,
+      "eventos_validos": 2122,
+      "eventos_recibidos": 2124,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-11-17T23:18:38+00:00",
-      "antiguedad_evento_mas_reciente_min": 16.8
+      "evento_mas_reciente_utc": "2026-11-17T23:20:15+00:00",
+      "antiguedad_evento_mas_reciente_min": 16.0
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 456,
-      "eventos_recibidos": 459,
+      "eventos_validos": 457,
+      "eventos_recibidos": 460,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-17T22:19:27.830000+00:00",
-      "antiguedad_evento_mas_reciente_min": 76.0
+      "antiguedad_evento_mas_reciente_min": 76.8
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-805"
     },
     "emsc": {
-      "id": "20261117_0000347",
-      "fecha_hora_utc": "2026-11-17T23:18:38+00:00",
-      "magnitud": 3.3,
-      "profundidad_km": 10.0,
-      "latitud": -0.73,
-      "longitud": 133.74,
+      "id": "20261117_0000350",
+      "fecha_hora_utc": "2026-11-17T23:20:15+00:00",
+      "magnitud": 2.8,
+      "profundidad_km": 15.0,
+      "latitud": 28.086,
+      "longitud": 87.998,
       "pais": "",
-      "ciudad_referencia": "NEAR N COAST OF PAPUA, INDONESIA",
+      "ciudad_referencia": "WESTERN XIZANG",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261117_0000347"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261117_0000350"
     },
     "usgs": {
       "id": "aka2026wutnex",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-17T23:35:28.472409+00:00"
+    "hora_consulta_utc": "2026-11-17T23:36:16.313583+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-17T23:35:28.472409+00:00",
-  "combined_after_dedup": 2262
+  "updated_utc": "2026-11-17T23:36:16.313583+00:00",
+  "combined_after_dedup": 2264
 }
