@@ -1,14 +1,14 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-17T06:45:45.090389+00:00",
+  "actualizado_utc": "2026-11-17T06:50:59.100272+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 115,
   "actualizacion_minutos": 5,
   "igp": 115,
-  "emsc": 2139,
-  "usgs": 457,
-  "duplicados_eliminados": 437,
-  "eventos_publicados": 2274,
+  "emsc": 2140,
+  "usgs": 458,
+  "duplicados_eliminados": 438,
+  "eventos_publicados": 2275,
   "evento_mas_reciente_utc": "2026-11-17T06:32:05.249000+00:00",
   "salud_fuentes": {
     "igp": {
@@ -18,25 +18,25 @@
       "eventos_recibidos": 38,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-17T02:23:08+00:00",
-      "antiguedad_evento_mas_reciente_min": 262.6
+      "antiguedad_evento_mas_reciente_min": 267.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2139,
-      "eventos_recibidos": 2141,
+      "eventos_validos": 2140,
+      "eventos_recibidos": 2142,
       "invalidos_rechazados": 2,
       "evento_mas_reciente_utc": "2026-11-17T06:32:05.249000+00:00",
-      "antiguedad_evento_mas_reciente_min": 13.7
+      "antiguedad_evento_mas_reciente_min": 18.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 457,
-      "eventos_recibidos": 460,
+      "eventos_validos": 458,
+      "eventos_recibidos": 461,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-17T06:32:04.852000+00:00",
-      "antiguedad_evento_mas_reciente_min": 13.7
+      "evento_mas_reciente_utc": "2026-11-17T06:32:05.466000+00:00",
+      "antiguedad_evento_mas_reciente_min": 18.9
     }
   },
   "ultimo_evento": {
@@ -66,13 +66,13 @@
     },
     "usgs": {
       "id": "nn00927068",
-      "fecha_hora_utc": "2026-11-17T06:32:04.852000+00:00",
-      "magnitud": 2.97,
-      "profundidad_km": 13.3344,
-      "latitud": 39.392,
-      "longitud": -119.1027,
+      "fecha_hora_utc": "2026-11-17T06:32:05.466000+00:00",
+      "magnitud": 3.01,
+      "profundidad_km": 12.0393,
+      "latitud": 39.3807,
+      "longitud": -119.0993,
       "pais": "",
-      "ciudad_referencia": "10 km ESE of Silver Springs, Nevada",
+      "ciudad_referencia": "11 km ESE of Silver Springs, Nevada",
       "fuente": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00927068"
     }
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-17T06:45:45.090389+00:00"
+    "hora_consulta_utc": "2026-11-17T06:50:59.100272+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-17T06:45:45.090389+00:00",
-  "combined_after_dedup": 2274
+  "updated_utc": "2026-11-17T06:50:59.100272+00:00",
+  "combined_after_dedup": 2275
 }
