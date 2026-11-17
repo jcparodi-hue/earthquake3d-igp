@@ -87889,7 +87889,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-805",
     "fecha_primera_recepcion": "2026-11-17T03:31:13.143669+00:00",
-    "fecha_ultima_observacion": "2026-11-17T17:01:06.821051+00:00"
+    "fecha_ultima_observacion": "2026-11-17T23:06:14.492062+00:00"
   },
   "EMSC:20261117_0000049": {
     "id": "20261117_0000049",
@@ -88884,5 +88884,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261117_0000241",
     "fecha_primera_recepcion": "2026-11-17T16:50:53.691036+00:00",
     "fecha_ultima_observacion": "2026-11-17T17:01:06.821051+00:00"
+  },
+  "EMSC:20261117_0000344": {
+    "id": "20261117_0000344",
+    "fecha_hora_utc": "2026-11-17T22:44:27.920000+00:00",
+    "magnitud": 2.7,
+    "profundidad_km": 111.7,
+    "latitud": 38.4025,
+    "longitud": 15.3803,
+    "pais": "",
+    "ciudad_referencia": "SICILY, ITALY",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261117_0000344",
+    "fecha_primera_recepcion": "2026-11-17T23:06:14.492062+00:00",
+    "fecha_ultima_observacion": "2026-11-17T23:06:14.492062+00:00"
+  },
+  "USGS:aka2026wutnex": {
+    "id": "aka2026wutnex",
+    "fecha_hora_utc": "2026-11-17T22:19:27.830000+00:00",
+    "magnitud": 2.8,
+    "profundidad_km": 43.0,
+    "latitud": 58.913,
+    "longitud": -152.19,
+    "pais": "",
+    "ciudad_referencia": "51 km SSW of Nanwalek, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wutnex",
+    "fecha_primera_recepcion": "2026-11-17T23:06:14.492062+00:00",
+    "fecha_ultima_observacion": "2026-11-17T23:06:14.492062+00:00"
   }
 }
