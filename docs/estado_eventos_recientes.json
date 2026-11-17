@@ -87889,7 +87889,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-805",
     "fecha_primera_recepcion": "2026-11-17T03:31:13.143669+00:00",
-    "fecha_ultima_observacion": "2026-11-17T04:41:09.182542+00:00"
+    "fecha_ultima_observacion": "2026-11-17T04:45:56.377281+00:00"
   },
   "EMSC:20261117_0000049": {
     "id": "20261117_0000049",
@@ -87959,6 +87959,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261117_0000054",
     "fecha_primera_recepcion": "2026-11-17T04:41:09.182542+00:00",
-    "fecha_ultima_observacion": "2026-11-17T04:41:09.182542+00:00"
+    "fecha_ultima_observacion": "2026-11-17T04:45:56.377281+00:00"
+  },
+  "USGS:aka2026wtkldi": {
+    "id": "aka2026wtkldi",
+    "fecha_hora_utc": "2026-11-17T04:42:53.786000+00:00",
+    "magnitud": 2.9,
+    "profundidad_km": 118.0,
+    "latitud": 59.996,
+    "longitud": -152.829,
+    "pais": "",
+    "ciudad_referencia": "60 km WNW of Anchor Point, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wtkldi",
+    "fecha_primera_recepcion": "2026-11-17T04:45:56.377281+00:00",
+    "fecha_ultima_observacion": "2026-11-17T04:45:56.377281+00:00"
   }
 }
