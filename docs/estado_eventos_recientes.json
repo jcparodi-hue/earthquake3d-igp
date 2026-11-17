@@ -87889,7 +87889,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-805",
     "fecha_primera_recepcion": "2026-11-17T03:31:13.143669+00:00",
-    "fecha_ultima_observacion": "2026-11-17T04:55:45.432456+00:00"
+    "fecha_ultima_observacion": "2026-11-17T05:01:10.560455+00:00"
   },
   "EMSC:20261117_0000049": {
     "id": "20261117_0000049",
@@ -87988,5 +87988,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261117_0000057",
     "fecha_primera_recepcion": "2026-11-17T04:50:55.516422+00:00",
     "fecha_ultima_observacion": "2026-11-17T04:55:45.432456+00:00"
+  },
+  "EMSC:20261117_0000060": {
+    "id": "20261117_0000060",
+    "fecha_hora_utc": "2026-11-17T04:56:50.769803+00:00",
+    "magnitud": 3.6,
+    "profundidad_km": 53.4,
+    "latitud": 56.92,
+    "longitud": -154.392,
+    "pais": "",
+    "ciudad_referencia": "KODIAK ISLAND REGION, ALASKA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261117_0000060",
+    "fecha_primera_recepcion": "2026-11-17T05:01:10.560455+00:00",
+    "fecha_ultima_observacion": "2026-11-17T05:01:10.560455+00:00"
+  },
+  "USGS:aka2026wtkxeh": {
+    "id": "aka2026wtkxeh",
+    "fecha_hora_utc": "2026-11-17T04:56:50.769000+00:00",
+    "magnitud": 3.6,
+    "profundidad_km": 53.4,
+    "latitud": 56.92,
+    "longitud": -154.392,
+    "pais": "",
+    "ciudad_referencia": "13 km WSW of Akhiok, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wtkxeh",
+    "fecha_primera_recepcion": "2026-11-17T05:01:10.560455+00:00",
+    "fecha_ultima_observacion": "2026-11-17T05:01:10.560455+00:00"
   }
 }
