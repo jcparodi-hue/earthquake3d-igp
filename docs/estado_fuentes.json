@@ -1,24 +1,24 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-17T03:25:55.890253+00:00",
+  "actualizado_utc": "2026-11-17T03:31:13.143669+00:00",
   "periodo_mundial_dias": 10,
-  "igp_historico": 112,
+  "igp_historico": 115,
   "actualizacion_minutos": 5,
-  "igp": 112,
+  "igp": 115,
   "emsc": 2134,
   "usgs": 453,
-  "duplicados_eliminados": 432,
-  "eventos_publicados": 2267,
+  "duplicados_eliminados": 434,
+  "eventos_publicados": 2268,
   "evento_mas_reciente_utc": "2026-11-17T03:06:47+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 112,
-      "eventos_recibidos": 36,
+      "eventos_validos": 115,
+      "eventos_recibidos": 39,
       "invalidos_rechazados": 0,
-      "evento_mas_reciente_utc": "2026-11-16T19:51:02+00:00",
-      "antiguedad_evento_mas_reciente_min": 454.9
+      "evento_mas_reciente_utc": "2026-11-17T02:23:08+00:00",
+      "antiguedad_evento_mas_reciente_min": 68.1
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -27,7 +27,7 @@
       "eventos_recibidos": 2136,
       "invalidos_rechazados": 2,
       "evento_mas_reciente_utc": "2026-11-17T03:06:47+00:00",
-      "antiguedad_evento_mas_reciente_min": 19.1
+      "antiguedad_evento_mas_reciente_min": 24.4
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,21 +36,21 @@
       "eventos_recibidos": 456,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-17T02:00:17.654000+00:00",
-      "antiguedad_evento_mas_reciente_min": 85.6
+      "antiguedad_evento_mas_reciente_min": 90.9
     }
   },
   "ultimo_evento": {
     "igp": {
-      "id": "2026-802",
-      "fecha_hora_utc": "2026-11-16T19:51:02+00:00",
-      "magnitud": 4.6,
-      "profundidad_km": 29.0,
-      "latitud": -15.03,
-      "longitud": -76.1,
+      "id": "2026-805",
+      "fecha_hora_utc": "2026-11-17T02:23:08+00:00",
+      "magnitud": 4.2,
+      "profundidad_km": 24.0,
+      "latitud": -15.08,
+      "longitud": -76.24,
       "pais": "Perú",
-      "ciudad_referencia": "107 km al O de San Juan de Marcona, Nasca - Ica",
+      "ciudad_referencia": "119 km al O de San Juan de Marcona, Nasca - Ica",
       "fuente": "IGP",
-      "url": "https://ultimosismo.igp.gob.pe/evento/2026-802"
+      "url": "https://ultimosismo.igp.gob.pe/evento/2026-805"
     },
     "emsc": {
       "id": "20261117_0000042",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-17T03:25:55.890253+00:00"
+    "hora_consulta_utc": "2026-11-17T03:31:13.143669+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-17T03:25:55.890253+00:00",
-  "combined_after_dedup": 2267
+  "updated_utc": "2026-11-17T03:31:13.143669+00:00",
+  "combined_after_dedup": 2268
 }
