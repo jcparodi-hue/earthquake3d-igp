@@ -87889,7 +87889,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-805",
     "fecha_primera_recepcion": "2026-11-17T03:31:13.143669+00:00",
-    "fecha_ultima_observacion": "2026-11-17T09:36:06.587552+00:00"
+    "fecha_ultima_observacion": "2026-11-17T09:40:45.156563+00:00"
   },
   "EMSC:20261117_0000049": {
     "id": "20261117_0000049",
@@ -88295,6 +88295,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261117_0000115",
     "fecha_primera_recepcion": "2026-11-17T09:20:59.314992+00:00",
-    "fecha_ultima_observacion": "2026-11-17T09:36:06.587552+00:00"
+    "fecha_ultima_observacion": "2026-11-17T09:40:45.156563+00:00"
+  },
+  "USGS:us7000tyrh": {
+    "id": "us7000tyrh",
+    "fecha_hora_utc": "2026-11-17T08:25:59.326000+00:00",
+    "magnitud": 3.8,
+    "profundidad_km": 10.0,
+    "latitud": 30.6968,
+    "longitud": -106.1553,
+    "pais": "",
+    "ciudad_referencia": "35 km ENE of Miguel Ahumada, Mexico",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyrh",
+    "fecha_primera_recepcion": "2026-11-17T09:40:45.156563+00:00",
+    "fecha_ultima_observacion": "2026-11-17T09:40:45.156563+00:00"
   }
 }
