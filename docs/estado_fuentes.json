@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-17T01:55:54.619323+00:00",
+  "actualizado_utc": "2026-11-17T02:01:13.439093+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 112,
   "actualizacion_minutos": 5,
   "igp": 112,
-  "emsc": 2115,
-  "usgs": 453,
-  "duplicados_eliminados": 431,
-  "eventos_publicados": 2249,
-  "evento_mas_reciente_utc": "2026-11-17T01:38:22+00:00",
+  "emsc": 2127,
+  "usgs": 454,
+  "duplicados_eliminados": 432,
+  "eventos_publicados": 2261,
+  "evento_mas_reciente_utc": "2026-11-17T01:56:06.634476+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 36,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-16T19:51:02+00:00",
-      "antiguedad_evento_mas_reciente_min": 364.9
+      "antiguedad_evento_mas_reciente_min": 370.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2115,
-      "eventos_recibidos": 2117,
+      "eventos_validos": 2127,
+      "eventos_recibidos": 2129,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-11-17T01:38:22+00:00",
-      "antiguedad_evento_mas_reciente_min": 17.5
+      "evento_mas_reciente_utc": "2026-11-17T01:56:06.634476+00:00",
+      "antiguedad_evento_mas_reciente_min": 5.1
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 453,
-      "eventos_recibidos": 456,
+      "eventos_validos": 454,
+      "eventos_recibidos": 457,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-16T23:05:25.904000+00:00",
-      "antiguedad_evento_mas_reciente_min": 170.5
+      "evento_mas_reciente_utc": "2026-11-17T01:56:06.634000+00:00",
+      "antiguedad_evento_mas_reciente_min": 5.1
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-802"
     },
     "emsc": {
-      "id": "20261117_0000015",
-      "fecha_hora_utc": "2026-11-17T01:38:22+00:00",
-      "magnitud": 3.3,
-      "profundidad_km": 42.0,
-      "latitud": 12.114,
-      "longitud": -87.196,
+      "id": "20261117_0000016",
+      "fecha_hora_utc": "2026-11-17T01:56:06.634476+00:00",
+      "magnitud": 3.9,
+      "profundidad_km": 5.0,
+      "latitud": 63.096,
+      "longitud": -151.535,
       "pais": "",
-      "ciudad_referencia": "NEAR COAST OF NICARAGUA",
+      "ciudad_referencia": "CENTRAL ALASKA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261117_0000015"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261117_0000016"
     },
     "usgs": {
-      "id": "aka2026wszejn",
-      "fecha_hora_utc": "2026-11-16T23:05:25.904000+00:00",
-      "magnitud": 2.5,
-      "profundidad_km": 26.6,
-      "latitud": 61.663,
-      "longitud": -150.083,
+      "id": "aka2026wtewol",
+      "fecha_hora_utc": "2026-11-17T01:56:06.634000+00:00",
+      "magnitud": 3.9,
+      "profundidad_km": 5.0,
+      "latitud": 63.096,
+      "longitud": -151.535,
       "pais": "",
-      "ciudad_referencia": "9 km SSW of Willow, Alaska",
+      "ciudad_referencia": "50 km S of Denali National Park, Alaska",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wszejn"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wtewol"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-17T01:55:54.619323+00:00"
+    "hora_consulta_utc": "2026-11-17T02:01:13.439093+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-17T01:55:54.619323+00:00",
-  "combined_after_dedup": 2249
+  "updated_utc": "2026-11-17T02:01:13.439093+00:00",
+  "combined_after_dedup": 2261
 }
