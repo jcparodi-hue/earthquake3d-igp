@@ -1,4 +1,6 @@
 YEAR, MON, DAY, HOUR, MIN, DEP, MAG, LAT, LONG, URL   // IGP history + EMSC-RTS + USGS, global rolling 10 days
+2026,11,17,14,21,17.0,3.1,8.376900,-83.080800,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261117_0000199
+2026,11,17,14,20,273.7,5.2,-32.335000,-179.888000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261117_0000200
 2026,11,17,14,07,113.9,3.3,-18.910000,-69.250000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261117_0000194
 2026,11,17,13,55,10.0,3.3,4.420000,96.550000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261117_0000182
 2026,11,17,13,45,219.1,3.6,-24.010000,-67.570000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261117_0000177
@@ -61,6 +63,7 @@ YEAR, MON, DAY, HOUR, MIN, DEP, MAG, LAT, LONG, URL   // IGP history + EMSC-RTS 
 2026,11,17,07,39,5.2,3.7,53.125000,-166.376000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261117_0000098
 2026,11,17,07,29,43.9,3.4,17.357000,-100.653000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261117_0000192
 2026,11,17,07,23,29.8,2.5,19.206200,-155.495000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261117_0000094
+2026,11,17,07,13,4.5,2.6,38.511800,-112.927500,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261117_0000197
 2026,11,17,07,12,47.1,3.2,-32.000000,-71.410000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261117_0000091
 2026,11,17,06,53,132.0,2.5,-31.696000,-69.556000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261117_0000150
 2026,11,17,06,33,99.4,3.4,14.805000,-92.461000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261117_0000193
@@ -516,7 +519,7 @@ YEAR, MON, DAY, HOUR, MIN, DEP, MAG, LAT, LONG, URL   // IGP history + EMSC-RTS 
 2026,11,15,01,13,212.9,2.7,-24.130000,-67.150000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261115_0000010
 2026,11,15,01,08,5.0,3.4,7.622200,-81.368500,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261115_0000009
 2026,11,15,00,22,28.1,3.0,-32.740000,-71.720000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261115_0000003
-2026,11,15,00,04,5.0,3.5,7.489900,-80.310600,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261115_0000001
+2026,11,15,00,04,5.0,3.4,7.513500,-80.314300,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261115_0000001
 2026,11,14,23,51,94.5,2.6,-22.630000,-68.830000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261114_0000270
 2026,11,14,23,44,10.0,3.1,-25.920000,-66.530000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261114_0000268
 2026,11,14,23,33,0.0,2.6,34.630000,25.180000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261114_0000281
@@ -2195,8 +2198,6 @@ YEAR, MON, DAY, HOUR, MIN, DEP, MAG, LAT, LONG, URL   // IGP history + EMSC-RTS 
 2026,11,7,14,38,10.0,2.5,-28.880000,-67.560000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261107_0000173
 2026,11,7,14,33,67.0,2.9,-8.880000,110.890000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261107_0000170
 2026,11,7,14,33,27.8,2.9,-32.160000,-71.840000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261107_0000169
-2026,11,7,14,30,15.0,3.5,-5.800000,103.540000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261107_0000171
-2026,11,7,14,30,28.8,3.1,-28.630000,-71.380000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261107_0000168
 2026,11,7,07,27,38.0,3.8,-3.480000,-79.760000,10,https://ultimosismo.igp.gob.pe/evento/2026-768
 2026,11,7,05,36,143.0,4.3,-10.010000,-75.840000,10,https://ultimosismo.igp.gob.pe/evento/2026-767
 2026,11,6,18,07,12.0,3.7,-15.730000,-72.090000,10,https://ultimosismo.igp.gob.pe/evento/2026-766
