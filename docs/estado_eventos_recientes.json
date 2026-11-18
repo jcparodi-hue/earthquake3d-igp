@@ -90059,7 +90059,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-808",
     "fecha_primera_recepcion": "2026-11-18T10:45:43.536349+00:00",
-    "fecha_ultima_observacion": "2026-11-18T11:05:42.587497+00:00"
+    "fecha_ultima_observacion": "2026-11-18T11:11:08.763779+00:00"
   },
   "EMSC:20261118_0000168": {
     "id": "20261118_0000168",
@@ -90073,6 +90073,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261118_0000168",
     "fecha_primera_recepcion": "2026-11-18T10:51:01.653877+00:00",
-    "fecha_ultima_observacion": "2026-11-18T11:05:42.587497+00:00"
+    "fecha_ultima_observacion": "2026-11-18T11:11:08.763779+00:00"
+  },
+  "USGS:aka2026wvtfya": {
+    "id": "aka2026wvtfya",
+    "fecha_hora_utc": "2026-11-18T11:05:58.129000+00:00",
+    "magnitud": 2.7,
+    "profundidad_km": 27.0,
+    "latitud": 56.272,
+    "longitud": -157.184,
+    "pais": "",
+    "ciudad_referencia": "75 km E of Chignik, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wvtfya",
+    "fecha_primera_recepcion": "2026-11-18T11:11:08.763779+00:00",
+    "fecha_ultima_observacion": "2026-11-18T11:11:08.763779+00:00"
   }
 }
