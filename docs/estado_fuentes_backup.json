@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-18T00:27:10.898674+00:00",
+  "actualizado_utc": "2026-11-18T00:28:11.966927+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 115,
   "actualizacion_minutos": 5,
   "igp": 115,
   "emsc": 2128,
-  "usgs": 460,
+  "usgs": 461,
   "duplicados_eliminados": 433,
-  "eventos_publicados": 2270,
-  "evento_mas_reciente_utc": "2026-11-18T00:13:15+00:00",
+  "eventos_publicados": 2271,
+  "evento_mas_reciente_utc": "2026-11-18T00:26:22.815000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 37,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-17T02:23:08+00:00",
-      "antiguedad_evento_mas_reciente_min": 1324.0
+      "antiguedad_evento_mas_reciente_min": 1325.1
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -27,16 +27,16 @@
       "eventos_recibidos": 2130,
       "invalidos_rechazados": 2,
       "evento_mas_reciente_utc": "2026-11-18T00:13:15+00:00",
-      "antiguedad_evento_mas_reciente_min": 13.9
+      "antiguedad_evento_mas_reciente_min": 14.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 460,
-      "eventos_recibidos": 463,
+      "eventos_validos": 461,
+      "eventos_recibidos": 464,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-17T22:19:27.830000+00:00",
-      "antiguedad_evento_mas_reciente_min": 127.7
+      "evento_mas_reciente_utc": "2026-11-18T00:26:22.815000+00:00",
+      "antiguedad_evento_mas_reciente_min": 1.8
     }
   },
   "ultimo_evento": {
@@ -65,24 +65,24 @@
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261118_0000004"
     },
     "usgs": {
-      "id": "aka2026wutnex",
-      "fecha_hora_utc": "2026-11-17T22:19:27.830000+00:00",
-      "magnitud": 2.8,
-      "profundidad_km": 43.0,
-      "latitud": 58.913,
-      "longitud": -152.19,
+      "id": "aka2026wuxxhs",
+      "fecha_hora_utc": "2026-11-18T00:26:22.815000+00:00",
+      "magnitud": 2.6,
+      "profundidad_km": 15.3,
+      "latitud": 61.565,
+      "longitud": -147.594,
       "pais": "",
-      "ciudad_referencia": "51 km SSW of Nanwalek, Alaska",
+      "ciudad_referencia": "27 km S of Glacier View, Alaska",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wutnex"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wuxxhs"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-18T00:27:10.898674+00:00"
+    "hora_consulta_utc": "2026-11-18T00:28:11.966927+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-18T00:27:10.898674+00:00",
-  "combined_after_dedup": 2270
+  "updated_utc": "2026-11-18T00:28:11.966927+00:00",
+  "combined_after_dedup": 2271
 }
