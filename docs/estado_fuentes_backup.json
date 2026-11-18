@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-18T18:55:56.906220+00:00",
+  "actualizado_utc": "2026-11-18T19:01:13.427714+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 118,
   "actualizacion_minutos": 5,
   "igp": 118,
-  "emsc": 2183,
+  "emsc": 2186,
   "usgs": 462,
   "duplicados_eliminados": 442,
-  "eventos_publicados": 2321,
-  "evento_mas_reciente_utc": "2026-11-18T18:49:26.640000+00:00",
+  "eventos_publicados": 2324,
+  "evento_mas_reciente_utc": "2026-11-18T18:52:29+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 37,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-18T07:24:38+00:00",
-      "antiguedad_evento_mas_reciente_min": 691.3
+      "antiguedad_evento_mas_reciente_min": 696.6
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2183,
-      "eventos_recibidos": 2185,
+      "eventos_validos": 2186,
+      "eventos_recibidos": 2188,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-11-18T18:49:26.640000+00:00",
-      "antiguedad_evento_mas_reciente_min": 6.5
+      "evento_mas_reciente_utc": "2026-11-18T18:52:29+00:00",
+      "antiguedad_evento_mas_reciente_min": 8.7
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 465,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-18T18:49:26.640000+00:00",
-      "antiguedad_evento_mas_reciente_min": 6.5
+      "antiguedad_evento_mas_reciente_min": 11.8
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-808"
     },
     "emsc": {
-      "id": "20261118_0000310",
-      "fecha_hora_utc": "2026-11-18T18:49:26.640000+00:00",
-      "magnitud": 2.5,
-      "profundidad_km": 4.1,
-      "latitud": 40.5398,
-      "longitud": -120.6687,
+      "id": "20261118_0000315",
+      "fecha_hora_utc": "2026-11-18T18:52:29+00:00",
+      "magnitud": 3.2,
+      "profundidad_km": 34.0,
+      "latitud": 10.6828,
+      "longitud": -86.6775,
       "pais": "",
-      "ciudad_referencia": "NORTHERN CALIFORNIA",
+      "ciudad_referencia": "OFF COAST OF COSTA RICA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261118_0000310"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261118_0000315"
     },
     "usgs": {
       "id": "nc75468022",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-18T18:55:56.906220+00:00"
+    "hora_consulta_utc": "2026-11-18T19:01:13.427714+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-18T18:55:56.906220+00:00",
-  "combined_after_dedup": 2321
+  "updated_utc": "2026-11-18T19:01:13.427714+00:00",
+  "combined_after_dedup": 2324
 }
