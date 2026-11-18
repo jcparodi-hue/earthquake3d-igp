@@ -87889,7 +87889,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-805",
     "fecha_primera_recepcion": "2026-11-17T03:31:13.143669+00:00",
-    "fecha_ultima_observacion": "2026-11-18T02:35:42.378864+00:00"
+    "fecha_ultima_observacion": "2026-11-18T02:41:12.392226+00:00"
   },
   "EMSC:20261117_0000049": {
     "id": "20261117_0000049",
@@ -89234,5 +89234,33 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26322050",
     "fecha_primera_recepcion": "2026-11-18T02:35:42.378864+00:00",
     "fecha_ultima_observacion": "2026-11-18T02:35:42.378864+00:00"
+  },
+  "EMSC:20261118_0000031": {
+    "id": "20261118_0000031",
+    "fecha_hora_utc": "2026-11-18T02:34:18+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 59.3,
+    "latitud": -31.05,
+    "longitud": -71.37,
+    "pais": "",
+    "ciudad_referencia": "COQUIMBO, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261118_0000031",
+    "fecha_primera_recepcion": "2026-11-18T02:41:12.392226+00:00",
+    "fecha_ultima_observacion": "2026-11-18T02:41:12.392226+00:00"
+  },
+  "USGS:us7000tywi": {
+    "id": "us7000tywi",
+    "fecha_hora_utc": "2026-11-18T02:22:56.671000+00:00",
+    "magnitud": 5.8,
+    "profundidad_km": 10.0,
+    "latitud": 12.1387,
+    "longitud": 143.8866,
+    "pais": "",
+    "ciudad_referencia": "150 km SW of Merizo Village, Guam",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tywi",
+    "fecha_primera_recepcion": "2026-11-18T02:41:12.392226+00:00",
+    "fecha_ultima_observacion": "2026-11-18T02:41:12.392226+00:00"
   }
 }
