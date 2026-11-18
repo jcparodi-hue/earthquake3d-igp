@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-18T01:40:44.079464+00:00",
+  "actualizado_utc": "2026-11-18T01:43:36.426313+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 115,
   "actualizacion_minutos": 5,
@@ -9,7 +9,7 @@
   "usgs": 460,
   "duplicados_eliminados": 433,
   "eventos_publicados": 2267,
-  "evento_mas_reciente_utc": "2026-11-18T01:22:01.040000+00:00",
+  "evento_mas_reciente_utc": "2026-11-18T01:37:32.300000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 37,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-17T02:23:08+00:00",
-      "antiguedad_evento_mas_reciente_min": 1397.6
+      "antiguedad_evento_mas_reciente_min": 1400.5
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,8 +26,8 @@
       "eventos_validos": 2125,
       "eventos_recibidos": 2127,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-11-18T01:22:01.040000+00:00",
-      "antiguedad_evento_mas_reciente_min": 18.7
+      "evento_mas_reciente_utc": "2026-11-18T01:37:32.300000+00:00",
+      "antiguedad_evento_mas_reciente_min": 6.1
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 463,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-18T01:02:51.758000+00:00",
-      "antiguedad_evento_mas_reciente_min": 37.9
+      "antiguedad_evento_mas_reciente_min": 40.7
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-805"
     },
     "emsc": {
-      "id": "20261118_0000015",
-      "fecha_hora_utc": "2026-11-18T01:22:01.040000+00:00",
-      "magnitud": 3.7,
-      "profundidad_km": 10.0,
-      "latitud": 45.7788,
-      "longitud": 93.6174,
+      "id": "20261118_0000018",
+      "fecha_hora_utc": "2026-11-18T01:37:32.300000+00:00",
+      "magnitud": 3.0,
+      "profundidad_km": 68.0,
+      "latitud": 36.5,
+      "longitud": 28.28,
       "pais": "",
-      "ciudad_referencia": "WESTERN MONGOLIA",
+      "ciudad_referencia": "DODECANESE IS.-TURKEY BORDER REG",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261118_0000015"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261118_0000018"
     },
     "usgs": {
       "id": "aka2026wuzcyb",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-18T01:40:44.079464+00:00"
+    "hora_consulta_utc": "2026-11-18T01:43:36.426313+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-18T01:40:44.079464+00:00",
+  "updated_utc": "2026-11-18T01:43:36.426313+00:00",
   "combined_after_dedup": 2267
 }
