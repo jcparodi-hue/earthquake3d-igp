@@ -87889,7 +87889,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-805",
     "fecha_primera_recepcion": "2026-11-17T03:31:13.143669+00:00",
-    "fecha_ultima_observacion": "2026-11-18T05:00:49.037700+00:00"
+    "fecha_ultima_observacion": "2026-11-18T05:05:41.231458+00:00"
   },
   "EMSC:20261117_0000049": {
     "id": "20261117_0000049",
@@ -89556,5 +89556,33 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyxi",
     "fecha_primera_recepcion": "2026-11-18T05:00:49.037700+00:00",
     "fecha_ultima_observacion": "2026-11-18T05:00:49.037700+00:00"
+  },
+  "EMSC:20261118_0000074": {
+    "id": "20261118_0000074",
+    "fecha_hora_utc": "2026-11-18T04:55:06+00:00",
+    "magnitud": 2.8,
+    "profundidad_km": 25.0,
+    "latitud": 13.206,
+    "longitud": -89.828,
+    "pais": "",
+    "ciudad_referencia": "OFFSHORE EL SALVADOR",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261118_0000074",
+    "fecha_primera_recepcion": "2026-11-18T05:05:41.231458+00:00",
+    "fecha_ultima_observacion": "2026-11-18T05:05:41.231458+00:00"
+  },
+  "USGS:us7000tyxl": {
+    "id": "us7000tyxl",
+    "fecha_hora_utc": "2026-11-18T04:49:11.633000+00:00",
+    "magnitud": 4.1,
+    "profundidad_km": 10.0,
+    "latitud": 33.1868,
+    "longitud": -3.4696,
+    "pais": "",
+    "ciudad_referencia": "95 km SSE of Tmourghout, Morocco",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyxl",
+    "fecha_primera_recepcion": "2026-11-18T05:05:41.231458+00:00",
+    "fecha_ultima_observacion": "2026-11-18T05:05:41.231458+00:00"
   }
 }
