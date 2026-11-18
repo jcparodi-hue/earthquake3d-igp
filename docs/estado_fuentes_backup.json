@@ -1,14 +1,14 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-18T11:25:43.321070+00:00",
+  "actualizado_utc": "2026-11-18T11:31:06.391199+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 118,
   "actualizacion_minutos": 5,
   "igp": 118,
-  "emsc": 2153,
-  "usgs": 464,
-  "duplicados_eliminados": 439,
-  "eventos_publicados": 2296,
+  "emsc": 2152,
+  "usgs": 463,
+  "duplicados_eliminados": 438,
+  "eventos_publicados": 2295,
   "evento_mas_reciente_utc": "2026-11-18T11:18:05+00:00",
   "salud_fuentes": {
     "igp": {
@@ -18,25 +18,25 @@
       "eventos_recibidos": 38,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-18T07:24:38+00:00",
-      "antiguedad_evento_mas_reciente_min": 241.1
+      "antiguedad_evento_mas_reciente_min": 246.5
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2153,
-      "eventos_recibidos": 2155,
+      "eventos_validos": 2152,
+      "eventos_recibidos": 2154,
       "invalidos_rechazados": 2,
       "evento_mas_reciente_utc": "2026-11-18T11:18:05+00:00",
-      "antiguedad_evento_mas_reciente_min": 7.6
+      "antiguedad_evento_mas_reciente_min": 13.0
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 464,
-      "eventos_recibidos": 467,
+      "eventos_validos": 463,
+      "eventos_recibidos": 466,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-18T11:05:58.129000+00:00",
-      "antiguedad_evento_mas_reciente_min": 19.8
+      "antiguedad_evento_mas_reciente_min": 25.1
     }
   },
   "ultimo_evento": {
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-18T11:25:43.321070+00:00"
+    "hora_consulta_utc": "2026-11-18T11:31:06.391199+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-18T11:25:43.321070+00:00",
-  "combined_after_dedup": 2296
+  "updated_utc": "2026-11-18T11:31:06.391199+00:00",
+  "combined_after_dedup": 2295
 }
