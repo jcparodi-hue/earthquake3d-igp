@@ -87889,7 +87889,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-805",
     "fecha_primera_recepcion": "2026-11-17T03:31:13.143669+00:00",
-    "fecha_ultima_observacion": "2026-11-18T09:05:57.489244+00:00"
+    "fecha_ultima_observacion": "2026-11-18T09:11:11.105604+00:00"
   },
   "EMSC:20261117_0000049": {
     "id": "20261117_0000049",
@@ -89934,5 +89934,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261118_0000135",
     "fecha_primera_recepcion": "2026-11-18T08:51:02.979288+00:00",
     "fecha_ultima_observacion": "2026-11-18T09:05:57.489244+00:00"
+  },
+  "EMSC:20261118_0000137": {
+    "id": "20261118_0000137",
+    "fecha_hora_utc": "2026-11-18T09:03:20+00:00",
+    "magnitud": 3.3,
+    "profundidad_km": 29.0,
+    "latitud": 12.637,
+    "longitud": -88.515,
+    "pais": "",
+    "ciudad_referencia": "OFFSHORE EL SALVADOR",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261118_0000137",
+    "fecha_primera_recepcion": "2026-11-18T09:11:11.105604+00:00",
+    "fecha_ultima_observacion": "2026-11-18T09:11:11.105604+00:00"
+  },
+  "USGS:aka2026wvpcvd": {
+    "id": "aka2026wvpcvd",
+    "fecha_hora_utc": "2026-11-18T09:02:30.907000+00:00",
+    "magnitud": 2.6,
+    "profundidad_km": 5.0,
+    "latitud": 63.26,
+    "longitud": -153.348,
+    "pais": "",
+    "ciudad_referencia": "58 km ENE of Nikolai, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wvpcvd",
+    "fecha_primera_recepcion": "2026-11-18T09:11:11.105604+00:00",
+    "fecha_ultima_observacion": "2026-11-18T09:11:11.105604+00:00"
   }
 }
