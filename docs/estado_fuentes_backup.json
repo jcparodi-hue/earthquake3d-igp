@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-18T02:01:01.404051+00:00",
+  "actualizado_utc": "2026-11-18T02:05:55.108637+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 115,
   "actualizacion_minutos": 5,
   "igp": 115,
-  "emsc": 2123,
+  "emsc": 2135,
   "usgs": 461,
-  "duplicados_eliminados": 434,
-  "eventos_publicados": 2265,
-  "evento_mas_reciente_utc": "2026-11-18T01:37:32.970000+00:00",
+  "duplicados_eliminados": 435,
+  "eventos_publicados": 2276,
+  "evento_mas_reciente_utc": "2026-11-18T01:56:40+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 37,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-17T02:23:08+00:00",
-      "antiguedad_evento_mas_reciente_min": 1417.9
+      "antiguedad_evento_mas_reciente_min": 1422.8
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2123,
-      "eventos_recibidos": 2125,
+      "eventos_validos": 2135,
+      "eventos_recibidos": 2137,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-11-18T01:37:32.970000+00:00",
-      "antiguedad_evento_mas_reciente_min": 23.5
+      "evento_mas_reciente_utc": "2026-11-18T01:56:40+00:00",
+      "antiguedad_evento_mas_reciente_min": 9.3
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 464,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-18T01:02:51.758000+00:00",
-      "antiguedad_evento_mas_reciente_min": 58.2
+      "antiguedad_evento_mas_reciente_min": 63.1
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-805"
     },
     "emsc": {
-      "id": "20261118_0000018",
-      "fecha_hora_utc": "2026-11-18T01:37:32.970000+00:00",
-      "magnitud": 3.0,
-      "profundidad_km": 64.5,
-      "latitud": 36.4799,
-      "longitud": 28.3377,
+      "id": "20261118_0000020",
+      "fecha_hora_utc": "2026-11-18T01:56:40+00:00",
+      "magnitud": 2.8,
+      "profundidad_km": 127.4,
+      "latitud": -21.82,
+      "longitud": -68.58,
       "pais": "",
-      "ciudad_referencia": "DODECANESE IS.-TURKEY BORDER REG",
+      "ciudad_referencia": "ANTOFAGASTA, CHILE",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261118_0000018"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261118_0000020"
     },
     "usgs": {
       "id": "aka2026wuzcyb",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-18T02:01:01.404051+00:00"
+    "hora_consulta_utc": "2026-11-18T02:05:55.108637+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-18T02:01:01.404051+00:00",
-  "combined_after_dedup": 2265
+  "updated_utc": "2026-11-18T02:05:55.108637+00:00",
+  "combined_after_dedup": 2276
 }
