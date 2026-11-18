@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-18T09:21:01.566294+00:00",
+  "actualizado_utc": "2026-11-18T09:26:04.402313+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 115,
   "actualizacion_minutos": 5,
   "igp": 115,
-  "emsc": 2160,
-  "usgs": 466,
-  "duplicados_eliminados": 440,
-  "eventos_publicados": 2301,
-  "evento_mas_reciente_utc": "2026-11-18T09:03:20+00:00",
+  "emsc": 2161,
+  "usgs": 465,
+  "duplicados_eliminados": 439,
+  "eventos_publicados": 2302,
+  "evento_mas_reciente_utc": "2026-11-18T09:19:47.200000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 36,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-17T02:23:08+00:00",
-      "antiguedad_evento_mas_reciente_min": 1857.9
+      "antiguedad_evento_mas_reciente_min": 1862.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2160,
-      "eventos_recibidos": 2162,
+      "eventos_validos": 2161,
+      "eventos_recibidos": 2163,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-11-18T09:03:20+00:00",
-      "antiguedad_evento_mas_reciente_min": 17.7
+      "evento_mas_reciente_utc": "2026-11-18T09:19:47.200000+00:00",
+      "antiguedad_evento_mas_reciente_min": 6.3
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 466,
-      "eventos_recibidos": 469,
+      "eventos_validos": 465,
+      "eventos_recibidos": 468,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-18T09:02:30.907000+00:00",
-      "antiguedad_evento_mas_reciente_min": 18.5
+      "antiguedad_evento_mas_reciente_min": 23.6
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-805"
     },
     "emsc": {
-      "id": "20261118_0000137",
-      "fecha_hora_utc": "2026-11-18T09:03:20+00:00",
-      "magnitud": 3.3,
-      "profundidad_km": 29.0,
-      "latitud": 12.637,
-      "longitud": -88.515,
+      "id": "20261118_0000141",
+      "fecha_hora_utc": "2026-11-18T09:19:47.200000+00:00",
+      "magnitud": 3.9,
+      "profundidad_km": 10.0,
+      "latitud": 47.57,
+      "longitud": 0.96,
       "pais": "",
-      "ciudad_referencia": "OFFSHORE EL SALVADOR",
+      "ciudad_referencia": "FRANCE",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261118_0000137"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261118_0000141"
     },
     "usgs": {
       "id": "aka2026wvpcvd",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-18T09:21:01.566294+00:00"
+    "hora_consulta_utc": "2026-11-18T09:26:04.402313+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-18T09:21:01.566294+00:00",
-  "combined_after_dedup": 2301
+  "updated_utc": "2026-11-18T09:26:04.402313+00:00",
+  "combined_after_dedup": 2302
 }
