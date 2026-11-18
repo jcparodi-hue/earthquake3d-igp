@@ -87889,7 +87889,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-805",
     "fecha_primera_recepcion": "2026-11-17T03:31:13.143669+00:00",
-    "fecha_ultima_observacion": "2026-11-18T03:20:59.907999+00:00"
+    "fecha_ultima_observacion": "2026-11-18T03:26:12.212207+00:00"
   },
   "EMSC:20261117_0000049": {
     "id": "20261117_0000049",
@@ -89346,5 +89346,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261118_0000041",
     "fecha_primera_recepcion": "2026-11-18T03:20:59.907999+00:00",
     "fecha_ultima_observacion": "2026-11-18T03:20:59.907999+00:00"
+  },
+  "EMSC:20261118_0000042": {
+    "id": "20261118_0000042",
+    "fecha_hora_utc": "2026-11-18T03:12:52+00:00",
+    "magnitud": 3.5,
+    "profundidad_km": 36.0,
+    "latitud": -16.95,
+    "longitud": -72.36,
+    "pais": "",
+    "ciudad_referencia": "NEAR COAST OF SOUTHERN PERU",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261118_0000042",
+    "fecha_primera_recepcion": "2026-11-18T03:26:12.212207+00:00",
+    "fecha_ultima_observacion": "2026-11-18T03:26:12.212207+00:00"
+  },
+  "USGS:pr2026322000": {
+    "id": "pr2026322000",
+    "fecha_hora_utc": "2026-11-18T02:46:16.700000+00:00",
+    "magnitud": 4.06,
+    "profundidad_km": 90.0,
+    "latitud": 17.9463,
+    "longitud": -68.6115,
+    "pais": "",
+    "ciudad_referencia": "47 km S of Boca de Yuma, Dominican Republic",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026322000",
+    "fecha_primera_recepcion": "2026-11-18T03:26:12.212207+00:00",
+    "fecha_ultima_observacion": "2026-11-18T03:26:12.212207+00:00"
   }
 }
