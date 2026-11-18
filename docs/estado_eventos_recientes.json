@@ -87889,7 +87889,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-805",
     "fecha_primera_recepcion": "2026-11-17T03:31:13.143669+00:00",
-    "fecha_ultima_observacion": "2026-11-18T03:35:58.405420+00:00"
+    "fecha_ultima_observacion": "2026-11-18T03:41:01.768369+00:00"
   },
   "EMSC:20261117_0000049": {
     "id": "20261117_0000049",
@@ -89359,7 +89359,7 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261118_0000042",
     "fecha_primera_recepcion": "2026-11-18T03:26:12.212207+00:00",
-    "fecha_ultima_observacion": "2026-11-18T03:35:58.405420+00:00"
+    "fecha_ultima_observacion": "2026-11-18T03:41:01.768369+00:00"
   },
   "USGS:pr2026322000": {
     "id": "pr2026322000",
@@ -89388,5 +89388,19 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tywr",
     "fecha_primera_recepcion": "2026-11-18T03:35:58.405420+00:00",
     "fecha_ultima_observacion": "2026-11-18T03:35:58.405420+00:00"
+  },
+  "USGS:aka2026wvejbp": {
+    "id": "aka2026wvejbp",
+    "fecha_hora_utc": "2026-11-18T03:39:51.331000+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 5.7,
+    "latitud": 63.84,
+    "longitud": -149.158,
+    "pais": "",
+    "ciudad_referencia": "9 km WSW of Healy, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wvejbp",
+    "fecha_primera_recepcion": "2026-11-18T03:41:01.768369+00:00",
+    "fecha_ultima_observacion": "2026-11-18T03:41:01.768369+00:00"
   }
 }
