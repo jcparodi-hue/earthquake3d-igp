@@ -91753,7 +91753,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-810",
     "fecha_primera_recepcion": "2026-11-19T08:45:55.430235+00:00",
-    "fecha_ultima_observacion": "2026-11-19T10:55:59.350647+00:00"
+    "fecha_ultima_observacion": "2026-11-19T11:00:54.345330+00:00"
   },
   "EMSC:20261119_0000092": {
     "id": "20261119_0000092",
@@ -91936,5 +91936,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261119_0000115",
     "fecha_primera_recepcion": "2026-11-19T10:50:58.654810+00:00",
     "fecha_ultima_observacion": "2026-11-19T10:55:59.350647+00:00"
+  },
+  "EMSC:20261119_0000117": {
+    "id": "20261119_0000117",
+    "fecha_hora_utc": "2026-11-19T10:45:51+00:00",
+    "magnitud": 3.6,
+    "profundidad_km": 92.0,
+    "latitud": -6.08,
+    "longitud": 131.32,
+    "pais": "",
+    "ciudad_referencia": "KEP. TANIMBAR REGION, INDONESIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261119_0000117",
+    "fecha_primera_recepcion": "2026-11-19T11:00:54.345330+00:00",
+    "fecha_ultima_observacion": "2026-11-19T11:00:54.345330+00:00"
+  },
+  "USGS:us6000ubyt": {
+    "id": "us6000ubyt",
+    "fecha_hora_utc": "2026-11-19T09:08:13.359000+00:00",
+    "magnitud": 4.7,
+    "profundidad_km": 10.0,
+    "latitud": -15.3841,
+    "longitud": -76.0248,
+    "pais": "",
+    "ciudad_referencia": "92 km W of San Juan, Peru",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubyt",
+    "fecha_primera_recepcion": "2026-11-19T11:00:54.345330+00:00",
+    "fecha_ultima_observacion": "2026-11-19T11:00:54.345330+00:00"
   }
 }
