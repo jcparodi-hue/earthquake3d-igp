@@ -91753,7 +91753,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-810",
     "fecha_primera_recepcion": "2026-11-19T08:45:55.430235+00:00",
-    "fecha_ultima_observacion": "2026-11-19T12:25:44.703569+00:00"
+    "fecha_ultima_observacion": "2026-11-19T12:31:17.163702+00:00"
   },
   "EMSC:20261119_0000092": {
     "id": "20261119_0000092",
@@ -92104,5 +92104,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261119_0000143",
     "fecha_primera_recepcion": "2026-11-19T12:25:44.703569+00:00",
     "fecha_ultima_observacion": "2026-11-19T12:25:44.703569+00:00"
+  },
+  "EMSC:20261119_0000146": {
+    "id": "20261119_0000146",
+    "fecha_hora_utc": "2026-11-19T12:24:26.160000+00:00",
+    "magnitud": 2.7,
+    "profundidad_km": 3.1,
+    "latitud": 37.4537,
+    "longitud": -118.8427,
+    "pais": "",
+    "ciudad_referencia": "CENTRAL CALIFORNIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261119_0000146",
+    "fecha_primera_recepcion": "2026-11-19T12:31:17.163702+00:00",
+    "fecha_ultima_observacion": "2026-11-19T12:31:17.163702+00:00"
+  },
+  "USGS:nc75468302": {
+    "id": "nc75468302",
+    "fecha_hora_utc": "2026-11-19T12:24:26.160000+00:00",
+    "magnitud": 2.75,
+    "profundidad_km": 3.14000010490417,
+    "latitud": 37.4536666870117,
+    "longitud": -118.842666625977,
+    "pais": "",
+    "ciudad_referencia": "19 km SW of Toms Place, CA",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75468302",
+    "fecha_primera_recepcion": "2026-11-19T12:31:17.163702+00:00",
+    "fecha_ultima_observacion": "2026-11-19T12:31:17.163702+00:00"
   }
 }
