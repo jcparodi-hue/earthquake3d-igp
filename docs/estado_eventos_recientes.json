@@ -91753,7 +91753,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-810",
     "fecha_primera_recepcion": "2026-11-19T08:45:55.430235+00:00",
-    "fecha_ultima_observacion": "2026-11-19T13:21:00.481606+00:00"
+    "fecha_ultima_observacion": "2026-11-19T13:26:16.144545+00:00"
   },
   "EMSC:20261119_0000092": {
     "id": "20261119_0000092",
@@ -92272,5 +92272,33 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubzj",
     "fecha_primera_recepcion": "2026-11-19T13:21:00.481606+00:00",
     "fecha_ultima_observacion": "2026-11-19T13:21:00.481606+00:00"
+  },
+  "EMSC:20261119_0000168": {
+    "id": "20261119_0000168",
+    "fecha_hora_utc": "2026-11-19T13:22:30.535000+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 2.0,
+    "latitud": 51.5272,
+    "longitud": 16.1288,
+    "pais": "",
+    "ciudad_referencia": "POLAND",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261119_0000168",
+    "fecha_primera_recepcion": "2026-11-19T13:26:16.144545+00:00",
+    "fecha_ultima_observacion": "2026-11-19T13:26:16.144545+00:00"
+  },
+  "USGS:tx2026wubzeh": {
+    "id": "tx2026wubzeh",
+    "fecha_hora_utc": "2026-11-19T13:09:23.385000+00:00",
+    "magnitud": 3.2,
+    "profundidad_km": 8.0322,
+    "latitud": 32.363,
+    "longitud": -101.898,
+    "pais": "",
+    "ciudad_referencia": "24 km SW of Ackerly, Texas",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026wubzeh",
+    "fecha_primera_recepcion": "2026-11-19T13:26:16.144545+00:00",
+    "fecha_ultima_observacion": "2026-11-19T13:26:16.144545+00:00"
   }
 }

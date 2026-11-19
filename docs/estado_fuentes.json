@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-19T13:21:00.481606+00:00",
+  "actualizado_utc": "2026-11-19T13:26:16.144545+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 120,
   "actualizacion_minutos": 5,
   "igp": 120,
-  "emsc": 2170,
+  "emsc": 2171,
   "usgs": 443,
   "duplicados_eliminados": 428,
-  "eventos_publicados": 2305,
-  "evento_mas_reciente_utc": "2026-11-19T13:09:23.905000+00:00",
+  "eventos_publicados": 2306,
+  "evento_mas_reciente_utc": "2026-11-19T13:22:30.535000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 38,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-19T05:49:25+00:00",
-      "antiguedad_evento_mas_reciente_min": 451.6
+      "antiguedad_evento_mas_reciente_min": 456.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2170,
-      "eventos_recibidos": 2173,
+      "eventos_validos": 2171,
+      "eventos_recibidos": 2174,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-19T13:09:23.905000+00:00",
-      "antiguedad_evento_mas_reciente_min": 11.6
+      "evento_mas_reciente_utc": "2026-11-19T13:22:30.535000+00:00",
+      "antiguedad_evento_mas_reciente_min": 3.8
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -35,8 +35,8 @@
       "eventos_validos": 443,
       "eventos_recibidos": 447,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-19T13:09:23.905000+00:00",
-      "antiguedad_evento_mas_reciente_min": 11.6
+      "evento_mas_reciente_utc": "2026-11-19T13:09:23.385000+00:00",
+      "antiguedad_evento_mas_reciente_min": 16.9
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-810"
     },
     "emsc": {
-      "id": "20261119_0000166",
-      "fecha_hora_utc": "2026-11-19T13:09:23.905000+00:00",
-      "magnitud": 3.2,
-      "profundidad_km": 5.0,
-      "latitud": 32.3644,
-      "longitud": -101.8763,
+      "id": "20261119_0000168",
+      "fecha_hora_utc": "2026-11-19T13:22:30.535000+00:00",
+      "magnitud": 3.0,
+      "profundidad_km": 2.0,
+      "latitud": 51.5272,
+      "longitud": 16.1288,
       "pais": "",
-      "ciudad_referencia": "WESTERN TEXAS",
+      "ciudad_referencia": "POLAND",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261119_0000166"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261119_0000168"
     },
     "usgs": {
-      "id": "us6000ubzj",
-      "fecha_hora_utc": "2026-11-19T13:09:23.905000+00:00",
+      "id": "tx2026wubzeh",
+      "fecha_hora_utc": "2026-11-19T13:09:23.385000+00:00",
       "magnitud": 3.2,
-      "profundidad_km": 5.0,
-      "latitud": 32.3644,
-      "longitud": -101.8763,
+      "profundidad_km": 8.0322,
+      "latitud": 32.363,
+      "longitud": -101.898,
       "pais": "",
-      "ciudad_referencia": "23 km SW of Ackerly, Texas",
+      "ciudad_referencia": "24 km SW of Ackerly, Texas",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubzj"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026wubzeh"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-19T13:21:00.481606+00:00"
+    "hora_consulta_utc": "2026-11-19T13:26:16.144545+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-19T13:21:00.481606+00:00",
-  "combined_after_dedup": 2305
+  "updated_utc": "2026-11-19T13:26:16.144545+00:00",
+  "combined_after_dedup": 2306
 }
