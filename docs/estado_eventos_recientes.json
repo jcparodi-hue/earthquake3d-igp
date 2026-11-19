@@ -92551,7 +92551,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-813",
     "fecha_primera_recepcion": "2026-11-19T17:46:01.178984+00:00",
-    "fecha_ultima_observacion": "2026-11-19T18:26:05.638666+00:00"
+    "fecha_ultima_observacion": "2026-11-19T18:31:05.767141+00:00"
   },
   "EMSC:20261119_0000231": {
     "id": "20261119_0000231",
@@ -92594,5 +92594,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261119_0000234",
     "fecha_primera_recepcion": "2026-11-19T18:26:05.638666+00:00",
     "fecha_ultima_observacion": "2026-11-19T18:26:05.638666+00:00"
+  },
+  "EMSC:20261119_0000236": {
+    "id": "20261119_0000236",
+    "fecha_hora_utc": "2026-11-19T18:25:09+00:00",
+    "magnitud": 3.2,
+    "profundidad_km": 22.2,
+    "latitud": -31.83,
+    "longitud": -72.03,
+    "pais": "",
+    "ciudad_referencia": "OFFSHORE COQUIMBO, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261119_0000236",
+    "fecha_primera_recepcion": "2026-11-19T18:31:05.767141+00:00",
+    "fecha_ultima_observacion": "2026-11-19T18:31:05.767141+00:00"
+  },
+  "USGS:us6000uc1x": {
+    "id": "us6000uc1x",
+    "fecha_hora_utc": "2026-11-19T18:09:46.530000+00:00",
+    "magnitud": 5.1,
+    "profundidad_km": 10.0,
+    "latitud": -31.8465,
+    "longitud": -72.1843,
+    "pais": "",
+    "ciudad_referencia": "99 km WSW of Illapel, Chile",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc1x",
+    "fecha_primera_recepcion": "2026-11-19T18:31:05.767141+00:00",
+    "fecha_ultima_observacion": "2026-11-19T18:31:05.767141+00:00"
   }
 }
