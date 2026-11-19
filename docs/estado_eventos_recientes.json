@@ -90059,7 +90059,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-808",
     "fecha_primera_recepcion": "2026-11-18T10:45:43.536349+00:00",
-    "fecha_ultima_observacion": "2026-11-19T04:10:58.528256+00:00"
+    "fecha_ultima_observacion": "2026-11-19T04:15:57.372790+00:00"
   },
   "EMSC:20261118_0000168": {
     "id": "20261118_0000168",
@@ -91235,7 +91235,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxg",
     "fecha_primera_recepcion": "2026-11-19T02:31:14.150905+00:00",
-    "fecha_ultima_observacion": "2026-11-19T04:10:58.528256+00:00"
+    "fecha_ultima_observacion": "2026-11-19T04:15:57.372790+00:00"
   },
   "EMSC:20261119_0000019": {
     "id": "20261119_0000019",
@@ -91334,5 +91334,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261119_0000029",
     "fecha_primera_recepcion": "2026-11-19T04:05:55.254447+00:00",
     "fecha_ultima_observacion": "2026-11-19T04:10:58.528256+00:00"
+  },
+  "EMSC:20261119_0000030": {
+    "id": "20261119_0000030",
+    "fecha_hora_utc": "2026-11-19T03:56:08.940000+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 10.0,
+    "latitud": 41.413,
+    "longitud": 43.824,
+    "pais": "",
+    "ciudad_referencia": "GEORGIA (SAK'ART'VELO)",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261119_0000030",
+    "fecha_primera_recepcion": "2026-11-19T04:15:57.372790+00:00",
+    "fecha_ultima_observacion": "2026-11-19T04:15:57.372790+00:00"
   }
 }
