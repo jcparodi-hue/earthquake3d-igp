@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-19T15:41:12.726652+00:00",
+  "actualizado_utc": "2026-11-19T15:45:56.825749+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 120,
   "actualizacion_minutos": 5,
   "igp": 120,
-  "emsc": 2175,
+  "emsc": 2176,
   "usgs": 441,
   "duplicados_eliminados": 426,
-  "eventos_publicados": 2310,
-  "evento_mas_reciente_utc": "2026-11-19T14:59:58+00:00",
+  "eventos_publicados": 2311,
+  "evento_mas_reciente_utc": "2026-11-19T15:35:07.967412+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 38,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-19T05:49:25+00:00",
-      "antiguedad_evento_mas_reciente_min": 591.8
+      "antiguedad_evento_mas_reciente_min": 596.5
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2175,
-      "eventos_recibidos": 2178,
+      "eventos_validos": 2176,
+      "eventos_recibidos": 2179,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-19T14:59:58+00:00",
-      "antiguedad_evento_mas_reciente_min": 41.2
+      "evento_mas_reciente_utc": "2026-11-19T15:35:07.967412+00:00",
+      "antiguedad_evento_mas_reciente_min": 10.8
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 445,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-11-19T13:58:21.570000+00:00",
-      "antiguedad_evento_mas_reciente_min": 102.9
+      "antiguedad_evento_mas_reciente_min": 107.6
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-810"
     },
     "emsc": {
-      "id": "20261119_0000197",
-      "fecha_hora_utc": "2026-11-19T14:59:58+00:00",
+      "id": "20261119_0000202",
+      "fecha_hora_utc": "2026-11-19T15:35:07.967412+00:00",
       "magnitud": 3.2,
-      "profundidad_km": 210.4,
-      "latitud": -22.11,
-      "longitud": -67.76,
+      "profundidad_km": 10.0,
+      "latitud": -43.1921,
+      "longitud": 175.3003,
       "pais": "",
-      "ciudad_referencia": "POTOSI, BOLIVIA",
+      "ciudad_referencia": "OFF E. COAST OF S. ISLAND, N.Z.",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261119_0000197"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261119_0000202"
     },
     "usgs": {
       "id": "nc75468357",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-19T15:41:12.726652+00:00"
+    "hora_consulta_utc": "2026-11-19T15:45:56.825749+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-19T15:41:12.726652+00:00",
-  "combined_after_dedup": 2310
+  "updated_utc": "2026-11-19T15:45:56.825749+00:00",
+  "combined_after_dedup": 2311
 }
