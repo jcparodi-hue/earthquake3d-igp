@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-19T02:10:47.458503+00:00",
+  "actualizado_utc": "2026-11-19T02:16:14.010893+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 118,
   "actualizacion_minutos": 5,
   "igp": 118,
-  "emsc": 2183,
-  "usgs": 459,
-  "duplicados_eliminados": 437,
-  "eventos_publicados": 2323,
-  "evento_mas_reciente_utc": "2026-11-19T02:02:47.196871+00:00",
+  "emsc": 2181,
+  "usgs": 458,
+  "duplicados_eliminados": 436,
+  "eventos_publicados": 2321,
+  "evento_mas_reciente_utc": "2026-11-19T02:02:47.550000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 37,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-18T07:24:38+00:00",
-      "antiguedad_evento_mas_reciente_min": 1126.2
+      "antiguedad_evento_mas_reciente_min": 1131.6
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2183,
-      "eventos_recibidos": 2186,
+      "eventos_validos": 2181,
+      "eventos_recibidos": 2184,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-19T02:02:47.196871+00:00",
-      "antiguedad_evento_mas_reciente_min": 8.0
+      "evento_mas_reciente_utc": "2026-11-19T02:02:47.550000+00:00",
+      "antiguedad_evento_mas_reciente_min": 13.4
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 459,
-      "eventos_recibidos": 463,
+      "eventos_validos": 458,
+      "eventos_recibidos": 462,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-11-19T01:34:52.352000+00:00",
-      "antiguedad_evento_mas_reciente_min": 35.9
+      "antiguedad_evento_mas_reciente_min": 41.4
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261119_0000015",
-      "fecha_hora_utc": "2026-11-19T02:02:47.196871+00:00",
+      "fecha_hora_utc": "2026-11-19T02:02:47.550000+00:00",
       "magnitud": 2.9,
-      "profundidad_km": 16.7,
-      "latitud": 34.6774,
-      "longitud": 25.5899,
+      "profundidad_km": 31.0,
+      "latitud": 34.7146,
+      "longitud": 25.5916,
       "pais": "",
       "ciudad_referencia": "CRETE, GREECE",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-19T02:10:47.458503+00:00"
+    "hora_consulta_utc": "2026-11-19T02:16:14.010893+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-19T02:10:47.458503+00:00",
-  "combined_after_dedup": 2323
+  "updated_utc": "2026-11-19T02:16:14.010893+00:00",
+  "combined_after_dedup": 2321
 }
