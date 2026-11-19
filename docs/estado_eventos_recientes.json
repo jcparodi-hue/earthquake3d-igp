@@ -91753,7 +91753,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-810",
     "fecha_primera_recepcion": "2026-11-19T08:45:55.430235+00:00",
-    "fecha_ultima_observacion": "2026-11-19T14:11:00.020827+00:00"
+    "fecha_ultima_observacion": "2026-11-19T14:16:04.656259+00:00"
   },
   "EMSC:20261119_0000092": {
     "id": "20261119_0000092",
@@ -92355,6 +92355,20 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75468357",
     "fecha_primera_recepcion": "2026-11-19T14:01:25.784802+00:00",
-    "fecha_ultima_observacion": "2026-11-19T14:11:00.020827+00:00"
+    "fecha_ultima_observacion": "2026-11-19T14:16:04.656259+00:00"
+  },
+  "EMSC:20261119_0000189": {
+    "id": "20261119_0000189",
+    "fecha_hora_utc": "2026-11-19T14:10:40+00:00",
+    "magnitud": 3.4,
+    "profundidad_km": 132.0,
+    "latitud": -31.46,
+    "longitud": -66.44,
+    "pais": "",
+    "ciudad_referencia": "LA RIOJA, ARGENTINA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261119_0000189",
+    "fecha_primera_recepcion": "2026-11-19T14:16:04.656259+00:00",
+    "fecha_ultima_observacion": "2026-11-19T14:16:04.656259+00:00"
   }
 }

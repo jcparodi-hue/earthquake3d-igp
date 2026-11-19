@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-19T14:11:00.020827+00:00",
+  "actualizado_utc": "2026-11-19T14:16:04.656259+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 120,
   "actualizacion_minutos": 5,
   "igp": 120,
-  "emsc": 2184,
-  "usgs": 444,
+  "emsc": 2186,
+  "usgs": 445,
   "duplicados_eliminados": 428,
-  "eventos_publicados": 2320,
-  "evento_mas_reciente_utc": "2026-11-19T13:58:21.570000+00:00",
+  "eventos_publicados": 2323,
+  "evento_mas_reciente_utc": "2026-11-19T14:10:40+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 38,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-19T05:49:25+00:00",
-      "antiguedad_evento_mas_reciente_min": 501.6
+      "antiguedad_evento_mas_reciente_min": 506.7
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2184,
-      "eventos_recibidos": 2187,
+      "eventos_validos": 2186,
+      "eventos_recibidos": 2189,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-19T13:58:21.570000+00:00",
-      "antiguedad_evento_mas_reciente_min": 12.6
+      "evento_mas_reciente_utc": "2026-11-19T14:10:40+00:00",
+      "antiguedad_evento_mas_reciente_min": 5.4
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 444,
-      "eventos_recibidos": 448,
+      "eventos_validos": 445,
+      "eventos_recibidos": 449,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-11-19T13:58:21.570000+00:00",
-      "antiguedad_evento_mas_reciente_min": 12.6
+      "antiguedad_evento_mas_reciente_min": 17.7
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-810"
     },
     "emsc": {
-      "id": "20261119_0000186",
-      "fecha_hora_utc": "2026-11-19T13:58:21.570000+00:00",
-      "magnitud": 2.6,
-      "profundidad_km": 3.2,
-      "latitud": 37.4558,
-      "longitud": -118.8462,
+      "id": "20261119_0000189",
+      "fecha_hora_utc": "2026-11-19T14:10:40+00:00",
+      "magnitud": 3.4,
+      "profundidad_km": 132.0,
+      "latitud": -31.46,
+      "longitud": -66.44,
       "pais": "",
-      "ciudad_referencia": "CENTRAL CALIFORNIA",
+      "ciudad_referencia": "LA RIOJA, ARGENTINA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261119_0000186"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261119_0000189"
     },
     "usgs": {
       "id": "nc75468357",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-19T14:11:00.020827+00:00"
+    "hora_consulta_utc": "2026-11-19T14:16:04.656259+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-19T14:11:00.020827+00:00",
-  "combined_after_dedup": 2320
+  "updated_utc": "2026-11-19T14:16:04.656259+00:00",
+  "combined_after_dedup": 2323
 }
