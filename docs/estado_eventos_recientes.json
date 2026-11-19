@@ -92551,7 +92551,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-813",
     "fecha_primera_recepcion": "2026-11-19T17:46:01.178984+00:00",
-    "fecha_ultima_observacion": "2026-11-19T20:26:01.534092+00:00"
+    "fecha_ultima_observacion": "2026-11-19T20:31:10.742704+00:00"
   },
   "EMSC:20261119_0000231": {
     "id": "20261119_0000231",
@@ -92779,16 +92779,30 @@
   },
   "USGS:aka2026wyhwhm": {
     "id": "aka2026wyhwhm",
-    "fecha_hora_utc": "2026-11-19T20:23:56.468000+00:00",
-    "magnitud": 2.5,
-    "profundidad_km": 137.7,
-    "latitud": 60.144,
-    "longitud": -153.055,
+    "fecha_hora_utc": "2026-11-19T20:23:56.618000+00:00",
+    "magnitud": 2.9,
+    "profundidad_km": 135.9,
+    "latitud": 60.147,
+    "longitud": -153.06,
     "pais": "",
-    "ciudad_referencia": "70 km E of Port Alsworth, Alaska",
+    "ciudad_referencia": "69 km E of Port Alsworth, Alaska",
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wyhwhm",
     "fecha_primera_recepcion": "2026-11-19T20:26:01.534092+00:00",
-    "fecha_ultima_observacion": "2026-11-19T20:26:01.534092+00:00"
+    "fecha_ultima_observacion": "2026-11-19T20:31:10.742704+00:00"
+  },
+  "EMSC:20261119_0000263": {
+    "id": "20261119_0000263",
+    "fecha_hora_utc": "2026-11-19T20:18:53+00:00",
+    "magnitud": 3.1,
+    "profundidad_km": 234.0,
+    "latitud": 6.9442,
+    "longitud": -84.7238,
+    "pais": "",
+    "ciudad_referencia": "OFF COAST OF CENTRAL AMERICA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261119_0000263",
+    "fecha_primera_recepcion": "2026-11-19T20:31:10.742704+00:00",
+    "fecha_ultima_observacion": "2026-11-19T20:31:10.742704+00:00"
   }
 }
