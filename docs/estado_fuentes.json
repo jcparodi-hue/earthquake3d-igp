@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-19T05:55:58.283400+00:00",
+  "actualizado_utc": "2026-11-19T06:01:19.535720+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 118,
   "actualizacion_minutos": 5,
   "igp": 118,
-  "emsc": 2171,
-  "usgs": 447,
-  "duplicados_eliminados": 430,
-  "eventos_publicados": 2306,
-  "evento_mas_reciente_utc": "2026-11-19T05:49:26.340000+00:00",
+  "emsc": 2173,
+  "usgs": 448,
+  "duplicados_eliminados": 431,
+  "eventos_publicados": 2308,
+  "evento_mas_reciente_utc": "2026-11-19T05:49:26.960000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 37,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-18T07:24:38+00:00",
-      "antiguedad_evento_mas_reciente_min": 1351.3
+      "antiguedad_evento_mas_reciente_min": 1356.7
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2171,
-      "eventos_recibidos": 2174,
+      "eventos_validos": 2173,
+      "eventos_recibidos": 2176,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-19T05:49:26.340000+00:00",
-      "antiguedad_evento_mas_reciente_min": 6.5
+      "evento_mas_reciente_utc": "2026-11-19T05:49:26.960000+00:00",
+      "antiguedad_evento_mas_reciente_min": 11.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 447,
-      "eventos_recibidos": 451,
+      "eventos_validos": 448,
+      "eventos_recibidos": 452,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-11-19T04:22:10.307000+00:00",
-      "antiguedad_evento_mas_reciente_min": 93.8
+      "antiguedad_evento_mas_reciente_min": 99.2
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261119_0000051",
-      "fecha_hora_utc": "2026-11-19T05:49:26.340000+00:00",
+      "fecha_hora_utc": "2026-11-19T05:49:26.960000+00:00",
       "magnitud": 5.1,
-      "profundidad_km": 47.0,
-      "latitud": -2.2886,
-      "longitud": -79.7617,
+      "profundidad_km": 74.0,
+      "latitud": -2.35,
+      "longitud": -79.78,
       "pais": "",
       "ciudad_referencia": "NEAR COAST OF ECUADOR",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-19T05:55:58.283400+00:00"
+    "hora_consulta_utc": "2026-11-19T06:01:19.535720+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-19T05:55:58.283400+00:00",
-  "combined_after_dedup": 2306
+  "updated_utc": "2026-11-19T06:01:19.535720+00:00",
+  "combined_after_dedup": 2308
 }
