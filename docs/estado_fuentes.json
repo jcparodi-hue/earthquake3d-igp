@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-19T12:56:08.818351+00:00",
+  "actualizado_utc": "2026-11-19T13:01:18.804367+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 120,
   "actualizacion_minutos": 5,
   "igp": 120,
-  "emsc": 2168,
-  "usgs": 441,
-  "duplicados_eliminados": 426,
-  "eventos_publicados": 2303,
-  "evento_mas_reciente_utc": "2026-11-19T12:43:22+00:00",
+  "emsc": 2170,
+  "usgs": 442,
+  "duplicados_eliminados": 427,
+  "eventos_publicados": 2305,
+  "evento_mas_reciente_utc": "2026-11-19T12:53:25.020000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 38,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-19T05:49:25+00:00",
-      "antiguedad_evento_mas_reciente_min": 426.7
+      "antiguedad_evento_mas_reciente_min": 431.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2168,
-      "eventos_recibidos": 2171,
+      "eventos_validos": 2170,
+      "eventos_recibidos": 2173,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-19T12:43:22+00:00",
-      "antiguedad_evento_mas_reciente_min": 12.8
+      "evento_mas_reciente_utc": "2026-11-19T12:53:25.020000+00:00",
+      "antiguedad_evento_mas_reciente_min": 7.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 441,
-      "eventos_recibidos": 445,
+      "eventos_validos": 442,
+      "eventos_recibidos": 446,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-19T12:24:26.160000+00:00",
-      "antiguedad_evento_mas_reciente_min": 31.7
+      "evento_mas_reciente_utc": "2026-11-19T12:53:25.020000+00:00",
+      "antiguedad_evento_mas_reciente_min": 7.9
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-810"
     },
     "emsc": {
-      "id": "20261119_0000153",
-      "fecha_hora_utc": "2026-11-19T12:43:22+00:00",
-      "magnitud": 2.7,
-      "profundidad_km": 33.0,
-      "latitud": 1.3,
-      "longitud": 126.86,
+      "id": "20261119_0000157",
+      "fecha_hora_utc": "2026-11-19T12:53:25.020000+00:00",
+      "magnitud": 2.5,
+      "profundidad_km": 29.3,
+      "latitud": 19.1228,
+      "longitud": -155.3788,
       "pais": "",
-      "ciudad_referencia": "MOLUCCA SEA",
+      "ciudad_referencia": "ISLAND OF HAWAII, HAWAII",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261119_0000153"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261119_0000157"
     },
     "usgs": {
-      "id": "nc75468302",
-      "fecha_hora_utc": "2026-11-19T12:24:26.160000+00:00",
-      "magnitud": 2.75,
-      "profundidad_km": 3.14000010490417,
-      "latitud": 37.4536666870117,
-      "longitud": -118.842666625977,
+      "id": "hv75072722",
+      "fecha_hora_utc": "2026-11-19T12:53:25.020000+00:00",
+      "magnitud": 2.53,
+      "profundidad_km": 29.2600002288818,
+      "latitud": 19.1228332519531,
+      "longitud": -155.378829956055,
       "pais": "",
-      "ciudad_referencia": "19 km SW of Toms Place, CA",
+      "ciudad_referencia": "13 km SE of Pāhala, Hawaii",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75468302"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75072722"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-19T12:56:08.818351+00:00"
+    "hora_consulta_utc": "2026-11-19T13:01:18.804367+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-19T12:56:08.818351+00:00",
-  "combined_after_dedup": 2303
+  "updated_utc": "2026-11-19T13:01:18.804367+00:00",
+  "combined_after_dedup": 2305
 }
