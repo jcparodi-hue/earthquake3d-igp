@@ -1,14 +1,14 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-19T18:41:03.234033+00:00",
+  "actualizado_utc": "2026-11-19T18:46:23.136683+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 123,
   "actualizacion_minutos": 5,
   "igp": 123,
-  "emsc": 2180,
-  "usgs": 438,
-  "duplicados_eliminados": 425,
-  "eventos_publicados": 2316,
+  "emsc": 2182,
+  "usgs": 439,
+  "duplicados_eliminados": 426,
+  "eventos_publicados": 2318,
   "evento_mas_reciente_utc": "2026-11-19T18:30:28+00:00",
   "salud_fuentes": {
     "igp": {
@@ -18,25 +18,25 @@
       "eventos_recibidos": 40,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-19T17:18:13+00:00",
-      "antiguedad_evento_mas_reciente_min": 82.8
+      "antiguedad_evento_mas_reciente_min": 88.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2180,
-      "eventos_recibidos": 2183,
+      "eventos_validos": 2182,
+      "eventos_recibidos": 2185,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-19T18:30:28+00:00",
-      "antiguedad_evento_mas_reciente_min": 10.6
+      "antiguedad_evento_mas_reciente_min": 15.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 438,
-      "eventos_recibidos": 442,
+      "eventos_validos": 439,
+      "eventos_recibidos": 443,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-19T18:09:46.530000+00:00",
-      "antiguedad_evento_mas_reciente_min": 31.3
+      "evento_mas_reciente_utc": "2026-11-19T18:19:01.020000+00:00",
+      "antiguedad_evento_mas_reciente_min": 27.4
     }
   },
   "ultimo_evento": {
@@ -65,24 +65,24 @@
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261119_0000237"
     },
     "usgs": {
-      "id": "us6000uc1x",
-      "fecha_hora_utc": "2026-11-19T18:09:46.530000+00:00",
-      "magnitud": 5.1,
-      "profundidad_km": 10.0,
-      "latitud": -31.8465,
-      "longitud": -72.1843,
+      "id": "pr71539558",
+      "fecha_hora_utc": "2026-11-19T18:19:01.020000+00:00",
+      "magnitud": 3.44,
+      "profundidad_km": 42.33,
+      "latitud": 19.493,
+      "longitud": -68.0318333333333,
       "pais": "",
-      "ciudad_referencia": "99 km WSW of Illapel, Chile",
+      "ciudad_referencia": "108 km NNE of Punta Cana, Dominican Republic",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc1x"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71539558"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-19T18:41:03.234033+00:00"
+    "hora_consulta_utc": "2026-11-19T18:46:23.136683+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-19T18:41:03.234033+00:00",
-  "combined_after_dedup": 2316
+  "updated_utc": "2026-11-19T18:46:23.136683+00:00",
+  "combined_after_dedup": 2318
 }
