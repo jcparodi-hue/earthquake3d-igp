@@ -91753,7 +91753,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-810",
     "fecha_primera_recepcion": "2026-11-19T08:45:55.430235+00:00",
-    "fecha_ultima_observacion": "2026-11-19T11:46:17.631387+00:00"
+    "fecha_ultima_observacion": "2026-11-19T11:51:12.939696+00:00"
   },
   "EMSC:20261119_0000092": {
     "id": "20261119_0000092",
@@ -91991,7 +91991,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubz1",
     "fecha_primera_recepcion": "2026-11-19T11:11:14.484664+00:00",
-    "fecha_ultima_observacion": "2026-11-19T11:46:17.631387+00:00"
+    "fecha_ultima_observacion": "2026-11-19T11:51:12.939696+00:00"
   },
   "EMSC:20261119_0000127": {
     "id": "20261119_0000127",
@@ -92034,5 +92034,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261119_0000130",
     "fecha_primera_recepcion": "2026-11-19T11:41:00.432447+00:00",
     "fecha_ultima_observacion": "2026-11-19T11:46:17.631387+00:00"
+  },
+  "EMSC:20261119_0000133": {
+    "id": "20261119_0000133",
+    "fecha_hora_utc": "2026-11-19T11:41:30+00:00",
+    "magnitud": 3.3,
+    "profundidad_km": 10.0,
+    "latitud": 32.3,
+    "longitud": 130.5,
+    "pais": "",
+    "ciudad_referencia": "KYUSHU, JAPAN",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261119_0000133",
+    "fecha_primera_recepcion": "2026-11-19T11:51:12.939696+00:00",
+    "fecha_ultima_observacion": "2026-11-19T11:51:12.939696+00:00"
   }
 }
