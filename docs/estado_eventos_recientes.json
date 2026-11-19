@@ -90059,7 +90059,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-808",
     "fecha_primera_recepcion": "2026-11-18T10:45:43.536349+00:00",
-    "fecha_ultima_observacion": "2026-11-19T06:21:09.057884+00:00"
+    "fecha_ultima_observacion": "2026-11-19T06:25:56.156922+00:00"
   },
   "EMSC:20261118_0000168": {
     "id": "20261118_0000168",
@@ -91501,7 +91501,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41363583",
     "fecha_primera_recepcion": "2026-11-19T06:05:59.565394+00:00",
-    "fecha_ultima_observacion": "2026-11-19T06:21:09.057884+00:00"
+    "fecha_ultima_observacion": "2026-11-19T06:25:56.156922+00:00"
   },
   "EMSC:20261119_0000058": {
     "id": "20261119_0000058",
@@ -91516,5 +91516,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261119_0000058",
     "fecha_primera_recepcion": "2026-11-19T06:21:09.057884+00:00",
     "fecha_ultima_observacion": "2026-11-19T06:21:09.057884+00:00"
+  },
+  "EMSC:20261119_0000059": {
+    "id": "20261119_0000059",
+    "fecha_hora_utc": "2026-11-19T06:15:29+00:00",
+    "magnitud": 2.6,
+    "profundidad_km": 10.0,
+    "latitud": -8.26,
+    "longitud": 120.55,
+    "pais": "",
+    "ciudad_referencia": "FLORES REGION, INDONESIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261119_0000059",
+    "fecha_primera_recepcion": "2026-11-19T06:25:56.156922+00:00",
+    "fecha_ultima_observacion": "2026-11-19T06:25:56.156922+00:00"
   }
 }
