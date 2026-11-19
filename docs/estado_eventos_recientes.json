@@ -90059,7 +90059,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-808",
     "fecha_primera_recepcion": "2026-11-18T10:45:43.536349+00:00",
-    "fecha_ultima_observacion": "2026-11-19T05:51:09.625928+00:00"
+    "fecha_ultima_observacion": "2026-11-19T05:55:58.283400+00:00"
   },
   "EMSC:20261118_0000168": {
     "id": "20261118_0000168",
@@ -91375,7 +91375,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wxbuhs",
     "fecha_primera_recepcion": "2026-11-19T04:26:07.316753+00:00",
-    "fecha_ultima_observacion": "2026-11-19T05:51:09.625928+00:00"
+    "fecha_ultima_observacion": "2026-11-19T05:55:58.283400+00:00"
   },
   "EMSC:20261119_0000038": {
     "id": "20261119_0000038",
@@ -91460,5 +91460,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261119_0000048",
     "fecha_primera_recepcion": "2026-11-19T05:46:08.705763+00:00",
     "fecha_ultima_observacion": "2026-11-19T05:51:09.625928+00:00"
+  },
+  "EMSC:20261119_0000051": {
+    "id": "20261119_0000051",
+    "fecha_hora_utc": "2026-11-19T05:49:26.340000+00:00",
+    "magnitud": 5.1,
+    "profundidad_km": 47.0,
+    "latitud": -2.2886,
+    "longitud": -79.7617,
+    "pais": "",
+    "ciudad_referencia": "NEAR COAST OF ECUADOR",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261119_0000051",
+    "fecha_primera_recepcion": "2026-11-19T05:55:58.283400+00:00",
+    "fecha_ultima_observacion": "2026-11-19T05:55:58.283400+00:00"
   }
 }
