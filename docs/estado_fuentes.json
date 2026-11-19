@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-19T04:20:55.304054+00:00",
+  "actualizado_utc": "2026-11-19T04:26:07.316753+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 118,
   "actualizacion_minutos": 5,
   "igp": 118,
   "emsc": 2176,
-  "usgs": 451,
-  "duplicados_eliminados": 433,
+  "usgs": 452,
+  "duplicados_eliminados": 434,
   "eventos_publicados": 2312,
-  "evento_mas_reciente_utc": "2026-11-19T03:56:08.880000+00:00",
+  "evento_mas_reciente_utc": "2026-11-19T04:22:10.307571+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 37,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-18T07:24:38+00:00",
-      "antiguedad_evento_mas_reciente_min": 1256.3
+      "antiguedad_evento_mas_reciente_min": 1261.5
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2176,
       "eventos_recibidos": 2179,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-19T03:56:08.880000+00:00",
-      "antiguedad_evento_mas_reciente_min": 24.8
+      "evento_mas_reciente_utc": "2026-11-19T04:22:10.307571+00:00",
+      "antiguedad_evento_mas_reciente_min": 4.0
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 451,
-      "eventos_recibidos": 455,
+      "eventos_validos": 452,
+      "eventos_recibidos": 456,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-19T02:11:23.115000+00:00",
-      "antiguedad_evento_mas_reciente_min": 129.5
+      "evento_mas_reciente_utc": "2026-11-19T04:22:10.307000+00:00",
+      "antiguedad_evento_mas_reciente_min": 4.0
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-808"
     },
     "emsc": {
-      "id": "20261119_0000030",
-      "fecha_hora_utc": "2026-11-19T03:56:08.880000+00:00",
+      "id": "20261119_0000031",
+      "fecha_hora_utc": "2026-11-19T04:22:10.307571+00:00",
       "magnitud": 3.0,
-      "profundidad_km": 10.0,
-      "latitud": 41.413,
-      "longitud": 43.824,
+      "profundidad_km": 50.3,
+      "latitud": 59.122,
+      "longitud": -151.806,
       "pais": "",
-      "ciudad_referencia": "GEORGIA (SAK'ART'VELO)",
+      "ciudad_referencia": "KENAI PENINSULA, ALASKA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261119_0000030"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261119_0000031"
     },
     "usgs": {
-      "id": "us6000ubxg",
-      "fecha_hora_utc": "2026-11-19T02:11:23.115000+00:00",
-      "magnitud": 4.9,
-      "profundidad_km": 10.0,
-      "latitud": -5.5431,
-      "longitud": 35.0812,
+      "id": "aka2026wxbuhs",
+      "fecha_hora_utc": "2026-11-19T04:22:10.307000+00:00",
+      "magnitud": 3.0,
+      "profundidad_km": 50.3,
+      "latitud": 59.122,
+      "longitud": -151.806,
       "pais": "",
-      "ciudad_referencia": "36 km NNE of Kilimatinde, Tanzania",
+      "ciudad_referencia": "25 km S of Port Graham, Alaska",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubxg"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wxbuhs"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-19T04:20:55.304054+00:00"
+    "hora_consulta_utc": "2026-11-19T04:26:07.316753+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-19T04:20:55.304054+00:00",
+  "updated_utc": "2026-11-19T04:26:07.316753+00:00",
   "combined_after_dedup": 2312
 }
