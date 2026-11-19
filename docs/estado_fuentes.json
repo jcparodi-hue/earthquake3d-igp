@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-19T04:35:44.159955+00:00",
+  "actualizado_utc": "2026-11-19T04:41:22.213062+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 118,
   "actualizacion_minutos": 5,
   "igp": 118,
-  "emsc": 2176,
+  "emsc": 2174,
   "usgs": 452,
   "duplicados_eliminados": 434,
-  "eventos_publicados": 2312,
-  "evento_mas_reciente_utc": "2026-11-19T04:22:10.307571+00:00",
+  "eventos_publicados": 2310,
+  "evento_mas_reciente_utc": "2026-11-19T04:22:09.868000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 37,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-18T07:24:38+00:00",
-      "antiguedad_evento_mas_reciente_min": 1271.1
+      "antiguedad_evento_mas_reciente_min": 1276.7
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2176,
-      "eventos_recibidos": 2179,
+      "eventos_validos": 2174,
+      "eventos_recibidos": 2177,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-19T04:22:10.307571+00:00",
-      "antiguedad_evento_mas_reciente_min": 13.6
+      "evento_mas_reciente_utc": "2026-11-19T04:22:09.868000+00:00",
+      "antiguedad_evento_mas_reciente_min": 19.2
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 456,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-11-19T04:22:10.307000+00:00",
-      "antiguedad_evento_mas_reciente_min": 13.6
+      "antiguedad_evento_mas_reciente_min": 19.2
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261119_0000031",
-      "fecha_hora_utc": "2026-11-19T04:22:10.307571+00:00",
+      "fecha_hora_utc": "2026-11-19T04:22:09.868000+00:00",
       "magnitud": 3.0,
-      "profundidad_km": 50.3,
-      "latitud": 59.122,
-      "longitud": -151.806,
+      "profundidad_km": 50.7,
+      "latitud": 59.1151,
+      "longitud": -151.8103,
       "pais": "",
       "ciudad_referencia": "KENAI PENINSULA, ALASKA",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-19T04:35:44.159955+00:00"
+    "hora_consulta_utc": "2026-11-19T04:41:22.213062+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-19T04:35:44.159955+00:00",
-  "combined_after_dedup": 2312
+  "updated_utc": "2026-11-19T04:41:22.213062+00:00",
+  "combined_after_dedup": 2310
 }
