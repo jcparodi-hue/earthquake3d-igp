@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-19T20:20:52.258901+00:00",
+  "actualizado_utc": "2026-11-19T20:26:01.534092+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 123,
   "actualizacion_minutos": 5,
   "igp": 123,
-  "emsc": 2175,
-  "usgs": 437,
-  "duplicados_eliminados": 420,
-  "eventos_publicados": 2315,
-  "evento_mas_reciente_utc": "2026-11-19T20:13:16+00:00",
+  "emsc": 2173,
+  "usgs": 439,
+  "duplicados_eliminados": 421,
+  "eventos_publicados": 2314,
+  "evento_mas_reciente_utc": "2026-11-19T20:23:56.468000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 38,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-19T17:18:13+00:00",
-      "antiguedad_evento_mas_reciente_min": 182.7
+      "antiguedad_evento_mas_reciente_min": 187.8
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2175,
-      "eventos_recibidos": 2178,
+      "eventos_validos": 2173,
+      "eventos_recibidos": 2176,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-19T20:13:16+00:00",
-      "antiguedad_evento_mas_reciente_min": 7.6
+      "evento_mas_reciente_utc": "2026-11-19T20:18:53+00:00",
+      "antiguedad_evento_mas_reciente_min": 7.1
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 437,
-      "eventos_recibidos": 441,
+      "eventos_validos": 439,
+      "eventos_recibidos": 443,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-19T18:29:38.630000+00:00",
-      "antiguedad_evento_mas_reciente_min": 111.2
+      "evento_mas_reciente_utc": "2026-11-19T20:23:56.468000+00:00",
+      "antiguedad_evento_mas_reciente_min": 2.1
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-813"
     },
     "emsc": {
-      "id": "20261119_0000261",
-      "fecha_hora_utc": "2026-11-19T20:13:16+00:00",
-      "magnitud": 2.7,
-      "profundidad_km": 10.0,
-      "latitud": -40.84,
-      "longitud": -73.03,
+      "id": "20261119_0000262",
+      "fecha_hora_utc": "2026-11-19T20:18:53+00:00",
+      "magnitud": 2.9,
+      "profundidad_km": 29.0,
+      "latitud": -31.92,
+      "longitud": -71.9,
       "pais": "",
-      "ciudad_referencia": "LOS LAGOS, CHILE",
+      "ciudad_referencia": "OFFSHORE COQUIMBO, CHILE",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261119_0000261"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261119_0000262"
     },
     "usgs": {
-      "id": "pr71539568",
-      "fecha_hora_utc": "2026-11-19T18:29:38.630000+00:00",
-      "magnitud": 3.29,
-      "profundidad_km": 83.49,
-      "latitud": 19.5113333333333,
-      "longitud": -67.7706666666667,
+      "id": "aka2026wyhwhm",
+      "fecha_hora_utc": "2026-11-19T20:23:56.468000+00:00",
+      "magnitud": 2.5,
+      "profundidad_km": 137.7,
+      "latitud": 60.144,
+      "longitud": -153.055,
       "pais": "",
-      "ciudad_referencia": "122 km NNE of Punta Cana, Dominican Republic",
+      "ciudad_referencia": "70 km E of Port Alsworth, Alaska",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71539568"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wyhwhm"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-19T20:20:52.258901+00:00"
+    "hora_consulta_utc": "2026-11-19T20:26:01.534092+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-19T20:20:52.258901+00:00",
-  "combined_after_dedup": 2315
+  "updated_utc": "2026-11-19T20:26:01.534092+00:00",
+  "combined_after_dedup": 2314
 }
