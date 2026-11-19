@@ -91753,7 +91753,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-810",
     "fecha_primera_recepcion": "2026-11-19T08:45:55.430235+00:00",
-    "fecha_ultima_observacion": "2026-11-19T11:36:03.069413+00:00"
+    "fecha_ultima_observacion": "2026-11-19T11:41:00.432447+00:00"
   },
   "EMSC:20261119_0000092": {
     "id": "20261119_0000092",
@@ -91991,7 +91991,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ubz1",
     "fecha_primera_recepcion": "2026-11-19T11:11:14.484664+00:00",
-    "fecha_ultima_observacion": "2026-11-19T11:36:03.069413+00:00"
+    "fecha_ultima_observacion": "2026-11-19T11:41:00.432447+00:00"
   },
   "EMSC:20261119_0000127": {
     "id": "20261119_0000127",
@@ -92020,5 +92020,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261119_0000128",
     "fecha_primera_recepcion": "2026-11-19T11:36:03.069413+00:00",
     "fecha_ultima_observacion": "2026-11-19T11:36:03.069413+00:00"
+  },
+  "EMSC:20261119_0000130": {
+    "id": "20261119_0000130",
+    "fecha_hora_utc": "2026-11-19T11:35:44.890000+00:00",
+    "magnitud": 3.2,
+    "profundidad_km": 5.0,
+    "latitud": 36.0596,
+    "longitud": -8.5015,
+    "pais": "",
+    "ciudad_referencia": "WEST OF GIBRALTAR",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261119_0000130",
+    "fecha_primera_recepcion": "2026-11-19T11:41:00.432447+00:00",
+    "fecha_ultima_observacion": "2026-11-19T11:41:00.432447+00:00"
   }
 }
