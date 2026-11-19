@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-19T16:00:55.722157+00:00",
+  "actualizado_utc": "2026-11-19T16:06:06.640201+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 120,
   "actualizacion_minutos": 5,
   "igp": 120,
-  "emsc": 2175,
-  "usgs": 441,
-  "duplicados_eliminados": 426,
-  "eventos_publicados": 2310,
-  "evento_mas_reciente_utc": "2026-11-19T15:35:07.967412+00:00",
+  "emsc": 2176,
+  "usgs": 442,
+  "duplicados_eliminados": 427,
+  "eventos_publicados": 2311,
+  "evento_mas_reciente_utc": "2026-11-19T15:38:20.197000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 38,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-19T05:49:25+00:00",
-      "antiguedad_evento_mas_reciente_min": 611.5
+      "antiguedad_evento_mas_reciente_min": 616.7
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2175,
-      "eventos_recibidos": 2178,
+      "eventos_validos": 2176,
+      "eventos_recibidos": 2179,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-19T15:35:07.967412+00:00",
-      "antiguedad_evento_mas_reciente_min": 25.8
+      "evento_mas_reciente_utc": "2026-11-19T15:38:20.197000+00:00",
+      "antiguedad_evento_mas_reciente_min": 27.8
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 441,
-      "eventos_recibidos": 445,
+      "eventos_validos": 442,
+      "eventos_recibidos": 446,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-19T13:58:21.570000+00:00",
-      "antiguedad_evento_mas_reciente_min": 122.6
+      "evento_mas_reciente_utc": "2026-11-19T15:38:20.197000+00:00",
+      "antiguedad_evento_mas_reciente_min": 27.8
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-810"
     },
     "emsc": {
-      "id": "20261119_0000202",
-      "fecha_hora_utc": "2026-11-19T15:35:07.967412+00:00",
-      "magnitud": 3.2,
-      "profundidad_km": 10.0,
-      "latitud": -43.1921,
-      "longitud": 175.3003,
+      "id": "20261119_0000204",
+      "fecha_hora_utc": "2026-11-19T15:38:20.197000+00:00",
+      "magnitud": 4.3,
+      "profundidad_km": 113.2,
+      "latitud": -5.4474,
+      "longitud": 154.2159,
       "pais": "",
-      "ciudad_referencia": "OFF E. COAST OF S. ISLAND, N.Z.",
+      "ciudad_referencia": "BOUGAINVILLE REGION, P.N.G.",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261119_0000202"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261119_0000204"
     },
     "usgs": {
-      "id": "nc75468357",
-      "fecha_hora_utc": "2026-11-19T13:58:21.570000+00:00",
-      "magnitud": 2.98,
-      "profundidad_km": 3.15000009536743,
-      "latitud": 37.4558334350586,
-      "longitud": -118.846168518066,
+      "id": "us6000uc0h",
+      "fecha_hora_utc": "2026-11-19T15:38:20.197000+00:00",
+      "magnitud": 4.3,
+      "profundidad_km": 113.181,
+      "latitud": -5.4474,
+      "longitud": 154.2159,
       "pais": "",
-      "ciudad_referencia": "19 km SW of Toms Place, CA",
+      "ciudad_referencia": "170 km NW of Panguna, Papua New Guinea",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75468357"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc0h"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-19T16:00:55.722157+00:00"
+    "hora_consulta_utc": "2026-11-19T16:06:06.640201+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-19T16:00:55.722157+00:00",
-  "combined_after_dedup": 2310
+  "updated_utc": "2026-11-19T16:06:06.640201+00:00",
+  "combined_after_dedup": 2311
 }
