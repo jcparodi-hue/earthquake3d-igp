@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-19T06:05:59.565394+00:00",
+  "actualizado_utc": "2026-11-19T06:10:49.823836+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 118,
   "actualizacion_minutos": 5,
   "igp": 118,
-  "emsc": 2173,
-  "usgs": 449,
-  "duplicados_eliminados": 432,
-  "eventos_publicados": 2308,
-  "evento_mas_reciente_utc": "2026-11-19T06:02:46.850000+00:00",
+  "emsc": 2175,
+  "usgs": 450,
+  "duplicados_eliminados": 433,
+  "eventos_publicados": 2310,
+  "evento_mas_reciente_utc": "2026-11-19T06:02:46.960000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 37,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-18T07:24:38+00:00",
-      "antiguedad_evento_mas_reciente_min": 1361.4
+      "antiguedad_evento_mas_reciente_min": 1366.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2173,
-      "eventos_recibidos": 2176,
+      "eventos_validos": 2175,
+      "eventos_recibidos": 2178,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-19T06:02:46.850000+00:00",
-      "antiguedad_evento_mas_reciente_min": 3.2
+      "evento_mas_reciente_utc": "2026-11-19T06:02:46.960000+00:00",
+      "antiguedad_evento_mas_reciente_min": 8.0
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 449,
-      "eventos_recibidos": 453,
+      "eventos_validos": 450,
+      "eventos_recibidos": 454,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-19T06:02:46.850000+00:00",
-      "antiguedad_evento_mas_reciente_min": 3.2
+      "evento_mas_reciente_utc": "2026-11-19T06:02:46.960000+00:00",
+      "antiguedad_evento_mas_reciente_min": 8.0
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261119_0000053",
-      "fecha_hora_utc": "2026-11-19T06:02:46.850000+00:00",
+      "fecha_hora_utc": "2026-11-19T06:02:46.960000+00:00",
       "magnitud": 2.8,
-      "profundidad_km": 12.0,
-      "latitud": 32.1645,
-      "longitud": -116.9545,
+      "profundidad_km": 11.9,
+      "latitud": 32.1682,
+      "longitud": -116.9348,
       "pais": "",
       "ciudad_referencia": "OFFSHORE BAJA CALIFORNIA, MEXICO",
       "fuente": "EMSC",
@@ -66,13 +66,13 @@
     },
     "usgs": {
       "id": "ci41363583",
-      "fecha_hora_utc": "2026-11-19T06:02:46.850000+00:00",
-      "magnitud": 2.84,
-      "profundidad_km": 12.0,
-      "latitud": 32.1645,
-      "longitud": -116.9545,
+      "fecha_hora_utc": "2026-11-19T06:02:46.960000+00:00",
+      "magnitud": 2.81,
+      "profundidad_km": 11.9,
+      "latitud": 32.16817,
+      "longitud": -116.93483,
       "pais": "",
-      "ciudad_referencia": "7 km SSW of Primo Tapia, B.C., MX",
+      "ciudad_referencia": "6 km SSW of Primo Tapia, B.C., MX",
       "fuente": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41363583"
     }
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-19T06:05:59.565394+00:00"
+    "hora_consulta_utc": "2026-11-19T06:10:49.823836+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-19T06:05:59.565394+00:00",
-  "combined_after_dedup": 2308
+  "updated_utc": "2026-11-19T06:10:49.823836+00:00",
+  "combined_after_dedup": 2310
 }
