@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-20T08:45:50.930136+00:00",
+  "actualizado_utc": "2026-11-20T08:51:04.074847+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 124,
   "actualizacion_minutos": 5,
   "igp": 124,
-  "emsc": 2182,
+  "emsc": 2183,
   "usgs": 451,
   "duplicados_eliminados": 430,
-  "eventos_publicados": 2327,
-  "evento_mas_reciente_utc": "2026-11-20T08:36:07.388000+00:00",
+  "eventos_publicados": 2328,
+  "evento_mas_reciente_utc": "2026-11-20T08:48:06.948887+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 39,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-20T01:18:09+00:00",
-      "antiguedad_evento_mas_reciente_min": 447.7
+      "antiguedad_evento_mas_reciente_min": 452.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2182,
-      "eventos_recibidos": 2185,
+      "eventos_validos": 2183,
+      "eventos_recibidos": 2186,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-20T08:35:57+00:00",
-      "antiguedad_evento_mas_reciente_min": 9.9
+      "evento_mas_reciente_utc": "2026-11-20T08:48:06.948887+00:00",
+      "antiguedad_evento_mas_reciente_min": 3.0
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -35,8 +35,8 @@
       "eventos_validos": 451,
       "eventos_recibidos": 455,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-20T08:36:07.388000+00:00",
-      "antiguedad_evento_mas_reciente_min": 9.7
+      "evento_mas_reciente_utc": "2026-11-20T08:48:06.948000+00:00",
+      "antiguedad_evento_mas_reciente_min": 3.0
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-814"
     },
     "emsc": {
-      "id": "20261120_0000127",
-      "fecha_hora_utc": "2026-11-20T08:35:57+00:00",
-      "magnitud": 3.5,
-      "profundidad_km": 50.0,
-      "latitud": -12.95,
-      "longitud": -76.81,
+      "id": "20261120_0000128",
+      "fecha_hora_utc": "2026-11-20T08:48:06.948887+00:00",
+      "magnitud": 3.3,
+      "profundidad_km": 76.6,
+      "latitud": 60.793,
+      "longitud": -151.424,
       "pais": "",
-      "ciudad_referencia": "NEAR COAST OF CENTRAL PERU",
+      "ciudad_referencia": "KENAI PENINSULA, ALASKA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261120_0000127"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261120_0000128"
     },
     "usgs": {
-      "id": "aka2026wzggdo",
-      "fecha_hora_utc": "2026-11-20T08:36:07.388000+00:00",
-      "magnitud": 2.8,
-      "profundidad_km": 49.8,
-      "latitud": 61.278,
-      "longitud": -150.706,
+      "id": "aka2026wzgrna",
+      "fecha_hora_utc": "2026-11-20T08:48:06.948000+00:00",
+      "magnitud": 3.3,
+      "profundidad_km": 76.6,
+      "latitud": 60.793,
+      "longitud": -151.424,
       "pais": "",
-      "ciudad_referencia": "25 km NE of Beluga, Alaska",
+      "ciudad_referencia": "13 km NNW of Nikiski, Alaska",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wzggdo"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wzgrna"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-20T08:45:50.930136+00:00"
+    "hora_consulta_utc": "2026-11-20T08:51:04.074847+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-20T08:45:50.930136+00:00",
-  "combined_after_dedup": 2327
+  "updated_utc": "2026-11-20T08:51:04.074847+00:00",
+  "combined_after_dedup": 2328
 }
