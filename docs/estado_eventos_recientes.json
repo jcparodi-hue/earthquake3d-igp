@@ -93377,7 +93377,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-814",
     "fecha_primera_recepcion": "2026-11-20T04:26:05.787124+00:00",
-    "fecha_ultima_observacion": "2026-11-20T11:36:25.806600+00:00"
+    "fecha_ultima_observacion": "2026-11-20T11:41:18.377716+00:00"
   },
   "USGS:aka2026wyyiax": {
     "id": "aka2026wyyiax",
@@ -94263,17 +94263,17 @@
   },
   "USGS:ci41364111": {
     "id": "ci41364111",
-    "fecha_hora_utc": "2026-11-20T11:25:35.120000+00:00",
-    "magnitud": 4.2,
-    "profundidad_km": 16.59,
+    "fecha_hora_utc": "2026-11-20T11:25:35.090000+00:00",
+    "magnitud": 4.43,
+    "profundidad_km": 17.09,
     "latitud": 34.01167,
-    "longitud": -118.16634,
+    "longitud": -118.1665,
     "pais": "",
     "ciudad_referencia": "1 km NNW of Commerce, CA",
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41364111",
     "fecha_primera_recepcion": "2026-11-20T11:31:18.547177+00:00",
-    "fecha_ultima_observacion": "2026-11-20T11:36:25.806600+00:00"
+    "fecha_ultima_observacion": "2026-11-20T11:41:18.377716+00:00"
   },
   "EMSC:20261120_0000173": {
     "id": "20261120_0000173",
@@ -94288,5 +94288,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261120_0000173",
     "fecha_primera_recepcion": "2026-11-20T11:36:25.806600+00:00",
     "fecha_ultima_observacion": "2026-11-20T11:36:25.806600+00:00"
+  },
+  "EMSC:20261120_0000175": {
+    "id": "20261120_0000175",
+    "fecha_hora_utc": "2026-11-20T11:30:59+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 120.0,
+    "latitud": -21.72,
+    "longitud": -68.72,
+    "pais": "",
+    "ciudad_referencia": "ANTOFAGASTA, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261120_0000175",
+    "fecha_primera_recepcion": "2026-11-20T11:41:18.377716+00:00",
+    "fecha_ultima_observacion": "2026-11-20T11:41:18.377716+00:00"
   }
 }
