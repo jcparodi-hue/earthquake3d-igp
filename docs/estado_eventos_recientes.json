@@ -93377,7 +93377,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-814",
     "fecha_primera_recepcion": "2026-11-20T04:26:05.787124+00:00",
-    "fecha_ultima_observacion": "2026-11-20T11:11:16.486429+00:00"
+    "fecha_ultima_observacion": "2026-11-20T11:16:04.143197+00:00"
   },
   "USGS:aka2026wyyiax": {
     "id": "aka2026wyyiax",
@@ -94204,5 +94204,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261120_0000163",
     "fecha_primera_recepcion": "2026-11-20T11:11:16.486429+00:00",
     "fecha_ultima_observacion": "2026-11-20T11:11:16.486429+00:00"
+  },
+  "EMSC:20261120_0000167": {
+    "id": "20261120_0000167",
+    "fecha_hora_utc": "2026-11-20T11:12:32.040000+00:00",
+    "magnitud": 2.9,
+    "profundidad_km": 27.9,
+    "latitud": 19.3218,
+    "longitud": -155.3048,
+    "pais": "",
+    "ciudad_referencia": "ISLAND OF HAWAII, HAWAII",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261120_0000167",
+    "fecha_primera_recepcion": "2026-11-20T11:16:04.143197+00:00",
+    "fecha_ultima_observacion": "2026-11-20T11:16:04.143197+00:00"
+  },
+  "USGS:hv75073642": {
+    "id": "hv75073642",
+    "fecha_hora_utc": "2026-11-20T11:12:32.040000+00:00",
+    "magnitud": 2.85,
+    "profundidad_km": 27.9200000762939,
+    "latitud": 19.3218326568604,
+    "longitud": -155.304840087891,
+    "pais": "",
+    "ciudad_referencia": "15 km SSW of Volcano, Hawaii",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75073642",
+    "fecha_primera_recepcion": "2026-11-20T11:16:04.143197+00:00",
+    "fecha_ultima_observacion": "2026-11-20T11:16:04.143197+00:00"
   }
 }
