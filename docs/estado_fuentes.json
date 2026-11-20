@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-20T01:21:02.745228+00:00",
+  "actualizado_utc": "2026-11-20T01:25:47.303256+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 123,
   "actualizacion_minutos": 5,
   "igp": 123,
-  "emsc": 2164,
+  "emsc": 2166,
   "usgs": 440,
   "duplicados_eliminados": 419,
-  "eventos_publicados": 2308,
-  "evento_mas_reciente_utc": "2026-11-20T00:52:22.802413+00:00",
+  "eventos_publicados": 2310,
+  "evento_mas_reciente_utc": "2026-11-20T01:13:36+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 38,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-19T17:18:13+00:00",
-      "antiguedad_evento_mas_reciente_min": 482.8
+      "antiguedad_evento_mas_reciente_min": 487.6
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2164,
-      "eventos_recibidos": 2167,
+      "eventos_validos": 2166,
+      "eventos_recibidos": 2169,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-20T00:52:22.802413+00:00",
-      "antiguedad_evento_mas_reciente_min": 28.7
+      "evento_mas_reciente_utc": "2026-11-20T01:13:36+00:00",
+      "antiguedad_evento_mas_reciente_min": 12.2
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 444,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-11-20T00:49:13.772000+00:00",
-      "antiguedad_evento_mas_reciente_min": 31.8
+      "antiguedad_evento_mas_reciente_min": 36.6
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-813"
     },
     "emsc": {
-      "id": "20261120_0000012",
-      "fecha_hora_utc": "2026-11-20T00:52:22.802413+00:00",
-      "magnitud": 3.0,
-      "profundidad_km": 175.2,
-      "latitud": -37.6309,
-      "longitud": 176.9157,
+      "id": "20261120_0000016",
+      "fecha_hora_utc": "2026-11-20T01:13:36+00:00",
+      "magnitud": 3.2,
+      "profundidad_km": 118.4,
+      "latitud": -27.75,
+      "longitud": -68.93,
       "pais": "",
-      "ciudad_referencia": "NORTH ISLAND OF NEW ZEALAND",
+      "ciudad_referencia": "CATAMARCA, ARGENTINA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261120_0000012"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261120_0000016"
     },
     "usgs": {
       "id": "us6000uc4v",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-20T01:21:02.745228+00:00"
+    "hora_consulta_utc": "2026-11-20T01:25:47.303256+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-20T01:21:02.745228+00:00",
-  "combined_after_dedup": 2308
+  "updated_utc": "2026-11-20T01:25:47.303256+00:00",
+  "combined_after_dedup": 2310
 }
