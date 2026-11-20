@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-20T11:21:01.308994+00:00",
+  "actualizado_utc": "2026-11-20T11:26:13.040232+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 124,
   "actualizacion_minutos": 5,
   "igp": 124,
-  "emsc": 2171,
-  "usgs": 453,
+  "emsc": 2169,
+  "usgs": 454,
   "duplicados_eliminados": 432,
-  "eventos_publicados": 2316,
-  "evento_mas_reciente_utc": "2026-11-20T11:12:32.040000+00:00",
+  "eventos_publicados": 2315,
+  "evento_mas_reciente_utc": "2026-11-20T11:25:36+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 38,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-20T01:18:09+00:00",
-      "antiguedad_evento_mas_reciente_min": 602.9
+      "antiguedad_evento_mas_reciente_min": 608.1
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2171,
-      "eventos_recibidos": 2174,
+      "eventos_validos": 2169,
+      "eventos_recibidos": 2172,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-20T11:12:32.040000+00:00",
-      "antiguedad_evento_mas_reciente_min": 8.5
+      "antiguedad_evento_mas_reciente_min": 13.7
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 453,
-      "eventos_recibidos": 457,
+      "eventos_validos": 454,
+      "eventos_recibidos": 458,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-20T11:12:32.040000+00:00",
-      "antiguedad_evento_mas_reciente_min": 8.5
+      "evento_mas_reciente_utc": "2026-11-20T11:25:36+00:00",
+      "antiguedad_evento_mas_reciente_min": 0.6
     }
   },
   "ultimo_evento": {
@@ -65,24 +65,24 @@
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261120_0000167"
     },
     "usgs": {
-      "id": "hv75073642",
-      "fecha_hora_utc": "2026-11-20T11:12:32.040000+00:00",
-      "magnitud": 2.85,
-      "profundidad_km": 27.9200000762939,
-      "latitud": 19.3218326568604,
-      "longitud": -155.304840087891,
+      "id": "ew1795173930",
+      "fecha_hora_utc": "2026-11-20T11:25:36+00:00",
+      "magnitud": 4.0,
+      "profundidad_km": 9.0,
+      "latitud": 34.0431,
+      "longitud": -118.1851,
       "pais": "",
-      "ciudad_referencia": "15 km SSW of Volcano, Hawaii",
+      "ciudad_referencia": "1 km W of Belvedere, California",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75073642"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ew1795173930"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-20T11:21:01.308994+00:00"
+    "hora_consulta_utc": "2026-11-20T11:26:13.040232+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-20T11:21:01.308994+00:00",
-  "combined_after_dedup": 2316
+  "updated_utc": "2026-11-20T11:26:13.040232+00:00",
+  "combined_after_dedup": 2315
 }
