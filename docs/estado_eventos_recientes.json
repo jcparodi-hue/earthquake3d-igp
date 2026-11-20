@@ -95071,7 +95071,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-817",
     "fecha_primera_recepcion": "2026-11-20T21:26:18.391792+00:00",
-    "fecha_ultima_observacion": "2026-11-20T22:56:19.743784+00:00"
+    "fecha_ultima_observacion": "2026-11-20T23:01:11.856408+00:00"
   },
   "EMSC:20261120_0000301": {
     "id": "20261120_0000301",
@@ -95142,5 +95142,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261120_0000306",
     "fecha_primera_recepcion": "2026-11-20T22:36:07.895283+00:00",
     "fecha_ultima_observacion": "2026-11-20T22:56:19.743784+00:00"
+  },
+  "EMSC:20261120_0000316": {
+    "id": "20261120_0000316",
+    "fecha_hora_utc": "2026-11-20T22:34:39.096000+00:00",
+    "magnitud": 4.9,
+    "profundidad_km": 10.0,
+    "latitud": -20.3204,
+    "longitud": -173.4099,
+    "pais": "",
+    "ciudad_referencia": "TONGA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261120_0000316",
+    "fecha_primera_recepcion": "2026-11-20T23:01:11.856408+00:00",
+    "fecha_ultima_observacion": "2026-11-20T23:01:11.856408+00:00"
+  },
+  "USGS:us6000ucf0": {
+    "id": "us6000ucf0",
+    "fecha_hora_utc": "2026-11-20T22:34:39.096000+00:00",
+    "magnitud": 4.9,
+    "profundidad_km": 10.0,
+    "latitud": -20.3204,
+    "longitud": -173.4099,
+    "pais": "",
+    "ciudad_referencia": "113 km ESE of Pangai, Tonga",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucf0",
+    "fecha_primera_recepcion": "2026-11-20T23:01:11.856408+00:00",
+    "fecha_ultima_observacion": "2026-11-20T23:01:11.856408+00:00"
   }
 }
