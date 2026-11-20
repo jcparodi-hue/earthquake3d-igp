@@ -1,14 +1,14 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-20T16:41:18.482049+00:00",
+  "actualizado_utc": "2026-11-20T16:45:55.212492+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 126,
   "actualizacion_minutos": 5,
   "igp": 126,
-  "emsc": 2180,
+  "emsc": 2179,
   "usgs": 450,
   "duplicados_eliminados": 433,
-  "eventos_publicados": 2323,
+  "eventos_publicados": 2322,
   "evento_mas_reciente_utc": "2026-11-20T16:34:43+00:00",
   "salud_fuentes": {
     "igp": {
@@ -18,16 +18,16 @@
       "eventos_recibidos": 39,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-20T08:35:57+00:00",
-      "antiguedad_evento_mas_reciente_min": 485.4
+      "antiguedad_evento_mas_reciente_min": 490.0
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2180,
-      "eventos_recibidos": 2183,
+      "eventos_validos": 2179,
+      "eventos_recibidos": 2182,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-20T16:34:43+00:00",
-      "antiguedad_evento_mas_reciente_min": 6.6
+      "antiguedad_evento_mas_reciente_min": 11.2
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 453,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-20T15:11:52.850000+00:00",
-      "antiguedad_evento_mas_reciente_min": 89.4
+      "antiguedad_evento_mas_reciente_min": 94.0
     }
   },
   "ultimo_evento": {
@@ -56,9 +56,9 @@
       "id": "20261120_0000249",
       "fecha_hora_utc": "2026-11-20T16:34:43+00:00",
       "magnitud": 3.5,
-      "profundidad_km": 27.4,
-      "latitud": -19.92,
-      "longitud": -71.1,
+      "profundidad_km": 22.2,
+      "latitud": -19.95,
+      "longitud": -71.11,
       "pais": "",
       "ciudad_referencia": "OFF COAST OF TARAPACA, CHILE",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-20T16:41:18.482049+00:00"
+    "hora_consulta_utc": "2026-11-20T16:45:55.212492+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-20T16:41:18.482049+00:00",
-  "combined_after_dedup": 2323
+  "updated_utc": "2026-11-20T16:45:55.212492+00:00",
+  "combined_after_dedup": 2322
 }
