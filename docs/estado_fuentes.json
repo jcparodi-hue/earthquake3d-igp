@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-20T07:15:46.765045+00:00",
+  "actualizado_utc": "2026-11-20T07:21:00.092767+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 124,
   "actualizacion_minutos": 5,
   "igp": 124,
-  "emsc": 2178,
-  "usgs": 442,
-  "duplicados_eliminados": 420,
-  "eventos_publicados": 2324,
-  "evento_mas_reciente_utc": "2026-11-20T07:01:22+00:00",
+  "emsc": 2180,
+  "usgs": 443,
+  "duplicados_eliminados": 421,
+  "eventos_publicados": 2326,
+  "evento_mas_reciente_utc": "2026-11-20T07:14:25.490000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 39,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-20T01:18:09+00:00",
-      "antiguedad_evento_mas_reciente_min": 357.6
+      "antiguedad_evento_mas_reciente_min": 362.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2178,
-      "eventos_recibidos": 2181,
+      "eventos_validos": 2180,
+      "eventos_recibidos": 2183,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-20T07:01:22+00:00",
-      "antiguedad_evento_mas_reciente_min": 14.4
+      "evento_mas_reciente_utc": "2026-11-20T07:14:25.490000+00:00",
+      "antiguedad_evento_mas_reciente_min": 6.6
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 442,
-      "eventos_recibidos": 446,
+      "eventos_validos": 443,
+      "eventos_recibidos": 447,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-20T06:57:14.030000+00:00",
-      "antiguedad_evento_mas_reciente_min": 18.5
+      "evento_mas_reciente_utc": "2026-11-20T07:14:25.490000+00:00",
+      "antiguedad_evento_mas_reciente_min": 6.6
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-814"
     },
     "emsc": {
-      "id": "20261120_0000100",
-      "fecha_hora_utc": "2026-11-20T07:01:22+00:00",
-      "magnitud": 3.3,
-      "profundidad_km": 12.0,
-      "latitud": 13.218,
-      "longitud": -91.398,
+      "id": "20261120_0000101",
+      "fecha_hora_utc": "2026-11-20T07:14:25.490000+00:00",
+      "magnitud": 3.4,
+      "profundidad_km": 7.0,
+      "latitud": 36.5688,
+      "longitud": -121.1887,
       "pais": "",
-      "ciudad_referencia": "OFFSHORE GUATEMALA",
+      "ciudad_referencia": "CENTRAL CALIFORNIA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261120_0000100"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261120_0000101"
     },
     "usgs": {
-      "id": "nc75468732",
-      "fecha_hora_utc": "2026-11-20T06:57:14.030000+00:00",
-      "magnitud": 2.53,
-      "profundidad_km": 5.92000007629395,
-      "latitud": 36.578498840332,
-      "longitud": -121.205001831055,
+      "id": "nc75468787",
+      "fecha_hora_utc": "2026-11-20T07:14:25.490000+00:00",
+      "magnitud": 3.38,
+      "profundidad_km": 7.0,
+      "latitud": 36.5688323974609,
+      "longitud": -121.188667297363,
       "pais": "",
-      "ciudad_referencia": "8 km NW of Pinnacles, CA",
+      "ciudad_referencia": "6 km NW of Pinnacles, CA",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75468732"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75468787"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-20T07:15:46.765045+00:00"
+    "hora_consulta_utc": "2026-11-20T07:21:00.092767+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-20T07:15:46.765045+00:00",
-  "combined_after_dedup": 2324
+  "updated_utc": "2026-11-20T07:21:00.092767+00:00",
+  "combined_after_dedup": 2326
 }
