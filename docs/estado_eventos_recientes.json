@@ -93377,7 +93377,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-814",
     "fecha_primera_recepcion": "2026-11-20T04:26:05.787124+00:00",
-    "fecha_ultima_observacion": "2026-11-20T06:11:14.747181+00:00"
+    "fecha_ultima_observacion": "2026-11-20T06:16:11.500984+00:00"
   },
   "USGS:aka2026wyyiax": {
     "id": "aka2026wyyiax",
@@ -93560,5 +93560,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261120_0000077",
     "fecha_primera_recepcion": "2026-11-20T06:11:14.747181+00:00",
     "fecha_ultima_observacion": "2026-11-20T06:11:14.747181+00:00"
+  },
+  "EMSC:20261120_0000081": {
+    "id": "20261120_0000081",
+    "fecha_hora_utc": "2026-11-20T06:12:10.440000+00:00",
+    "magnitud": 3.3,
+    "profundidad_km": 6.4,
+    "latitud": 36.5923,
+    "longitud": -121.2223,
+    "pais": "",
+    "ciudad_referencia": "CENTRAL CALIFORNIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261120_0000081",
+    "fecha_primera_recepcion": "2026-11-20T06:16:11.500984+00:00",
+    "fecha_ultima_observacion": "2026-11-20T06:16:11.500984+00:00"
+  },
+  "USGS:aka2026wzbmul": {
+    "id": "aka2026wzbmul",
+    "fecha_hora_utc": "2026-11-20T06:12:44.187000+00:00",
+    "magnitud": 2.9,
+    "profundidad_km": 94.9,
+    "latitud": 59.998,
+    "longitud": -152.681,
+    "pais": "",
+    "ciudad_referencia": "53 km W of Happy Valley, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wzbmul",
+    "fecha_primera_recepcion": "2026-11-20T06:16:11.500984+00:00",
+    "fecha_ultima_observacion": "2026-11-20T06:16:11.500984+00:00"
   }
 }
