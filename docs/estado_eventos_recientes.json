@@ -93377,7 +93377,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-814",
     "fecha_primera_recepcion": "2026-11-20T04:26:05.787124+00:00",
-    "fecha_ultima_observacion": "2026-11-20T06:55:58.393342+00:00"
+    "fecha_ultima_observacion": "2026-11-20T07:01:05.802374+00:00"
   },
   "USGS:aka2026wyyiax": {
     "id": "aka2026wyyiax",
@@ -93686,5 +93686,33 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75468707",
     "fecha_primera_recepcion": "2026-11-20T06:55:58.393342+00:00",
     "fecha_ultima_observacion": "2026-11-20T06:55:58.393342+00:00"
+  },
+  "EMSC:20261120_0000096": {
+    "id": "20261120_0000096",
+    "fecha_hora_utc": "2026-11-20T06:58:23.890000+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 5.4,
+    "latitud": 36.576,
+    "longitud": -121.2152,
+    "pais": "",
+    "ciudad_referencia": "CENTRAL CALIFORNIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261120_0000096",
+    "fecha_primera_recepcion": "2026-11-20T07:01:05.802374+00:00",
+    "fecha_ultima_observacion": "2026-11-20T07:01:05.802374+00:00"
+  },
+  "USGS:nc75468732": {
+    "id": "nc75468732",
+    "fecha_hora_utc": "2026-11-20T06:57:14.030000+00:00",
+    "magnitud": 2.53,
+    "profundidad_km": 5.92000007629395,
+    "latitud": 36.578498840332,
+    "longitud": -121.205001831055,
+    "pais": "",
+    "ciudad_referencia": "8 km NW of Pinnacles, CA",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75468732",
+    "fecha_primera_recepcion": "2026-11-20T07:01:05.802374+00:00",
+    "fecha_ultima_observacion": "2026-11-20T07:01:05.802374+00:00"
   }
 }
