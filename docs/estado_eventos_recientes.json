@@ -94455,7 +94455,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-816",
     "fecha_primera_recepcion": "2026-11-20T13:26:03.774433+00:00",
-    "fecha_ultima_observacion": "2026-11-20T17:41:17.517293+00:00"
+    "fecha_ultima_observacion": "2026-11-20T17:46:19.528586+00:00"
   },
   "USGS:us6000uc96": {
     "id": "us6000uc96",
@@ -94805,7 +94805,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71539618",
     "fecha_primera_recepcion": "2026-11-20T17:10:56.580347+00:00",
-    "fecha_ultima_observacion": "2026-11-20T17:41:17.517293+00:00"
+    "fecha_ultima_observacion": "2026-11-20T17:46:19.528586+00:00"
   },
   "EMSC:20261120_0000255": {
     "id": "20261120_0000255",
@@ -94848,5 +94848,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261120_0000260",
     "fecha_primera_recepcion": "2026-11-20T17:41:17.517293+00:00",
     "fecha_ultima_observacion": "2026-11-20T17:41:17.517293+00:00"
+  },
+  "EMSC:20261120_0000264": {
+    "id": "20261120_0000264",
+    "fecha_hora_utc": "2026-11-20T17:40:43+00:00",
+    "magnitud": 3.3,
+    "profundidad_km": 30.4,
+    "latitud": -31.84,
+    "longitud": -72.13,
+    "pais": "",
+    "ciudad_referencia": "OFFSHORE COQUIMBO, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261120_0000264",
+    "fecha_primera_recepcion": "2026-11-20T17:46:19.528586+00:00",
+    "fecha_ultima_observacion": "2026-11-20T17:46:19.528586+00:00"
   }
 }
