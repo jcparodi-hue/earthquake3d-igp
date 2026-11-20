@@ -1,11 +1,11 @@
 {
-  "actualizado_utc": "2026-11-20T10:46:48.359919+00:00",
+  "actualizado_utc": "2026-11-20T18:55:56.752097+00:00",
   "estado": "OK",
   "volcanes_mundiales": 1470,
   "volcanes_usgs": 161,
   "volcanes_usgs_elevados": 3,
-  "boletines_cenvul": 0,
-  "alertas_cenvul_elevadas": 0,
+  "boletines_cenvul": 10,
+  "alertas_cenvul_elevadas": 3,
   "avisos_ceniza_noaa_24h": 21,
   "volcanes_con_avisos_noaa_24h": 5,
   "fuentes": {
@@ -14,7 +14,5 @@
     "peru": "IGP/CENVUL - boletines vulcanológicos oficiales",
     "ceniza": "NOAA Washington VAAC - avisos de ceniza de las últimas 24 horas"
   },
-  "errores": [
-    "CENVUL/IGP: HTTP Error 500: Server Error"
-  ]
+  "errores": []
 }
