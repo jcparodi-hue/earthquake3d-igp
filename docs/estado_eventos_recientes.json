@@ -94431,16 +94431,44 @@
   },
   "EMSC:20261120_0000202": {
     "id": "20261120_0000202",
-    "fecha_hora_utc": "2026-11-20T13:09:01.400000+00:00",
-    "magnitud": 5.2,
-    "profundidad_km": 35.0,
-    "latitud": 5.3891,
-    "longitud": 125.342,
+    "fecha_hora_utc": "2026-11-20T13:09:04.057000+00:00",
+    "magnitud": 5.1,
+    "profundidad_km": 73.4,
+    "latitud": 5.4441,
+    "longitud": 125.2986,
     "pais": "",
     "ciudad_referencia": "MINDANAO, PHILIPPINES",
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261120_0000202",
     "fecha_primera_recepcion": "2026-11-20T13:21:02.667753+00:00",
-    "fecha_ultima_observacion": "2026-11-20T13:21:02.667753+00:00"
+    "fecha_ultima_observacion": "2026-11-20T13:26:03.774433+00:00"
+  },
+  "IGP:2026-816": {
+    "id": "2026-816",
+    "fecha_hora_utc": "2026-11-20T08:35:57+00:00",
+    "magnitud": 3.5,
+    "profundidad_km": 50.0,
+    "latitud": -12.95,
+    "longitud": -76.81,
+    "pais": "Perú",
+    "ciudad_referencia": "38 km al SO de Mala, Cañete - Lima",
+    "fuente": "IGP",
+    "url": "https://ultimosismo.igp.gob.pe/evento/2026-816",
+    "fecha_primera_recepcion": "2026-11-20T13:26:03.774433+00:00",
+    "fecha_ultima_observacion": "2026-11-20T13:26:03.774433+00:00"
+  },
+  "USGS:us6000uc96": {
+    "id": "us6000uc96",
+    "fecha_hora_utc": "2026-11-20T13:09:04.057000+00:00",
+    "magnitud": 5.1,
+    "profundidad_km": 73.392,
+    "latitud": 5.4441,
+    "longitud": 125.2986,
+    "pais": "",
+    "ciudad_referencia": "15 km SSW of Balangonan, Philippines",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc96",
+    "fecha_primera_recepcion": "2026-11-20T13:26:03.774433+00:00",
+    "fecha_ultima_observacion": "2026-11-20T13:26:03.774433+00:00"
   }
 }
