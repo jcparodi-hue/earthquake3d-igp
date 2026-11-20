@@ -94455,7 +94455,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-816",
     "fecha_primera_recepcion": "2026-11-20T13:26:03.774433+00:00",
-    "fecha_ultima_observacion": "2026-11-20T17:46:19.528586+00:00"
+    "fecha_ultima_observacion": "2026-11-20T17:51:18.724227+00:00"
   },
   "USGS:us6000uc96": {
     "id": "us6000uc96",
@@ -94805,7 +94805,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71539618",
     "fecha_primera_recepcion": "2026-11-20T17:10:56.580347+00:00",
-    "fecha_ultima_observacion": "2026-11-20T17:46:19.528586+00:00"
+    "fecha_ultima_observacion": "2026-11-20T17:51:18.724227+00:00"
   },
   "EMSC:20261120_0000255": {
     "id": "20261120_0000255",
@@ -94862,5 +94862,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261120_0000264",
     "fecha_primera_recepcion": "2026-11-20T17:46:19.528586+00:00",
     "fecha_ultima_observacion": "2026-11-20T17:46:19.528586+00:00"
+  },
+  "EMSC:20261120_0000265": {
+    "id": "20261120_0000265",
+    "fecha_hora_utc": "2026-11-20T17:41:45+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 59.9,
+    "latitud": -27.53,
+    "longitud": -70.67,
+    "pais": "",
+    "ciudad_referencia": "ATACAMA, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261120_0000265",
+    "fecha_primera_recepcion": "2026-11-20T17:51:18.724227+00:00",
+    "fecha_ultima_observacion": "2026-11-20T17:51:18.724227+00:00"
   }
 }
