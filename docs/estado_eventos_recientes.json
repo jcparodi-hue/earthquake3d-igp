@@ -95071,7 +95071,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-817",
     "fecha_primera_recepcion": "2026-11-20T21:26:18.391792+00:00",
-    "fecha_ultima_observacion": "2026-11-21T00:06:01.046647+00:00"
+    "fecha_ultima_observacion": "2026-11-21T00:11:06.237310+00:00"
   },
   "EMSC:20261120_0000301": {
     "id": "20261120_0000301",
@@ -95183,7 +95183,7 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261120_0000322",
     "fecha_primera_recepcion": "2026-11-21T00:01:07.283520+00:00",
-    "fecha_ultima_observacion": "2026-11-21T00:06:01.046647+00:00"
+    "fecha_ultima_observacion": "2026-11-21T00:11:06.237310+00:00"
   },
   "USGS:us6000ucfa": {
     "id": "us6000ucfa",
@@ -95198,5 +95198,19 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfa",
     "fecha_primera_recepcion": "2026-11-21T00:06:01.046647+00:00",
     "fecha_ultima_observacion": "2026-11-21T00:06:01.046647+00:00"
+  },
+  "USGS:aka2026xalikz": {
+    "id": "aka2026xalikz",
+    "fecha_hora_utc": "2026-11-21T00:07:15.701000+00:00",
+    "magnitud": 2.6,
+    "profundidad_km": 119.8,
+    "latitud": 63.651,
+    "longitud": -149.494,
+    "pais": "",
+    "ciudad_referencia": "30 km WSW of Denali Park, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xalikz",
+    "fecha_primera_recepcion": "2026-11-21T00:11:06.237310+00:00",
+    "fecha_ultima_observacion": "2026-11-21T00:11:06.237310+00:00"
   }
 }
