@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-21T21:16:02.836714+00:00",
+  "actualizado_utc": "2026-11-21T21:20:50.921149+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 131,
   "actualizacion_minutos": 5,
   "igp": 131,
-  "emsc": 2153,
-  "usgs": 467,
-  "duplicados_eliminados": 457,
-  "eventos_publicados": 2294,
-  "evento_mas_reciente_utc": "2026-11-21T21:09:30+00:00",
+  "emsc": 2152,
+  "usgs": 466,
+  "duplicados_eliminados": 456,
+  "eventos_publicados": 2293,
+  "evento_mas_reciente_utc": "2026-11-21T21:09:29+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 43,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-21T16:20:10+00:00",
-      "antiguedad_evento_mas_reciente_min": 295.9
+      "antiguedad_evento_mas_reciente_min": 300.7
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2153,
-      "eventos_recibidos": 2157,
+      "eventos_validos": 2152,
+      "eventos_recibidos": 2156,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-21T21:09:30+00:00",
-      "antiguedad_evento_mas_reciente_min": 6.5
+      "evento_mas_reciente_utc": "2026-11-21T21:09:29+00:00",
+      "antiguedad_evento_mas_reciente_min": 11.4
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 467,
-      "eventos_recibidos": 472,
+      "eventos_validos": 466,
+      "eventos_recibidos": 471,
       "invalidos_rechazados": 5,
       "evento_mas_reciente_utc": "2026-11-21T20:21:38.630000+00:00",
-      "antiguedad_evento_mas_reciente_min": 54.4
+      "antiguedad_evento_mas_reciente_min": 59.2
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261121_0000271",
-      "fecha_hora_utc": "2026-11-21T21:09:30+00:00",
-      "magnitud": 2.9,
-      "profundidad_km": 29.0,
-      "latitud": -28.91,
-      "longitud": -71.38,
+      "fecha_hora_utc": "2026-11-21T21:09:29+00:00",
+      "magnitud": 2.8,
+      "profundidad_km": 42.3,
+      "latitud": -28.92,
+      "longitud": -71.36,
       "pais": "",
       "ciudad_referencia": "ATACAMA, CHILE",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-21T21:16:02.836714+00:00"
+    "hora_consulta_utc": "2026-11-21T21:20:50.921149+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-21T21:16:02.836714+00:00",
-  "combined_after_dedup": 2294
+  "updated_utc": "2026-11-21T21:20:50.921149+00:00",
+  "combined_after_dedup": 2293
 }
