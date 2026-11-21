@@ -1,33 +1,33 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-21T17:31:01.460213+00:00",
+  "actualizado_utc": "2026-11-21T17:36:03.893272+00:00",
   "periodo_mundial_dias": 10,
-  "igp_historico": 129,
+  "igp_historico": 131,
   "actualizacion_minutos": 5,
-  "igp": 129,
-  "emsc": 2152,
+  "igp": 131,
+  "emsc": 2153,
   "usgs": 470,
-  "duplicados_eliminados": 457,
-  "eventos_publicados": 2294,
-  "evento_mas_reciente_utc": "2026-11-21T17:19:04+00:00",
+  "duplicados_eliminados": 459,
+  "eventos_publicados": 2295,
+  "evento_mas_reciente_utc": "2026-11-21T17:25:39+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 129,
-      "eventos_recibidos": 41,
+      "eventos_validos": 131,
+      "eventos_recibidos": 43,
       "invalidos_rechazados": 0,
-      "evento_mas_reciente_utc": "2026-11-21T05:12:03+00:00",
-      "antiguedad_evento_mas_reciente_min": 739.0
+      "evento_mas_reciente_utc": "2026-11-21T16:20:10+00:00",
+      "antiguedad_evento_mas_reciente_min": 75.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2152,
-      "eventos_recibidos": 2156,
+      "eventos_validos": 2153,
+      "eventos_recibidos": 2157,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-21T17:19:04+00:00",
-      "antiguedad_evento_mas_reciente_min": 12.0
+      "evento_mas_reciente_utc": "2026-11-21T17:25:39+00:00",
+      "antiguedad_evento_mas_reciente_min": 10.4
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,33 +36,33 @@
       "eventos_recibidos": 475,
       "invalidos_rechazados": 5,
       "evento_mas_reciente_utc": "2026-11-21T16:53:25.513000+00:00",
-      "antiguedad_evento_mas_reciente_min": 37.6
+      "antiguedad_evento_mas_reciente_min": 42.6
     }
   },
   "ultimo_evento": {
     "igp": {
-      "id": "2026-819",
-      "fecha_hora_utc": "2026-11-21T05:12:03+00:00",
-      "magnitud": 5.0,
-      "profundidad_km": 127.0,
-      "latitud": -10.96,
-      "longitud": -76.18,
+      "id": "2026-821",
+      "fecha_hora_utc": "2026-11-21T16:20:10+00:00",
+      "magnitud": 3.6,
+      "profundidad_km": 14.0,
+      "latitud": -16.1,
+      "longitud": -72.29,
       "pais": "Perú",
-      "ciudad_referencia": "30 km al NO de Junín, Junín - Junín",
+      "ciudad_referencia": "22 km al E de Aplao, Castilla - Arequipa",
       "fuente": "IGP",
-      "url": "https://ultimosismo.igp.gob.pe/evento/2026-819"
+      "url": "https://ultimosismo.igp.gob.pe/evento/2026-821"
     },
     "emsc": {
-      "id": "20261121_0000222",
-      "fecha_hora_utc": "2026-11-21T17:19:04+00:00",
+      "id": "20261121_0000225",
+      "fecha_hora_utc": "2026-11-21T17:25:39+00:00",
       "magnitud": 2.5,
-      "profundidad_km": 30.6,
-      "latitud": -33.11,
-      "longitud": -72.04,
+      "profundidad_km": 10.0,
+      "latitud": -8.09,
+      "longitud": 120.82,
       "pais": "",
-      "ciudad_referencia": "OFFSHORE VALPARAISO, CHILE",
+      "ciudad_referencia": "FLORES REGION, INDONESIA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261121_0000222"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261121_0000225"
     },
     "usgs": {
       "id": "aka2026xbsutp",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-21T17:31:01.460213+00:00"
+    "hora_consulta_utc": "2026-11-21T17:36:03.893272+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-21T17:31:01.460213+00:00",
-  "combined_after_dedup": 2294
+  "updated_utc": "2026-11-21T17:36:03.893272+00:00",
+  "combined_after_dedup": 2295
 }
