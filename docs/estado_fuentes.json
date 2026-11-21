@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-21T15:01:20.428754+00:00",
+  "actualizado_utc": "2026-11-21T15:06:13.708160+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 129,
   "actualizacion_minutos": 5,
   "igp": 129,
-  "emsc": 2162,
-  "usgs": 470,
+  "emsc": 2161,
+  "usgs": 471,
   "duplicados_eliminados": 457,
   "eventos_publicados": 2304,
-  "evento_mas_reciente_utc": "2026-11-21T14:45:36+00:00",
+  "evento_mas_reciente_utc": "2026-11-21T15:00:12+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 41,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-21T05:12:03+00:00",
-      "antiguedad_evento_mas_reciente_min": 589.3
+      "antiguedad_evento_mas_reciente_min": 594.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2162,
-      "eventos_recibidos": 2166,
+      "eventos_validos": 2161,
+      "eventos_recibidos": 2165,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-11-21T14:45:36+00:00",
-      "antiguedad_evento_mas_reciente_min": 15.7
+      "antiguedad_evento_mas_reciente_min": 20.6
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 470,
-      "eventos_recibidos": 474,
+      "eventos_validos": 471,
+      "eventos_recibidos": 475,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-21T14:09:32.280000+00:00",
-      "antiguedad_evento_mas_reciente_min": 51.8
+      "evento_mas_reciente_utc": "2026-11-21T15:00:12+00:00",
+      "antiguedad_evento_mas_reciente_min": 6.0
     }
   },
   "ultimo_evento": {
@@ -65,24 +65,24 @@
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261121_0000198"
     },
     "usgs": {
-      "id": "ci41364471",
-      "fecha_hora_utc": "2026-11-21T14:09:32.280000+00:00",
-      "magnitud": 3.31,
-      "profundidad_km": 11.29,
-      "latitud": 33.65133,
-      "longitud": -118.26217,
+      "id": "pt26325053",
+      "fecha_hora_utc": "2026-11-21T15:00:12+00:00",
+      "magnitud": 4.8,
+      "profundidad_km": 106.2,
+      "latitud": 18.608,
+      "longitud": -68.78,
       "pais": "",
-      "ciudad_referencia": "10 km SSE of San Pedro, CA",
+      "ciudad_referencia": "7 km W of Salvaleón de Higüey, Dominican Republic",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41364471"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26325053"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-21T15:01:20.428754+00:00"
+    "hora_consulta_utc": "2026-11-21T15:06:13.708160+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-21T15:01:20.428754+00:00",
+  "updated_utc": "2026-11-21T15:06:13.708160+00:00",
   "combined_after_dedup": 2304
 }
