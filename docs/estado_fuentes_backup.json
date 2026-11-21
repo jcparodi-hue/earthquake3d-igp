@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-21T20:21:14.189979+00:00",
+  "actualizado_utc": "2026-11-21T20:26:00.748528+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 131,
   "actualizacion_minutos": 5,
@@ -9,7 +9,7 @@
   "usgs": 469,
   "duplicados_eliminados": 458,
   "eventos_publicados": 2296,
-  "evento_mas_reciente_utc": "2026-11-21T19:52:19+00:00",
+  "evento_mas_reciente_utc": "2026-11-21T20:21:38.630000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 43,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-21T16:20:10+00:00",
-      "antiguedad_evento_mas_reciente_min": 241.1
+      "antiguedad_evento_mas_reciente_min": 245.8
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,8 +26,8 @@
       "eventos_validos": 2154,
       "eventos_recibidos": 2158,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-21T19:52:19+00:00",
-      "antiguedad_evento_mas_reciente_min": 28.9
+      "evento_mas_reciente_utc": "2026-11-21T20:21:38.630000+00:00",
+      "antiguedad_evento_mas_reciente_min": 4.4
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -35,8 +35,8 @@
       "eventos_validos": 469,
       "eventos_recibidos": 474,
       "invalidos_rechazados": 5,
-      "evento_mas_reciente_utc": "2026-11-21T19:03:04.170000+00:00",
-      "antiguedad_evento_mas_reciente_min": 78.2
+      "evento_mas_reciente_utc": "2026-11-21T20:21:38.630000+00:00",
+      "antiguedad_evento_mas_reciente_min": 4.4
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-821"
     },
     "emsc": {
-      "id": "20261121_0000257",
-      "fecha_hora_utc": "2026-11-21T19:52:19+00:00",
-      "magnitud": 4.1,
-      "profundidad_km": 34.0,
-      "latitud": -1.27,
-      "longitud": 100.21,
+      "id": "20261121_0000262",
+      "fecha_hora_utc": "2026-11-21T20:21:38.630000+00:00",
+      "magnitud": 2.9,
+      "profundidad_km": 6.5,
+      "latitud": 36.5988,
+      "longitud": -121.2338,
       "pais": "",
-      "ciudad_referencia": "SOUTHERN SUMATRA, INDONESIA",
+      "ciudad_referencia": "CENTRAL CALIFORNIA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261121_0000257"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261121_0000262"
     },
     "usgs": {
-      "id": "us6000ucni",
-      "fecha_hora_utc": "2026-11-21T19:03:04.170000+00:00",
-      "magnitud": 4.9,
-      "profundidad_km": 209.784,
-      "latitud": -23.0294,
-      "longitud": -66.519,
+      "id": "nc75469982",
+      "fecha_hora_utc": "2026-11-21T20:21:38.630000+00:00",
+      "magnitud": 2.89,
+      "profundidad_km": 6.48999977111816,
+      "latitud": 36.5988349914551,
+      "longitud": -121.233833312988,
       "pais": "",
-      "ciudad_referencia": "88 km WNW of El Aguilar, Argentina",
+      "ciudad_referencia": "11 km NW of Pinnacles, CA",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucni"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75469982"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-21T20:21:14.189979+00:00"
+    "hora_consulta_utc": "2026-11-21T20:26:00.748528+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-21T20:21:14.189979+00:00",
+  "updated_utc": "2026-11-21T20:26:00.748528+00:00",
   "combined_after_dedup": 2296
 }
