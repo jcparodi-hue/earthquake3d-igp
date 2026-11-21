@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-21T00:30:53.376570+00:00",
+  "actualizado_utc": "2026-11-21T00:36:14.631591+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 127,
   "actualizacion_minutos": 5,
@@ -18,7 +18,7 @@
       "eventos_recibidos": 39,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-20T16:03:00+00:00",
-      "antiguedad_evento_mas_reciente_min": 507.9
+      "antiguedad_evento_mas_reciente_min": 513.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -27,7 +27,7 @@
       "eventos_recibidos": 2171,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-11-21T00:23:17+00:00",
-      "antiguedad_evento_mas_reciente_min": 7.6
+      "antiguedad_evento_mas_reciente_min": 13.0
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 471,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-11-21T00:21:27.300000+00:00",
-      "antiguedad_evento_mas_reciente_min": 9.4
+      "antiguedad_evento_mas_reciente_min": 14.8
     }
   },
   "ultimo_evento": {
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-21T00:30:53.376570+00:00"
+    "hora_consulta_utc": "2026-11-21T00:36:14.631591+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-21T00:30:53.376570+00:00",
+  "updated_utc": "2026-11-21T00:36:14.631591+00:00",
   "combined_after_dedup": 2310
 }
