@@ -95463,7 +95463,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-818",
     "fecha_primera_recepcion": "2026-11-21T02:41:26.348819+00:00",
-    "fecha_ultima_observacion": "2026-11-21T07:21:04.702330+00:00"
+    "fecha_ultima_observacion": "2026-11-21T07:26:14.566491+00:00"
   },
   "EMSC:20261121_0000034": {
     "id": "20261121_0000034",
@@ -95873,30 +95873,30 @@
   },
   "EMSC:20261121_0000105": {
     "id": "20261121_0000105",
-    "fecha_hora_utc": "2026-11-21T07:13:12.479000+00:00",
-    "magnitud": 3.4,
-    "profundidad_km": 49.3,
-    "latitud": 47.365,
-    "longitud": -122.1695,
+    "fecha_hora_utc": "2026-11-21T07:13:12.320000+00:00",
+    "magnitud": 3.3,
+    "profundidad_km": 54.9,
+    "latitud": 47.3345,
+    "longitud": -122.1913,
     "pais": "",
     "ciudad_referencia": "SEATTLE-TACOMA AREA, WASHINGTON",
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261121_0000105",
     "fecha_primera_recepcion": "2026-11-21T07:21:04.702330+00:00",
-    "fecha_ultima_observacion": "2026-11-21T07:21:04.702330+00:00"
+    "fecha_ultima_observacion": "2026-11-21T07:26:14.566491+00:00"
   },
   "USGS:uw714140682": {
     "id": "uw714140682",
-    "fecha_hora_utc": "2026-11-21T07:13:12.640000+00:00",
-    "magnitud": 3.61619985103607,
-    "profundidad_km": 49.75,
-    "latitud": 47.3390007019043,
-    "longitud": -122.191497802734,
+    "fecha_hora_utc": "2026-11-21T07:13:12.320000+00:00",
+    "magnitud": 3.38,
+    "profundidad_km": 54.94,
+    "latitud": 47.3345,
+    "longitud": -122.191333333333,
     "pais": "",
-    "ciudad_referencia": "1 km NNW of Lea Hill, Washington",
+    "ciudad_referencia": "1 km NW of Lea Hill, Washington",
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714140682",
     "fecha_primera_recepcion": "2026-11-21T07:21:04.702330+00:00",
-    "fecha_ultima_observacion": "2026-11-21T07:21:04.702330+00:00"
+    "fecha_ultima_observacion": "2026-11-21T07:26:14.566491+00:00"
   }
 }

@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-21T07:21:04.702330+00:00",
+  "actualizado_utc": "2026-11-21T07:26:14.566491+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 128,
   "actualizacion_minutos": 5,
   "igp": 128,
-  "emsc": 2161,
+  "emsc": 2162,
   "usgs": 473,
   "duplicados_eliminados": 455,
-  "eventos_publicados": 2307,
-  "evento_mas_reciente_utc": "2026-11-21T07:13:12.479000+00:00",
+  "eventos_publicados": 2308,
+  "evento_mas_reciente_utc": "2026-11-21T07:13:12.320000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 40,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-21T00:09:19+00:00",
-      "antiguedad_evento_mas_reciente_min": 431.8
+      "antiguedad_evento_mas_reciente_min": 436.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2161,
-      "eventos_recibidos": 2165,
+      "eventos_validos": 2162,
+      "eventos_recibidos": 2166,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-21T07:13:12.479000+00:00",
-      "antiguedad_evento_mas_reciente_min": 7.9
+      "evento_mas_reciente_utc": "2026-11-21T07:13:12.320000+00:00",
+      "antiguedad_evento_mas_reciente_min": 13.0
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -35,8 +35,8 @@
       "eventos_validos": 473,
       "eventos_recibidos": 477,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-21T07:13:12.640000+00:00",
-      "antiguedad_evento_mas_reciente_min": 7.9
+      "evento_mas_reciente_utc": "2026-11-21T07:13:12.320000+00:00",
+      "antiguedad_evento_mas_reciente_min": 13.0
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261121_0000105",
-      "fecha_hora_utc": "2026-11-21T07:13:12.479000+00:00",
-      "magnitud": 3.4,
-      "profundidad_km": 49.3,
-      "latitud": 47.365,
-      "longitud": -122.1695,
+      "fecha_hora_utc": "2026-11-21T07:13:12.320000+00:00",
+      "magnitud": 3.3,
+      "profundidad_km": 54.9,
+      "latitud": 47.3345,
+      "longitud": -122.1913,
       "pais": "",
       "ciudad_referencia": "SEATTLE-TACOMA AREA, WASHINGTON",
       "fuente": "EMSC",
@@ -66,13 +66,13 @@
     },
     "usgs": {
       "id": "uw714140682",
-      "fecha_hora_utc": "2026-11-21T07:13:12.640000+00:00",
-      "magnitud": 3.61619985103607,
-      "profundidad_km": 49.75,
-      "latitud": 47.3390007019043,
-      "longitud": -122.191497802734,
+      "fecha_hora_utc": "2026-11-21T07:13:12.320000+00:00",
+      "magnitud": 3.38,
+      "profundidad_km": 54.94,
+      "latitud": 47.3345,
+      "longitud": -122.191333333333,
       "pais": "",
-      "ciudad_referencia": "1 km NNW of Lea Hill, Washington",
+      "ciudad_referencia": "1 km NW of Lea Hill, Washington",
       "fuente": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714140682"
     }
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-21T07:21:04.702330+00:00"
+    "hora_consulta_utc": "2026-11-21T07:26:14.566491+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-21T07:21:04.702330+00:00",
-  "combined_after_dedup": 2307
+  "updated_utc": "2026-11-21T07:26:14.566491+00:00",
+  "combined_after_dedup": 2308
 }
