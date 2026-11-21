@@ -96177,7 +96177,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-819",
     "fecha_primera_recepcion": "2026-11-21T10:16:02.386920+00:00",
-    "fecha_ultima_observacion": "2026-11-21T14:11:15.846687+00:00"
+    "fecha_ultima_observacion": "2026-11-21T14:16:19.172442+00:00"
   },
   "EMSC:20261121_0000141": {
     "id": "20261121_0000141",
@@ -96430,5 +96430,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261121_0000172",
     "fecha_primera_recepcion": "2026-11-21T13:56:18.039672+00:00",
     "fecha_ultima_observacion": "2026-11-21T14:11:15.846687+00:00"
+  },
+  "EMSC:20261121_0000175": {
+    "id": "20261121_0000175",
+    "fecha_hora_utc": "2026-11-21T14:09:32.280000+00:00",
+    "magnitud": 3.3,
+    "profundidad_km": 11.3,
+    "latitud": 33.6513,
+    "longitud": -118.2622,
+    "pais": "",
+    "ciudad_referencia": "SAN PEDRO CHANNEL, CALIFORNIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261121_0000175",
+    "fecha_primera_recepcion": "2026-11-21T14:16:19.172442+00:00",
+    "fecha_ultima_observacion": "2026-11-21T14:16:19.172442+00:00"
+  },
+  "USGS:ci41364471": {
+    "id": "ci41364471",
+    "fecha_hora_utc": "2026-11-21T14:09:32.280000+00:00",
+    "magnitud": 3.31,
+    "profundidad_km": 11.29,
+    "latitud": 33.65133,
+    "longitud": -118.26217,
+    "pais": "",
+    "ciudad_referencia": "10 km SSE of San Pedro, CA",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41364471",
+    "fecha_primera_recepcion": "2026-11-21T14:16:19.172442+00:00",
+    "fecha_ultima_observacion": "2026-11-21T14:16:19.172442+00:00"
   }
 }

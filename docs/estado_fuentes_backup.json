@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-21T14:11:15.846687+00:00",
+  "actualizado_utc": "2026-11-21T14:16:19.172442+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 129,
   "actualizacion_minutos": 5,
   "igp": 129,
   "emsc": 2147,
-  "usgs": 470,
-  "duplicados_eliminados": 457,
+  "usgs": 471,
+  "duplicados_eliminados": 458,
   "eventos_publicados": 2289,
-  "evento_mas_reciente_utc": "2026-11-21T13:49:05+00:00",
+  "evento_mas_reciente_utc": "2026-11-21T14:09:32.280000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 41,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-21T05:12:03+00:00",
-      "antiguedad_evento_mas_reciente_min": 539.2
+      "antiguedad_evento_mas_reciente_min": 544.3
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2147,
       "eventos_recibidos": 2151,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-21T13:49:05+00:00",
-      "antiguedad_evento_mas_reciente_min": 22.2
+      "evento_mas_reciente_utc": "2026-11-21T14:09:32.280000+00:00",
+      "antiguedad_evento_mas_reciente_min": 6.8
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 470,
-      "eventos_recibidos": 474,
+      "eventos_validos": 471,
+      "eventos_recibidos": 475,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-21T13:26:03.324000+00:00",
-      "antiguedad_evento_mas_reciente_min": 45.2
+      "evento_mas_reciente_utc": "2026-11-21T14:09:32.280000+00:00",
+      "antiguedad_evento_mas_reciente_min": 6.8
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-819"
     },
     "emsc": {
-      "id": "20261121_0000172",
-      "fecha_hora_utc": "2026-11-21T13:49:05+00:00",
-      "magnitud": 2.8,
-      "profundidad_km": 116.6,
-      "latitud": -22.09,
-      "longitud": -68.66,
+      "id": "20261121_0000175",
+      "fecha_hora_utc": "2026-11-21T14:09:32.280000+00:00",
+      "magnitud": 3.3,
+      "profundidad_km": 11.3,
+      "latitud": 33.6513,
+      "longitud": -118.2622,
       "pais": "",
-      "ciudad_referencia": "ANTOFAGASTA, CHILE",
+      "ciudad_referencia": "SAN PEDRO CHANNEL, CALIFORNIA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261121_0000172"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261121_0000175"
     },
     "usgs": {
-      "id": "aka2026xblysq",
-      "fecha_hora_utc": "2026-11-21T13:26:03.324000+00:00",
-      "magnitud": 4.2,
-      "profundidad_km": 5.0,
-      "latitud": 55.15,
-      "longitud": -153.936,
+      "id": "ci41364471",
+      "fecha_hora_utc": "2026-11-21T14:09:32.280000+00:00",
+      "magnitud": 3.31,
+      "profundidad_km": 11.29,
+      "latitud": 33.65133,
+      "longitud": -118.26217,
       "pais": "",
-      "ciudad_referencia": "200 km S of Akhiok, Alaska",
+      "ciudad_referencia": "10 km SSE of San Pedro, CA",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xblysq"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41364471"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-21T14:11:15.846687+00:00"
+    "hora_consulta_utc": "2026-11-21T14:16:19.172442+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-21T14:11:15.846687+00:00",
+  "updated_utc": "2026-11-21T14:16:19.172442+00:00",
   "combined_after_dedup": 2289
 }
