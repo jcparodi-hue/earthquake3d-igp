@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-21T10:56:15.990965+00:00",
+  "actualizado_utc": "2026-11-21T11:01:09.020662+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 129,
   "actualizacion_minutos": 5,
   "igp": 129,
-  "emsc": 2158,
+  "emsc": 2156,
   "usgs": 474,
   "duplicados_eliminados": 458,
-  "eventos_publicados": 2303,
-  "evento_mas_reciente_utc": "2026-11-21T10:45:35.570000+00:00",
+  "eventos_publicados": 2301,
+  "evento_mas_reciente_utc": "2026-11-21T10:45:33.230000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 41,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-21T05:12:03+00:00",
-      "antiguedad_evento_mas_reciente_min": 344.2
+      "antiguedad_evento_mas_reciente_min": 349.1
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2158,
-      "eventos_recibidos": 2162,
+      "eventos_validos": 2156,
+      "eventos_recibidos": 2160,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-21T10:45:35.570000+00:00",
-      "antiguedad_evento_mas_reciente_min": 10.7
+      "evento_mas_reciente_utc": "2026-11-21T10:45:33.230000+00:00",
+      "antiguedad_evento_mas_reciente_min": 15.6
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -35,8 +35,8 @@
       "eventos_validos": 474,
       "eventos_recibidos": 478,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-21T10:10:31.043000+00:00",
-      "antiguedad_evento_mas_reciente_min": 45.7
+      "evento_mas_reciente_utc": "2026-11-21T10:45:33.230000+00:00",
+      "antiguedad_evento_mas_reciente_min": 15.6
     }
   },
   "ultimo_evento": {
@@ -54,35 +54,35 @@
     },
     "emsc": {
       "id": "20261121_0000143",
-      "fecha_hora_utc": "2026-11-21T10:45:35.570000+00:00",
-      "magnitud": 5.7,
-      "profundidad_km": 20.0,
-      "latitud": 37.225,
-      "longitud": 96.687,
+      "fecha_hora_utc": "2026-11-21T10:45:33.230000+00:00",
+      "magnitud": 5.9,
+      "profundidad_km": 10.0,
+      "latitud": 37.1958,
+      "longitud": 96.6398,
       "pais": "",
       "ciudad_referencia": "NORTHERN QINGHAI, CHINA",
       "fuente": "EMSC",
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261121_0000143"
     },
     "usgs": {
-      "id": "us6000uckx",
-      "fecha_hora_utc": "2026-11-21T10:10:31.043000+00:00",
-      "magnitud": 4.4,
-      "profundidad_km": 154.104,
-      "latitud": 36.5599,
-      "longitud": 70.9787,
+      "id": "us6000ucly",
+      "fecha_hora_utc": "2026-11-21T10:45:33.230000+00:00",
+      "magnitud": 5.9,
+      "profundidad_km": 10.0,
+      "latitud": 37.1958,
+      "longitud": 96.6398,
       "pais": "",
-      "ciudad_referencia": "36 km SSE of Jurm, Afghanistan",
+      "ciudad_referencia": "238 km SW of Yanglong, China",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uckx"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucly"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-21T10:56:15.990965+00:00"
+    "hora_consulta_utc": "2026-11-21T11:01:09.020662+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-21T10:56:15.990965+00:00",
-  "combined_after_dedup": 2303
+  "updated_utc": "2026-11-21T11:01:09.020662+00:00",
+  "combined_after_dedup": 2301
 }
