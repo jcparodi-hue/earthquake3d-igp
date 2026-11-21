@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-21T13:26:07.012109+00:00",
+  "actualizado_utc": "2026-11-21T13:31:21.739608+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 129,
   "actualizacion_minutos": 5,
   "igp": 129,
-  "emsc": 2149,
-  "usgs": 470,
-  "duplicados_eliminados": 456,
-  "eventos_publicados": 2292,
-  "evento_mas_reciente_utc": "2026-11-21T13:08:35.060000+00:00",
+  "emsc": 2153,
+  "usgs": 472,
+  "duplicados_eliminados": 458,
+  "eventos_publicados": 2296,
+  "evento_mas_reciente_utc": "2026-11-21T13:27:15.974028+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 41,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-21T05:12:03+00:00",
-      "antiguedad_evento_mas_reciente_min": 494.1
+      "antiguedad_evento_mas_reciente_min": 499.3
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2149,
-      "eventos_recibidos": 2153,
+      "eventos_validos": 2153,
+      "eventos_recibidos": 2157,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-21T13:08:35.060000+00:00",
-      "antiguedad_evento_mas_reciente_min": 17.5
+      "evento_mas_reciente_utc": "2026-11-21T13:27:15.974028+00:00",
+      "antiguedad_evento_mas_reciente_min": 4.1
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 470,
-      "eventos_recibidos": 474,
+      "eventos_validos": 472,
+      "eventos_recibidos": 476,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-21T12:41:20.670000+00:00",
-      "antiguedad_evento_mas_reciente_min": 44.8
+      "evento_mas_reciente_utc": "2026-11-21T13:27:15.974000+00:00",
+      "antiguedad_evento_mas_reciente_min": 4.1
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-819"
     },
     "emsc": {
-      "id": "20261121_0000164",
-      "fecha_hora_utc": "2026-11-21T13:08:35.060000+00:00",
-      "magnitud": 2.5,
-      "profundidad_km": 7.0,
-      "latitud": 39.2188,
-      "longitud": 28.156,
+      "id": "20261121_0000169",
+      "fecha_hora_utc": "2026-11-21T13:27:15.974028+00:00",
+      "magnitud": 3.2,
+      "profundidad_km": 5.0,
+      "latitud": 56.136,
+      "longitud": -157.896,
       "pais": "",
-      "ciudad_referencia": "WESTERN TURKEY",
+      "ciudad_referencia": "ALASKA PENINSULA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261121_0000164"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261121_0000169"
     },
     "usgs": {
-      "id": "ci41364439",
-      "fecha_hora_utc": "2026-11-21T12:41:20.670000+00:00",
-      "magnitud": 2.62,
-      "profundidad_km": 7.93,
-      "latitud": 32.40217,
-      "longitud": -115.21833,
+      "id": "aka2026xbmacc",
+      "fecha_hora_utc": "2026-11-21T13:27:15.974000+00:00",
+      "magnitud": 3.2,
+      "profundidad_km": 5.0,
+      "latitud": 56.136,
+      "longitud": -157.896,
       "pais": "",
-      "ciudad_referencia": "6 km NNW of Delta, B.C., MX",
+      "ciudad_referencia": "36 km ESE of Chignik, Alaska",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41364439"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xbmacc"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-21T13:26:07.012109+00:00"
+    "hora_consulta_utc": "2026-11-21T13:31:21.739608+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-21T13:26:07.012109+00:00",
-  "combined_after_dedup": 2292
+  "updated_utc": "2026-11-21T13:31:21.739608+00:00",
+  "combined_after_dedup": 2296
 }
