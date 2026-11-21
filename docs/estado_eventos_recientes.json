@@ -95463,7 +95463,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-818",
     "fecha_primera_recepcion": "2026-11-21T02:41:26.348819+00:00",
-    "fecha_ultima_observacion": "2026-11-21T06:46:13.507912+00:00"
+    "fecha_ultima_observacion": "2026-11-21T06:50:48.998866+00:00"
   },
   "EMSC:20261121_0000034": {
     "id": "20261121_0000034",
@@ -95813,6 +95813,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261121_0000096",
     "fecha_primera_recepcion": "2026-11-21T06:36:03.736916+00:00",
-    "fecha_ultima_observacion": "2026-11-21T06:46:13.507912+00:00"
+    "fecha_ultima_observacion": "2026-11-21T06:50:48.998866+00:00"
+  },
+  "USGS:pr71539648": {
+    "id": "pr71539648",
+    "fecha_hora_utc": "2026-11-21T06:23:13.420000+00:00",
+    "magnitud": 2.7,
+    "profundidad_km": 88.68,
+    "latitud": 18.2418333333333,
+    "longitud": -66.472,
+    "pais": "",
+    "ciudad_referencia": "8 km W of Orocovis, Puerto Rico",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71539648",
+    "fecha_primera_recepcion": "2026-11-21T06:50:48.998866+00:00",
+    "fecha_ultima_observacion": "2026-11-21T06:50:48.998866+00:00"
   }
 }
