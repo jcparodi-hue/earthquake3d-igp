@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-21T06:56:03.416008+00:00",
+  "actualizado_utc": "2026-11-21T07:01:23.269832+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 128,
   "actualizacion_minutos": 5,
   "igp": 128,
   "emsc": 2161,
   "usgs": 471,
-  "duplicados_eliminados": 454,
-  "eventos_publicados": 2306,
-  "evento_mas_reciente_utc": "2026-11-21T06:29:08+00:00",
+  "duplicados_eliminados": 453,
+  "eventos_publicados": 2307,
+  "evento_mas_reciente_utc": "2026-11-21T06:51:18+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 40,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-21T00:09:19+00:00",
-      "antiguedad_evento_mas_reciente_min": 406.7
+      "antiguedad_evento_mas_reciente_min": 412.1
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,8 +26,8 @@
       "eventos_validos": 2161,
       "eventos_recibidos": 2165,
       "invalidos_rechazados": 4,
-      "evento_mas_reciente_utc": "2026-11-21T06:29:08+00:00",
-      "antiguedad_evento_mas_reciente_min": 26.9
+      "evento_mas_reciente_utc": "2026-11-21T06:51:18+00:00",
+      "antiguedad_evento_mas_reciente_min": 10.1
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 475,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-11-21T06:23:13.420000+00:00",
-      "antiguedad_evento_mas_reciente_min": 32.8
+      "antiguedad_evento_mas_reciente_min": 38.2
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-818"
     },
     "emsc": {
-      "id": "20261121_0000096",
-      "fecha_hora_utc": "2026-11-21T06:29:08+00:00",
-      "magnitud": 2.8,
-      "profundidad_km": 62.9,
-      "latitud": -20.99,
-      "longitud": -70.38,
+      "id": "20261121_0000102",
+      "fecha_hora_utc": "2026-11-21T06:51:18+00:00",
+      "magnitud": 4.7,
+      "profundidad_km": 15.0,
+      "latitud": 13.648,
+      "longitud": -90.876,
       "pais": "",
-      "ciudad_referencia": "OFFSHORE TARAPACA, CHILE",
+      "ciudad_referencia": "OFFSHORE GUATEMALA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261121_0000096"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261121_0000102"
     },
     "usgs": {
       "id": "pr71539648",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-21T06:56:03.416008+00:00"
+    "hora_consulta_utc": "2026-11-21T07:01:23.269832+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-21T06:56:03.416008+00:00",
-  "combined_after_dedup": 2306
+  "updated_utc": "2026-11-21T07:01:23.269832+00:00",
+  "combined_after_dedup": 2307
 }
