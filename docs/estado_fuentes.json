@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-22T22:11:20.908297+00:00",
+  "actualizado_utc": "2026-11-22T22:16:20.379849+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 134,
   "actualizacion_minutos": 5,
@@ -18,7 +18,7 @@
       "eventos_recibidos": 42,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-22T05:51:57+00:00",
-      "antiguedad_evento_mas_reciente_min": 979.4
+      "antiguedad_evento_mas_reciente_min": 984.4
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -27,7 +27,7 @@
       "eventos_recibidos": 2155,
       "invalidos_rechazados": 2,
       "evento_mas_reciente_utc": "2026-11-22T22:02:35+00:00",
-      "antiguedad_evento_mas_reciente_min": 8.8
+      "antiguedad_evento_mas_reciente_min": 13.8
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -35,8 +35,8 @@
       "eventos_validos": 465,
       "eventos_recibidos": 468,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-22T21:35:30.974000+00:00",
-      "antiguedad_evento_mas_reciente_min": 35.8
+      "evento_mas_reciente_utc": "2026-11-22T21:35:31.763000+00:00",
+      "antiguedad_evento_mas_reciente_min": 40.8
     }
   },
   "ultimo_evento": {
@@ -66,13 +66,13 @@
     },
     "usgs": {
       "id": "us6000ucuf",
-      "fecha_hora_utc": "2026-11-22T21:35:30.974000+00:00",
+      "fecha_hora_utc": "2026-11-22T21:35:31.763000+00:00",
       "magnitud": 5.4,
-      "profundidad_km": 108.768,
-      "latitud": -10.8352,
-      "longitud": -76.0152,
+      "profundidad_km": 117.396,
+      "latitud": -10.8345,
+      "longitud": -76.0169,
       "pais": "",
-      "ciudad_referencia": "9 km NNE of Carhuamayo, Peru",
+      "ciudad_referencia": "9 km N of Carhuamayo, Peru",
       "fuente": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucuf"
     }
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-22T22:11:20.908297+00:00"
+    "hora_consulta_utc": "2026-11-22T22:16:20.379849+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-22T22:11:20.908297+00:00",
+  "updated_utc": "2026-11-22T22:16:20.379849+00:00",
   "combined_after_dedup": 2300
 }
