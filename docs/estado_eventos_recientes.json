@@ -96765,7 +96765,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-821",
     "fecha_primera_recepcion": "2026-11-21T17:36:03.893272+00:00",
-    "fecha_ultima_observacion": "2026-11-22T00:56:12.759111+00:00"
+    "fecha_ultima_observacion": "2026-11-22T01:01:21.142800+00:00"
   },
   "EMSC:20261121_0000225": {
     "id": "20261121_0000225",
@@ -97297,7 +97297,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xchufl",
     "fecha_primera_recepcion": "2026-11-22T00:26:13.471154+00:00",
-    "fecha_ultima_observacion": "2026-11-22T00:56:12.759111+00:00"
+    "fecha_ultima_observacion": "2026-11-22T01:01:21.142800+00:00"
   },
   "EMSC:20261122_0000002": {
     "id": "20261122_0000002",
@@ -97340,5 +97340,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261122_0000009",
     "fecha_primera_recepcion": "2026-11-22T00:51:01.974605+00:00",
     "fecha_ultima_observacion": "2026-11-22T00:56:12.759111+00:00"
+  },
+  "EMSC:20261122_0000011": {
+    "id": "20261122_0000011",
+    "fecha_hora_utc": "2026-11-22T00:56:48+00:00",
+    "magnitud": 3.1,
+    "profundidad_km": 183.0,
+    "latitud": 25.7553,
+    "longitud": 75.1594,
+    "pais": "",
+    "ciudad_referencia": "RAJASTHAN, INDIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261122_0000011",
+    "fecha_primera_recepcion": "2026-11-22T01:01:21.142800+00:00",
+    "fecha_ultima_observacion": "2026-11-22T01:01:21.142800+00:00"
   }
 }
