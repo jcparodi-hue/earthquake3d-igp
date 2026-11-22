@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-22T17:56:03.161909+00:00",
+  "actualizado_utc": "2026-11-22T18:00:57.606251+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 134,
   "actualizacion_minutos": 5,
   "igp": 134,
-  "emsc": 2162,
+  "emsc": 2164,
   "usgs": 461,
   "duplicados_eliminados": 450,
-  "eventos_publicados": 2307,
-  "evento_mas_reciente_utc": "2026-11-22T17:43:03+00:00",
+  "eventos_publicados": 2309,
+  "evento_mas_reciente_utc": "2026-11-22T17:49:30+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 42,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-22T05:51:57+00:00",
-      "antiguedad_evento_mas_reciente_min": 724.1
+      "antiguedad_evento_mas_reciente_min": 729.0
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2162,
-      "eventos_recibidos": 2165,
+      "eventos_validos": 2164,
+      "eventos_recibidos": 2167,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-22T17:43:03+00:00",
-      "antiguedad_evento_mas_reciente_min": 13.0
+      "evento_mas_reciente_utc": "2026-11-22T17:49:30+00:00",
+      "antiguedad_evento_mas_reciente_min": 11.5
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 465,
       "invalidos_rechazados": 4,
       "evento_mas_reciente_utc": "2026-11-22T16:11:00.178000+00:00",
-      "antiguedad_evento_mas_reciente_min": 105.0
+      "antiguedad_evento_mas_reciente_min": 110.0
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-824"
     },
     "emsc": {
-      "id": "20261122_0000240",
-      "fecha_hora_utc": "2026-11-22T17:43:03+00:00",
-      "magnitud": 2.5,
-      "profundidad_km": 97.0,
-      "latitud": -31.41,
-      "longitud": -68.43,
+      "id": "20261122_0000241",
+      "fecha_hora_utc": "2026-11-22T17:49:30+00:00",
+      "magnitud": 3.2,
+      "profundidad_km": 10.0,
+      "latitud": 32.4,
+      "longitud": 130.5,
       "pais": "",
-      "ciudad_referencia": "SAN JUAN, ARGENTINA",
+      "ciudad_referencia": "KYUSHU, JAPAN",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261122_0000240"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261122_0000241"
     },
     "usgs": {
       "id": "aka2026xdnmqb",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-22T17:56:03.161909+00:00"
+    "hora_consulta_utc": "2026-11-22T18:00:57.606251+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-22T17:56:03.161909+00:00",
-  "combined_after_dedup": 2307
+  "updated_utc": "2026-11-22T18:00:57.606251+00:00",
+  "combined_after_dedup": 2309
 }
