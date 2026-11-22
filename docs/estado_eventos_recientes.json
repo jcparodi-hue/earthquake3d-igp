@@ -96765,7 +96765,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-821",
     "fecha_primera_recepcion": "2026-11-21T17:36:03.893272+00:00",
-    "fecha_ultima_observacion": "2026-11-22T03:26:12.968795+00:00"
+    "fecha_ultima_observacion": "2026-11-22T03:30:51.967195+00:00"
   },
   "EMSC:20261121_0000225": {
     "id": "20261121_0000225",
@@ -97297,7 +97297,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xchufl",
     "fecha_primera_recepcion": "2026-11-22T00:26:13.471154+00:00",
-    "fecha_ultima_observacion": "2026-11-22T03:26:12.968795+00:00"
+    "fecha_ultima_observacion": "2026-11-22T03:30:51.967195+00:00"
   },
   "EMSC:20261122_0000002": {
     "id": "20261122_0000002",
@@ -97508,5 +97508,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261122_0000043",
     "fecha_primera_recepcion": "2026-11-22T03:26:12.968795+00:00",
     "fecha_ultima_observacion": "2026-11-22T03:26:12.968795+00:00"
+  },
+  "EMSC:20261122_0000045": {
+    "id": "20261122_0000045",
+    "fecha_hora_utc": "2026-11-22T03:24:23+00:00",
+    "magnitud": 3.9,
+    "profundidad_km": 22.0,
+    "latitud": -0.8,
+    "longitud": 98.83,
+    "pais": "",
+    "ciudad_referencia": "KEPULAUAN BATU, INDONESIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261122_0000045",
+    "fecha_primera_recepcion": "2026-11-22T03:30:51.967195+00:00",
+    "fecha_ultima_observacion": "2026-11-22T03:30:51.967195+00:00"
   }
 }
