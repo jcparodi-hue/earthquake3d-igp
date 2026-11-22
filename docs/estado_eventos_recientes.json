@@ -96765,7 +96765,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-821",
     "fecha_primera_recepcion": "2026-11-21T17:36:03.893272+00:00",
-    "fecha_ultima_observacion": "2026-11-22T04:35:46.753300+00:00"
+    "fecha_ultima_observacion": "2026-11-22T04:41:17.719953+00:00"
   },
   "EMSC:20261121_0000225": {
     "id": "20261121_0000225",
@@ -97606,5 +97606,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261122_0000055",
     "fecha_primera_recepcion": "2026-11-22T04:31:20.321262+00:00",
     "fecha_ultima_observacion": "2026-11-22T04:35:46.753300+00:00"
+  },
+  "EMSC:20261122_0000058": {
+    "id": "20261122_0000058",
+    "fecha_hora_utc": "2026-11-22T04:29:30.600000+00:00",
+    "magnitud": 3.3,
+    "profundidad_km": 8.1,
+    "latitud": 36.8942,
+    "longitud": 42.325,
+    "pais": "",
+    "ciudad_referencia": "IRAQ",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261122_0000058",
+    "fecha_primera_recepcion": "2026-11-22T04:41:17.719953+00:00",
+    "fecha_ultima_observacion": "2026-11-22T04:41:17.719953+00:00"
+  },
+  "USGS:aka2026xcqggs": {
+    "id": "aka2026xcqggs",
+    "fecha_hora_utc": "2026-11-22T04:33:59.407000+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 98.4,
+    "latitud": 58.374,
+    "longitud": -154.25,
+    "pais": "",
+    "ciudad_referencia": "86 km WNW of Aleneva, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xcqggs",
+    "fecha_primera_recepcion": "2026-11-22T04:41:17.719953+00:00",
+    "fecha_ultima_observacion": "2026-11-22T04:41:17.719953+00:00"
   }
 }
