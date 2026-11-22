@@ -99075,7 +99075,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-825",
     "fecha_primera_recepcion": "2026-11-22T22:51:18.825619+00:00",
-    "fecha_ultima_observacion": "2026-11-22T23:50:55.728371+00:00"
+    "fecha_ultima_observacion": "2026-11-22T23:56:19.431291+00:00"
   },
   "EMSC:20261122_0000303": {
     "id": "20261122_0000303",
@@ -99173,7 +99173,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75470822",
     "fecha_primera_recepcion": "2026-11-22T23:36:15.813559+00:00",
-    "fecha_ultima_observacion": "2026-11-22T23:50:55.728371+00:00"
+    "fecha_ultima_observacion": "2026-11-22T23:56:19.431291+00:00"
   },
   "EMSC:20261122_0000315": {
     "id": "20261122_0000315",
@@ -99188,5 +99188,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261122_0000315",
     "fecha_primera_recepcion": "2026-11-22T23:46:19.649882+00:00",
     "fecha_ultima_observacion": "2026-11-22T23:50:55.728371+00:00"
+  },
+  "EMSC:20261122_0000321": {
+    "id": "20261122_0000321",
+    "fecha_hora_utc": "2026-11-22T23:50:30+00:00",
+    "magnitud": 3.5,
+    "profundidad_km": 50.0,
+    "latitud": 26.4,
+    "longitud": 127.4,
+    "pais": "",
+    "ciudad_referencia": "RYUKYU ISLANDS, JAPAN",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261122_0000321",
+    "fecha_primera_recepcion": "2026-11-22T23:56:19.431291+00:00",
+    "fecha_ultima_observacion": "2026-11-22T23:56:19.431291+00:00"
   }
 }
