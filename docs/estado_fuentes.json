@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-23T06:55:49.892508+00:00",
+  "actualizado_utc": "2026-11-23T07:01:10.179717+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 135,
   "actualizacion_minutos": 5,
@@ -9,7 +9,7 @@
   "usgs": 474,
   "duplicados_eliminados": 460,
   "eventos_publicados": 2343,
-  "evento_mas_reciente_utc": "2026-11-23T06:49:03+00:00",
+  "evento_mas_reciente_utc": "2026-11-23T06:49:07+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 41,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-22T21:35:27+00:00",
-      "antiguedad_evento_mas_reciente_min": 560.4
+      "antiguedad_evento_mas_reciente_min": 565.7
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,8 +26,8 @@
       "eventos_validos": 2194,
       "eventos_recibidos": 2196,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-11-23T06:49:03+00:00",
-      "antiguedad_evento_mas_reciente_min": 6.8
+      "evento_mas_reciente_utc": "2026-11-23T06:49:07+00:00",
+      "antiguedad_evento_mas_reciente_min": 12.1
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 477,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-23T06:47:17.110000+00:00",
-      "antiguedad_evento_mas_reciente_min": 8.5
+      "antiguedad_evento_mas_reciente_min": 13.9
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261123_0000094",
-      "fecha_hora_utc": "2026-11-23T06:49:03+00:00",
-      "magnitud": 3.9,
-      "profundidad_km": 256.2,
-      "latitud": -24.12,
-      "longitud": -67.01,
+      "fecha_hora_utc": "2026-11-23T06:49:07+00:00",
+      "magnitud": 3.4,
+      "profundidad_km": 214.0,
+      "latitud": -23.98,
+      "longitud": -67.08,
       "pais": "",
       "ciudad_referencia": "SALTA, ARGENTINA",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-23T06:55:49.892508+00:00"
+    "hora_consulta_utc": "2026-11-23T07:01:10.179717+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-23T06:55:49.892508+00:00",
+  "updated_utc": "2026-11-23T07:01:10.179717+00:00",
   "combined_after_dedup": 2343
 }
