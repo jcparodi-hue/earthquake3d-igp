@@ -99075,7 +99075,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-825",
     "fecha_primera_recepcion": "2026-11-22T22:51:18.825619+00:00",
-    "fecha_ultima_observacion": "2026-11-23T01:01:23.417876+00:00"
+    "fecha_ultima_observacion": "2026-11-23T01:06:00.187936+00:00"
   },
   "EMSC:20261122_0000303": {
     "id": "20261122_0000303",
@@ -99300,5 +99300,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261123_0000008",
     "fecha_primera_recepcion": "2026-11-23T00:56:00.081301+00:00",
     "fecha_ultima_observacion": "2026-11-23T01:01:23.417876+00:00"
+  },
+  "EMSC:20261123_0000009": {
+    "id": "20261123_0000009",
+    "fecha_hora_utc": "2026-11-23T01:02:04.085006+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 2.1,
+    "latitud": 35.6184,
+    "longitud": -98.0011,
+    "pais": "",
+    "ciudad_referencia": "OKLAHOMA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261123_0000009",
+    "fecha_primera_recepcion": "2026-11-23T01:06:00.187936+00:00",
+    "fecha_ultima_observacion": "2026-11-23T01:06:00.187936+00:00"
+  },
+  "USGS:ok2026wxsb": {
+    "id": "ok2026wxsb",
+    "fecha_hora_utc": "2026-11-23T01:02:04.085000+00:00",
+    "magnitud": 2.55,
+    "profundidad_km": 2.108497858,
+    "latitud": 35.61839676,
+    "longitud": -98.00106049,
+    "pais": "",
+    "ciudad_referencia": "10 km NNW of El Reno, Oklahoma",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026wxsb",
+    "fecha_primera_recepcion": "2026-11-23T01:06:00.187936+00:00",
+    "fecha_ultima_observacion": "2026-11-23T01:06:00.187936+00:00"
   }
 }
