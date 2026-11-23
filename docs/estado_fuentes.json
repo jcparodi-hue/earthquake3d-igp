@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-23T14:56:08.334338+00:00",
+  "actualizado_utc": "2026-11-23T15:01:10.931802+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 135,
   "actualizacion_minutos": 5,
   "igp": 135,
-  "emsc": 2178,
+  "emsc": 2180,
   "usgs": 479,
   "duplicados_eliminados": 460,
-  "eventos_publicados": 2332,
-  "evento_mas_reciente_utc": "2026-11-23T14:41:07+00:00",
+  "eventos_publicados": 2334,
+  "evento_mas_reciente_utc": "2026-11-23T14:46:32+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 38,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-22T21:35:27+00:00",
-      "antiguedad_evento_mas_reciente_min": 1040.7
+      "antiguedad_evento_mas_reciente_min": 1045.7
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2178,
-      "eventos_recibidos": 2179,
+      "eventos_validos": 2180,
+      "eventos_recibidos": 2181,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-11-23T14:41:07+00:00",
-      "antiguedad_evento_mas_reciente_min": 15.0
+      "evento_mas_reciente_utc": "2026-11-23T14:46:32+00:00",
+      "antiguedad_evento_mas_reciente_min": 14.6
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 482,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-23T12:42:06.050000+00:00",
-      "antiguedad_evento_mas_reciente_min": 134.0
+      "antiguedad_evento_mas_reciente_min": 139.1
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-825"
     },
     "emsc": {
-      "id": "20261123_0000192",
-      "fecha_hora_utc": "2026-11-23T14:41:07+00:00",
-      "magnitud": 3.1,
-      "profundidad_km": 10.0,
-      "latitud": -2.03,
-      "longitud": 124.13,
+      "id": "20261123_0000194",
+      "fecha_hora_utc": "2026-11-23T14:46:32+00:00",
+      "magnitud": 2.7,
+      "profundidad_km": 14.0,
+      "latitud": -9.35,
+      "longitud": 125.02,
       "pais": "",
-      "ciudad_referencia": "BANDA SEA",
+      "ciudad_referencia": "EAST TIMOR REGION",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261123_0000192"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261123_0000194"
     },
     "usgs": {
       "id": "aka2026xfcnfy",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-23T14:56:08.334338+00:00"
+    "hora_consulta_utc": "2026-11-23T15:01:10.931802+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-23T14:56:08.334338+00:00",
-  "combined_after_dedup": 2332
+  "updated_utc": "2026-11-23T15:01:10.931802+00:00",
+  "combined_after_dedup": 2334
 }

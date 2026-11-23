@@ -99075,7 +99075,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-825",
     "fecha_primera_recepcion": "2026-11-22T22:51:18.825619+00:00",
-    "fecha_ultima_observacion": "2026-11-23T14:56:08.334338+00:00"
+    "fecha_ultima_observacion": "2026-11-23T15:01:10.931802+00:00"
   },
   "EMSC:20261122_0000303": {
     "id": "20261122_0000303",
@@ -100391,7 +100391,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xfcnfy",
     "fecha_primera_recepcion": "2026-11-23T12:50:54.111156+00:00",
-    "fecha_ultima_observacion": "2026-11-23T14:56:08.334338+00:00"
+    "fecha_ultima_observacion": "2026-11-23T15:01:10.931802+00:00"
   },
   "EMSC:20261123_0000158": {
     "id": "20261123_0000158",
@@ -100532,5 +100532,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261123_0000192",
     "fecha_primera_recepcion": "2026-11-23T14:50:54.682540+00:00",
     "fecha_ultima_observacion": "2026-11-23T14:56:08.334338+00:00"
+  },
+  "EMSC:20261123_0000194": {
+    "id": "20261123_0000194",
+    "fecha_hora_utc": "2026-11-23T14:46:32+00:00",
+    "magnitud": 2.7,
+    "profundidad_km": 14.0,
+    "latitud": -9.35,
+    "longitud": 125.02,
+    "pais": "",
+    "ciudad_referencia": "EAST TIMOR REGION",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261123_0000194",
+    "fecha_primera_recepcion": "2026-11-23T15:01:10.931802+00:00",
+    "fecha_ultima_observacion": "2026-11-23T15:01:10.931802+00:00"
   }
 }
