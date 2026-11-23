@@ -1,13 +1,13 @@
 {
-  "actualizado_utc": "2026-11-23T10:28:43.254396+00:00",
+  "actualizado_utc": "2026-11-23T22:11:01.621863+00:00",
   "estado": "OK",
   "volcanes_mundiales": 1470,
   "volcanes_usgs": 161,
   "volcanes_usgs_elevados": 3,
   "boletines_cenvul": 10,
-  "alertas_cenvul_elevadas": 3,
-  "avisos_ceniza_noaa_24h": 27,
-  "volcanes_con_avisos_noaa_24h": 6,
+  "alertas_cenvul_elevadas": 4,
+  "avisos_ceniza_noaa_24h": 22,
+  "volcanes_con_avisos_noaa_24h": 8,
   "fuentes": {
     "inventario": "USGS volcanoesGVP, basado en identificadores GVP",
     "alertas_usgs": "USGS Volcano Hazards Program",
