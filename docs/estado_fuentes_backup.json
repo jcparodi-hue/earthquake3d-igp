@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-23T16:21:08.486554+00:00",
+  "actualizado_utc": "2026-11-23T16:26:18.134260+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 135,
   "actualizacion_minutos": 5,
   "igp": 135,
-  "emsc": 2177,
+  "emsc": 2178,
   "usgs": 478,
   "duplicados_eliminados": 459,
-  "eventos_publicados": 2331,
-  "evento_mas_reciente_utc": "2026-11-23T15:37:52+00:00",
+  "eventos_publicados": 2332,
+  "evento_mas_reciente_utc": "2026-11-23T16:12:30+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 38,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-22T21:35:27+00:00",
-      "antiguedad_evento_mas_reciente_min": 1125.7
+      "antiguedad_evento_mas_reciente_min": 1130.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2177,
-      "eventos_recibidos": 2178,
+      "eventos_validos": 2178,
+      "eventos_recibidos": 2179,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-11-23T15:37:52+00:00",
-      "antiguedad_evento_mas_reciente_min": 43.3
+      "evento_mas_reciente_utc": "2026-11-23T16:12:30+00:00",
+      "antiguedad_evento_mas_reciente_min": 13.8
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 481,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-23T12:42:06.050000+00:00",
-      "antiguedad_evento_mas_reciente_min": 219.0
+      "antiguedad_evento_mas_reciente_min": 224.2
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-825"
     },
     "emsc": {
-      "id": "20261123_0000199",
-      "fecha_hora_utc": "2026-11-23T15:37:52+00:00",
-      "magnitud": 2.9,
-      "profundidad_km": 12.0,
-      "latitud": 0.57,
-      "longitud": 126.8,
+      "id": "20261123_0000203",
+      "fecha_hora_utc": "2026-11-23T16:12:30+00:00",
+      "magnitud": 3.9,
+      "profundidad_km": 10.0,
+      "latitud": 32.6,
+      "longitud": 130.6,
       "pais": "",
-      "ciudad_referencia": "MOLUCCA SEA",
+      "ciudad_referencia": "KYUSHU, JAPAN",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261123_0000199"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261123_0000203"
     },
     "usgs": {
       "id": "aka2026xfcnfy",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-23T16:21:08.486554+00:00"
+    "hora_consulta_utc": "2026-11-23T16:26:18.134260+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-23T16:21:08.486554+00:00",
-  "combined_after_dedup": 2331
+  "updated_utc": "2026-11-23T16:26:18.134260+00:00",
+  "combined_after_dedup": 2332
 }
