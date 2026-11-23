@@ -99075,7 +99075,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-825",
     "fecha_primera_recepcion": "2026-11-22T22:51:18.825619+00:00",
-    "fecha_ultima_observacion": "2026-11-23T17:51:22.119158+00:00"
+    "fecha_ultima_observacion": "2026-11-23T17:56:23.382615+00:00"
   },
   "EMSC:20261122_0000303": {
     "id": "20261122_0000303",
@@ -100657,7 +100657,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucz8",
     "fecha_primera_recepcion": "2026-11-23T16:50:52.365823+00:00",
-    "fecha_ultima_observacion": "2026-11-23T17:51:22.119158+00:00"
+    "fecha_ultima_observacion": "2026-11-23T17:56:23.382615+00:00"
   },
   "EMSC:20261123_0000212": {
     "id": "20261123_0000212",
@@ -100742,5 +100742,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261123_0000220",
     "fecha_primera_recepcion": "2026-11-23T17:46:23.842403+00:00",
     "fecha_ultima_observacion": "2026-11-23T17:51:22.119158+00:00"
+  },
+  "EMSC:20261123_0000223": {
+    "id": "20261123_0000223",
+    "fecha_hora_utc": "2026-11-23T17:47:35+00:00",
+    "magnitud": 3.6,
+    "profundidad_km": 20.0,
+    "latitud": -41.61,
+    "longitud": -73.91,
+    "pais": "",
+    "ciudad_referencia": "OFFSHORE LOS LAGOS, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261123_0000223",
+    "fecha_primera_recepcion": "2026-11-23T17:56:23.382615+00:00",
+    "fecha_ultima_observacion": "2026-11-23T17:56:23.382615+00:00"
   }
 }
