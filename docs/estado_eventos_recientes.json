@@ -99075,7 +99075,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-825",
     "fecha_primera_recepcion": "2026-11-22T22:51:18.825619+00:00",
-    "fecha_ultima_observacion": "2026-11-23T11:55:50.943657+00:00"
+    "fecha_ultima_observacion": "2026-11-23T12:01:12.055083+00:00"
   },
   "EMSC:20261122_0000303": {
     "id": "20261122_0000303",
@@ -100294,5 +100294,33 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xfauve",
     "fecha_primera_recepcion": "2026-11-23T11:55:50.943657+00:00",
     "fecha_ultima_observacion": "2026-11-23T11:55:50.943657+00:00"
+  },
+  "EMSC:20261123_0000148": {
+    "id": "20261123_0000148",
+    "fecha_hora_utc": "2026-11-23T11:57:49.080000+00:00",
+    "magnitud": 3.2,
+    "profundidad_km": 11.8,
+    "latitud": 33.5333,
+    "longitud": -118.032,
+    "pais": "",
+    "ciudad_referencia": "GULF OF SANTA CATALINA, CALIF.",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261123_0000148",
+    "fecha_primera_recepcion": "2026-11-23T12:01:12.055083+00:00",
+    "fecha_ultima_observacion": "2026-11-23T12:01:12.055083+00:00"
+  },
+  "USGS:ci41365335": {
+    "id": "ci41365335",
+    "fecha_hora_utc": "2026-11-23T11:57:49.080000+00:00",
+    "magnitud": 3.24,
+    "profundidad_km": 11.75,
+    "latitud": 33.53333,
+    "longitud": -118.032,
+    "pais": "",
+    "ciudad_referencia": "13 km SW of Newport Beach, CA",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41365335",
+    "fecha_primera_recepcion": "2026-11-23T12:01:12.055083+00:00",
+    "fecha_ultima_observacion": "2026-11-23T12:01:12.055083+00:00"
   }
 }
