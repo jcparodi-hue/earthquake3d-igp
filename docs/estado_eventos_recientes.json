@@ -99075,7 +99075,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-825",
     "fecha_primera_recepcion": "2026-11-22T22:51:18.825619+00:00",
-    "fecha_ultima_observacion": "2026-11-23T07:10:50.893842+00:00"
+    "fecha_ultima_observacion": "2026-11-23T07:16:19.820049+00:00"
   },
   "EMSC:20261122_0000303": {
     "id": "20261122_0000303",
@@ -99817,6 +99817,20 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60629111",
     "fecha_primera_recepcion": "2026-11-23T06:55:49.892508+00:00",
-    "fecha_ultima_observacion": "2026-11-23T07:10:50.893842+00:00"
+    "fecha_ultima_observacion": "2026-11-23T07:16:19.820049+00:00"
+  },
+  "EMSC:20261123_0000100": {
+    "id": "20261123_0000100",
+    "fecha_hora_utc": "2026-11-23T07:06:41+00:00",
+    "magnitud": 3.5,
+    "profundidad_km": 36.0,
+    "latitud": 1.51,
+    "longitud": 126.34,
+    "pais": "",
+    "ciudad_referencia": "MOLUCCA SEA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261123_0000100",
+    "fecha_primera_recepcion": "2026-11-23T07:16:19.820049+00:00",
+    "fecha_ultima_observacion": "2026-11-23T07:16:19.820049+00:00"
   }
 }
