@@ -99075,7 +99075,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-825",
     "fecha_primera_recepcion": "2026-11-22T22:51:18.825619+00:00",
-    "fecha_ultima_observacion": "2026-11-23T10:31:20.777846+00:00"
+    "fecha_ultima_observacion": "2026-11-23T10:36:27.842212+00:00"
   },
   "EMSC:20261122_0000303": {
     "id": "20261122_0000303",
@@ -100139,7 +100139,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75471082",
     "fecha_primera_recepcion": "2026-11-23T10:06:08.979113+00:00",
-    "fecha_ultima_observacion": "2026-11-23T10:31:20.777846+00:00"
+    "fecha_ultima_observacion": "2026-11-23T10:36:27.842212+00:00"
   },
   "EMSC:20261123_0000127": {
     "id": "20261123_0000127",
@@ -100154,5 +100154,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261123_0000127",
     "fecha_primera_recepcion": "2026-11-23T10:16:07.317926+00:00",
     "fecha_ultima_observacion": "2026-11-23T10:31:20.777846+00:00"
+  },
+  "EMSC:20261123_0000132": {
+    "id": "20261123_0000132",
+    "fecha_hora_utc": "2026-11-23T10:29:22+00:00",
+    "magnitud": 2.9,
+    "profundidad_km": 213.6,
+    "latitud": -23.93,
+    "longitud": -66.96,
+    "pais": "",
+    "ciudad_referencia": "JUJUY, ARGENTINA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261123_0000132",
+    "fecha_primera_recepcion": "2026-11-23T10:36:27.842212+00:00",
+    "fecha_ultima_observacion": "2026-11-23T10:36:27.842212+00:00"
   }
 }
