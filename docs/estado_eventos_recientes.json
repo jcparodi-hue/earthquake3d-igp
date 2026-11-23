@@ -99075,7 +99075,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-825",
     "fecha_primera_recepcion": "2026-11-22T22:51:18.825619+00:00",
-    "fecha_ultima_observacion": "2026-11-23T22:46:08.630018+00:00"
+    "fecha_ultima_observacion": "2026-11-23T22:51:21.825740+00:00"
   },
   "EMSC:20261122_0000303": {
     "id": "20261122_0000303",
@@ -101050,5 +101050,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261123_0000273",
     "fecha_primera_recepcion": "2026-11-23T22:37:34.632245+00:00",
     "fecha_ultima_observacion": "2026-11-23T22:46:08.630018+00:00"
+  },
+  "EMSC:20261123_0000275": {
+    "id": "20261123_0000275",
+    "fecha_hora_utc": "2026-11-23T22:47:54.673449+00:00",
+    "magnitud": 3.3,
+    "profundidad_km": 1.2,
+    "latitud": 69.057,
+    "longitud": -144.671,
+    "pais": "",
+    "ciudad_referencia": "NORTHERN ALASKA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261123_0000275",
+    "fecha_primera_recepcion": "2026-11-23T22:51:21.825740+00:00",
+    "fecha_ultima_observacion": "2026-11-23T22:51:21.825740+00:00"
+  },
+  "USGS:aka2026xfwtiz": {
+    "id": "aka2026xfwtiz",
+    "fecha_hora_utc": "2026-11-23T22:47:54.673000+00:00",
+    "magnitud": 3.3,
+    "profundidad_km": 1.2,
+    "latitud": 69.057,
+    "longitud": -144.671,
+    "pais": "",
+    "ciudad_referencia": "109 km NNE of Arctic Village, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xfwtiz",
+    "fecha_primera_recepcion": "2026-11-23T22:51:21.825740+00:00",
+    "fecha_ultima_observacion": "2026-11-23T22:51:21.825740+00:00"
   }
 }
