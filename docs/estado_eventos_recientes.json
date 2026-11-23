@@ -99075,7 +99075,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-825",
     "fecha_primera_recepcion": "2026-11-22T22:51:18.825619+00:00",
-    "fecha_ultima_observacion": "2026-11-23T03:31:21.046127+00:00"
+    "fecha_ultima_observacion": "2026-11-23T03:36:16.962062+00:00"
   },
   "EMSC:20261122_0000303": {
     "id": "20261122_0000303",
@@ -99565,6 +99565,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261123_0000057",
     "fecha_primera_recepcion": "2026-11-23T03:31:21.046127+00:00",
-    "fecha_ultima_observacion": "2026-11-23T03:31:21.046127+00:00"
+    "fecha_ultima_observacion": "2026-11-23T03:36:16.962062+00:00"
+  },
+  "USGS:aka2026xekfce": {
+    "id": "aka2026xekfce",
+    "fecha_hora_utc": "2026-11-23T03:32:00.575000+00:00",
+    "magnitud": 2.7,
+    "profundidad_km": 69.3,
+    "latitud": 62.796,
+    "longitud": -149.517,
+    "pais": "",
+    "ciudad_referencia": "48 km NE of Chase, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xekfce",
+    "fecha_primera_recepcion": "2026-11-23T03:36:16.962062+00:00",
+    "fecha_ultima_observacion": "2026-11-23T03:36:16.962062+00:00"
   }
 }
