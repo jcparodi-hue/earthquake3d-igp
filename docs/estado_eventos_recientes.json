@@ -99075,7 +99075,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-825",
     "fecha_primera_recepcion": "2026-11-22T22:51:18.825619+00:00",
-    "fecha_ultima_observacion": "2026-11-23T08:20:52.304837+00:00"
+    "fecha_ultima_observacion": "2026-11-23T08:25:52.605835+00:00"
   },
   "EMSC:20261122_0000303": {
     "id": "20261122_0000303",
@@ -99958,5 +99958,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261123_0000110",
     "fecha_primera_recepcion": "2026-11-23T08:20:52.304837+00:00",
     "fecha_ultima_observacion": "2026-11-23T08:20:52.304837+00:00"
+  },
+  "EMSC:20261123_0000111": {
+    "id": "20261123_0000111",
+    "fecha_hora_utc": "2026-11-23T08:17:45.975656+00:00",
+    "magnitud": 3.2,
+    "profundidad_km": 20.0,
+    "latitud": 58.206,
+    "longitud": -151.674,
+    "pais": "",
+    "ciudad_referencia": "KODIAK ISLAND REGION, ALASKA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261123_0000111",
+    "fecha_primera_recepcion": "2026-11-23T08:25:52.605835+00:00",
+    "fecha_ultima_observacion": "2026-11-23T08:25:52.605835+00:00"
+  },
+  "USGS:aka2026xetruw": {
+    "id": "aka2026xetruw",
+    "fecha_hora_utc": "2026-11-23T08:17:45.975000+00:00",
+    "magnitud": 3.2,
+    "profundidad_km": 20.0,
+    "latitud": 58.206,
+    "longitud": -151.674,
+    "pais": "",
+    "ciudad_referencia": "58 km ENE of Ouzinkie, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xetruw",
+    "fecha_primera_recepcion": "2026-11-23T08:25:52.605835+00:00",
+    "fecha_ultima_observacion": "2026-11-23T08:25:52.605835+00:00"
   }
 }
