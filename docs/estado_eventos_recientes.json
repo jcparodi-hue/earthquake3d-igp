@@ -99075,7 +99075,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-825",
     "fecha_primera_recepcion": "2026-11-22T22:51:18.825619+00:00",
-    "fecha_ultima_observacion": "2026-11-23T09:26:18.109027+00:00"
+    "fecha_ultima_observacion": "2026-11-23T09:31:20.425128+00:00"
   },
   "EMSC:20261122_0000303": {
     "id": "20261122_0000303",
@@ -100041,7 +100041,7 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261123_0000118",
     "fecha_primera_recepcion": "2026-11-23T09:16:19.904538+00:00",
-    "fecha_ultima_observacion": "2026-11-23T09:26:18.109027+00:00"
+    "fecha_ultima_observacion": "2026-11-23T09:31:20.425128+00:00"
   },
   "USGS:aka2026xevqsk": {
     "id": "aka2026xevqsk",
@@ -100056,5 +100056,19 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xevqsk",
     "fecha_primera_recepcion": "2026-11-23T09:20:52.163059+00:00",
     "fecha_ultima_observacion": "2026-11-23T09:26:18.109027+00:00"
+  },
+  "USGS:aka2026xewacy": {
+    "id": "aka2026xewacy",
+    "fecha_hora_utc": "2026-11-23T09:26:04.753000+00:00",
+    "magnitud": 2.6,
+    "profundidad_km": 15.5,
+    "latitud": 57.076,
+    "longitud": -155.109,
+    "pais": "",
+    "ciudad_referencia": "58 km WNW of Akhiok, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xewacy",
+    "fecha_primera_recepcion": "2026-11-23T09:31:20.425128+00:00",
+    "fecha_ultima_observacion": "2026-11-23T09:31:20.425128+00:00"
   }
 }
