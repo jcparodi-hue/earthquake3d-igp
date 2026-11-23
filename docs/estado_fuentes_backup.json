@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-23T08:36:07.145837+00:00",
+  "actualizado_utc": "2026-11-23T08:41:25.509483+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 135,
   "actualizacion_minutos": 5,
@@ -9,7 +9,7 @@
   "usgs": 476,
   "duplicados_eliminados": 461,
   "eventos_publicados": 2335,
-  "evento_mas_reciente_utc": "2026-11-23T08:17:45.975656+00:00",
+  "evento_mas_reciente_utc": "2026-11-23T08:28:48.184224+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 41,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-22T21:35:27+00:00",
-      "antiguedad_evento_mas_reciente_min": 660.7
+      "antiguedad_evento_mas_reciente_min": 666.0
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,8 +26,8 @@
       "eventos_validos": 2185,
       "eventos_recibidos": 2186,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-11-23T08:17:45.975656+00:00",
-      "antiguedad_evento_mas_reciente_min": 18.4
+      "evento_mas_reciente_utc": "2026-11-23T08:28:48.184224+00:00",
+      "antiguedad_evento_mas_reciente_min": 12.6
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 479,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-23T08:17:45.975000+00:00",
-      "antiguedad_evento_mas_reciente_min": 18.4
+      "antiguedad_evento_mas_reciente_min": 23.7
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-825"
     },
     "emsc": {
-      "id": "20261123_0000111",
-      "fecha_hora_utc": "2026-11-23T08:17:45.975656+00:00",
-      "magnitud": 3.2,
-      "profundidad_km": 20.0,
-      "latitud": 58.206,
-      "longitud": -151.674,
+      "id": "20261123_0000113",
+      "fecha_hora_utc": "2026-11-23T08:28:48.184224+00:00",
+      "magnitud": 3.1,
+      "profundidad_km": 12.7,
+      "latitud": 38.3633,
+      "longitud": 24.1599,
       "pais": "",
-      "ciudad_referencia": "KODIAK ISLAND REGION, ALASKA",
+      "ciudad_referencia": "AEGEAN SEA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261123_0000111"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261123_0000113"
     },
     "usgs": {
       "id": "aka2026xetruw",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-23T08:36:07.145837+00:00"
+    "hora_consulta_utc": "2026-11-23T08:41:25.509483+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-23T08:36:07.145837+00:00",
+  "updated_utc": "2026-11-23T08:41:25.509483+00:00",
   "combined_after_dedup": 2335
 }
