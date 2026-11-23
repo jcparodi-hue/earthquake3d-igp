@@ -99075,7 +99075,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-825",
     "fecha_primera_recepcion": "2026-11-22T22:51:18.825619+00:00",
-    "fecha_ultima_observacion": "2026-11-23T02:56:16.604060+00:00"
+    "fecha_ultima_observacion": "2026-11-23T03:01:23.018748+00:00"
   },
   "EMSC:20261122_0000303": {
     "id": "20261122_0000303",
@@ -99440,5 +99440,33 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26327000",
     "fecha_primera_recepcion": "2026-11-23T02:50:59.987048+00:00",
     "fecha_ultima_observacion": "2026-11-23T02:56:16.604060+00:00"
+  },
+  "EMSC:20261123_0000041": {
+    "id": "20261123_0000041",
+    "fecha_hora_utc": "2026-11-23T02:56:44+00:00",
+    "magnitud": 3.7,
+    "profundidad_km": 106.0,
+    "latitud": -22.0,
+    "longitud": -68.66,
+    "pais": "",
+    "ciudad_referencia": "ANTOFAGASTA, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261123_0000041",
+    "fecha_primera_recepcion": "2026-11-23T03:01:23.018748+00:00",
+    "fecha_ultima_observacion": "2026-11-23T03:01:23.018748+00:00"
+  },
+  "USGS:us6000ucvm": {
+    "id": "us6000ucvm",
+    "fecha_hora_utc": "2026-11-23T02:40:57.933000+00:00",
+    "magnitud": 6.5,
+    "profundidad_km": 600.979,
+    "latitud": -13.6607,
+    "longitud": 172.2423,
+    "pais": "",
+    "ciudad_referencia": "Vanuatu region",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucvm",
+    "fecha_primera_recepcion": "2026-11-23T03:01:23.018748+00:00",
+    "fecha_ultima_observacion": "2026-11-23T03:01:23.018748+00:00"
   }
 }
