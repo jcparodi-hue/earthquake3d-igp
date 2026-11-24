@@ -99075,7 +99075,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-825",
     "fecha_primera_recepcion": "2026-11-22T22:51:18.825619+00:00",
-    "fecha_ultima_observacion": "2026-11-23T23:56:16.647764+00:00"
+    "fecha_ultima_observacion": "2026-11-24T00:01:26.843666+00:00"
   },
   "EMSC:20261122_0000303": {
     "id": "20261122_0000303",
@@ -101120,5 +101120,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261123_0000288",
     "fecha_primera_recepcion": "2026-11-23T23:46:21.518211+00:00",
     "fecha_ultima_observacion": "2026-11-23T23:56:16.647764+00:00"
+  },
+  "EMSC:20261123_0000289": {
+    "id": "20261123_0000289",
+    "fecha_hora_utc": "2026-11-23T23:56:22.523737+00:00",
+    "magnitud": 3.8,
+    "profundidad_km": 10.0,
+    "latitud": -35.0901,
+    "longitud": 179.1916,
+    "pais": "",
+    "ciudad_referencia": "OFF E. COAST OF N. ISLAND, N.Z.",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261123_0000289",
+    "fecha_primera_recepcion": "2026-11-24T00:01:26.843666+00:00",
+    "fecha_ultima_observacion": "2026-11-24T00:01:26.843666+00:00"
+  },
+  "USGS:hv75075542": {
+    "id": "hv75075542",
+    "fecha_hora_utc": "2026-11-23T23:02:25.780000+00:00",
+    "magnitud": 2.55,
+    "profundidad_km": 27.8,
+    "latitud": 20.1226666666667,
+    "longitud": -155.841833333333,
+    "pais": "",
+    "ciudad_referencia": "13 km SSW of Kapaau, Hawaii",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75075542",
+    "fecha_primera_recepcion": "2026-11-24T00:01:26.843666+00:00",
+    "fecha_ultima_observacion": "2026-11-24T00:01:26.843666+00:00"
   }
 }
