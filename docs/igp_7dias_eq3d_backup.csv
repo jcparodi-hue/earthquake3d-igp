@@ -1,5 +1,6 @@
 YEAR, MON, DAY, HOUR, MIN, DEP, MAG, LAT, LONG, URL   // IGP history + EMSC-RTS + USGS, global rolling 10 days
 2026,11,24,06,57,101.6,2.7,-22.960000,-68.950000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000078
+2026,11,24,06,57,22.9,2.5,-32.250000,-71.740000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000080
 2026,11,24,06,55,10.0,3.1,32.650000,93.850000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000079
 2026,11,24,06,55,102.9,2.5,-22.190000,-68.590000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000077
 2026,11,24,06,45,10.0,3.0,32.410000,93.860000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000075
@@ -54,7 +55,7 @@ YEAR, MON, DAY, HOUR, MIN, DEP, MAG, LAT, LONG, URL   // IGP history + EMSC-RTS 
 2026,11,24,00,38,11.8,2.8,17.986300,-66.957500,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000013
 2026,11,24,00,27,186.2,2.7,-23.190000,-66.730000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000005
 2026,11,24,00,15,99.0,4.4,1.860000,127.330000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000002
-2026,11,24,00,09,10.5,3.9,43.247200,-110.754700,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000004
+2026,11,24,00,09,10.4,3.9,43.255600,-110.711300,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000004
 2026,11,24,00,08,11.0,3.7,14.377500,42.035600,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000044
 2026,11,24,00,06,10.0,3.4,7.503300,-80.372000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000001
 2026,11,23,23,56,10.0,3.8,-35.090100,179.191600,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261123_0000289
@@ -199,7 +200,7 @@ YEAR, MON, DAY, HOUR, MIN, DEP, MAG, LAT, LONG, URL   // IGP history + EMSC-RTS 
 2026,11,23,08,10,8.9,4.7,41.910300,82.563200,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261123_0000112
 2026,11,23,08,01,10.0,5.5,-60.777100,153.668400,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261123_0000109
 2026,11,23,07,59,40.0,4.1,-31.760000,-72.090000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261123_0000106
-2026,11,23,07,56,9.3,3.1,44.621000,-112.584800,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261123_0000191
+2026,11,23,07,56,10.0,3.0,44.625500,-112.575000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261123_0000191
 2026,11,23,07,44,10.0,3.5,-2.040000,120.620000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261123_0000209
 2026,11,23,07,36,148.0,5.4,-7.502700,128.310800,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261123_0000105
 2026,11,23,07,34,44.2,2.5,43.616200,12.580500,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261123_0000104
@@ -2234,7 +2235,6 @@ YEAR, MON, DAY, HOUR, MIN, DEP, MAG, LAT, LONG, URL   // IGP history + EMSC-RTS 
 2026,11,14,07,21,87.2,2.7,-27.410000,-70.240000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261114_0000094
 2026,11,14,07,21,11.9,2.8,59.848800,-148.564700,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261114_0000101
 2026,11,14,07,19,10.4,2.7,60.520700,-139.947900,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261114_0000097
-2026,11,14,07,11,11.0,2.5,40.731000,30.332300,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261114_0000091
 2026,11,13,20,37,64.0,3.8,-17.450000,-71.090000,10,https://ultimosismo.igp.gob.pe/evento/2026-789
 2026,11,13,16,43,32.0,5.9,-15.140000,-76.090000,10,https://ultimosismo.igp.gob.pe/evento/2026-788
 2026,11,13,12,37,139.0,4.6,-10.500000,-74.730000,10,https://ultimosismo.igp.gob.pe/evento/2026-787
