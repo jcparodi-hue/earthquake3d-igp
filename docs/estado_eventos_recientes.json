@@ -102085,7 +102085,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-828",
     "fecha_primera_recepcion": "2026-11-24T10:31:27.654600+00:00",
-    "fecha_ultima_observacion": "2026-11-24T13:36:11.229531+00:00"
+    "fecha_ultima_observacion": "2026-11-24T13:41:21.402479+00:00"
   },
   "EMSC:20261124_0000127": {
     "id": "20261124_0000127",
@@ -102341,16 +102341,30 @@
   },
   "EMSC:20261124_0000172": {
     "id": "20261124_0000172",
-    "fecha_hora_utc": "2026-11-24T13:22:41.050000+00:00",
-    "magnitud": 5.0,
-    "profundidad_km": 22.0,
-    "latitud": -28.6238,
-    "longitud": -71.072,
+    "fecha_hora_utc": "2026-11-24T13:22:38.220000+00:00",
+    "magnitud": 4.8,
+    "profundidad_km": 25.5,
+    "latitud": -28.581,
+    "longitud": -71.423,
     "pais": "",
-    "ciudad_referencia": "ATACAMA, CHILE",
+    "ciudad_referencia": "OFFSHORE ATACAMA, CHILE",
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000172",
     "fecha_primera_recepcion": "2026-11-24T13:26:18.759612+00:00",
-    "fecha_ultima_observacion": "2026-11-24T13:36:11.229531+00:00"
+    "fecha_ultima_observacion": "2026-11-24T13:41:21.402479+00:00"
+  },
+  "USGS:us6000ud7h": {
+    "id": "us6000ud7h",
+    "fecha_hora_utc": "2026-11-24T13:22:38.945000+00:00",
+    "magnitud": 4.8,
+    "profundidad_km": 33.412,
+    "latitud": -28.6118,
+    "longitud": -71.4886,
+    "pais": "",
+    "ciudad_referencia": "71 km W of Vallenar, Chile",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ud7h",
+    "fecha_primera_recepcion": "2026-11-24T13:41:21.402479+00:00",
+    "fecha_ultima_observacion": "2026-11-24T13:41:21.402479+00:00"
   }
 }
