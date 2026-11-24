@@ -1,14 +1,14 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-24T16:50:54.659716+00:00",
+  "actualizado_utc": "2026-11-24T16:56:23.442932+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 138,
   "actualizacion_minutos": 5,
   "igp": 138,
   "emsc": 2179,
-  "usgs": 478,
+  "usgs": 477,
   "duplicados_eliminados": 451,
-  "eventos_publicados": 2344,
+  "eventos_publicados": 2343,
   "evento_mas_reciente_utc": "2026-11-24T16:40:30+00:00",
   "salud_fuentes": {
     "igp": {
@@ -18,7 +18,7 @@
       "eventos_recibidos": 38,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-24T05:05:03+00:00",
-      "antiguedad_evento_mas_reciente_min": 705.9
+      "antiguedad_evento_mas_reciente_min": 711.3
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -27,16 +27,16 @@
       "eventos_recibidos": 2180,
       "invalidos_rechazados": 1,
       "evento_mas_reciente_utc": "2026-11-24T16:40:30+00:00",
-      "antiguedad_evento_mas_reciente_min": 10.4
+      "antiguedad_evento_mas_reciente_min": 15.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 478,
-      "eventos_recibidos": 481,
+      "eventos_validos": 477,
+      "eventos_recibidos": 480,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-24T16:37:31.142000+00:00",
-      "antiguedad_evento_mas_reciente_min": 13.4
+      "evento_mas_reciente_utc": "2026-11-24T16:37:31.591000+00:00",
+      "antiguedad_evento_mas_reciente_min": 18.9
     }
   },
   "ultimo_evento": {
@@ -66,13 +66,13 @@
     },
     "usgs": {
       "id": "aka2026xhgksb",
-      "fecha_hora_utc": "2026-11-24T16:37:31.142000+00:00",
+      "fecha_hora_utc": "2026-11-24T16:37:31.591000+00:00",
       "magnitud": 4.2,
-      "profundidad_km": 28.2,
-      "latitud": 61.29,
-      "longitud": -150.132,
+      "profundidad_km": 44.6,
+      "latitud": 61.32,
+      "longitud": -150.154,
       "pais": "",
-      "ciudad_referencia": "11 km SW of Point MacKenzie, Alaska",
+      "ciudad_referencia": "10 km WSW of Point MacKenzie, Alaska",
       "fuente": "USGS",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xhgksb"
     }
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-24T16:50:54.659716+00:00"
+    "hora_consulta_utc": "2026-11-24T16:56:23.442932+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-24T16:50:54.659716+00:00",
-  "combined_after_dedup": 2344
+  "updated_utc": "2026-11-24T16:56:23.442932+00:00",
+  "combined_after_dedup": 2343
 }
