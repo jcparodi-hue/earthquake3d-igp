@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-24T12:06:21.481096+00:00",
+  "actualizado_utc": "2026-11-24T12:11:22.366276+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 138,
   "actualizacion_minutos": 5,
   "igp": 138,
-  "emsc": 2154,
-  "usgs": 485,
-  "duplicados_eliminados": 454,
-  "eventos_publicados": 2323,
-  "evento_mas_reciente_utc": "2026-11-24T11:51:45.560000+00:00",
+  "emsc": 2155,
+  "usgs": 486,
+  "duplicados_eliminados": 455,
+  "eventos_publicados": 2324,
+  "evento_mas_reciente_utc": "2026-11-24T11:58:30+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 38,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-24T05:05:03+00:00",
-      "antiguedad_evento_mas_reciente_min": 421.3
+      "antiguedad_evento_mas_reciente_min": 426.3
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2154,
-      "eventos_recibidos": 2155,
+      "eventos_validos": 2155,
+      "eventos_recibidos": 2156,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-11-24T11:51:45.560000+00:00",
-      "antiguedad_evento_mas_reciente_min": 14.6
+      "evento_mas_reciente_utc": "2026-11-24T11:58:30+00:00",
+      "antiguedad_evento_mas_reciente_min": 12.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 485,
-      "eventos_recibidos": 488,
+      "eventos_validos": 486,
+      "eventos_recibidos": 489,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-24T11:15:07.642000+00:00",
-      "antiguedad_evento_mas_reciente_min": 51.2
+      "evento_mas_reciente_utc": "2026-11-24T11:51:44.702000+00:00",
+      "antiguedad_evento_mas_reciente_min": 19.6
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-828"
     },
     "emsc": {
-      "id": "20261124_0000146",
-      "fecha_hora_utc": "2026-11-24T11:51:45.560000+00:00",
-      "magnitud": 5.3,
-      "profundidad_km": 29.0,
-      "latitud": 14.6477,
-      "longitud": -93.14,
+      "id": "20261124_0000149",
+      "fecha_hora_utc": "2026-11-24T11:58:30+00:00",
+      "magnitud": 3.4,
+      "profundidad_km": 10.0,
+      "latitud": 32.3,
+      "longitud": 130.4,
       "pais": "",
-      "ciudad_referencia": "OFFSHORE CHIAPAS, MEXICO",
+      "ciudad_referencia": "KYUSHU, JAPAN",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000146"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000149"
     },
     "usgs": {
-      "id": "tx2026xdcvpg",
-      "fecha_hora_utc": "2026-11-24T11:15:07.642000+00:00",
-      "magnitud": 3.0,
-      "profundidad_km": 7.094,
-      "latitud": 29.116,
-      "longitud": -97.789,
+      "id": "us6000ud6z",
+      "fecha_hora_utc": "2026-11-24T11:51:44.702000+00:00",
+      "magnitud": 5.2,
+      "profundidad_km": 35.0,
+      "latitud": 14.442,
+      "longitud": -93.2417,
       "pais": "",
-      "ciudad_referencia": "16 km S of Nixon, Texas",
+      "ciudad_referencia": "93 km WSW of Puerto Madero, Mexico",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026xdcvpg"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ud6z"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-24T12:06:21.481096+00:00"
+    "hora_consulta_utc": "2026-11-24T12:11:22.366276+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-24T12:06:21.481096+00:00",
-  "combined_after_dedup": 2323
+  "updated_utc": "2026-11-24T12:11:22.366276+00:00",
+  "combined_after_dedup": 2324
 }
