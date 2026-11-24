@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-24T16:06:12.650193+00:00",
+  "actualizado_utc": "2026-11-24T16:11:29.119068+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 138,
   "actualizacion_minutos": 5,
   "igp": 138,
-  "emsc": 2176,
+  "emsc": 2177,
   "usgs": 480,
   "duplicados_eliminados": 452,
-  "eventos_publicados": 2342,
-  "evento_mas_reciente_utc": "2026-11-24T15:55:23+00:00",
+  "eventos_publicados": 2343,
+  "evento_mas_reciente_utc": "2026-11-24T15:57:37+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 38,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-24T05:05:03+00:00",
-      "antiguedad_evento_mas_reciente_min": 661.2
+      "antiguedad_evento_mas_reciente_min": 666.4
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2176,
-      "eventos_recibidos": 2177,
+      "eventos_validos": 2177,
+      "eventos_recibidos": 2178,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-11-24T15:55:23+00:00",
-      "antiguedad_evento_mas_reciente_min": 10.8
+      "evento_mas_reciente_utc": "2026-11-24T15:57:37+00:00",
+      "antiguedad_evento_mas_reciente_min": 13.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 483,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-24T15:39:43.392000+00:00",
-      "antiguedad_evento_mas_reciente_min": 26.5
+      "antiguedad_evento_mas_reciente_min": 31.8
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-828"
     },
     "emsc": {
-      "id": "20261124_0000218",
-      "fecha_hora_utc": "2026-11-24T15:55:23+00:00",
-      "magnitud": 3.5,
-      "profundidad_km": 5.0,
-      "latitud": 40.04,
-      "longitud": 20.75,
+      "id": "20261124_0000222",
+      "fecha_hora_utc": "2026-11-24T15:57:37+00:00",
+      "magnitud": 3.2,
+      "profundidad_km": 18.0,
+      "latitud": 42.02,
+      "longitud": 82.51,
       "pais": "",
-      "ciudad_referencia": "GREECE",
+      "ciudad_referencia": "NORTHERN XINJIANG, CHINA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000218"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000222"
     },
     "usgs": {
       "id": "us6000ud7z",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-24T16:06:12.650193+00:00"
+    "hora_consulta_utc": "2026-11-24T16:11:29.119068+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-24T16:06:12.650193+00:00",
-  "combined_after_dedup": 2342
+  "updated_utc": "2026-11-24T16:11:29.119068+00:00",
+  "combined_after_dedup": 2343
 }

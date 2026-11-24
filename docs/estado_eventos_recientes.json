@@ -102085,7 +102085,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-828",
     "fecha_primera_recepcion": "2026-11-24T10:31:27.654600+00:00",
-    "fecha_ultima_observacion": "2026-11-24T16:06:12.650193+00:00"
+    "fecha_ultima_observacion": "2026-11-24T16:11:29.119068+00:00"
   },
   "EMSC:20261124_0000127": {
     "id": "20261124_0000127",
@@ -102575,7 +102575,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ud7z",
     "fecha_primera_recepcion": "2026-11-24T15:55:59.846573+00:00",
-    "fecha_ultima_observacion": "2026-11-24T16:06:12.650193+00:00"
+    "fecha_ultima_observacion": "2026-11-24T16:11:29.119068+00:00"
   },
   "EMSC:20261124_0000218": {
     "id": "20261124_0000218",
@@ -102590,5 +102590,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000218",
     "fecha_primera_recepcion": "2026-11-24T16:01:29.379320+00:00",
     "fecha_ultima_observacion": "2026-11-24T16:06:12.650193+00:00"
+  },
+  "EMSC:20261124_0000222": {
+    "id": "20261124_0000222",
+    "fecha_hora_utc": "2026-11-24T15:57:37+00:00",
+    "magnitud": 3.2,
+    "profundidad_km": 18.0,
+    "latitud": 42.02,
+    "longitud": 82.51,
+    "pais": "",
+    "ciudad_referencia": "NORTHERN XINJIANG, CHINA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000222",
+    "fecha_primera_recepcion": "2026-11-24T16:11:29.119068+00:00",
+    "fecha_ultima_observacion": "2026-11-24T16:11:29.119068+00:00"
   }
 }
