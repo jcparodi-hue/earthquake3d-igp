@@ -101217,7 +101217,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-826",
     "fecha_primera_recepcion": "2026-11-24T00:46:07.286790+00:00",
-    "fecha_ultima_observacion": "2026-11-24T08:56:08.015263+00:00"
+    "fecha_ultima_observacion": "2026-11-24T09:01:29.113214+00:00"
   },
   "EMSC:20261124_0000008": {
     "id": "20261124_0000008",
@@ -101946,5 +101946,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000107",
     "fecha_primera_recepcion": "2026-11-24T08:51:12.650267+00:00",
     "fecha_ultima_observacion": "2026-11-24T08:56:08.015263+00:00"
+  },
+  "EMSC:20261124_0000109": {
+    "id": "20261124_0000109",
+    "fecha_hora_utc": "2026-11-24T08:57:24.688413+00:00",
+    "magnitud": 3.6,
+    "profundidad_km": 26.4,
+    "latitud": -44.8982,
+    "longitud": 167.336,
+    "pais": "",
+    "ciudad_referencia": "SOUTH ISLAND OF NEW ZEALAND",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000109",
+    "fecha_primera_recepcion": "2026-11-24T09:01:29.113214+00:00",
+    "fecha_ultima_observacion": "2026-11-24T09:01:29.113214+00:00"
+  },
+  "USGS:aka2026xgrbne": {
+    "id": "aka2026xgrbne",
+    "fecha_hora_utc": "2026-11-24T08:57:07.330000+00:00",
+    "magnitud": 3.4,
+    "profundidad_km": 56.0,
+    "latitud": 60.219,
+    "longitud": -151.066,
+    "pais": "",
+    "ciudad_referencia": "17 km SE of Kasilof, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xgrbne",
+    "fecha_primera_recepcion": "2026-11-24T09:01:29.113214+00:00",
+    "fecha_ultima_observacion": "2026-11-24T09:01:29.113214+00:00"
   }
 }
