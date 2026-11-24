@@ -102085,7 +102085,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-828",
     "fecha_primera_recepcion": "2026-11-24T10:31:27.654600+00:00",
-    "fecha_ultima_observacion": "2026-11-24T11:26:23.801306+00:00"
+    "fecha_ultima_observacion": "2026-11-24T11:31:23.819646+00:00"
   },
   "EMSC:20261124_0000127": {
     "id": "20261124_0000127",
@@ -102183,7 +102183,7 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000138",
     "fecha_primera_recepcion": "2026-11-24T11:26:23.801306+00:00",
-    "fecha_ultima_observacion": "2026-11-24T11:26:23.801306+00:00"
+    "fecha_ultima_observacion": "2026-11-24T11:31:23.819646+00:00"
   },
   "USGS:us6000ud6h": {
     "id": "us6000ud6h",
@@ -102198,5 +102198,19 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ud6h",
     "fecha_primera_recepcion": "2026-11-24T11:26:23.801306+00:00",
     "fecha_ultima_observacion": "2026-11-24T11:26:23.801306+00:00"
+  },
+  "USGS:tx2026xdcvpg": {
+    "id": "tx2026xdcvpg",
+    "fecha_hora_utc": "2026-11-24T11:15:07.642000+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 7.094,
+    "latitud": 29.116,
+    "longitud": -97.789,
+    "pais": "",
+    "ciudad_referencia": "16 km S of Nixon, Texas",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026xdcvpg",
+    "fecha_primera_recepcion": "2026-11-24T11:31:23.819646+00:00",
+    "fecha_ultima_observacion": "2026-11-24T11:31:23.819646+00:00"
   }
 }
