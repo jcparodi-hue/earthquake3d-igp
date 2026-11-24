@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-24T10:56:06.164069+00:00",
+  "actualizado_utc": "2026-11-24T11:01:16.382824+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 138,
   "actualizacion_minutos": 5,
   "igp": 138,
-  "emsc": 2155,
+  "emsc": 2156,
   "usgs": 489,
   "duplicados_eliminados": 460,
-  "eventos_publicados": 2322,
-  "evento_mas_reciente_utc": "2026-11-24T10:29:48.548020+00:00",
+  "eventos_publicados": 2323,
+  "evento_mas_reciente_utc": "2026-11-24T10:52:36+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 38,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-24T05:05:03+00:00",
-      "antiguedad_evento_mas_reciente_min": 351.1
+      "antiguedad_evento_mas_reciente_min": 356.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2155,
-      "eventos_recibidos": 2156,
+      "eventos_validos": 2156,
+      "eventos_recibidos": 2157,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-11-24T10:29:48.548020+00:00",
-      "antiguedad_evento_mas_reciente_min": 26.3
+      "evento_mas_reciente_utc": "2026-11-24T10:52:36+00:00",
+      "antiguedad_evento_mas_reciente_min": 8.7
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 492,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-24T10:29:48.548000+00:00",
-      "antiguedad_evento_mas_reciente_min": 26.3
+      "antiguedad_evento_mas_reciente_min": 31.5
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-828"
     },
     "emsc": {
-      "id": "20261124_0000127",
-      "fecha_hora_utc": "2026-11-24T10:29:48.548020+00:00",
-      "magnitud": 3.1,
-      "profundidad_km": 9.8,
-      "latitud": 66.271,
-      "longitud": -148.871,
+      "id": "20261124_0000129",
+      "fecha_hora_utc": "2026-11-24T10:52:36+00:00",
+      "magnitud": 3.5,
+      "profundidad_km": 95.0,
+      "latitud": -2.96,
+      "longitud": 140.07,
       "pais": "",
-      "ciudad_referencia": "NORTHERN ALASKA",
+      "ciudad_referencia": "NEAR N COAST OF PAPUA, INDONESIA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000127"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000129"
     },
     "usgs": {
       "id": "aka2026xgudxu",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-24T10:56:06.164069+00:00"
+    "hora_consulta_utc": "2026-11-24T11:01:16.382824+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-24T10:56:06.164069+00:00",
-  "combined_after_dedup": 2322
+  "updated_utc": "2026-11-24T11:01:16.382824+00:00",
+  "combined_after_dedup": 2323
 }
