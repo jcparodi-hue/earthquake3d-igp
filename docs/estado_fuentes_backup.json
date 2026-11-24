@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-24T07:26:21.007867+00:00",
+  "actualizado_utc": "2026-11-24T07:31:13.488198+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 136,
   "actualizacion_minutos": 5,
@@ -9,7 +9,7 @@
   "usgs": 489,
   "duplicados_eliminados": 460,
   "eventos_publicados": 2333,
-  "evento_mas_reciente_utc": "2026-11-24T07:20:39+00:00",
+  "evento_mas_reciente_utc": "2026-11-24T07:23:43+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 37,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-23T17:07:22+00:00",
-      "antiguedad_evento_mas_reciente_min": 859.0
+      "antiguedad_evento_mas_reciente_min": 863.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,8 +26,8 @@
       "eventos_validos": 2168,
       "eventos_recibidos": 2169,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-11-24T07:20:39+00:00",
-      "antiguedad_evento_mas_reciente_min": 5.7
+      "evento_mas_reciente_utc": "2026-11-24T07:23:43+00:00",
+      "antiguedad_evento_mas_reciente_min": 7.5
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 492,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-24T06:24:08.084000+00:00",
-      "antiguedad_evento_mas_reciente_min": 62.2
+      "antiguedad_evento_mas_reciente_min": 67.1
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-826"
     },
     "emsc": {
-      "id": "20261124_0000082",
-      "fecha_hora_utc": "2026-11-24T07:20:39+00:00",
+      "id": "20261124_0000084",
+      "fecha_hora_utc": "2026-11-24T07:23:43+00:00",
       "magnitud": 2.6,
-      "profundidad_km": 125.4,
-      "latitud": -21.82,
-      "longitud": -68.59,
+      "profundidad_km": 113.0,
+      "latitud": -29.66,
+      "longitud": -69.47,
       "pais": "",
-      "ciudad_referencia": "ANTOFAGASTA, CHILE",
+      "ciudad_referencia": "SAN JUAN, ARGENTINA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000082"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000084"
     },
     "usgs": {
       "id": "tx2026xctesx",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-24T07:26:21.007867+00:00"
+    "hora_consulta_utc": "2026-11-24T07:31:13.488198+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-24T07:26:21.007867+00:00",
+  "updated_utc": "2026-11-24T07:31:13.488198+00:00",
   "combined_after_dedup": 2333
 }
