@@ -101217,7 +101217,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-826",
     "fecha_primera_recepcion": "2026-11-24T00:46:07.286790+00:00",
-    "fecha_ultima_observacion": "2026-11-24T06:00:59.288122+00:00"
+    "fecha_ultima_observacion": "2026-11-24T06:06:20.059432+00:00"
   },
   "EMSC:20261124_0000008": {
     "id": "20261124_0000008",
@@ -101680,5 +101680,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000067",
     "fecha_primera_recepcion": "2026-11-24T05:55:51.068659+00:00",
     "fecha_ultima_observacion": "2026-11-24T06:00:59.288122+00:00"
+  },
+  "EMSC:20261124_0000069": {
+    "id": "20261124_0000069",
+    "fecha_hora_utc": "2026-11-24T05:57:49+00:00",
+    "magnitud": 3.6,
+    "profundidad_km": 128.5,
+    "latitud": -30.59,
+    "longitud": -69.5,
+    "pais": "",
+    "ciudad_referencia": "SAN JUAN, ARGENTINA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000069",
+    "fecha_primera_recepcion": "2026-11-24T06:06:20.059432+00:00",
+    "fecha_ultima_observacion": "2026-11-24T06:06:20.059432+00:00"
+  },
+  "USGS:pr71539868": {
+    "id": "pr71539868",
+    "fecha_hora_utc": "2026-11-24T05:45:58.390000+00:00",
+    "magnitud": 2.57,
+    "profundidad_km": 9.01,
+    "latitud": 17.921,
+    "longitud": -66.9098333333333,
+    "pais": "",
+    "ciudad_referencia": "5 km S of Guánica, Puerto Rico",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71539868",
+    "fecha_primera_recepcion": "2026-11-24T06:06:20.059432+00:00",
+    "fecha_ultima_observacion": "2026-11-24T06:06:20.059432+00:00"
   }
 }

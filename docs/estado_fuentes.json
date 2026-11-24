@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-24T06:00:59.288122+00:00",
+  "actualizado_utc": "2026-11-24T06:06:20.059432+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 136,
   "actualizacion_minutos": 5,
   "igp": 136,
-  "emsc": 2175,
-  "usgs": 493,
-  "duplicados_eliminados": 467,
-  "eventos_publicados": 2337,
-  "evento_mas_reciente_utc": "2026-11-24T05:47:48+00:00",
+  "emsc": 2177,
+  "usgs": 495,
+  "duplicados_eliminados": 468,
+  "eventos_publicados": 2340,
+  "evento_mas_reciente_utc": "2026-11-24T05:57:49+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 37,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-23T17:07:22+00:00",
-      "antiguedad_evento_mas_reciente_min": 773.6
+      "antiguedad_evento_mas_reciente_min": 779.0
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2175,
-      "eventos_recibidos": 2176,
+      "eventos_validos": 2177,
+      "eventos_recibidos": 2178,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-11-24T05:47:48+00:00",
-      "antiguedad_evento_mas_reciente_min": 13.2
+      "evento_mas_reciente_utc": "2026-11-24T05:57:49+00:00",
+      "antiguedad_evento_mas_reciente_min": 8.5
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 493,
-      "eventos_recibidos": 496,
+      "eventos_validos": 495,
+      "eventos_recibidos": 498,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-24T04:57:59.924000+00:00",
-      "antiguedad_evento_mas_reciente_min": 63.0
+      "evento_mas_reciente_utc": "2026-11-24T05:45:58.390000+00:00",
+      "antiguedad_evento_mas_reciente_min": 20.4
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-826"
     },
     "emsc": {
-      "id": "20261124_0000067",
-      "fecha_hora_utc": "2026-11-24T05:47:48+00:00",
-      "magnitud": 2.6,
-      "profundidad_km": 20.7,
-      "latitud": -22.61,
-      "longitud": -70.32,
+      "id": "20261124_0000069",
+      "fecha_hora_utc": "2026-11-24T05:57:49+00:00",
+      "magnitud": 3.6,
+      "profundidad_km": 128.5,
+      "latitud": -30.59,
+      "longitud": -69.5,
       "pais": "",
-      "ciudad_referencia": "OFFSHORE ANTOFAGASTA, CHILE",
+      "ciudad_referencia": "SAN JUAN, ARGENTINA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000067"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000069"
     },
     "usgs": {
-      "id": "aka2026xgjcfp",
-      "fecha_hora_utc": "2026-11-24T04:57:59.924000+00:00",
-      "magnitud": 2.5,
-      "profundidad_km": 0.3,
-      "latitud": 61.475,
-      "longitud": -151.759,
+      "id": "pr71539868",
+      "fecha_hora_utc": "2026-11-24T05:45:58.390000+00:00",
+      "magnitud": 2.57,
+      "profundidad_km": 9.01,
+      "latitud": 17.921,
+      "longitud": -66.9098333333333,
       "pais": "",
-      "ciudad_referencia": "51 km NW of Beluga, Alaska",
+      "ciudad_referencia": "5 km S of Guánica, Puerto Rico",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xgjcfp"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71539868"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-24T06:00:59.288122+00:00"
+    "hora_consulta_utc": "2026-11-24T06:06:20.059432+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-24T06:00:59.288122+00:00",
-  "combined_after_dedup": 2337
+  "updated_utc": "2026-11-24T06:06:20.059432+00:00",
+  "combined_after_dedup": 2340
 }
