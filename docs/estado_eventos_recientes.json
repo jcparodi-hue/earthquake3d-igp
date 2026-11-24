@@ -101217,7 +101217,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-826",
     "fecha_primera_recepcion": "2026-11-24T00:46:07.286790+00:00",
-    "fecha_ultima_observacion": "2026-11-24T04:51:23.015564+00:00"
+    "fecha_ultima_observacion": "2026-11-24T04:56:21.171141+00:00"
   },
   "EMSC:20261124_0000008": {
     "id": "20261124_0000008",
@@ -101596,5 +101596,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000055",
     "fecha_primera_recepcion": "2026-11-24T04:46:08.896065+00:00",
     "fecha_ultima_observacion": "2026-11-24T04:51:23.015564+00:00"
+  },
+  "EMSC:20261124_0000058": {
+    "id": "20261124_0000058",
+    "fecha_hora_utc": "2026-11-24T04:51:40.750000+00:00",
+    "magnitud": 3.4,
+    "profundidad_km": 22.2,
+    "latitud": 40.3787,
+    "longitud": -124.9568,
+    "pais": "",
+    "ciudad_referencia": "OFFSHORE NORTHERN CALIFORNIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000058",
+    "fecha_primera_recepcion": "2026-11-24T04:56:21.171141+00:00",
+    "fecha_ultima_observacion": "2026-11-24T04:56:21.171141+00:00"
+  },
+  "USGS:aka2026xgiywm": {
+    "id": "aka2026xgiywm",
+    "fecha_hora_utc": "2026-11-24T04:54:14.353000+00:00",
+    "magnitud": 2.8,
+    "profundidad_km": 29.4,
+    "latitud": 58.949,
+    "longitud": -151.38,
+    "pais": "",
+    "ciudad_referencia": "51 km SSE of Port Graham, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xgiywm",
+    "fecha_primera_recepcion": "2026-11-24T04:56:21.171141+00:00",
+    "fecha_ultima_observacion": "2026-11-24T04:56:21.171141+00:00"
   }
 }
