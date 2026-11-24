@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-24T11:01:16.382824+00:00",
+  "actualizado_utc": "2026-11-24T11:05:53.789911+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 138,
   "actualizacion_minutos": 5,
   "igp": 138,
-  "emsc": 2156,
-  "usgs": 489,
-  "duplicados_eliminados": 460,
-  "eventos_publicados": 2323,
-  "evento_mas_reciente_utc": "2026-11-24T10:52:36+00:00",
+  "emsc": 2154,
+  "usgs": 487,
+  "duplicados_eliminados": 458,
+  "eventos_publicados": 2321,
+  "evento_mas_reciente_utc": "2026-11-24T10:57:43+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 38,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-24T05:05:03+00:00",
-      "antiguedad_evento_mas_reciente_min": 356.2
+      "antiguedad_evento_mas_reciente_min": 360.8
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2156,
-      "eventos_recibidos": 2157,
+      "eventos_validos": 2154,
+      "eventos_recibidos": 2155,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-11-24T10:52:36+00:00",
-      "antiguedad_evento_mas_reciente_min": 8.7
+      "evento_mas_reciente_utc": "2026-11-24T10:57:43+00:00",
+      "antiguedad_evento_mas_reciente_min": 8.2
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 489,
-      "eventos_recibidos": 492,
+      "eventos_validos": 487,
+      "eventos_recibidos": 490,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-24T10:29:48.548000+00:00",
-      "antiguedad_evento_mas_reciente_min": 31.5
+      "antiguedad_evento_mas_reciente_min": 36.1
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-828"
     },
     "emsc": {
-      "id": "20261124_0000129",
-      "fecha_hora_utc": "2026-11-24T10:52:36+00:00",
-      "magnitud": 3.5,
-      "profundidad_km": 95.0,
-      "latitud": -2.96,
-      "longitud": 140.07,
+      "id": "20261124_0000131",
+      "fecha_hora_utc": "2026-11-24T10:57:43+00:00",
+      "magnitud": 3.2,
+      "profundidad_km": 16.3,
+      "latitud": -33.14,
+      "longitud": -72.07,
       "pais": "",
-      "ciudad_referencia": "NEAR N COAST OF PAPUA, INDONESIA",
+      "ciudad_referencia": "OFFSHORE VALPARAISO, CHILE",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000129"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000131"
     },
     "usgs": {
       "id": "aka2026xgudxu",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-24T11:01:16.382824+00:00"
+    "hora_consulta_utc": "2026-11-24T11:05:53.789911+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-24T11:01:16.382824+00:00",
-  "combined_after_dedup": 2323
+  "updated_utc": "2026-11-24T11:05:53.789911+00:00",
+  "combined_after_dedup": 2321
 }
