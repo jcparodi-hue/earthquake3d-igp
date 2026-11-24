@@ -101217,7 +101217,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-826",
     "fecha_primera_recepcion": "2026-11-24T00:46:07.286790+00:00",
-    "fecha_ultima_observacion": "2026-11-24T09:46:23.506025+00:00"
+    "fecha_ultima_observacion": "2026-11-24T09:51:08.123359+00:00"
   },
   "EMSC:20261124_0000008": {
     "id": "20261124_0000008",
@@ -102015,7 +102015,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026xcyrjw",
     "fecha_primera_recepcion": "2026-11-24T09:26:09.443845+00:00",
-    "fecha_ultima_observacion": "2026-11-24T09:46:23.506025+00:00"
+    "fecha_ultima_observacion": "2026-11-24T09:51:08.123359+00:00"
   },
   "EMSC:20261124_0000115": {
     "id": "20261124_0000115",
@@ -102044,5 +102044,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000116",
     "fecha_primera_recepcion": "2026-11-24T09:46:23.506025+00:00",
     "fecha_ultima_observacion": "2026-11-24T09:46:23.506025+00:00"
+  },
+  "EMSC:20261124_0000118": {
+    "id": "20261124_0000118",
+    "fecha_hora_utc": "2026-11-24T09:46:34+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 3.0,
+    "latitud": 12.293,
+    "longitud": -88.973,
+    "pais": "",
+    "ciudad_referencia": "OFF THE COAST OF EL SALVADOR",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000118",
+    "fecha_primera_recepcion": "2026-11-24T09:51:08.123359+00:00",
+    "fecha_ultima_observacion": "2026-11-24T09:51:08.123359+00:00"
   }
 }
