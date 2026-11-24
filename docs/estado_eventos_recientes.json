@@ -102995,7 +102995,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-829",
     "fecha_primera_recepcion": "2026-11-24T20:45:53.078642+00:00",
-    "fecha_ultima_observacion": "2026-11-24T23:36:20.950743+00:00"
+    "fecha_ultima_observacion": "2026-11-24T23:41:10.933430+00:00"
   },
   "EMSC:20261124_0000318": {
     "id": "20261124_0000318",
@@ -103247,6 +103247,20 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xhqkeq",
     "fecha_primera_recepcion": "2026-11-24T23:30:56.986383+00:00",
-    "fecha_ultima_observacion": "2026-11-24T23:36:20.950743+00:00"
+    "fecha_ultima_observacion": "2026-11-24T23:41:10.933430+00:00"
+  },
+  "EMSC:20261124_0000371": {
+    "id": "20261124_0000371",
+    "fecha_hora_utc": "2026-11-24T23:29:55.670000+00:00",
+    "magnitud": 5.1,
+    "profundidad_km": 35.0,
+    "latitud": 10.882,
+    "longitud": 122.4485,
+    "pais": "",
+    "ciudad_referencia": "PANAY, PHILIPPINES",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000371",
+    "fecha_primera_recepcion": "2026-11-24T23:41:10.933430+00:00",
+    "fecha_ultima_observacion": "2026-11-24T23:41:10.933430+00:00"
   }
 }
