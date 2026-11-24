@@ -102995,7 +102995,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-829",
     "fecha_primera_recepcion": "2026-11-24T20:45:53.078642+00:00",
-    "fecha_ultima_observacion": "2026-11-24T21:51:20.223964+00:00"
+    "fecha_ultima_observacion": "2026-11-24T21:56:09.510887+00:00"
   },
   "EMSC:20261124_0000318": {
     "id": "20261124_0000318",
@@ -103135,7 +103135,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xhqjlg",
     "fecha_primera_recepcion": "2026-11-24T21:41:34.544491+00:00",
-    "fecha_ultima_observacion": "2026-11-24T21:51:20.223964+00:00"
+    "fecha_ultima_observacion": "2026-11-24T21:56:09.510887+00:00"
   },
   "EMSC:20261124_0000343": {
     "id": "20261124_0000343",
@@ -103150,5 +103150,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000343",
     "fecha_primera_recepcion": "2026-11-24T21:51:20.223964+00:00",
     "fecha_ultima_observacion": "2026-11-24T21:51:20.223964+00:00"
+  },
+  "EMSC:20261124_0000345": {
+    "id": "20261124_0000345",
+    "fecha_hora_utc": "2026-11-24T21:46:30+00:00",
+    "magnitud": 3.8,
+    "profundidad_km": 10.0,
+    "latitud": 37.4,
+    "longitud": 139.5,
+    "pais": "",
+    "ciudad_referencia": "EASTERN HONSHU, JAPAN",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000345",
+    "fecha_primera_recepcion": "2026-11-24T21:56:09.510887+00:00",
+    "fecha_ultima_observacion": "2026-11-24T21:56:09.510887+00:00"
   }
 }
