@@ -1,14 +1,14 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-24T02:51:23.159476+00:00",
+  "actualizado_utc": "2026-11-24T02:56:05.417864+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 136,
   "actualizacion_minutos": 5,
   "igp": 136,
-  "emsc": 2182,
+  "emsc": 2180,
   "usgs": 488,
   "duplicados_eliminados": 466,
-  "eventos_publicados": 2340,
+  "eventos_publicados": 2338,
   "evento_mas_reciente_utc": "2026-11-24T02:48:26.199000+00:00",
   "salud_fuentes": {
     "igp": {
@@ -18,16 +18,16 @@
       "eventos_recibidos": 37,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-23T17:07:22+00:00",
-      "antiguedad_evento_mas_reciente_min": 584.0
+      "antiguedad_evento_mas_reciente_min": 588.7
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2182,
-      "eventos_recibidos": 2183,
+      "eventos_validos": 2180,
+      "eventos_recibidos": 2181,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-11-24T02:37:01.370000+00:00",
-      "antiguedad_evento_mas_reciente_min": 14.4
+      "evento_mas_reciente_utc": "2026-11-24T02:37:00.244000+00:00",
+      "antiguedad_evento_mas_reciente_min": 19.1
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 491,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-24T02:48:26.199000+00:00",
-      "antiguedad_evento_mas_reciente_min": 2.9
+      "antiguedad_evento_mas_reciente_min": 7.7
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261124_0000032",
-      "fecha_hora_utc": "2026-11-24T02:37:01.370000+00:00",
-      "magnitud": 3.2,
-      "profundidad_km": 29.7,
-      "latitud": 19.2045,
-      "longitud": -155.5012,
+      "fecha_hora_utc": "2026-11-24T02:37:00.244000+00:00",
+      "magnitud": 3.4,
+      "profundidad_km": 32.7,
+      "latitud": 19.2291,
+      "longitud": -155.5087,
       "pais": "",
       "ciudad_referencia": "ISLAND OF HAWAII, HAWAII",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-24T02:51:23.159476+00:00"
+    "hora_consulta_utc": "2026-11-24T02:56:05.417864+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-24T02:51:23.159476+00:00",
-  "combined_after_dedup": 2340
+  "updated_utc": "2026-11-24T02:56:05.417864+00:00",
+  "combined_after_dedup": 2338
 }
