@@ -102911,7 +102911,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xhmdpp",
     "fecha_primera_recepcion": "2026-11-24T19:31:29.580930+00:00",
-    "fecha_ultima_observacion": "2026-11-24T20:41:24.421775+00:00"
+    "fecha_ultima_observacion": "2026-11-24T20:45:53.078642+00:00"
   },
   "EMSC:20261124_0000291": {
     "id": "20261124_0000291",
@@ -102982,5 +102982,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000316",
     "fecha_primera_recepcion": "2026-11-24T20:41:24.421775+00:00",
     "fecha_ultima_observacion": "2026-11-24T20:41:24.421775+00:00"
+  },
+  "IGP:2026-829": {
+    "id": "2026-829",
+    "fecha_hora_utc": "2026-11-24T12:58:57+00:00",
+    "magnitud": 3.3,
+    "profundidad_km": 58.0,
+    "latitud": -12.65,
+    "longitud": -76.75,
+    "pais": "Perú",
+    "ciudad_referencia": "13 km al O de Mala, Cañete - Lima",
+    "fuente": "IGP",
+    "url": "https://ultimosismo.igp.gob.pe/evento/2026-829",
+    "fecha_primera_recepcion": "2026-11-24T20:45:53.078642+00:00",
+    "fecha_ultima_observacion": "2026-11-24T20:45:53.078642+00:00"
+  },
+  "EMSC:20261124_0000318": {
+    "id": "20261124_0000318",
+    "fecha_hora_utc": "2026-11-24T20:32:30+00:00",
+    "magnitud": 3.2,
+    "profundidad_km": 10.0,
+    "latitud": 37.5,
+    "longitud": 139.7,
+    "pais": "",
+    "ciudad_referencia": "EASTERN HONSHU, JAPAN",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000318",
+    "fecha_primera_recepcion": "2026-11-24T20:45:53.078642+00:00",
+    "fecha_ultima_observacion": "2026-11-24T20:45:53.078642+00:00"
   }
 }
