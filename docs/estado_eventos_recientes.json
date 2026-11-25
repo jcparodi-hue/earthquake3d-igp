@@ -102995,7 +102995,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-829",
     "fecha_primera_recepcion": "2026-11-24T20:45:53.078642+00:00",
-    "fecha_ultima_observacion": "2026-11-25T02:01:28.399067+00:00"
+    "fecha_ultima_observacion": "2026-11-25T02:06:18.844452+00:00"
   },
   "EMSC:20261124_0000318": {
     "id": "20261124_0000318",
@@ -103485,6 +103485,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261125_0000024",
     "fecha_primera_recepcion": "2026-11-25T01:59:31.460480+00:00",
-    "fecha_ultima_observacion": "2026-11-25T02:01:28.399067+00:00"
+    "fecha_ultima_observacion": "2026-11-25T02:06:18.844452+00:00"
+  },
+  "USGS:aka2026xhzecn": {
+    "id": "aka2026xhzecn",
+    "fecha_hora_utc": "2026-11-25T01:59:37.365000+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 116.7,
+    "latitud": 61.079,
+    "longitud": -152.277,
+    "pais": "",
+    "ciudad_referencia": "61 km W of Tyonek, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xhzecn",
+    "fecha_primera_recepcion": "2026-11-25T02:06:18.844452+00:00",
+    "fecha_ultima_observacion": "2026-11-25T02:06:18.844452+00:00"
   }
 }
