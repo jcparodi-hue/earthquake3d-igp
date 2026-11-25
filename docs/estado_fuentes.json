@@ -1,13 +1,13 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-25T20:01:21.617194+00:00",
+  "actualizado_utc": "2026-11-25T20:06:26.947162+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 142,
   "actualizacion_minutos": 5,
   "igp": 142,
   "emsc": 2212,
-  "usgs": 490,
-  "duplicados_eliminados": 461,
+  "usgs": 491,
+  "duplicados_eliminados": 462,
   "eventos_publicados": 2383,
   "evento_mas_reciente_utc": "2026-11-25T19:38:50+00:00",
   "salud_fuentes": {
@@ -18,7 +18,7 @@
       "eventos_recibidos": 37,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-25T09:07:32+00:00",
-      "antiguedad_evento_mas_reciente_min": 653.8
+      "antiguedad_evento_mas_reciente_min": 658.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -27,16 +27,16 @@
       "eventos_recibidos": 2214,
       "invalidos_rechazados": 2,
       "evento_mas_reciente_utc": "2026-11-25T19:38:50+00:00",
-      "antiguedad_evento_mas_reciente_min": 22.5
+      "antiguedad_evento_mas_reciente_min": 27.6
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 490,
-      "eventos_recibidos": 493,
+      "eventos_validos": 491,
+      "eventos_recibidos": 494,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-25T18:26:34.550000+00:00",
-      "antiguedad_evento_mas_reciente_min": 94.8
+      "evento_mas_reciente_utc": "2026-11-25T18:59:29.141000+00:00",
+      "antiguedad_evento_mas_reciente_min": 67.0
     }
   },
   "ultimo_evento": {
@@ -65,24 +65,24 @@
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261125_0000335"
     },
     "usgs": {
-      "id": "pr71540018",
-      "fecha_hora_utc": "2026-11-25T18:26:34.550000+00:00",
-      "magnitud": 2.87,
-      "profundidad_km": 24.57,
-      "latitud": 18.7731666666667,
-      "longitud": -65.0725,
+      "id": "us6000udht",
+      "fecha_hora_utc": "2026-11-25T18:59:29.141000+00:00",
+      "magnitud": 4.7,
+      "profundidad_km": 51.54,
+      "latitud": -17.6508,
+      "longitud": 168.224,
       "pais": "",
-      "ciudad_referencia": "50 km NNW of Charlotte Amalie, U.S. Virgin Islands",
+      "ciudad_referencia": "13 km NW of Port-Vila, Vanuatu",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71540018"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udht"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-25T20:01:21.617194+00:00"
+    "hora_consulta_utc": "2026-11-25T20:06:26.947162+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-25T20:01:21.617194+00:00",
+  "updated_utc": "2026-11-25T20:06:26.947162+00:00",
   "combined_after_dedup": 2383
 }
