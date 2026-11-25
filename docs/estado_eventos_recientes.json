@@ -103653,7 +103653,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-831",
     "fecha_primera_recepcion": "2026-11-25T03:51:09.333631+00:00",
-    "fecha_ultima_observacion": "2026-11-25T05:06:23.369584+00:00"
+    "fecha_ultima_observacion": "2026-11-25T05:11:27.683420+00:00"
   },
   "EMSC:20261125_0000055": {
     "id": "20261125_0000055",
@@ -103752,5 +103752,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261125_0000070",
     "fecha_primera_recepcion": "2026-11-25T04:56:25.679937+00:00",
     "fecha_ultima_observacion": "2026-11-25T05:06:23.369584+00:00"
+  },
+  "EMSC:20261125_0000076": {
+    "id": "20261125_0000076",
+    "fecha_hora_utc": "2026-11-25T05:02:22.500000+00:00",
+    "magnitud": 2.6,
+    "profundidad_km": 1.6,
+    "latitud": 39.4312,
+    "longitud": 25.8983,
+    "pais": "",
+    "ciudad_referencia": "AEGEAN SEA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261125_0000076",
+    "fecha_primera_recepcion": "2026-11-25T05:11:27.683420+00:00",
+    "fecha_ultima_observacion": "2026-11-25T05:11:27.683420+00:00"
+  },
+  "USGS:us6000uddj": {
+    "id": "us6000uddj",
+    "fecha_hora_utc": "2026-11-25T04:30:32.480000+00:00",
+    "magnitud": 4.7,
+    "profundidad_km": 10.0,
+    "latitud": -6.3544,
+    "longitud": 151.5376,
+    "pais": "",
+    "ciudad_referencia": "178 km ESE of Kimbe, Papua New Guinea",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uddj",
+    "fecha_primera_recepcion": "2026-11-25T05:11:27.683420+00:00",
+    "fecha_ultima_observacion": "2026-11-25T05:11:27.683420+00:00"
   }
 }
