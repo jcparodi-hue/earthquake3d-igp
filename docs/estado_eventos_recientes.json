@@ -103653,7 +103653,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-831",
     "fecha_primera_recepcion": "2026-11-25T03:51:09.333631+00:00",
-    "fecha_ultima_observacion": "2026-11-25T09:01:31.257381+00:00"
+    "fecha_ultima_observacion": "2026-11-25T09:06:10.284194+00:00"
   },
   "EMSC:20261125_0000055": {
     "id": "20261125_0000055",
@@ -104087,6 +104087,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261125_0000137",
     "fecha_primera_recepcion": "2026-11-25T09:01:31.257381+00:00",
-    "fecha_ultima_observacion": "2026-11-25T09:01:31.257381+00:00"
+    "fecha_ultima_observacion": "2026-11-25T09:06:10.284194+00:00"
+  },
+  "USGS:us6000udef": {
+    "id": "us6000udef",
+    "fecha_hora_utc": "2026-11-25T08:47:16.394000+00:00",
+    "magnitud": 5.3,
+    "profundidad_km": 10.0,
+    "latitud": 21.8162,
+    "longitud": 121.5241,
+    "pais": "",
+    "ciudad_referencia": "83 km ESE of Hengchun, Taiwan",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udef",
+    "fecha_primera_recepcion": "2026-11-25T09:06:10.284194+00:00",
+    "fecha_ultima_observacion": "2026-11-25T09:06:10.284194+00:00"
   }
 }
