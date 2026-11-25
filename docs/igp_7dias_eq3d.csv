@@ -1,4 +1,5 @@
 YEAR, MON, DAY, HOUR, MIN, DEP, MAG, LAT, LONG, URL   // IGP history + EMSC-RTS + USGS, global rolling 10 days
+2026,11,25,07,43,99.0,3.5,-31.050000,-70.020000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261125_0000117
 2026,11,25,07,24,10.0,4.1,-2.510000,126.140000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261125_0000112
 2026,11,25,07,23,25.0,2.6,12.583000,-88.000000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261125_0000110
 2026,11,25,07,20,94.0,2.6,-31.290000,-68.770000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261125_0000108
@@ -7,7 +8,7 @@ YEAR, MON, DAY, HOUR, MIN, DEP, MAG, LAT, LONG, URL   // IGP history + EMSC-RTS 
 2026,11,25,06,58,27.0,2.7,34.690000,25.540000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261125_0000103
 2026,11,25,06,55,10.0,3.0,-2.320000,140.300000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261125_0000100
 2026,11,25,06,41,0.0,4.0,36.132100,5.583000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261125_0000105
-2026,11,25,06,34,25.3,5.2,-36.019100,178.368800,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261125_0000099
+2026,11,25,06,34,35.0,5.2,-35.860700,178.434900,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261125_0000099
 2026,11,25,06,30,13.8,2.7,37.871200,21.035600,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261125_0000097
 2026,11,25,06,16,33.0,3.4,-35.528100,178.416600,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261125_0000095
 2026,11,25,06,05,33.0,4.4,-35.362700,178.876200,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261125_0000091
@@ -50,10 +51,10 @@ YEAR, MON, DAY, HOUR, MIN, DEP, MAG, LAT, LONG, URL   // IGP history + EMSC-RTS 
 2026,11,25,01,59,116.2,2.6,61.080000,-152.289000,10,https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xhzecn
 2026,11,25,01,51,10.0,3.6,7.635200,-80.796900,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261125_0000024
 2026,11,25,01,44,11.0,2.7,39.214000,27.983000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261125_0000023
-2026,11,25,01,38,10.0,5.9,-63.091800,170.937100,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261125_0000022
+2026,11,25,01,38,3.6,5.9,-63.140900,170.968600,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261125_0000022
 2026,11,25,01,24,120.7,2.7,-21.350000,-68.760000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261125_0000020
 2026,11,25,01,20,22.0,2.8,53.507000,-164.971000,10,https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xhxvxj
-2026,11,25,01,19,10.0,3.9,43.720000,85.830000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261125_0000019
+2026,11,25,01,19,10.0,4.3,43.777800,86.024800,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261125_0000019
 2026,11,25,01,14,101.5,2.8,-20.630000,-68.940000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261125_0000018
 2026,11,25,01,08,106.7,2.9,-27.990000,-69.170000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261125_0000017
 2026,11,25,01,00,45.0,3.0,24.551000,93.324000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261125_0000029
@@ -64,7 +65,7 @@ YEAR, MON, DAY, HOUR, MIN, DEP, MAG, LAT, LONG, URL   // IGP history + EMSC-RTS 
 2026,11,25,00,00,132.0,2.8,-21.310000,-68.430000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261125_0000001
 2026,11,24,23,52,13.0,4.0,-9.590000,-75.890000,10,https://ultimosismo.igp.gob.pe/evento/2026-831
 2026,11,24,23,52,5.0,3.5,49.964000,-178.238000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000397
-2026,11,24,23,29,35.8,4.7,10.903900,122.479600,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000371
+2026,11,24,23,29,35.0,4.7,10.907800,122.479500,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000371
 2026,11,24,23,14,98.8,2.8,-29.260000,-69.610000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000373
 2026,11,24,22,58,124.7,2.5,63.342000,-150.400000,10,https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xhtdas
 2026,11,24,22,52,14.7,2.8,38.112500,20.448300,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000363
@@ -90,7 +91,7 @@ YEAR, MON, DAY, HOUR, MIN, DEP, MAG, LAT, LONG, URL   // IGP history + EMSC-RTS 
 2026,11,24,21,25,16.1,2.7,57.090600,-152.225500,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000395
 2026,11,24,21,12,20.4,3.3,-40.237300,176.940100,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000329
 2026,11,24,21,12,23.4,4.1,15.506000,-94.857000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000338
-2026,11,24,21,11,10.0,5.0,-5.600200,153.684300,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000335
+2026,11,24,21,11,5.4,5.0,-5.665800,153.549400,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000335
 2026,11,24,21,09,10.0,3.4,-8.170000,120.510000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000333
 2026,11,24,21,07,209.4,2.9,-24.100000,-67.500000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000331
 2026,11,24,20,48,5.8,2.8,29.093000,-97.774000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000327
@@ -104,7 +105,7 @@ YEAR, MON, DAY, HOUR, MIN, DEP, MAG, LAT, LONG, URL   // IGP history + EMSC-RTS 
 2026,11,24,20,32,10.0,3.2,37.500000,139.700000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000318
 2026,11,24,20,31,102.7,2.9,-20.760000,-69.160000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000316
 2026,11,24,20,29,41.2,3.8,14.873000,-93.111000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000388
-2026,11,24,20,27,47.4,4.6,-30.960100,-71.438200,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000314
+2026,11,24,20,27,46.1,4.6,-30.965200,-71.528800,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000314
 2026,11,24,20,27,13.0,2.7,35.927500,35.640600,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000313
 2026,11,24,20,24,91.2,3.3,-27.520000,-69.950000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000307
 2026,11,24,20,21,3.0,3.1,16.468000,-95.109000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000389
@@ -140,8 +141,8 @@ YEAR, MON, DAY, HOUR, MIN, DEP, MAG, LAT, LONG, URL   // IGP history + EMSC-RTS 
 2026,11,24,17,19,29.4,2.5,51.299000,-178.235000,10,https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xhhuwq
 2026,11,24,17,06,10.0,3.5,7.543600,-80.845200,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000248
 2026,11,24,17,01,10.0,4.4,8.510000,122.540000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000246
-2026,11,24,16,41,136.3,3.9,31.891100,130.863700,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000241
 2026,11,24,16,41,136.304,4.4,31.891100,130.863700,10,https://earthquake.usgs.gov/earthquakes/eventpage/us6000ud9h
+2026,11,24,16,40,130.0,4.4,31.446300,131.036400,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000241
 2026,11,24,16,37,44.6,4.2,61.320000,-150.154000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000236
 2026,11,24,16,26,27.2,2.5,19.777700,-155.385700,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000231
 2026,11,24,16,20,50.0,4.5,51.620000,159.670000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000243
