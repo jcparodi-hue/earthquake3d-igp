@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-25T15:11:27.166930+00:00",
+  "actualizado_utc": "2026-11-25T15:16:32.073640+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 142,
   "actualizacion_minutos": 5,
   "igp": 142,
-  "emsc": 2204,
+  "emsc": 2207,
   "usgs": 493,
   "duplicados_eliminados": 462,
-  "eventos_publicados": 2377,
-  "evento_mas_reciente_utc": "2026-11-25T15:01:58+00:00",
+  "eventos_publicados": 2380,
+  "evento_mas_reciente_utc": "2026-11-25T15:08:49+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 38,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-25T09:07:32+00:00",
-      "antiguedad_evento_mas_reciente_min": 363.9
+      "antiguedad_evento_mas_reciente_min": 369.0
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2204,
-      "eventos_recibidos": 2206,
+      "eventos_validos": 2207,
+      "eventos_recibidos": 2209,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-11-25T15:01:58+00:00",
-      "antiguedad_evento_mas_reciente_min": 9.5
+      "evento_mas_reciente_utc": "2026-11-25T15:08:49+00:00",
+      "antiguedad_evento_mas_reciente_min": 7.7
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 496,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-25T13:39:19.365000+00:00",
-      "antiguedad_evento_mas_reciente_min": 92.1
+      "antiguedad_evento_mas_reciente_min": 97.2
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-832"
     },
     "emsc": {
-      "id": "20261125_0000240",
-      "fecha_hora_utc": "2026-11-25T15:01:58+00:00",
-      "magnitud": 2.5,
-      "profundidad_km": 7.0,
-      "latitud": 37.1387,
-      "longitud": 27.8988,
+      "id": "20261125_0000243",
+      "fecha_hora_utc": "2026-11-25T15:08:49+00:00",
+      "magnitud": 3.5,
+      "profundidad_km": 15.0,
+      "latitud": -2.96,
+      "longitud": 128.6,
       "pais": "",
-      "ciudad_referencia": "WESTERN TURKEY",
+      "ciudad_referencia": "CERAM SEA, INDONESIA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261125_0000240"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261125_0000243"
     },
     "usgs": {
       "id": "tx2026xfdirs",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-25T15:11:27.166930+00:00"
+    "hora_consulta_utc": "2026-11-25T15:16:32.073640+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-25T15:11:27.166930+00:00",
-  "combined_after_dedup": 2377
+  "updated_utc": "2026-11-25T15:16:32.073640+00:00",
+  "combined_after_dedup": 2380
 }
