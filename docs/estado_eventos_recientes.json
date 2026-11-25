@@ -104479,7 +104479,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-832",
     "fecha_primera_recepcion": "2026-11-25T13:41:11.655862+00:00",
-    "fecha_ultima_observacion": "2026-11-25T22:06:01.504050+00:00"
+    "fecha_ultima_observacion": "2026-11-25T22:11:24.033767+00:00"
   },
   "EMSC:20261125_0000214": {
     "id": "20261125_0000214",
@@ -105194,5 +105194,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261125_0000368",
     "fecha_primera_recepcion": "2026-11-25T22:01:18.213656+00:00",
     "fecha_ultima_observacion": "2026-11-25T22:06:01.504050+00:00"
+  },
+  "EMSC:20261125_0000374": {
+    "id": "20261125_0000374",
+    "fecha_hora_utc": "2026-11-25T21:57:33.270000+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 9.9,
+    "latitud": 38.8478,
+    "longitud": 13.9968,
+    "pais": "",
+    "ciudad_referencia": "SICILY, ITALY",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261125_0000374",
+    "fecha_primera_recepcion": "2026-11-25T22:11:24.033767+00:00",
+    "fecha_ultima_observacion": "2026-11-25T22:11:24.033767+00:00"
+  },
+  "USGS:pr71540038": {
+    "id": "pr71540038",
+    "fecha_hora_utc": "2026-11-25T21:47:40.980000+00:00",
+    "magnitud": 3.12,
+    "profundidad_km": 9.76,
+    "latitud": 18.9428333333333,
+    "longitud": -66.8233333333333,
+    "pais": "",
+    "ciudad_referencia": "50 km N of Hatillo, Puerto Rico",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71540038",
+    "fecha_primera_recepcion": "2026-11-25T22:11:24.033767+00:00",
+    "fecha_ultima_observacion": "2026-11-25T22:11:24.033767+00:00"
   }
 }
