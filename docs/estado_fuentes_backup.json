@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-25T05:46:23.641521+00:00",
+  "actualizado_utc": "2026-11-25T05:51:20.775592+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 141,
   "actualizacion_minutos": 5,
   "igp": 141,
-  "emsc": 2205,
+  "emsc": 2208,
   "usgs": 494,
   "duplicados_eliminados": 456,
-  "eventos_publicados": 2384,
-  "evento_mas_reciente_utc": "2026-11-25T05:37:19+00:00",
+  "eventos_publicados": 2387,
+  "evento_mas_reciente_utc": "2026-11-25T05:43:32+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 39,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-24T23:52:24+00:00",
-      "antiguedad_evento_mas_reciente_min": 354.0
+      "antiguedad_evento_mas_reciente_min": 358.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2205,
-      "eventos_recibidos": 2207,
+      "eventos_validos": 2208,
+      "eventos_recibidos": 2210,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-11-25T05:37:19+00:00",
-      "antiguedad_evento_mas_reciente_min": 9.1
+      "evento_mas_reciente_utc": "2026-11-25T05:43:32+00:00",
+      "antiguedad_evento_mas_reciente_min": 7.8
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 497,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-25T04:30:32.480000+00:00",
-      "antiguedad_evento_mas_reciente_min": 75.9
+      "antiguedad_evento_mas_reciente_min": 80.8
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-831"
     },
     "emsc": {
-      "id": "20261125_0000083",
-      "fecha_hora_utc": "2026-11-25T05:37:19+00:00",
-      "magnitud": 3.8,
-      "profundidad_km": 48.0,
-      "latitud": 11.055,
-      "longitud": -62.009,
+      "id": "20261125_0000087",
+      "fecha_hora_utc": "2026-11-25T05:43:32+00:00",
+      "magnitud": 2.6,
+      "profundidad_km": 12.0,
+      "latitud": 12.122,
+      "longitud": -87.9,
       "pais": "",
-      "ciudad_referencia": "OFFSHORE SUCRE, VENEZUELA",
+      "ciudad_referencia": "NEAR COAST OF NICARAGUA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261125_0000083"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261125_0000087"
     },
     "usgs": {
       "id": "us6000uddj",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-25T05:46:23.641521+00:00"
+    "hora_consulta_utc": "2026-11-25T05:51:20.775592+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-25T05:46:23.641521+00:00",
-  "combined_after_dedup": 2384
+  "updated_utc": "2026-11-25T05:51:20.775592+00:00",
+  "combined_after_dedup": 2387
 }
