@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-25T07:00:58.355177+00:00",
+  "actualizado_utc": "2026-11-25T07:06:23.708707+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 141,
   "actualizacion_minutos": 5,
   "igp": 141,
-  "emsc": 2209,
+  "emsc": 2208,
   "usgs": 496,
   "duplicados_eliminados": 461,
-  "eventos_publicados": 2385,
-  "evento_mas_reciente_utc": "2026-11-25T06:34:06.860000+00:00",
+  "eventos_publicados": 2384,
+  "evento_mas_reciente_utc": "2026-11-25T06:34:08.672000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 39,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-24T23:52:24+00:00",
-      "antiguedad_evento_mas_reciente_min": 428.6
+      "antiguedad_evento_mas_reciente_min": 434.0
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2209,
-      "eventos_recibidos": 2211,
+      "eventos_validos": 2208,
+      "eventos_recibidos": 2210,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-11-25T06:34:06.860000+00:00",
-      "antiguedad_evento_mas_reciente_min": 26.9
+      "evento_mas_reciente_utc": "2026-11-25T06:34:08.672000+00:00",
+      "antiguedad_evento_mas_reciente_min": 32.3
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -35,8 +35,8 @@
       "eventos_validos": 496,
       "eventos_recibidos": 499,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-25T05:56:10.090000+00:00",
-      "antiguedad_evento_mas_reciente_min": 64.8
+      "evento_mas_reciente_utc": "2026-11-25T06:34:08.672000+00:00",
+      "antiguedad_evento_mas_reciente_min": 32.3
     }
   },
   "ultimo_evento": {
@@ -54,35 +54,35 @@
     },
     "emsc": {
       "id": "20261125_0000099",
-      "fecha_hora_utc": "2026-11-25T06:34:06.860000+00:00",
-      "magnitud": 5.4,
-      "profundidad_km": 35.0,
-      "latitud": -35.7796,
-      "longitud": 178.84,
+      "fecha_hora_utc": "2026-11-25T06:34:08.672000+00:00",
+      "magnitud": 5.2,
+      "profundidad_km": 25.3,
+      "latitud": -36.0191,
+      "longitud": 178.3688,
       "pais": "",
       "ciudad_referencia": "OFF E. COAST OF N. ISLAND, N.Z.",
       "fuente": "EMSC",
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261125_0000099"
     },
     "usgs": {
-      "id": "pr71539943",
-      "fecha_hora_utc": "2026-11-25T05:56:10.090000+00:00",
-      "magnitud": 3.12,
-      "profundidad_km": 26.02,
-      "latitud": 18.933,
-      "longitud": -66.1238333333333,
+      "id": "us6000ude3",
+      "fecha_hora_utc": "2026-11-25T06:34:08.672000+00:00",
+      "magnitud": 5.2,
+      "profundidad_km": 25.327,
+      "latitud": -36.0191,
+      "longitud": 178.3688,
       "pais": "",
-      "ciudad_referencia": "51 km N of San Juan, Puerto Rico",
+      "ciudad_referencia": "175 km N of Hicks Bay, New Zealand",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71539943"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ude3"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-25T07:00:58.355177+00:00"
+    "hora_consulta_utc": "2026-11-25T07:06:23.708707+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-25T07:00:58.355177+00:00",
-  "combined_after_dedup": 2385
+  "updated_utc": "2026-11-25T07:06:23.708707+00:00",
+  "combined_after_dedup": 2384
 }
