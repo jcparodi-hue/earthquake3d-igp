@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-25T23:21:28.866527+00:00",
+  "actualizado_utc": "2026-11-25T23:26:23.785980+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 143,
   "actualizacion_minutos": 5,
   "igp": 143,
   "emsc": 2219,
-  "usgs": 496,
-  "duplicados_eliminados": 461,
+  "usgs": 497,
+  "duplicados_eliminados": 462,
   "eventos_publicados": 2397,
-  "evento_mas_reciente_utc": "2026-11-25T22:52:30+00:00",
+  "evento_mas_reciente_utc": "2026-11-25T23:22:08.910000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 37,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-25T14:22:44+00:00",
-      "antiguedad_evento_mas_reciente_min": 538.7
+      "antiguedad_evento_mas_reciente_min": 543.7
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2219,
       "eventos_recibidos": 2221,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-11-25T22:52:30+00:00",
-      "antiguedad_evento_mas_reciente_min": 29.0
+      "evento_mas_reciente_utc": "2026-11-25T23:22:08.910000+00:00",
+      "antiguedad_evento_mas_reciente_min": 4.2
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 496,
-      "eventos_recibidos": 499,
+      "eventos_validos": 497,
+      "eventos_recibidos": 500,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-25T22:13:21.759000+00:00",
-      "antiguedad_evento_mas_reciente_min": 68.1
+      "evento_mas_reciente_utc": "2026-11-25T23:22:08.910000+00:00",
+      "antiguedad_evento_mas_reciente_min": 4.2
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-833"
     },
     "emsc": {
-      "id": "20261125_0000396",
-      "fecha_hora_utc": "2026-11-25T22:52:30+00:00",
-      "magnitud": 3.4,
-      "profundidad_km": 30.0,
-      "latitud": 33.8,
-      "longitud": 134.0,
+      "id": "20261125_0000406",
+      "fecha_hora_utc": "2026-11-25T23:22:08.910000+00:00",
+      "magnitud": 2.7,
+      "profundidad_km": 6.1,
+      "latitud": 36.5703,
+      "longitud": -121.2025,
       "pais": "",
-      "ciudad_referencia": "SHIKOKU, JAPAN",
+      "ciudad_referencia": "CENTRAL CALIFORNIA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261125_0000396"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261125_0000406"
     },
     "usgs": {
-      "id": "aka2026xjnqgt",
-      "fecha_hora_utc": "2026-11-25T22:13:21.759000+00:00",
-      "magnitud": 2.5,
-      "profundidad_km": 64.7,
-      "latitud": 59.318,
-      "longitud": -152.339,
+      "id": "nc75469326",
+      "fecha_hora_utc": "2026-11-25T23:22:08.910000+00:00",
+      "magnitud": 2.66,
+      "profundidad_km": 6.1399998664856,
+      "latitud": 36.5703315734863,
+      "longitud": -121.202499389648,
       "pais": "",
-      "ciudad_referencia": "24 km W of Nanwalek, Alaska",
+      "ciudad_referencia": "7 km NW of Pinnacles, CA",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xjnqgt"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75469326"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-25T23:21:28.866527+00:00"
+    "hora_consulta_utc": "2026-11-25T23:26:23.785980+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-25T23:21:28.866527+00:00",
+  "updated_utc": "2026-11-25T23:26:23.785980+00:00",
   "combined_after_dedup": 2397
 }
