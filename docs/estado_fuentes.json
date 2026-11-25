@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-25T01:16:23.603195+00:00",
+  "actualizado_utc": "2026-11-25T01:21:08.623697+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 139,
   "actualizacion_minutos": 5,
@@ -9,7 +9,7 @@
   "usgs": 496,
   "duplicados_eliminados": 462,
   "eventos_publicados": 2363,
-  "evento_mas_reciente_utc": "2026-11-25T01:08:32+00:00",
+  "evento_mas_reciente_utc": "2026-11-25T01:14:17+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 39,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-24T12:58:57+00:00",
-      "antiguedad_evento_mas_reciente_min": 737.4
+      "antiguedad_evento_mas_reciente_min": 742.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,8 +26,8 @@
       "eventos_validos": 2190,
       "eventos_recibidos": 2192,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-11-25T01:08:32+00:00",
-      "antiguedad_evento_mas_reciente_min": 7.9
+      "evento_mas_reciente_utc": "2026-11-25T01:14:17+00:00",
+      "antiguedad_evento_mas_reciente_min": 6.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 499,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-25T00:49:33.830000+00:00",
-      "antiguedad_evento_mas_reciente_min": 26.8
+      "antiguedad_evento_mas_reciente_min": 31.6
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-829"
     },
     "emsc": {
-      "id": "20261125_0000017",
-      "fecha_hora_utc": "2026-11-25T01:08:32+00:00",
-      "magnitud": 2.9,
-      "profundidad_km": 106.7,
-      "latitud": -27.99,
-      "longitud": -69.17,
+      "id": "20261125_0000018",
+      "fecha_hora_utc": "2026-11-25T01:14:17+00:00",
+      "magnitud": 2.8,
+      "profundidad_km": 101.5,
+      "latitud": -20.63,
+      "longitud": -68.94,
       "pais": "",
-      "ciudad_referencia": "LA RIOJA, ARGENTINA",
+      "ciudad_referencia": "TARAPACA, CHILE",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261125_0000017"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261125_0000018"
     },
     "usgs": {
       "id": "hv75076132",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-25T01:16:23.603195+00:00"
+    "hora_consulta_utc": "2026-11-25T01:21:08.623697+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-25T01:16:23.603195+00:00",
+  "updated_utc": "2026-11-25T01:21:08.623697+00:00",
   "combined_after_dedup": 2363
 }
