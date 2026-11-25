@@ -104479,7 +104479,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-832",
     "fecha_primera_recepcion": "2026-11-25T13:41:11.655862+00:00",
-    "fecha_ultima_observacion": "2026-11-25T15:56:08.040233+00:00"
+    "fecha_ultima_observacion": "2026-11-25T16:01:13.404678+00:00"
   },
   "EMSC:20261125_0000214": {
     "id": "20261125_0000214",
@@ -104521,7 +104521,7 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026xfdirs",
     "fecha_primera_recepcion": "2026-11-25T13:50:58.487147+00:00",
-    "fecha_ultima_observacion": "2026-11-25T15:56:08.040233+00:00"
+    "fecha_ultima_observacion": "2026-11-25T16:01:13.404678+00:00"
   },
   "EMSC:20261125_0000217": {
     "id": "20261125_0000217",
@@ -104634,5 +104634,19 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261125_0000247",
     "fecha_primera_recepcion": "2026-11-25T15:31:31.804389+00:00",
     "fecha_ultima_observacion": "2026-11-25T15:56:08.040233+00:00"
+  },
+  "EMSC:20261125_0000252": {
+    "id": "20261125_0000252",
+    "fecha_hora_utc": "2026-11-25T15:50:33+00:00",
+    "magnitud": 3.7,
+    "profundidad_km": 10.0,
+    "latitud": 12.81,
+    "longitud": 123.05,
+    "pais": "",
+    "ciudad_referencia": "MASBATE REGION, PHILIPPINES",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261125_0000252",
+    "fecha_primera_recepcion": "2026-11-25T16:01:13.404678+00:00",
+    "fecha_ultima_observacion": "2026-11-25T16:01:13.404678+00:00"
   }
 }
