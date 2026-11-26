@@ -105263,7 +105263,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-833",
     "fecha_primera_recepcion": "2026-11-25T22:46:12.089554+00:00",
-    "fecha_ultima_observacion": "2026-11-26T02:01:36.979231+00:00"
+    "fecha_ultima_observacion": "2026-11-26T02:06:07.288645+00:00"
   },
   "EMSC:20261125_0000388": {
     "id": "20261125_0000388",
@@ -105547,16 +105547,30 @@
   },
   "EMSC:20261126_0000039": {
     "id": "20261126_0000039",
-    "fecha_hora_utc": "2026-11-26T01:48:56.110000+00:00",
-    "magnitud": 5.0,
-    "profundidad_km": 217.0,
-    "latitud": -36.0772,
-    "longitud": 179.4712,
+    "fecha_hora_utc": "2026-11-26T01:48:44.213000+00:00",
+    "magnitud": 5.2,
+    "profundidad_km": 12.7,
+    "latitud": -35.9665,
+    "longitud": 178.6429,
     "pais": "",
     "ciudad_referencia": "OFF E. COAST OF N. ISLAND, N.Z.",
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261126_0000039",
     "fecha_primera_recepcion": "2026-11-26T02:01:36.979231+00:00",
-    "fecha_ultima_observacion": "2026-11-26T02:01:36.979231+00:00"
+    "fecha_ultima_observacion": "2026-11-26T02:06:07.288645+00:00"
+  },
+  "USGS:us6000udjx": {
+    "id": "us6000udjx",
+    "fecha_hora_utc": "2026-11-26T01:48:44.213000+00:00",
+    "magnitud": 5.2,
+    "profundidad_km": 12.687,
+    "latitud": -35.9665,
+    "longitud": 178.6429,
+    "pais": "",
+    "ciudad_referencia": "183 km N of Hicks Bay, New Zealand",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udjx",
+    "fecha_primera_recepcion": "2026-11-26T02:06:07.288645+00:00",
+    "fecha_ultima_observacion": "2026-11-26T02:06:07.288645+00:00"
   }
 }
