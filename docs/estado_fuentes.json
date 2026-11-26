@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-26T03:56:22.346490+00:00",
+  "actualizado_utc": "2026-11-26T04:01:17.845352+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 143,
   "actualizacion_minutos": 5,
@@ -9,7 +9,7 @@
   "usgs": 505,
   "duplicados_eliminados": 463,
   "eventos_publicados": 2425,
-  "evento_mas_reciente_utc": "2026-11-26T03:41:59.818193+00:00",
+  "evento_mas_reciente_utc": "2026-11-26T03:44:45.890000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 37,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-25T14:22:44+00:00",
-      "antiguedad_evento_mas_reciente_min": 813.6
+      "antiguedad_evento_mas_reciente_min": 818.6
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,8 +26,8 @@
       "eventos_validos": 2240,
       "eventos_recibidos": 2242,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-11-26T03:41:59.818193+00:00",
-      "antiguedad_evento_mas_reciente_min": 14.4
+      "evento_mas_reciente_utc": "2026-11-26T03:44:45.890000+00:00",
+      "antiguedad_evento_mas_reciente_min": 16.5
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 508,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-26T03:22:48.564000+00:00",
-      "antiguedad_evento_mas_reciente_min": 33.6
+      "antiguedad_evento_mas_reciente_min": 38.5
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-833"
     },
     "emsc": {
-      "id": "20261126_0000078",
-      "fecha_hora_utc": "2026-11-26T03:41:59.818193+00:00",
-      "magnitud": 3.4,
-      "profundidad_km": 242.6,
-      "latitud": -36.7099,
-      "longitud": 176.9774,
+      "id": "20261126_0000080",
+      "fecha_hora_utc": "2026-11-26T03:44:45.890000+00:00",
+      "magnitud": 2.8,
+      "profundidad_km": 0.0,
+      "latitud": 41.83,
+      "longitud": 22.73,
       "pais": "",
-      "ciudad_referencia": "OFF E. COAST OF N. ISLAND, N.Z.",
+      "ciudad_referencia": "REPUBLIC OF NORTH MACEDONIA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261126_0000078"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261126_0000080"
     },
     "usgs": {
       "id": "aka2026xjxyti",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-26T03:56:22.346490+00:00"
+    "hora_consulta_utc": "2026-11-26T04:01:17.845352+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-26T03:56:22.346490+00:00",
+  "updated_utc": "2026-11-26T04:01:17.845352+00:00",
   "combined_after_dedup": 2425
 }
