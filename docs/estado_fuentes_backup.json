@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-26T01:06:24.174642+00:00",
+  "actualizado_utc": "2026-11-26T01:10:55.602330+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 143,
   "actualizacion_minutos": 5,
   "igp": 143,
   "emsc": 2216,
-  "usgs": 501,
-  "duplicados_eliminados": 460,
+  "usgs": 500,
+  "duplicados_eliminados": 459,
   "eventos_publicados": 2400,
-  "evento_mas_reciente_utc": "2026-11-26T00:55:25+00:00",
+  "evento_mas_reciente_utc": "2026-11-26T00:58:11+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 37,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-25T14:22:44+00:00",
-      "antiguedad_evento_mas_reciente_min": 643.7
+      "antiguedad_evento_mas_reciente_min": 648.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2216,
       "eventos_recibidos": 2218,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-11-26T00:55:25+00:00",
-      "antiguedad_evento_mas_reciente_min": 11.0
+      "evento_mas_reciente_utc": "2026-11-26T00:58:11+00:00",
+      "antiguedad_evento_mas_reciente_min": 12.7
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 501,
-      "eventos_recibidos": 504,
+      "eventos_validos": 500,
+      "eventos_recibidos": 503,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-26T00:37:31.620000+00:00",
-      "antiguedad_evento_mas_reciente_min": 28.9
+      "antiguedad_evento_mas_reciente_min": 33.4
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-833"
     },
     "emsc": {
-      "id": "20261126_0000012",
-      "fecha_hora_utc": "2026-11-26T00:55:25+00:00",
-      "magnitud": 2.6,
-      "profundidad_km": 144.6,
-      "latitud": -21.49,
-      "longitud": -68.64,
+      "id": "20261126_0000017",
+      "fecha_hora_utc": "2026-11-26T00:58:11+00:00",
+      "magnitud": 2.5,
+      "profundidad_km": 107.4,
+      "latitud": -28.44,
+      "longitud": -69.45,
       "pais": "",
-      "ciudad_referencia": "ANTOFAGASTA, CHILE",
+      "ciudad_referencia": "LA RIOJA, ARGENTINA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261126_0000012"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261126_0000017"
     },
     "usgs": {
       "id": "us6000udjj",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-26T01:06:24.174642+00:00"
+    "hora_consulta_utc": "2026-11-26T01:10:55.602330+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-26T01:06:24.174642+00:00",
+  "updated_utc": "2026-11-26T01:10:55.602330+00:00",
   "combined_after_dedup": 2400
 }
