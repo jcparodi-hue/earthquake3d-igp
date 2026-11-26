@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-26T03:26:10.747807+00:00",
+  "actualizado_utc": "2026-11-26T03:31:11.124219+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 143,
   "actualizacion_minutos": 5,
   "igp": 143,
-  "emsc": 2240,
+  "emsc": 2241,
   "usgs": 505,
   "duplicados_eliminados": 463,
-  "eventos_publicados": 2425,
-  "evento_mas_reciente_utc": "2026-11-26T03:22:48.553334+00:00",
+  "eventos_publicados": 2426,
+  "evento_mas_reciente_utc": "2026-11-26T03:22:48.567277+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,16 +18,16 @@
       "eventos_recibidos": 37,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-25T14:22:44+00:00",
-      "antiguedad_evento_mas_reciente_min": 783.4
+      "antiguedad_evento_mas_reciente_min": 788.5
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2240,
-      "eventos_recibidos": 2242,
+      "eventos_validos": 2241,
+      "eventos_recibidos": 2243,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-11-26T03:22:48.553334+00:00",
-      "antiguedad_evento_mas_reciente_min": 3.4
+      "evento_mas_reciente_utc": "2026-11-26T03:22:48.567277+00:00",
+      "antiguedad_evento_mas_reciente_min": 8.4
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -35,8 +35,8 @@
       "eventos_validos": 505,
       "eventos_recibidos": 508,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-26T03:22:48.553000+00:00",
-      "antiguedad_evento_mas_reciente_min": 3.4
+      "evento_mas_reciente_utc": "2026-11-26T03:22:48.564000+00:00",
+      "antiguedad_evento_mas_reciente_min": 8.4
     }
   },
   "ultimo_evento": {
@@ -54,11 +54,11 @@
     },
     "emsc": {
       "id": "20261126_0000074",
-      "fecha_hora_utc": "2026-11-26T03:22:48.553334+00:00",
-      "magnitud": 2.9,
-      "profundidad_km": 57.2,
+      "fecha_hora_utc": "2026-11-26T03:22:48.567277+00:00",
+      "magnitud": 3.0,
+      "profundidad_km": 54.6,
       "latitud": 59.178,
-      "longitud": -152.118,
+      "longitud": -152.095,
       "pais": "",
       "ciudad_referencia": "SOUTHERN ALASKA",
       "fuente": "EMSC",
@@ -66,11 +66,11 @@
     },
     "usgs": {
       "id": "aka2026xjxyti",
-      "fecha_hora_utc": "2026-11-26T03:22:48.553000+00:00",
-      "magnitud": 2.9,
-      "profundidad_km": 57.2,
-      "latitud": 59.178,
-      "longitud": -152.118,
+      "fecha_hora_utc": "2026-11-26T03:22:48.564000+00:00",
+      "magnitud": 3.0,
+      "profundidad_km": 54.8,
+      "latitud": 59.177,
+      "longitud": -152.095,
       "pais": "",
       "ciudad_referencia": "22 km SSW of Nanwalek, Alaska",
       "fuente": "USGS",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-26T03:26:10.747807+00:00"
+    "hora_consulta_utc": "2026-11-26T03:31:11.124219+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-26T03:26:10.747807+00:00",
-  "combined_after_dedup": 2425
+  "updated_utc": "2026-11-26T03:31:11.124219+00:00",
+  "combined_after_dedup": 2426
 }
