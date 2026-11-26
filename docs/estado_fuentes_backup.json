@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-26T22:01:32.752698+00:00",
+  "actualizado_utc": "2026-11-26T22:06:09.729334+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 145,
   "actualizacion_minutos": 5,
@@ -18,7 +18,7 @@
       "eventos_recibidos": 32,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-26T03:16:21+00:00",
-      "antiguedad_evento_mas_reciente_min": 1125.2
+      "antiguedad_evento_mas_reciente_min": 1129.8
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -27,7 +27,7 @@
       "eventos_recibidos": 2286,
       "invalidos_rechazados": 2,
       "evento_mas_reciente_utc": "2026-11-26T21:55:30+00:00",
-      "antiguedad_evento_mas_reciente_min": 6.0
+      "antiguedad_evento_mas_reciente_min": 10.7
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 510,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-26T21:43:20.452000+00:00",
-      "antiguedad_evento_mas_reciente_min": 18.2
+      "antiguedad_evento_mas_reciente_min": 22.8
     }
   },
   "ultimo_evento": {
@@ -55,10 +55,10 @@
     "emsc": {
       "id": "20261126_0000390",
       "fecha_hora_utc": "2026-11-26T21:55:30+00:00",
-      "magnitud": 3.7,
-      "profundidad_km": 208.4,
-      "latitud": -23.9,
-      "longitud": -67.42,
+      "magnitud": 3.6,
+      "profundidad_km": 207.7,
+      "latitud": -23.89,
+      "longitud": -67.41,
       "pais": "",
       "ciudad_referencia": "ANTOFAGASTA, CHILE",
       "fuente": "EMSC",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-26T22:01:32.752698+00:00"
+    "hora_consulta_utc": "2026-11-26T22:06:09.729334+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-26T22:01:32.752698+00:00",
+  "updated_utc": "2026-11-26T22:06:09.729334+00:00",
   "combined_after_dedup": 2474
 }
