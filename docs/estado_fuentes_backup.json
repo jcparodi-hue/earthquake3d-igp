@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-26T04:31:36.027103+00:00",
+  "actualizado_utc": "2026-11-26T04:36:25.289152+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 145,
   "actualizacion_minutos": 5,
   "igp": 145,
-  "emsc": 2246,
-  "usgs": 506,
+  "emsc": 2247,
+  "usgs": 505,
   "duplicados_eliminados": 466,
   "eventos_publicados": 2431,
-  "evento_mas_reciente_utc": "2026-11-26T04:05:24+00:00",
+  "evento_mas_reciente_utc": "2026-11-26T04:22:14.798640+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 39,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-26T03:16:21+00:00",
-      "antiguedad_evento_mas_reciente_min": 75.3
+      "antiguedad_evento_mas_reciente_min": 80.1
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2246,
-      "eventos_recibidos": 2248,
+      "eventos_validos": 2247,
+      "eventos_recibidos": 2249,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-11-26T04:05:24+00:00",
-      "antiguedad_evento_mas_reciente_min": 26.2
+      "evento_mas_reciente_utc": "2026-11-26T04:22:14.798640+00:00",
+      "antiguedad_evento_mas_reciente_min": 14.2
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 506,
-      "eventos_recibidos": 509,
+      "eventos_validos": 505,
+      "eventos_recibidos": 508,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-26T03:30:28.511000+00:00",
-      "antiguedad_evento_mas_reciente_min": 61.1
+      "antiguedad_evento_mas_reciente_min": 65.9
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-835"
     },
     "emsc": {
-      "id": "20261126_0000088",
-      "fecha_hora_utc": "2026-11-26T04:05:24+00:00",
-      "magnitud": 3.5,
-      "profundidad_km": 100.4,
-      "latitud": -28.02,
-      "longitud": -70.06,
+      "id": "20261126_0000098",
+      "fecha_hora_utc": "2026-11-26T04:22:14.798640+00:00",
+      "magnitud": 3.6,
+      "profundidad_km": 33.0,
+      "latitud": -35.6973,
+      "longitud": 177.8561,
       "pais": "",
-      "ciudad_referencia": "ATACAMA, CHILE",
+      "ciudad_referencia": "OFF E. COAST OF N. ISLAND, N.Z.",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261126_0000088"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261126_0000098"
     },
     "usgs": {
       "id": "us6000udki",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-26T04:31:36.027103+00:00"
+    "hora_consulta_utc": "2026-11-26T04:36:25.289152+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-26T04:31:36.027103+00:00",
+  "updated_utc": "2026-11-26T04:36:25.289152+00:00",
   "combined_after_dedup": 2431
 }
