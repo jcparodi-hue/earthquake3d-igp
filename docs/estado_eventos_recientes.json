@@ -105809,7 +105809,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-835",
     "fecha_primera_recepcion": "2026-11-26T04:31:36.027103+00:00",
-    "fecha_ultima_observacion": "2026-11-26T22:21:28.575185+00:00"
+    "fecha_ultima_observacion": "2026-11-26T22:26:26.073848+00:00"
   },
   "USGS:us6000udki": {
     "id": "us6000udki",
@@ -107252,5 +107252,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261126_0000398",
     "fecha_primera_recepcion": "2026-11-26T22:21:28.575185+00:00",
     "fecha_ultima_observacion": "2026-11-26T22:21:28.575185+00:00"
+  },
+  "EMSC:20261126_0000401": {
+    "id": "20261126_0000401",
+    "fecha_hora_utc": "2026-11-26T22:21:44.605711+00:00",
+    "magnitud": 3.0,
+    "profundidad_km": 73.9,
+    "latitud": 63.099,
+    "longitud": -148.47,
+    "pais": "",
+    "ciudad_referencia": "CENTRAL ALASKA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261126_0000401",
+    "fecha_primera_recepcion": "2026-11-26T22:26:26.073848+00:00",
+    "fecha_ultima_observacion": "2026-11-26T22:26:26.073848+00:00"
+  },
+  "USGS:aka2026xljyim": {
+    "id": "aka2026xljyim",
+    "fecha_hora_utc": "2026-11-26T22:21:44.644000+00:00",
+    "magnitud": 3.1,
+    "profundidad_km": 73.3,
+    "latitud": 63.1,
+    "longitud": -148.469,
+    "pais": "",
+    "ciudad_referencia": "40 km SE of Cantwell, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xljyim",
+    "fecha_primera_recepcion": "2026-11-26T22:26:26.073848+00:00",
+    "fecha_ultima_observacion": "2026-11-26T22:26:26.073848+00:00"
   }
 }
