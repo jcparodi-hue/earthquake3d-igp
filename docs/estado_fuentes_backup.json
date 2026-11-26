@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-26T03:46:13.041259+00:00",
+  "actualizado_utc": "2026-11-26T03:51:28.401894+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 143,
   "actualizacion_minutos": 5,
@@ -9,7 +9,7 @@
   "usgs": 505,
   "duplicados_eliminados": 463,
   "eventos_publicados": 2425,
-  "evento_mas_reciente_utc": "2026-11-26T03:22:48.567277+00:00",
+  "evento_mas_reciente_utc": "2026-11-26T03:41:12.876248+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 37,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-25T14:22:44+00:00",
-      "antiguedad_evento_mas_reciente_min": 803.5
+      "antiguedad_evento_mas_reciente_min": 808.7
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,8 +26,8 @@
       "eventos_validos": 2240,
       "eventos_recibidos": 2242,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-11-26T03:22:48.567277+00:00",
-      "antiguedad_evento_mas_reciente_min": 23.4
+      "evento_mas_reciente_utc": "2026-11-26T03:41:12.876248+00:00",
+      "antiguedad_evento_mas_reciente_min": 10.3
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -36,7 +36,7 @@
       "eventos_recibidos": 508,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-26T03:22:48.564000+00:00",
-      "antiguedad_evento_mas_reciente_min": 23.4
+      "antiguedad_evento_mas_reciente_min": 28.7
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-833"
     },
     "emsc": {
-      "id": "20261126_0000074",
-      "fecha_hora_utc": "2026-11-26T03:22:48.567277+00:00",
-      "magnitud": 3.0,
-      "profundidad_km": 54.6,
-      "latitud": 59.178,
-      "longitud": -152.095,
+      "id": "20261126_0000078",
+      "fecha_hora_utc": "2026-11-26T03:41:12.876248+00:00",
+      "magnitud": 3.6,
+      "profundidad_km": 33.0,
+      "latitud": -35.7256,
+      "longitud": 178.2108,
       "pais": "",
-      "ciudad_referencia": "SOUTHERN ALASKA",
+      "ciudad_referencia": "OFF E. COAST OF N. ISLAND, N.Z.",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261126_0000074"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261126_0000078"
     },
     "usgs": {
       "id": "aka2026xjxyti",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-26T03:46:13.041259+00:00"
+    "hora_consulta_utc": "2026-11-26T03:51:28.401894+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-26T03:46:13.041259+00:00",
+  "updated_utc": "2026-11-26T03:51:28.401894+00:00",
   "combined_after_dedup": 2425
 }
