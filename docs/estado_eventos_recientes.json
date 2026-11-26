@@ -105263,7 +105263,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-833",
     "fecha_primera_recepcion": "2026-11-25T22:46:12.089554+00:00",
-    "fecha_ultima_observacion": "2026-11-26T01:16:26.628256+00:00"
+    "fecha_ultima_observacion": "2026-11-26T01:21:15.742190+00:00"
   },
   "EMSC:20261125_0000388": {
     "id": "20261125_0000388",
@@ -105487,6 +105487,20 @@
     "fuente": "USGS",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xjtpuu",
     "fecha_primera_recepcion": "2026-11-26T01:16:26.628256+00:00",
-    "fecha_ultima_observacion": "2026-11-26T01:16:26.628256+00:00"
+    "fecha_ultima_observacion": "2026-11-26T01:21:15.742190+00:00"
+  },
+  "EMSC:20261126_0000023": {
+    "id": "20261126_0000023",
+    "fecha_hora_utc": "2026-11-26T01:13:34.173734+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 14.2,
+    "latitud": 36.8134,
+    "longitud": 26.5228,
+    "pais": "",
+    "ciudad_referencia": "DODECANESE ISLANDS, GREECE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261126_0000023",
+    "fecha_primera_recepcion": "2026-11-26T01:21:15.742190+00:00",
+    "fecha_ultima_observacion": "2026-11-26T01:21:15.742190+00:00"
   }
 }
