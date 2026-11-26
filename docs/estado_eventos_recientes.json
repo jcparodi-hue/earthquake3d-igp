@@ -105809,7 +105809,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-835",
     "fecha_primera_recepcion": "2026-11-26T04:31:36.027103+00:00",
-    "fecha_ultima_observacion": "2026-11-26T09:21:29.526432+00:00"
+    "fecha_ultima_observacion": "2026-11-26T09:26:15.578502+00:00"
   },
   "USGS:us6000udki": {
     "id": "us6000udki",
@@ -106243,6 +106243,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261126_0000177",
     "fecha_primera_recepcion": "2026-11-26T09:16:33.957289+00:00",
-    "fecha_ultima_observacion": "2026-11-26T09:21:29.526432+00:00"
+    "fecha_ultima_observacion": "2026-11-26T09:26:15.578502+00:00"
+  },
+  "USGS:us6000udm8": {
+    "id": "us6000udm8",
+    "fecha_hora_utc": "2026-11-26T09:08:40.640000+00:00",
+    "magnitud": 5.5,
+    "profundidad_km": 15.139,
+    "latitud": -10.5618,
+    "longitud": 117.1955,
+    "pais": "",
+    "ciudad_referencia": "204 km S of Taliwang, Indonesia",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udm8",
+    "fecha_primera_recepcion": "2026-11-26T09:26:15.578502+00:00",
+    "fecha_ultima_observacion": "2026-11-26T09:26:15.578502+00:00"
   }
 }
