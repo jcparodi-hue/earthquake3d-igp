@@ -105809,7 +105809,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-835",
     "fecha_primera_recepcion": "2026-11-26T04:31:36.027103+00:00",
-    "fecha_ultima_observacion": "2026-11-26T12:16:10.237272+00:00"
+    "fecha_ultima_observacion": "2026-11-26T12:21:27.058018+00:00"
   },
   "USGS:us6000udki": {
     "id": "us6000udki",
@@ -106440,5 +106440,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261126_0000217",
     "fecha_primera_recepcion": "2026-11-26T12:16:10.237272+00:00",
     "fecha_ultima_observacion": "2026-11-26T12:16:10.237272+00:00"
+  },
+  "EMSC:20261126_0000218": {
+    "id": "20261126_0000218",
+    "fecha_hora_utc": "2026-11-26T12:16:31.040000+00:00",
+    "magnitud": 2.7,
+    "profundidad_km": 9.9,
+    "latitud": 32.8758,
+    "longitud": -116.228,
+    "pais": "",
+    "ciudad_referencia": "SOUTHERN CALIFORNIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261126_0000218",
+    "fecha_primera_recepcion": "2026-11-26T12:21:27.058018+00:00",
+    "fecha_ultima_observacion": "2026-11-26T12:21:27.058018+00:00"
+  },
+  "USGS:ci41580488": {
+    "id": "ci41580488",
+    "fecha_hora_utc": "2026-11-26T12:16:31.040000+00:00",
+    "magnitud": 2.71,
+    "profundidad_km": 9.92,
+    "latitud": 32.87583,
+    "longitud": -116.228,
+    "pais": "",
+    "ciudad_referencia": "27 km NW of Ocotillo, CA",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41580488",
+    "fecha_primera_recepcion": "2026-11-26T12:21:27.058018+00:00",
+    "fecha_ultima_observacion": "2026-11-26T12:21:27.058018+00:00"
   }
 }

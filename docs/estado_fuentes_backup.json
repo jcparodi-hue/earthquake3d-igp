@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-26T12:16:10.237272+00:00",
+  "actualizado_utc": "2026-11-26T12:21:27.058018+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 145,
   "actualizacion_minutos": 5,
   "igp": 145,
-  "emsc": 2265,
-  "usgs": 511,
-  "duplicados_eliminados": 473,
-  "eventos_publicados": 2448,
-  "evento_mas_reciente_utc": "2026-11-26T12:04:02+00:00",
+  "emsc": 2267,
+  "usgs": 512,
+  "duplicados_eliminados": 474,
+  "eventos_publicados": 2450,
+  "evento_mas_reciente_utc": "2026-11-26T12:16:31.040000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 38,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-26T03:16:21+00:00",
-      "antiguedad_evento_mas_reciente_min": 539.8
+      "antiguedad_evento_mas_reciente_min": 545.1
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2265,
-      "eventos_recibidos": 2267,
+      "eventos_validos": 2267,
+      "eventos_recibidos": 2269,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-11-26T12:04:02+00:00",
-      "antiguedad_evento_mas_reciente_min": 12.1
+      "evento_mas_reciente_utc": "2026-11-26T12:16:31.040000+00:00",
+      "antiguedad_evento_mas_reciente_min": 4.9
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 511,
-      "eventos_recibidos": 514,
+      "eventos_validos": 512,
+      "eventos_recibidos": 515,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-26T09:24:20.916000+00:00",
-      "antiguedad_evento_mas_reciente_min": 171.8
+      "evento_mas_reciente_utc": "2026-11-26T12:16:31.040000+00:00",
+      "antiguedad_evento_mas_reciente_min": 4.9
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-835"
     },
     "emsc": {
-      "id": "20261126_0000217",
-      "fecha_hora_utc": "2026-11-26T12:04:02+00:00",
-      "magnitud": 3.5,
-      "profundidad_km": 12.0,
-      "latitud": -8.4,
-      "longitud": 116.97,
+      "id": "20261126_0000218",
+      "fecha_hora_utc": "2026-11-26T12:16:31.040000+00:00",
+      "magnitud": 2.7,
+      "profundidad_km": 9.9,
+      "latitud": 32.8758,
+      "longitud": -116.228,
       "pais": "",
-      "ciudad_referencia": "LOMBOK REGION, INDONESIA",
+      "ciudad_referencia": "SOUTHERN CALIFORNIA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261126_0000217"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261126_0000218"
     },
     "usgs": {
-      "id": "aka2026xkkapt",
-      "fecha_hora_utc": "2026-11-26T09:24:20.916000+00:00",
-      "magnitud": 3.3,
-      "profundidad_km": 5.0,
-      "latitud": 54.674,
-      "longitud": -156.931,
+      "id": "ci41580488",
+      "fecha_hora_utc": "2026-11-26T12:16:31.040000+00:00",
+      "magnitud": 2.71,
+      "profundidad_km": 9.92,
+      "latitud": 32.87583,
+      "longitud": -116.228,
       "pais": "",
-      "ciudad_referencia": "196 km SE of Perryville, Alaska",
+      "ciudad_referencia": "27 km NW of Ocotillo, CA",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xkkapt"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41580488"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-26T12:16:10.237272+00:00"
+    "hora_consulta_utc": "2026-11-26T12:21:27.058018+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-26T12:16:10.237272+00:00",
-  "combined_after_dedup": 2448
+  "updated_utc": "2026-11-26T12:21:27.058018+00:00",
+  "combined_after_dedup": 2450
 }
