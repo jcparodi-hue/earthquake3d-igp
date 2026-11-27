@@ -105809,7 +105809,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-835",
     "fecha_primera_recepcion": "2026-11-26T04:31:36.027103+00:00",
-    "fecha_ultima_observacion": "2026-11-27T12:21:29.999937+00:00"
+    "fecha_ultima_observacion": "2026-11-27T12:23:23.777976+00:00"
   },
   "USGS:us6000udki": {
     "id": "us6000udki",
@@ -108260,5 +108260,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261127_0000185",
     "fecha_primera_recepcion": "2026-11-27T12:01:20.759090+00:00",
     "fecha_ultima_observacion": "2026-11-27T12:21:29.999937+00:00"
+  },
+  "EMSC:20261127_0000190": {
+    "id": "20261127_0000190",
+    "fecha_hora_utc": "2026-11-27T12:19:45.900000+00:00",
+    "magnitud": 2.9,
+    "profundidad_km": 6.0,
+    "latitud": 35.8275,
+    "longitud": -117.6685,
+    "pais": "",
+    "ciudad_referencia": "CENTRAL CALIFORNIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261127_0000190",
+    "fecha_primera_recepcion": "2026-11-27T12:23:23.777976+00:00",
+    "fecha_ultima_observacion": "2026-11-27T12:23:23.777976+00:00"
+  },
+  "USGS:ci41580744": {
+    "id": "ci41580744",
+    "fecha_hora_utc": "2026-11-27T12:19:45.900000+00:00",
+    "magnitud": 2.9,
+    "profundidad_km": 5.99,
+    "latitud": 35.8275,
+    "longitud": -117.6685,
+    "pais": "",
+    "ciudad_referencia": "23 km N of Ridgecrest, CA",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41580744",
+    "fecha_primera_recepcion": "2026-11-27T12:23:23.777976+00:00",
+    "fecha_ultima_observacion": "2026-11-27T12:23:23.777976+00:00"
   }
 }
