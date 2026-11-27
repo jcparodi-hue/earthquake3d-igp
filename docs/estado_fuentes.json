@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-27T22:51:37.379086+00:00",
+  "actualizado_utc": "2026-11-27T22:56:27.448576+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 145,
   "actualizacion_minutos": 5,
   "igp": 145,
   "emsc": 2295,
-  "usgs": 499,
-  "duplicados_eliminados": 443,
+  "usgs": 498,
+  "duplicados_eliminados": 442,
   "eventos_publicados": 2496,
-  "evento_mas_reciente_utc": "2026-11-27T22:29:39+00:00",
+  "evento_mas_reciente_utc": "2026-11-27T22:49:49+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 30,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-26T03:16:21+00:00",
-      "antiguedad_evento_mas_reciente_min": 2615.3
+      "antiguedad_evento_mas_reciente_min": 2620.1
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,17 +26,17 @@
       "eventos_validos": 2295,
       "eventos_recibidos": 2297,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-11-27T22:29:39+00:00",
-      "antiguedad_evento_mas_reciente_min": 22.0
+      "evento_mas_reciente_utc": "2026-11-27T22:49:49+00:00",
+      "antiguedad_evento_mas_reciente_min": 6.6
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 499,
-      "eventos_recibidos": 502,
+      "eventos_validos": 498,
+      "eventos_recibidos": 501,
       "invalidos_rechazados": 3,
       "evento_mas_reciente_utc": "2026-11-27T22:27:55.405000+00:00",
-      "antiguedad_evento_mas_reciente_min": 23.7
+      "antiguedad_evento_mas_reciente_min": 28.5
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-835"
     },
     "emsc": {
-      "id": "20261127_0000359",
-      "fecha_hora_utc": "2026-11-27T22:29:39+00:00",
-      "magnitud": 3.3,
-      "profundidad_km": 90.0,
-      "latitud": -23.1,
-      "longitud": -69.05,
+      "id": "20261127_0000362",
+      "fecha_hora_utc": "2026-11-27T22:49:49+00:00",
+      "magnitud": 3.7,
+      "profundidad_km": 25.0,
+      "latitud": 0.74,
+      "longitud": 118.74,
       "pais": "",
-      "ciudad_referencia": "ANTOFAGASTA, CHILE",
+      "ciudad_referencia": "KALIMANTAN, INDONESIA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261127_0000359"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261127_0000362"
     },
     "usgs": {
       "id": "nn00927525",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-27T22:51:37.379086+00:00"
+    "hora_consulta_utc": "2026-11-27T22:56:27.448576+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-27T22:51:37.379086+00:00",
+  "updated_utc": "2026-11-27T22:56:27.448576+00:00",
   "combined_after_dedup": 2496
 }
