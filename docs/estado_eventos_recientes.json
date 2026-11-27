@@ -105809,7 +105809,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-835",
     "fecha_primera_recepcion": "2026-11-26T04:31:36.027103+00:00",
-    "fecha_ultima_observacion": "2026-11-27T22:26:28.739095+00:00"
+    "fecha_ultima_observacion": "2026-11-27T22:31:19.019420+00:00"
   },
   "USGS:us6000udki": {
     "id": "us6000udki",
@@ -108932,5 +108932,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261127_0000345",
     "fecha_primera_recepcion": "2026-11-27T22:06:12.058647+00:00",
     "fecha_ultima_observacion": "2026-11-27T22:26:28.739095+00:00"
+  },
+  "EMSC:20261127_0000353": {
+    "id": "20261127_0000353",
+    "fecha_hora_utc": "2026-11-27T22:20:37.100000+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 8.7,
+    "latitud": 38.798,
+    "longitud": 27.7953,
+    "pais": "",
+    "ciudad_referencia": "WESTERN TURKEY",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261127_0000353",
+    "fecha_primera_recepcion": "2026-11-27T22:31:19.019420+00:00",
+    "fecha_ultima_observacion": "2026-11-27T22:31:19.019420+00:00"
+  },
+  "USGS:us6000ue09": {
+    "id": "us6000ue09",
+    "fecha_hora_utc": "2026-11-27T21:54:39.854000+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 9.582,
+    "latitud": 43.5472,
+    "longitud": -71.5339,
+    "pais": "",
+    "ciudad_referencia": "5 km WNW of Laconia, New Hampshire",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ue09",
+    "fecha_primera_recepcion": "2026-11-27T22:31:19.019420+00:00",
+    "fecha_ultima_observacion": "2026-11-27T22:31:19.019420+00:00"
   }
 }
