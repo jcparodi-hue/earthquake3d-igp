@@ -105809,7 +105809,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-835",
     "fecha_primera_recepcion": "2026-11-26T04:31:36.027103+00:00",
-    "fecha_ultima_observacion": "2026-11-27T00:01:35.239486+00:00"
+    "fecha_ultima_observacion": "2026-11-27T00:06:13.591977+00:00"
   },
   "USGS:us6000udki": {
     "id": "us6000udki",
@@ -107423,8 +107423,8 @@
   },
   "EMSC:20261126_0000427": {
     "id": "20261126_0000427",
-    "fecha_hora_utc": "2026-11-26T23:57:39+00:00",
-    "magnitud": 2.5,
+    "fecha_hora_utc": "2026-11-26T23:57:38.720000+00:00",
+    "magnitud": 2.6,
     "profundidad_km": 7.0,
     "latitud": 37.1193,
     "longitud": 27.8673,
@@ -107433,6 +107433,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261126_0000427",
     "fecha_primera_recepcion": "2026-11-27T00:01:35.239486+00:00",
-    "fecha_ultima_observacion": "2026-11-27T00:01:35.239486+00:00"
+    "fecha_ultima_observacion": "2026-11-27T00:06:13.591977+00:00"
+  },
+  "USGS:us6000udt4": {
+    "id": "us6000udt4",
+    "fecha_hora_utc": "2026-11-26T23:31:07.918000+00:00",
+    "magnitud": 4.1,
+    "profundidad_km": 31.156,
+    "latitud": 35.6479,
+    "longitud": 29.8422,
+    "pais": "",
+    "ciudad_referencia": "64 km SSE of Kaş, Turkey",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udt4",
+    "fecha_primera_recepcion": "2026-11-27T00:06:13.591977+00:00",
+    "fecha_ultima_observacion": "2026-11-27T00:06:13.591977+00:00"
   }
 }
