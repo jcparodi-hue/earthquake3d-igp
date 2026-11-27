@@ -1,4 +1,5 @@
 YEAR, MON, DAY, HOUR, MIN, DEP, MAG, LAT, LONG, URL   // IGP history + EMSC-RTS + USGS, global rolling 10 days
+2026,11,27,10,39,10.0,4.1,7.453500,-80.110800,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261127_0000159
 2026,11,27,10,35,126.3,3.0,-21.250000,-68.750000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261127_0000157
 2026,11,27,10,31,5.0,2.5,47.568600,-2.269800,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261127_0000156
 2026,11,27,10,21,308.7,3.5,-34.769400,178.126300,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261127_0000153
@@ -9,6 +10,7 @@ YEAR, MON, DAY, HOUR, MIN, DEP, MAG, LAT, LONG, URL   // IGP history + EMSC-RTS 
 2026,11,27,09,00,21.0,3.0,25.728000,94.178000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261127_0000154
 2026,11,27,09,00,23.0,3.6,-2.550000,101.160000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261127_0000137
 2026,11,27,08,50,8.0,3.4,10.600000,126.320000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261127_0000136
+2026,11,27,08,35,31.0,2.5,35.440000,23.330000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261127_0000158
 2026,11,27,08,23,10.0,3.3,32.300000,130.500000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261127_0000130
 2026,11,27,08,16,49.0,3.2,13.922000,-91.432000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261127_0000128
 2026,11,27,08,09,30.0,3.8,-19.710100,-70.383200,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261127_0000126
@@ -707,7 +709,7 @@ YEAR, MON, DAY, HOUR, MIN, DEP, MAG, LAT, LONG, URL   // IGP history + EMSC-RTS 
 2026,11,24,12,51,10.0,4.1,14.659000,-93.219000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000168
 2026,11,24,12,46,5.0,3.6,29.749000,80.500000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000160
 2026,11,24,12,42,10.0,4.2,14.476000,-93.350000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000166
-2026,11,24,12,28,28.6,3.3,-15.024000,-62.216000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000401
+2026,11,24,12,28,127.5,3.1,-14.662600,-62.237900,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000401
 2026,11,24,12,10,8.0,3.5,7.518200,-80.646500,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000154
 2026,11,24,12,07,20.0,4.0,37.000000,141.100000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000152
 2026,11,24,11,58,10.0,3.4,32.300000,130.400000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261124_0000149
@@ -2384,9 +2386,6 @@ YEAR, MON, DAY, HOUR, MIN, DEP, MAG, LAT, LONG, URL   // IGP history + EMSC-RTS 
 2026,11,17,11,12,106.8,4.5,13.480600,144.621100,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261117_0000202
 2026,11,17,11,05,8.0,3.4,7.681400,-81.429400,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261117_0000136
 2026,11,17,11,01,14.7,3.1,16.824000,-99.527000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261117_0000183
-2026,11,17,10,44,17.0,2.7,13.171000,-90.137000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261117_0000164
-2026,11,17,10,44,5.0,3.2,-43.037600,171.777500,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261117_0000132
-2026,11,17,10,42,7.0,3.6,16.429000,-95.029000,10,https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261117_0000184
 2026,11,17,02,23,24.0,4.2,-15.080000,-76.240000,10,https://ultimosismo.igp.gob.pe/evento/2026-805
 2026,11,16,22,25,27.0,4.3,-15.040000,-76.040000,10,https://ultimosismo.igp.gob.pe/evento/2026-804
 2026,11,16,21,22,28.0,4.5,-15.040000,-76.060000,10,https://ultimosismo.igp.gob.pe/evento/2026-803
