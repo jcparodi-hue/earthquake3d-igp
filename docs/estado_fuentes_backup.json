@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-28T18:31:35.248201+00:00",
+  "actualizado_utc": "2026-11-28T18:36:37.238605+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 147,
   "actualizacion_minutos": 5,
   "igp": 147,
-  "emsc": 2251,
-  "usgs": 494,
-  "duplicados_eliminados": 439,
-  "eventos_publicados": 2453,
-  "evento_mas_reciente_utc": "2026-11-28T18:19:06+00:00",
+  "emsc": 2255,
+  "usgs": 497,
+  "duplicados_eliminados": 442,
+  "eventos_publicados": 2457,
+  "evento_mas_reciente_utc": "2026-11-28T18:33:06.640000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 29,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-28T13:11:25+00:00",
-      "antiguedad_evento_mas_reciente_min": 320.2
+      "antiguedad_evento_mas_reciente_min": 325.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2251,
-      "eventos_recibidos": 2252,
+      "eventos_validos": 2255,
+      "eventos_recibidos": 2256,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-11-28T18:19:06+00:00",
-      "antiguedad_evento_mas_reciente_min": 12.5
+      "evento_mas_reciente_utc": "2026-11-28T18:33:06.640000+00:00",
+      "antiguedad_evento_mas_reciente_min": 3.5
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 494,
-      "eventos_recibidos": 496,
+      "eventos_validos": 497,
+      "eventos_recibidos": 499,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-11-28T18:07:45.440000+00:00",
-      "antiguedad_evento_mas_reciente_min": 23.8
+      "evento_mas_reciente_utc": "2026-11-28T18:32:29.920000+00:00",
+      "antiguedad_evento_mas_reciente_min": 4.1
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-837"
     },
     "emsc": {
-      "id": "20261128_0000280",
-      "fecha_hora_utc": "2026-11-28T18:19:06+00:00",
-      "magnitud": 3.8,
-      "profundidad_km": 15.0,
-      "latitud": 37.26,
-      "longitud": 78.86,
+      "id": "20261128_0000284",
+      "fecha_hora_utc": "2026-11-28T18:33:06.640000+00:00",
+      "magnitud": 2.7,
+      "profundidad_km": 12.2,
+      "latitud": 33.8478,
+      "longitud": -118.4805,
       "pais": "",
-      "ciudad_referencia": "SOUTHERN XINJIANG, CHINA",
+      "ciudad_referencia": "SANTA MONICA BAY, CALIFORNIA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261128_0000280"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261128_0000284"
     },
     "usgs": {
-      "id": "nc75470926",
-      "fecha_hora_utc": "2026-11-28T18:07:45.440000+00:00",
-      "magnitud": 2.54,
-      "profundidad_km": 35.3300018310547,
-      "latitud": 41.1961669921875,
-      "longitud": -123.376335144043,
+      "id": "ci41581392",
+      "fecha_hora_utc": "2026-11-28T18:32:29.920000+00:00",
+      "magnitud": 2.97,
+      "profundidad_km": 12.96,
+      "latitud": 33.84617,
+      "longitud": -118.48116,
       "pais": "",
-      "ciudad_referencia": "22 km SSE of Somes Bar, CA",
+      "ciudad_referencia": "8 km WSW of Hermosa Beach, CA",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75470926"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41581392"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-28T18:31:35.248201+00:00"
+    "hora_consulta_utc": "2026-11-28T18:36:37.238605+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-28T18:31:35.248201+00:00",
-  "combined_after_dedup": 2453
+  "updated_utc": "2026-11-28T18:36:37.238605+00:00",
+  "combined_after_dedup": 2457
 }
