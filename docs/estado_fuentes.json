@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-28T18:26:30.636040+00:00",
+  "actualizado_utc": "2026-11-28T18:31:35.248201+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 147,
   "actualizacion_minutos": 5,
   "igp": 147,
-  "emsc": 2249,
-  "usgs": 493,
-  "duplicados_eliminados": 437,
-  "eventos_publicados": 2452,
-  "evento_mas_reciente_utc": "2026-11-28T18:12:50+00:00",
+  "emsc": 2251,
+  "usgs": 494,
+  "duplicados_eliminados": 439,
+  "eventos_publicados": 2453,
+  "evento_mas_reciente_utc": "2026-11-28T18:19:06+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 29,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-28T13:11:25+00:00",
-      "antiguedad_evento_mas_reciente_min": 315.1
+      "antiguedad_evento_mas_reciente_min": 320.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2249,
-      "eventos_recibidos": 2250,
+      "eventos_validos": 2251,
+      "eventos_recibidos": 2252,
       "invalidos_rechazados": 1,
-      "evento_mas_reciente_utc": "2026-11-28T18:12:50+00:00",
-      "antiguedad_evento_mas_reciente_min": 13.7
+      "evento_mas_reciente_utc": "2026-11-28T18:19:06+00:00",
+      "antiguedad_evento_mas_reciente_min": 12.5
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 493,
-      "eventos_recibidos": 495,
+      "eventos_validos": 494,
+      "eventos_recibidos": 496,
       "invalidos_rechazados": 2,
       "evento_mas_reciente_utc": "2026-11-28T18:07:45.440000+00:00",
-      "antiguedad_evento_mas_reciente_min": 18.8
+      "antiguedad_evento_mas_reciente_min": 23.8
     }
   },
   "ultimo_evento": {
@@ -53,16 +53,16 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-837"
     },
     "emsc": {
-      "id": "20261128_0000277",
-      "fecha_hora_utc": "2026-11-28T18:12:50+00:00",
-      "magnitud": 3.1,
-      "profundidad_km": 5.0,
-      "latitud": 27.3237,
-      "longitud": 88.5325,
+      "id": "20261128_0000280",
+      "fecha_hora_utc": "2026-11-28T18:19:06+00:00",
+      "magnitud": 3.8,
+      "profundidad_km": 15.0,
+      "latitud": 37.26,
+      "longitud": 78.86,
       "pais": "",
-      "ciudad_referencia": "SIKKIM, INDIA",
+      "ciudad_referencia": "SOUTHERN XINJIANG, CHINA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261128_0000277"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261128_0000280"
     },
     "usgs": {
       "id": "nc75470926",
@@ -80,9 +80,9 @@
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-28T18:26:30.636040+00:00"
+    "hora_consulta_utc": "2026-11-28T18:31:35.248201+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-28T18:26:30.636040+00:00",
-  "combined_after_dedup": 2452
+  "updated_utc": "2026-11-28T18:31:35.248201+00:00",
+  "combined_after_dedup": 2453
 }
