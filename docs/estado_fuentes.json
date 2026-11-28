@@ -1,6 +1,6 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-28T03:21:34.933957+00:00",
+  "actualizado_utc": "2026-11-28T03:26:31.368534+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 145,
   "actualizacion_minutos": 5,
@@ -9,7 +9,7 @@
   "usgs": 499,
   "duplicados_eliminados": 443,
   "eventos_publicados": 2495,
-  "evento_mas_reciente_utc": "2026-11-28T03:03:19+00:00",
+  "evento_mas_reciente_utc": "2026-11-28T03:08:28.526000+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,7 +18,7 @@
       "eventos_recibidos": 29,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-26T03:16:21+00:00",
-      "antiguedad_evento_mas_reciente_min": 2885.2
+      "antiguedad_evento_mas_reciente_min": 2890.2
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
@@ -26,8 +26,8 @@
       "eventos_validos": 2294,
       "eventos_recibidos": 2296,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-11-28T03:03:19+00:00",
-      "antiguedad_evento_mas_reciente_min": 18.3
+      "evento_mas_reciente_utc": "2026-11-28T03:08:28.526000+00:00",
+      "antiguedad_evento_mas_reciente_min": 18.0
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
@@ -35,8 +35,8 @@
       "eventos_validos": 499,
       "eventos_recibidos": 502,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-28T02:55:35.595000+00:00",
-      "antiguedad_evento_mas_reciente_min": 26.0
+      "evento_mas_reciente_utc": "2026-11-28T03:08:28.526000+00:00",
+      "antiguedad_evento_mas_reciente_min": 18.0
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-835"
     },
     "emsc": {
-      "id": "20261128_0000055",
-      "fecha_hora_utc": "2026-11-28T03:03:19+00:00",
-      "magnitud": 3.6,
-      "profundidad_km": 96.9,
-      "latitud": -22.87,
-      "longitud": -69.09,
+      "id": "20261128_0000065",
+      "fecha_hora_utc": "2026-11-28T03:08:28.526000+00:00",
+      "magnitud": 4.2,
+      "profundidad_km": 357.8,
+      "latitud": 47.0585,
+      "longitud": 146.9156,
       "pais": "",
-      "ciudad_referencia": "ANTOFAGASTA, CHILE",
+      "ciudad_referencia": "NORTHWEST OF KURIL ISLANDS",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261128_0000055"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261128_0000065"
     },
     "usgs": {
-      "id": "us6000ue1k",
-      "fecha_hora_utc": "2026-11-28T02:55:35.595000+00:00",
-      "magnitud": 4.6,
-      "profundidad_km": 78.805,
-      "latitud": -18.945,
-      "longitud": -70.2869,
+      "id": "us6000ue1p",
+      "fecha_hora_utc": "2026-11-28T03:08:28.526000+00:00",
+      "magnitud": 4.2,
+      "profundidad_km": 357.811,
+      "latitud": 47.0585,
+      "longitud": 146.9156,
       "pais": "",
-      "ciudad_referencia": "26 km NNW of Cuya, Chile",
+      "ciudad_referencia": "216 km NNW of Kuril’sk, Russia",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ue1k"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ue1p"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-28T03:21:34.933957+00:00"
+    "hora_consulta_utc": "2026-11-28T03:26:31.368534+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-28T03:21:34.933957+00:00",
+  "updated_utc": "2026-11-28T03:26:31.368534+00:00",
   "combined_after_dedup": 2495
 }
