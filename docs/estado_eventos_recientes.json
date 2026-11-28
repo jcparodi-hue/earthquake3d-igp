@@ -109617,7 +109617,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-836",
     "fecha_primera_recepcion": "2026-11-28T04:31:36.011642+00:00",
-    "fecha_ultima_observacion": "2026-11-28T11:16:15.801323+00:00"
+    "fecha_ultima_observacion": "2026-11-28T11:21:30.817239+00:00"
   },
   "EMSC:20261128_0000086": {
     "id": "20261128_0000086",
@@ -110192,5 +110192,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261128_0000161",
     "fecha_primera_recepcion": "2026-11-28T11:16:15.801323+00:00",
     "fecha_ultima_observacion": "2026-11-28T11:16:15.801323+00:00"
+  },
+  "EMSC:20261128_0000162": {
+    "id": "20261128_0000162",
+    "fecha_hora_utc": "2026-11-28T11:10:50.727000+00:00",
+    "magnitud": 3.3,
+    "profundidad_km": 10.0,
+    "latitud": 56.6557,
+    "longitud": -147.9649,
+    "pais": "",
+    "ciudad_referencia": "GULF OF ALASKA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261128_0000162",
+    "fecha_primera_recepcion": "2026-11-28T11:21:30.817239+00:00",
+    "fecha_ultima_observacion": "2026-11-28T11:21:30.817239+00:00"
+  },
+  "USGS:us6000ue3e": {
+    "id": "us6000ue3e",
+    "fecha_hora_utc": "2026-11-28T11:10:50.727000+00:00",
+    "magnitud": 3.3,
+    "profundidad_km": 10.0,
+    "latitud": 56.6557,
+    "longitud": -147.9649,
+    "pais": "",
+    "ciudad_referencia": "282 km ESE of Chiniak, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ue3e",
+    "fecha_primera_recepcion": "2026-11-28T11:21:30.817239+00:00",
+    "fecha_ultima_observacion": "2026-11-28T11:21:30.817239+00:00"
   }
 }
