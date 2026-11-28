@@ -109617,7 +109617,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-836",
     "fecha_primera_recepcion": "2026-11-28T04:31:36.011642+00:00",
-    "fecha_ultima_observacion": "2026-11-28T05:26:06.252352+00:00"
+    "fecha_ultima_observacion": "2026-11-28T05:31:32.080080+00:00"
   },
   "EMSC:20261128_0000086": {
     "id": "20261128_0000086",
@@ -109701,6 +109701,20 @@
     "fuente": "EMSC",
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261128_0000099",
     "fecha_primera_recepcion": "2026-11-28T05:16:28.100583+00:00",
-    "fecha_ultima_observacion": "2026-11-28T05:26:06.252352+00:00"
+    "fecha_ultima_observacion": "2026-11-28T05:31:32.080080+00:00"
+  },
+  "USGS:aka2026xnubpo": {
+    "id": "aka2026xnubpo",
+    "fecha_hora_utc": "2026-11-28T05:24:12.195000+00:00",
+    "magnitud": 2.8,
+    "profundidad_km": 73.3,
+    "latitud": 55.573,
+    "longitud": -155.284,
+    "pais": "",
+    "ciudad_referencia": "167 km SSW of Akhiok, Alaska",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xnubpo",
+    "fecha_primera_recepcion": "2026-11-28T05:31:32.080080+00:00",
+    "fecha_ultima_observacion": "2026-11-28T05:31:32.080080+00:00"
   }
 }
