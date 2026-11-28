@@ -1,15 +1,15 @@
 {
   "estado": "OK",
-  "actualizado_utc": "2026-11-28T00:26:30.656837+00:00",
+  "actualizado_utc": "2026-11-28T00:31:17.671213+00:00",
   "periodo_mundial_dias": 10,
   "igp_historico": 145,
   "actualizacion_minutos": 5,
   "igp": 145,
-  "emsc": 2290,
-  "usgs": 500,
-  "duplicados_eliminados": 443,
-  "eventos_publicados": 2492,
-  "evento_mas_reciente_utc": "2026-11-28T00:01:29.482648+00:00",
+  "emsc": 2292,
+  "usgs": 501,
+  "duplicados_eliminados": 444,
+  "eventos_publicados": 2494,
+  "evento_mas_reciente_utc": "2026-11-28T00:18:30+00:00",
   "salud_fuentes": {
     "igp": {
       "estado_fuente": "DISPONIBLE",
@@ -18,25 +18,25 @@
       "eventos_recibidos": 30,
       "invalidos_rechazados": 0,
       "evento_mas_reciente_utc": "2026-11-26T03:16:21+00:00",
-      "antiguedad_evento_mas_reciente_min": 2710.2
+      "antiguedad_evento_mas_reciente_min": 2714.9
     },
     "emsc": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 2290,
-      "eventos_recibidos": 2292,
+      "eventos_validos": 2292,
+      "eventos_recibidos": 2294,
       "invalidos_rechazados": 2,
-      "evento_mas_reciente_utc": "2026-11-28T00:01:29.482648+00:00",
-      "antiguedad_evento_mas_reciente_min": 25.0
+      "evento_mas_reciente_utc": "2026-11-28T00:18:30+00:00",
+      "antiguedad_evento_mas_reciente_min": 12.8
     },
     "usgs": {
       "estado_fuente": "DISPONIBLE",
       "actividad": "EVENTO_RECIENTE",
-      "eventos_validos": 500,
-      "eventos_recibidos": 503,
+      "eventos_validos": 501,
+      "eventos_recibidos": 504,
       "invalidos_rechazados": 3,
-      "evento_mas_reciente_utc": "2026-11-28T00:01:29.482000+00:00",
-      "antiguedad_evento_mas_reciente_min": 25.0
+      "evento_mas_reciente_utc": "2026-11-28T00:06:03.820000+00:00",
+      "antiguedad_evento_mas_reciente_min": 25.2
     }
   },
   "ultimo_evento": {
@@ -53,36 +53,36 @@
       "url": "https://ultimosismo.igp.gob.pe/evento/2026-835"
     },
     "emsc": {
-      "id": "20261128_0000001",
-      "fecha_hora_utc": "2026-11-28T00:01:29.482648+00:00",
-      "magnitud": 3.1,
-      "profundidad_km": 6.8,
-      "latitud": 29.111,
-      "longitud": -97.769,
+      "id": "20261128_0000004",
+      "fecha_hora_utc": "2026-11-28T00:18:30+00:00",
+      "magnitud": 2.8,
+      "profundidad_km": 30.0,
+      "latitud": 12.561,
+      "longitud": -87.947,
       "pais": "",
-      "ciudad_referencia": "SOUTHERN TEXAS",
+      "ciudad_referencia": "NEAR COAST OF NICARAGUA",
       "fuente": "EMSC",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261128_0000001"
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261128_0000004"
     },
     "usgs": {
-      "id": "tx2026xjpkqg",
-      "fecha_hora_utc": "2026-11-28T00:01:29.482000+00:00",
-      "magnitud": 3.1,
-      "profundidad_km": 6.8255,
-      "latitud": 29.111,
-      "longitud": -97.769,
+      "id": "pr71540248",
+      "fecha_hora_utc": "2026-11-28T00:06:03.820000+00:00",
+      "magnitud": 3.16,
+      "profundidad_km": 23.38,
+      "latitud": 19.091,
+      "longitud": -66.4423333333333,
       "pais": "",
-      "ciudad_referencia": "17 km S of Nixon, Texas",
+      "ciudad_referencia": "69 km N of Tierras Nuevas Poniente, Puerto Rico",
       "fuente": "USGS",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026xjpkqg"
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71540248"
     }
   },
   "auditoria": {
     "catalogo_emsc": "EMSC-RTS",
     "eventos_rechazados_registrados": 0,
-    "hora_consulta_utc": "2026-11-28T00:26:30.656837+00:00"
+    "hora_consulta_utc": "2026-11-28T00:31:17.671213+00:00"
   },
   "status": "OK",
-  "updated_utc": "2026-11-28T00:26:30.656837+00:00",
-  "combined_after_dedup": 2492
+  "updated_utc": "2026-11-28T00:31:17.671213+00:00",
+  "combined_after_dedup": 2494
 }
