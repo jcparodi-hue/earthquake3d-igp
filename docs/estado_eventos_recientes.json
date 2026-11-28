@@ -105809,7 +105809,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-835",
     "fecha_primera_recepcion": "2026-11-26T04:31:36.027103+00:00",
-    "fecha_ultima_observacion": "2026-11-28T02:36:11.267067+00:00"
+    "fecha_ultima_observacion": "2026-11-28T02:41:13.258269+00:00"
   },
   "USGS:us6000udki": {
     "id": "us6000udki",
@@ -109408,5 +109408,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261128_0000046",
     "fecha_primera_recepcion": "2026-11-28T02:36:11.267067+00:00",
     "fecha_ultima_observacion": "2026-11-28T02:36:11.267067+00:00"
+  },
+  "EMSC:20261128_0000049": {
+    "id": "20261128_0000049",
+    "fecha_hora_utc": "2026-11-28T02:29:34+00:00",
+    "magnitud": 3.4,
+    "profundidad_km": 217.3,
+    "latitud": -23.92,
+    "longitud": -67.68,
+    "pais": "",
+    "ciudad_referencia": "ANTOFAGASTA, CHILE",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261128_0000049",
+    "fecha_primera_recepcion": "2026-11-28T02:41:13.258269+00:00",
+    "fecha_ultima_observacion": "2026-11-28T02:41:13.258269+00:00"
+  },
+  "USGS:us6000ue1h": {
+    "id": "us6000ue1h",
+    "fecha_hora_utc": "2026-11-28T02:25:05.520000+00:00",
+    "magnitud": 5.2,
+    "profundidad_km": 174.617,
+    "latitud": -24.299,
+    "longitud": -67.2363,
+    "pais": "",
+    "ciudad_referencia": "93 km W of San Antonio de los Cobres, Argentina",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ue1h",
+    "fecha_primera_recepcion": "2026-11-28T02:41:13.258269+00:00",
+    "fecha_ultima_observacion": "2026-11-28T02:41:13.258269+00:00"
   }
 }
