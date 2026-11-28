@@ -110317,7 +110317,7 @@
     "fuente": "IGP",
     "url": "https://ultimosismo.igp.gob.pe/evento/2026-837",
     "fecha_primera_recepcion": "2026-11-28T13:31:04.405458+00:00",
-    "fecha_ultima_observacion": "2026-11-28T19:26:28.574019+00:00"
+    "fecha_ultima_observacion": "2026-11-28T19:31:16.285895+00:00"
   },
   "EMSC:20261128_0000187": {
     "id": "20261128_0000187",
@@ -110822,5 +110822,33 @@
     "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261128_0000300",
     "fecha_primera_recepcion": "2026-11-28T19:26:28.574019+00:00",
     "fecha_ultima_observacion": "2026-11-28T19:26:28.574019+00:00"
+  },
+  "EMSC:20261128_0000303": {
+    "id": "20261128_0000303",
+    "fecha_hora_utc": "2026-11-28T19:27:26.550000+00:00",
+    "magnitud": 2.5,
+    "profundidad_km": 12.4,
+    "latitud": 33.847,
+    "longitud": -118.478,
+    "pais": "",
+    "ciudad_referencia": "SANTA MONICA BAY, CALIFORNIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261128_0000303",
+    "fecha_primera_recepcion": "2026-11-28T19:31:16.285895+00:00",
+    "fecha_ultima_observacion": "2026-11-28T19:31:16.285895+00:00"
+  },
+  "USGS:ci41581488": {
+    "id": "ci41581488",
+    "fecha_hora_utc": "2026-11-28T19:27:26.550000+00:00",
+    "magnitud": 2.54,
+    "profundidad_km": 12.42,
+    "latitud": 33.847,
+    "longitud": -118.478,
+    "pais": "",
+    "ciudad_referencia": "7 km WSW of Hermosa Beach, CA",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41581488",
+    "fecha_primera_recepcion": "2026-11-28T19:31:16.285895+00:00",
+    "fecha_ultima_observacion": "2026-11-28T19:31:16.285895+00:00"
   }
 }
