@@ -110304,5 +110304,47 @@
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xojzae",
     "fecha_primera_recepcion": "2026-11-28T13:26:14.764210+00:00",
     "fecha_ultima_observacion": "2026-11-28T13:26:14.764210+00:00"
+  },
+  "IGP:2026-837": {
+    "id": "2026-837",
+    "fecha_hora_utc": "2026-11-28T13:11:25+00:00",
+    "magnitud": 3.9,
+    "profundidad_km": 37.0,
+    "latitud": -14.41,
+    "longitud": -76.22,
+    "pais": "Perú",
+    "ciudad_referencia": "65 km al SO de Ica, Ica - Ica",
+    "fuente": "IGP",
+    "url": "https://ultimosismo.igp.gob.pe/evento/2026-837",
+    "fecha_primera_recepcion": "2026-11-28T13:31:04.405458+00:00",
+    "fecha_ultima_observacion": "2026-11-28T13:31:04.405458+00:00"
+  },
+  "EMSC:20261128_0000187": {
+    "id": "20261128_0000187",
+    "fecha_hora_utc": "2026-11-28T13:26:19.130000+00:00",
+    "magnitud": 2.6,
+    "profundidad_km": 100.0,
+    "latitud": 46.627,
+    "longitud": 13.3726,
+    "pais": "",
+    "ciudad_referencia": "AUSTRIA",
+    "fuente": "EMSC",
+    "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=20261128_0000187",
+    "fecha_primera_recepcion": "2026-11-28T13:31:04.405458+00:00",
+    "fecha_ultima_observacion": "2026-11-28T13:31:04.405458+00:00"
+  },
+  "USGS:hv75077467": {
+    "id": "hv75077467",
+    "fecha_hora_utc": "2026-11-28T13:23:18.530000+00:00",
+    "magnitud": 3.03,
+    "profundidad_km": 104.860000610352,
+    "latitud": 20.3696670532227,
+    "longitud": -156.121826171875,
+    "pais": "",
+    "ciudad_referencia": "33 km WNW of Hāwī, Hawaii",
+    "fuente": "USGS",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75077467",
+    "fecha_primera_recepcion": "2026-11-28T13:31:04.405458+00:00",
+    "fecha_ultima_observacion": "2026-11-28T13:31:04.405458+00:00"
   }
 }
